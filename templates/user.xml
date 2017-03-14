@@ -5,4 +5,14 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="g" value="get$SELECTION$()" description="surround getter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="s" value="set$SELECTION$($END$)" description="surround setter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
