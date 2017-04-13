@@ -13,7 +13,11 @@
         <mark key="." line="31" column="37" />
         <mark key="^" line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" timestamp="1492077502408">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" timestamp="1492077731530">
+        <mark key="'" line="46" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" timestamp="1492077657404">
+        <mark key="'" line="222" column="8" />
         <mark key="[" line="226" column="0" />
         <mark key="]" line="226" column="0" />
         <mark key="^" line="34" column="25" />
@@ -25,6 +29,18 @@
       <jump line="43" column="52" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
       <jump line="31" column="4" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
+      <jump line="226" column="39" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" />
+      <jump line="225" column="19" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" />
+      <jump line="222" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" />
+      <jump line="2" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="51" column="11" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="55" column="30" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="52" column="15" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="56" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="19" column="28" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="44" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="45" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
+      <jump line="46" column="23" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -42,12 +58,23 @@
       <register name="2" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIENhY2hlTWFuYWdlciB7Cg==</text>
       </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjYWNoZVR5cGVcPg==</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxjYWNoZVR5cGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjYWNoZVR5cGVcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxDYWNoZVR5cGVFbnVtXD4=</entry>
+        <entry encoding="base64">XDxjYWNoZVR5cGVcPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
@@ -80,10 +107,16 @@
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
