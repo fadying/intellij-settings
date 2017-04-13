@@ -59,13 +59,13 @@
         <text encoding="base64">cHVibGljIGNsYXNzIENhY2hlTWFuYWdlciB7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWNoZVR5cGVcPg==</text>
+        <text>todo</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWNoZVR5cGVcPg==</last-search>
+      <last-search>todo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWNoZVR5cGVcPg==</last-pattern>
+      <last-pattern>todo</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -73,6 +73,7 @@
       <history-search>
         <entry encoding="base64">XDxDYWNoZVR5cGVFbnVtXD4=</entry>
         <entry encoding="base64">XDxjYWNoZVR5cGVcPg==</entry>
+        <entry>todo</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
@@ -85,7 +86,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
