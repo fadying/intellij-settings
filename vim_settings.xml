@@ -48,7 +48,7 @@
         <mark key="." line="36" column="45" />
         <mark key="^" line="36" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/java/com/ctrip/hotel/search/data/SearchConfigBuilderTest.java" timestamp="1492420554453">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/java/com/ctrip/hotel/search/data/SearchConfigBuilderTest.java" timestamp="1492420574082">
         <mark key="[" line="66" column="75" />
         <mark key="]" line="66" column="92" />
       </file>
@@ -80,7 +80,7 @@
         <mark key="^" line="86" column="24" />
         <mark key="." line="86" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492419512452">
+      <file name="/Dummy.txt" timestamp="1492421793005">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -118,11 +118,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" timestamp="1492420367297">
-        <mark key="[" line="48" column="101" />
-        <mark key="]" line="48" column="135" />
-        <mark key="^" line="48" column="135" />
-        <mark key="." line="48" column="135" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" timestamp="1492421572965">
+        <mark key="[" line="49" column="20" />
+        <mark key="]" line="49" column="17" />
+        <mark key="^" line="49" column="17" />
+        <mark key="." line="49" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492417649186">
         <mark key="[" line="3190" column="928" />
@@ -158,6 +158,13 @@
         <mark key="." line="30" column="69" />
         <mark key="^" line="30" column="69" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/ConverterHelper.java" timestamp="1492421748956">
+        <mark key="'" line="145" column="25" />
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="26" />
+        <mark key="." line="49" column="26" />
+        <mark key="^" line="48" column="49" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelUsedNamesBusiness.java" timestamp="1492086814706">
         <mark key="'" line="45" column="25" />
         <mark key="[" line="45" column="120" />
@@ -165,14 +172,14 @@
         <mark key="^" line="45" column="9" />
         <mark key="." line="45" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1492420492050">
-        <mark key="[" line="0" column="40" />
-        <mark key="]" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+      <file name="/fragment.java" timestamp="1492421671933">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
       <jump line="82" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
       <jump line="84" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
       <jump line="86" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
@@ -272,19 +279,20 @@
       <jump line="28" column="50" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
       <jump line="223" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
       <jump line="218" column="27" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
+      <jump line="144" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/ConverterHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.getIsWriteLogToRedis()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KGJvb2xlYW4uY2xhc3MsIG5ldyBCb29sQ29udmVydGVyKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.getIsWriteLogToRedis()</text>
+        <text>.containsKey(destClass)</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
       </register>
-      <register name="0" type="4">
-        <text>IsWriteLogToRedis(</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb252ZXJ0ZXJNYXAucHV0KGJvb2xlYW4uY2xhc3MsIG5ldyBCb29sQ29udmVydGVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
