@@ -29,6 +29,12 @@
         <mark key="." line="48" column="65" />
         <mark key="^" line="48" column="65" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492420450596">
+        <mark key="[" line="14151" column="5" />
+        <mark key="]" line="14153" column="3" />
+        <mark key="." line="14153" column="3" />
+        <mark key="^" line="14153" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/test/java/com/ctrip/hotel/search/caches/test/ClassScannerTest.java" timestamp="1492087865650">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="41" />
@@ -41,6 +47,10 @@
         <mark key="]" line="36" column="45" />
         <mark key="." line="36" column="45" />
         <mark key="^" line="36" column="48" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/java/com/ctrip/hotel/search/data/SearchConfigBuilderTest.java" timestamp="1492420554453">
+        <mark key="[" line="66" column="75" />
+        <mark key="]" line="66" column="92" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/redis/CRedisBaseDao.java" timestamp="1492083690171">
         <mark key="'" line="53" column="0" />
@@ -70,7 +80,7 @@
         <mark key="^" line="86" column="24" />
         <mark key="." line="86" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492415614080">
+      <file name="/Dummy.txt" timestamp="1492419512452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -108,11 +118,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" timestamp="1492418692975">
-        <mark key="[" line="48" column="66" />
-        <mark key="]" line="48" column="100" />
-        <mark key="^" line="48" column="100" />
-        <mark key="." line="48" column="100" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" timestamp="1492420367297">
+        <mark key="[" line="48" column="101" />
+        <mark key="]" line="48" column="135" />
+        <mark key="^" line="48" column="135" />
+        <mark key="." line="48" column="135" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492417649186">
         <mark key="[" line="3190" column="928" />
@@ -155,8 +165,10 @@
         <mark key="^" line="45" column="9" />
         <mark key="." line="45" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1492414135158">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1492420492050">
+        <mark key="[" line="0" column="40" />
+        <mark key="]" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
     </filemarks>
     <jumps>
@@ -263,48 +275,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2U=</text>
+        <text>.getIsWriteLogToRedis()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2U=</text>
+        <text>.getIsWriteLogToRedis()</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGFwcGVuZGVyIG5hbWU9InN0ZG91dCIgdGFyZ2V0PSJTeXN0ZW0ub3V0IiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5Db25zb2xlQXBwZW5kZXIiPgoJCTxlbmNvZGVyPgoJCQk8cGF0dGVybj5bJXBdWyVke01NLWRkIEhIOm1tOnNzLlNTU31dWyV0XVslYzolTF0tJW0lbjwvcGF0dGVybj4KCQk8L2VuY29kZXI+Cgk8L2FwcGVuZGVyPg==</text>
+        <text>IsWriteLogToRedis(</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5jdHJpcC5ob3RlbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aG90ZWwtcHJvZHVjdC1zZWFyY2gtY29uZmlndXJhdGlvbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpZWxkSW5mby5nZXRTZXRNZXRob2QoKS5pbnZva2UobmV3SW5zdGFuY2UsIG5ld1ZhbCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIltbc2V0Q29uZmlnXV0gU2V0Q29uZmlnTWFwLC0gZmllbGQ9e30gPT4gdmFsdWU6XCJ7fVwiIiwgb25lRmllbGQuZ2V0TmFtZSgpLCBTdHJpbmcudmFsdWVPZihuZXdWYWwpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGZpZWxkSW5mby5pc1B1YmxpY0ZpZWxkKCkpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gsLTI1cbaus2089Chx/i31rXEufa2r8jV1r4gICjOxLz+tPPQobLfwtS9+NDQzsS8/srks/ajrLOsuf3WuLaotPPQobbUzsS8/rG4t90pIC0tPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY2VudHJhbExvZ2dpbmciIC8+Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgZmllbGRJbmZvLmdldFNldE1ldGhvZCgpLmludm9rZShjb25maWcsIG5ld1ZhbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iYXJ0ZW1pcy5jbGllbnQuc29hLnNlcnZpY2UiICBsZXZlbD0id2FybmluZyIvPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgIC0tPgogICAgPCEtLSBGb3IgbG9nZ2VycyBpbiB0aGUgdGhlc2UgbmFtZXNwYWNlcywgbG9nIGF0IGFsbCBsZXZlbHMuCiAgICA8bG9nZ2VyIG5hbWU9InBlZGVzdGFsIiBsZXZlbD0iQUxMIiAvPgogICAgPGxvZ2dlciBuYW1lPSJoYW1tb2NrLWNhZmUiIGxldmVsPSJBTEwiIC8+CiAgICA8bG9nZ2VyIG5hbWU9InVzZXIiIGxldmVsPSJBTEwiIC8+CiAgICAtLT4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBpZiAoZmllbGRJbmZvLmdldFNldE1ldGhvZCgpID09IG51bGwpIHsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICA8YXBwZW5kZXIgbmFtZT0ic3Rkb3V0IiB0YXJnZXQ9IlN5c3RlbS5vdXQiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslcF1bJWR7TU0tZGQgSEg6bW06c3MuU1NTfV1bJXRdWyVjOiVMXS0lbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgIDwvYXBwZW5kZXI+CgogICAgPCEtLSCwtMjVxtq6zbTz0KHH+LfWtcS59ravyNXWviAgKM7EvP6089Chst/C1L340NDOxLz+yuSz9qOss6y5/da4tqi089ChttTOxLz+sbi33SkgLS0+CiAgICA8cm9vdCBsZXZlbD0iSU5GTyI+CiAgICAgICAgPGFwcGVuZGVyLXJlZiByZWY9ImNlbnRyYWxMb2dnaW5nIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJzdGRvdXQiIC8+CiAgICA8L3Jvb3Q+CiAgICA8IS0tCiAgICAtLT4KICAgIDwhLS0gRm9yIGxvZ2dlcnMgaW4gdGhlIHRoZXNlIG5hbWVzcGFjZXMsIGxvZyBhdCBhbGwgbGV2ZWxzLgogICAgPGxvZ2dlciBuYW1lPSJwZWRlc3RhbCIgbGV2ZWw9IkFMTCIgLz4KICAgIDxsb2dnZXIgbmFtZT0iaGFtbW9jay1jYWZlIiBsZXZlbD0iQUxMIiAvPgogICAgPGxvZ2dlciBuYW1lPSJ1c2VyIiBsZXZlbD0iQUxMIiAvPgogICAgLS0+CiAgICA8bG9nZ2VyIG5hbWU9ImFydGVtaXMuY2xpZW50LnNvYS5zZXJ2aWNlIiAgbGV2ZWw9Indhcm5pbmciLz4K</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CiAgICA8YXBwZW5kZXIgbmFtZT0ic3Rkb3V0IiB0YXJnZXQ9IlN5c3RlbS5vdXQiIGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLkNvbnNvbGVBcHBlbmRlciI+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslcF1bJWR7TU0tZGQgSEg6bW06c3MuU1NTfV1bJXRdWyVjOiVMXS0lbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgIDwvYXBwZW5kZXI+CgogICAgPCEtLSCwtMjVxtq6zbTz0KHH+LfWtcS59ravyNXWviAgKM7EvP6089Chst/C1L340NDOxLz+yuSz9qOss6y5/da4tqi089ChttTOxLz+sbi33SkgLS0+CiAgICA8cm9vdCBsZXZlbD0iSU5GTyI+CiAgICAgICAgPGFwcGVuZGVyLXJlZiByZWY9ImNlbnRyYWxMb2dnaW5nIiAvPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJzdGRvdXQiIC8+CiAgICA8L3Jvb3Q+CiAgICA8IS0tCiAgICAtLT4KICAgIDwhLS0gRm9yIGxvZ2dlcnMgaW4gdGhlIHRoZXNlIG5hbWVzcGFjZXMsIGxvZyBhdCBhbGwgbGV2ZWxzLgogICAgPGxvZ2dlciBuYW1lPSJwZWRlc3RhbCIgbGV2ZWw9IkFMTCIgLz4KICAgIDxsb2dnZXIgbmFtZT0iaGFtbW9jay1jYWZlIiBsZXZlbD0iQUxMIiAvPgogICAgPGxvZ2dlciBuYW1lPSJ1c2VyIiBsZXZlbD0iQUxMIiAvPgogICAgLS0+CiAgICA8bG9nZ2VyIG5hbWU9ImFydGVtaXMuY2xpZW50LnNvYS5zZXJ2aWNlIiAgbGV2ZWw9Indhcm5pbmciLz4KPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgIEBDb25mKGRlc2NyaXB0aW9uID0gIsrHt/HX31ZDQ73hy+O3v9DNwt+8rSIpIHByaXZhdGUgYm9vbGVhbiBpc09wZXJhdGVWY2NSb29tID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/int/Integer</text>
