@@ -141,8 +141,14 @@
         <mark key="]" line="358" column="36" />
         <mark key="." line="358" column="36" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1492510939689" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1492519779338" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/hotelstaticinfo/newpromote/MemberPromotionEntity.java" timestamp="1492508112277" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterHelper.java" timestamp="1492520255996">
+        <mark key="[" line="719" column="0" />
+        <mark key="]" line="719" column="0" />
+        <mark key="^" line="719" column="4" />
+        <mark key="." line="719" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/JsonCompareUtilTest.java" timestamp="1492507326476">
         <mark key="'" line="40" column="19" />
         <mark key="[" line="37" column="10" />
@@ -277,7 +283,7 @@
         <mark key="^" line="12" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0-sources.jar!/org/skyscreamer/jsonassert/JSONCompare.java" timestamp="1492504280513" />
-      <file name="/Dummy.txt" timestamp="1492512394851">
+      <file name="/Dummy.txt" timestamp="1492519662353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -417,7 +423,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QENvbXBvbmVudCBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIikg</text>
@@ -429,34 +435,34 @@
         <text>VendorPromotionBusiness</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIFZlbmRvclByb21vdGlvbkJ1c2luZXNzIHZlbmRvclByb21vdGlvbkJ1c2luZXNzOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudCBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIikgcHVibGljIGNsYXNzIFZlbmRvclByb21vdGlvblByb2Nlc3MgaW1wbGVtZW50cyBJU2VhcmNoUHJpY2VQcm9jZXNzIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgID0gdmVuZG9yUHJvbW90aW9uQnVzaW5lc3MuZ2V0QWxsRGF0YSgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBNYXA8SW50ZWdlciwgUmF0ZUNvZGVWZW5kb3JNZW1iZXJQcm9tb3Rpb25JbmZvPiBjYWNoZSA9IHZlbmRvclByb21vdGlvbkJ1c2luZXNzLmdldEFsbERhdGEoKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QFNjb3BlKCJwcm90b3R5cGUiKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIFZlbmRvclByb21vdGlvbkJ1c2luZXNzIHZlbmRvclByb21vdGlvbkJ1c2luZXNzOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QENvbXBvbmVudCBAU2NvcGUodmFsdWUgPSAicHJvdG90eXBlIikgcHVibGljIGNsYXNzIFZlbmRvclByb21vdGlvblByb2Nlc3MgaW1wbGVtZW50cyBJU2VhcmNoUHJpY2VQcm9jZXNzIHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgID0gdmVuZG9yUHJvbW90aW9uQnVzaW5lc3MuZ2V0QWxsRGF0YSgpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBNYXA8SW50ZWdlciwgUmF0ZUNvZGVWZW5kb3JNZW1iZXJQcm9tb3Rpb25JbmZvPiBjYWNoZSA9IHZlbmRvclByb21vdGlvbkJ1c2luZXNzLmdldEFsbERhdGEoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QFNjb3BlKCJwcm90b3R5cGUiKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIEFwcGxpY2F0aW9uQ29udGV4dCBjdHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9IFJlc291cmNlcy50b1N0cmluZyhSZXNvdXJjZXMuZ2V0UmVzb3VyY2UoImEuanNvbiIpLCBDaGFyc2V0cy5VVEZfOCk7CiAgICAgICAgU3RyaW5nIGIgPSBSZXNvdXJjZXMudG9TdHJpbmcoUmVzb3VyY2VzLmdldFJlc291cmNlKCJiLmpzb24iKSwgQ2hhcnNldHMuVVRGXzgpOwo=</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIEFwcGxpY2F0aW9uQ29udGV4dCBjdHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/sheng.web/sheng.test.web/</text>
