@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" timestamp="1492428854516">
+        <mark key="[" line="122" column="16" />
+        <mark key="]" line="122" column="16" />
+        <mark key="." line="122" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterFactory.java" timestamp="1492504926729">
         <mark key="'" line="51" column="8" />
         <mark key="[" line="64" column="0" />
@@ -153,6 +158,16 @@
         <mark key="^" line="49" column="7" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/redis/ShardRedisBaseDao.java" timestamp="1492432729896">
+        <mark key="[" line="83" column="8" />
+        <mark key="]" line="83" column="8" />
+        <mark key="." line="83" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/roomticketgiftsservice/RoomTicketGiftsBusinessDataService.java" timestamp="1492486645668">
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="0" />
+        <mark key="." line="250" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/common/TimeRangeBitMap.java" timestamp="1492424227993">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="30" />
@@ -290,6 +305,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/DiffScore.java" timestamp="1492505207598">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="128" column="74" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/webapp/cacheManage.jsp" />
@@ -395,7 +415,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdGVsU2VxdWVuY2VTY29yZSA9IGN0eC5nZXRCZWFuKERpZmZTY29yZS5jbGFzcywgIkhvdGVsU2VxdWVuY2VTY29yZSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRQcmlvcml0eShTdHJpbmcgdmFsdWUpIHsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">SGFzaE1hcDxTZWFyY2hTb3J0TmFtZSwgSVNjb3JlU2V0dGVyPiA=</text>
@@ -407,34 +427,34 @@
         <text encoding="base64">ZSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdGVsU2VxdWVuY2VTY29yZSA9IGN0eC5nZXRCZWFuKERpZmZTY29yZS5jbGFzcywgIkhvdGVsU2VxdWVuY2VTY29yZSIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzZXRQcmlvcml0eShTdHJpbmcgdmFsdWUpIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcG9pbnRSYW5rID0gY3R4LmdldEJlYW4oRGlmZlNjb3JlLmNsYXNzLCAiQXBwb2ludFJhbmsiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdGVsU2VxdWVuY2VTY29yZSA9IGN0eC5nZXRCZWFuKERpZmZTY29yZS5jbGFzcywgIkhvdGVsU2VxdWVuY2VTY29yZSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcG9pbnRSYW5rID0gY3R4LmdldEJlYW4oRGlmZlNjb3JlLmNsYXNzLCAiQXBwb2ludFJhbmsiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFNlYXJjaFNvcnROYW1lLCBJU2NvcmVTZXR0ZXI+IG1hcCA9IG5ldyBIYXNoTWFwPFNlYXJjaFNvcnROYW1lLCBJU2NvcmVTZXR0ZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljIFNjb3JlU2V0dGVyRmFjdG9yeSBJbnN0YW5jZSB7IGdldCB7IHJldHVybiBsYXp5LlZhbHVlOyB9IH0K</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFNlYXJjaFNvcnROYW1lLCBJU2NvcmVTZXR0ZXI+IG1hcCA9IG5ldyBIYXNoTWFwPFNlYXJjaFNvcnROYW1lLCBJU2NvcmVTZXR0ZXI+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vc3RhdGljIFNjb3JlU2V0dGVyRmFjdG9yeSBJbnN0YW5jZSB7IGdldCB7IHJldHVybiBsYXp5LlZhbHVlOyB9IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljIHJlYWRvbmx5IExhenk8U2NvcmVTZXR0ZXJGYWN0b3J5PiBsYXp5ID0gbmV3IExhenk8U2NvcmVTZXR0ZXJGYWN0b3J5PigoKSA9PiBuZXcgU2NvcmVTZXR0ZXJGYWN0b3J5KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcG9pbnRSYW5rID0gY3R4LmdldEJlYW4oU2ltcGxlRGlmZlNjb3JlLmNsYXNzLCAiQXBwb2ludFJhbmsiKTsK</text>
+        <text encoding="base64">ICAgIC8vc3RhdGljIHJlYWRvbmx5IExhenk8U2NvcmVTZXR0ZXJGYWN0b3J5PiBsYXp5ID0gbmV3IExhenk8U2NvcmVTZXR0ZXJGYWN0b3J5PigoKSA9PiBuZXcgU2NvcmVTZXR0ZXJGYWN0b3J5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvdGVsU2VxdWVuY2VTY29yZSA9IGN0eC5nZXRCZWFuKFNpbXBsZURpZmZTY29yZS5jbGFzcywgIkhvdGVsU2VxdWVuY2VTY29yZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcG9pbnRSYW5rID0gY3R4LmdldEJlYW4oU2ltcGxlRGlmZlNjb3JlLmNsYXNzLCAiQXBwb2ludFJhbmsiKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL21hcC9fc2V0dGVyTWFwLw==</text>
