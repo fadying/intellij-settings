@@ -145,12 +145,6 @@
         <mark key="^" line="86" column="46" />
         <mark key="." line="86" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelOptionalRelationBusinessV2.java" timestamp="1492493304176">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="^" line="238" column="36" />
-        <mark key="." line="240" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/TopSorter.java" timestamp="1492432895551">
         <mark key="[" line="107" column="53" />
         <mark key="]" line="107" column="57" />
@@ -258,11 +252,10 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="52" column="92" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftsBusinessService.java" timestamp="1492494241808">
-        <mark key="[" line="337" column="12" />
-        <mark key="]" line="337" column="36" />
-        <mark key="." line="337" column="36" />
-        <mark key="^" line="337" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftsBusinessService.java" timestamp="1492494947050">
+        <mark key="[" line="328" column="20" />
+        <mark key="]" line="328" column="20" />
+        <mark key="." line="328" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/ConverterHelper.java" timestamp="1492421748956">
         <mark key="'" line="145" column="25" />
@@ -401,8 +394,8 @@
       <jump line="643" column="30" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/ScoreSetterHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgaG90ZWxNZXRyb1N0YXRpb25FbnRpdHkgPSBudWxsOwo=</text>
+      <register name="&quot;" type="8">
+        <text>roomTicketGiftInfoDataBusinessInstance</text>
       </register>
       <register name="-" type="4">
         <text>HotelMetroStationEntity</text>
@@ -413,37 +406,35 @@
       <register name="0" type="4">
         <text>hotelMetroStationEntity</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgaG90ZWxNZXRyb1N0YXRpb25FbnRpdHkgPSBudWxsOwo=</text>
+      <register name="1" type="8">
+        <text>roomTicketGiftInfoDataBusinessInstance</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUm9vbVRpY2tldEdpZnRJbmZvRW50aXR5IHJvb21UaWNrZXRHaWZ0SW5mb0VudGl0eSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgaG90ZWxNZXRyb1N0YXRpb25FbnRpdHkgPSBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2FjaGUuaXNVc2VDdXN0b21TZXJpYWxpemVyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFjayA9IAogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9vbVRpY2tldEdpZnRJbmZvRW50aXR5IHJvb21UaWNrZXRHaWZ0SW5mb0VudGl0eSA9IG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2FjaGUuaXNVc2VDdXN0b21TZXJpYWxpemVyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFjayA9IERlc2VyaWFsaXplYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2FjaGUuaXNVc2VDdXN0b21TZXJpYWxpemVyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFjayA9IAogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHRTZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoY2FjaGUuaXNVc2VDdXN0b21TZXJpYWxpemVyKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFjayA9IERlc2VyaWFsaXplYwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoT3B0aW9uYWxSZWxhdGlvbiAhPSBudWxsICYmIE9wdGlvbmFsUmVsYXRpb24uc2l6ZSgpID4gMCAmJiBkaWMgIT0gbnVsbCAmJiBkaWMuc2l6ZSgpID4gMCkgewogICAgICAgICAgICBIYXNoU2V0PEludGVnZXI+IHJlc3VsdHNldCA9IGRpYy5nZXQocHJvZHVjdElkKTsKICAgICAgICAgICAgaWYgKHJlc3VsdHNldCAhPSBudWxsICYmIHJlc3VsdHNldC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0c2V0OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHRTZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjYWNoZURhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoT3B0aW9uYWxSZWxhdGlvbiAhPSBudWxsICYmIE9wdGlvbmFsUmVsYXRpb24uc2l6ZSgpID4gMCAmJiBkaWMgIT0gbnVsbCAmJiBkaWMuc2l6ZSgpID4gMCkgewogICAgICAgICAgICBIYXNoU2V0PEludGVnZXI+IHJlc3VsdHNldCA9IGRpYy5nZXQocHJvZHVjdElkKTsKICAgICAgICAgICAgaWYgKHJlc3VsdHNldCAhPSBudWxsICYmIHJlc3VsdHNldC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gcmVzdWx0c2V0OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBjYWNoZURhdGE7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>DateCommonUtils.get(currentDateTime, Calendar.YEAR),
-                                DateCommonUtils.get(startDate[0], Calendar.MONTH),
-                                DateCommonUtils.get(startDate[0], Calendar.DAY_OF_MONTH)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB0YXJnZXQgPSBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/int/Integer</text>
