@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/SimpleHotelPriceScoreBase.java" timestamp="1492509359961">
+        <mark key="'" line="343" column="8" />
+        <mark key="[" line="1454" column="24" />
+        <mark key="]" line="1454" column="32" />
+        <mark key="^" line="1454" column="32" />
+        <mark key="." line="1454" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hoteloptional/HotelOptionalCacheManagerV3.java" timestamp="1492488603884">
         <mark key="'" line="70" column="16" />
         <mark key="[" line="96" column="0" />
@@ -110,6 +117,12 @@
         <mark key="^" line="151" column="87" />
         <mark key="." line="151" column="87" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/pricecomputer/PromotePrice.java" timestamp="1492509345768">
+        <mark key="[" line="130" column="64" />
+        <mark key="]" line="131" column="87" />
+        <mark key="^" line="131" column="87" />
+        <mark key="." line="131" column="87" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/java/com/ctrip/hotel/search/data/mapper/HotelPubDBMapper.java" timestamp="1492432017750" />
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/main/java/com/ouyangsheng/web/util/JsonCompareUtil.java" timestamp="1492505432485">
         <mark key="[" line="12" column="0" />
@@ -118,7 +131,7 @@
         <mark key="^" line="12" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/skyscreamer/jsonassert/1.5.0/jsonassert-1.5.0-sources.jar!/org/skyscreamer/jsonassert/JSONCompare.java" timestamp="1492504280513" />
-      <file name="/Dummy.txt" timestamp="1492507942843">
+      <file name="/Dummy.txt" timestamp="1492509069845">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
@@ -136,8 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="66" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/webapp/cacheManage.jsp" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageController.java" />
       <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageController.java" />
       <jump line="21" column="22" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageController.java" />
       <jump line="19" column="44" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageController.java" />
@@ -236,13 +247,15 @@
       <jump line="14" column="13" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/util/BitUtilTest.java" />
       <jump line="0" column="32" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/util/BitUtilTest.java" />
       <jump line="31" column="19" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/JsonCompareUtilTest.java" />
+      <jump line="319" column="49" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/SimpleHotelPriceScoreBase.java" />
+      <jump line="343" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/SimpleHotelPriceScoreBase.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>LimitedDaysReserveNewPromotionBusiness</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>LimitedDaysReserveNewPromotionBusiness</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
