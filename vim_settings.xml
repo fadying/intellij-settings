@@ -9,7 +9,9 @@
         <mark key="^" line="35" column="80" />
         <mark key="." line="35" column="80" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypes/WirelessSearch.java" timestamp="1492588813415" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1492589461313">
+        <mark key="'" line="126" column="33" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/component/placeholder/PlaceholderComponentTest.java" timestamp="1492505570764">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="27" />
@@ -22,20 +24,18 @@
         <mark key="^" line="37" column="80" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/FacadeExtendFunction.java" timestamp="1492592119143">
-        <mark key="[" line="542" column="88" />
-        <mark key="]" line="543" column="15" />
-        <mark key="." line="543" column="15" />
-        <mark key="^" line="543" column="15" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/PreferentialRateScore.java" timestamp="1492510459782">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="27" />
         <mark key="^" line="25" column="27" />
         <mark key="." line="25" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1492585476872">
-        <mark key="'" line="22" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/test.json" timestamp="1492596211161">
+        <mark key="'" line="484" column="0" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/dubbo/greeting/GreetingServiceTest.java" timestamp="1492506023332">
         <mark key="[" line="0" column="24" />
@@ -43,35 +43,14 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/FilterVendorRoomByDaysRange.java" timestamp="1492590976083">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="37" />
-        <mark key="^" line="29" column="37" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/simpleroomfilterrules/FilterVendorRoomByDaysRangeFilterSimple.java" timestamp="1492591002035">
-        <mark key="[" line="28" column="17" />
-        <mark key="]" line="28" column="117" />
-        <mark key="^" line="28" column="117" />
-        <mark key="." line="28" column="117" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1492585476872">
+        <mark key="'" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/pom.xml" timestamp="1492415528806">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="33" column="7" />
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="7" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/CouponAdInfo.java" timestamp="1492591705178">
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="86" column="115" />
-        <mark key="^" line="86" column="115" />
-        <mark key="." line="86" column="115" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" timestamp="1492592189265">
-        <mark key="'" line="767" column="14" />
-        <mark key="[" line="1010" column="70" />
-        <mark key="]" line="1010" column="70" />
-        <mark key="." line="1010" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/web/util/JsonCompareUtilTest.java" timestamp="1492505442085">
         <mark key="[" line="15" column="0" />
@@ -85,14 +64,14 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/LazyModeFilter.java" timestamp="1492591981667">
-        <mark key="." line="142" column="111" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterHelper.java" timestamp="1492520255996">
         <mark key="[" line="719" column="0" />
         <mark key="]" line="719" column="0" />
         <mark key="^" line="719" column="4" />
         <mark key="." line="719" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" timestamp="1492586801762">
+        <mark key="'" line="563" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/main/java/com/ouyangsheng/web/util/JsonCompareUtil.java" timestamp="1492505432485">
         <mark key="[" line="12" column="0" />
@@ -118,29 +97,23 @@
         <mark key="." line="107" column="57" />
         <mark key="^" line="107" column="57" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1492591890435">
+        <mark key="[" line="1002" column="12" />
+        <mark key="]" line="1002" column="14" />
+        <mark key="." line="1002" column="14" />
+        <mark key="^" line="1002" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/resources/b.json" timestamp="1492506402788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="^" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/ConfigConverter.java" timestamp="1492411699270">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492579493279">
-        <mark key="[" line="14151" column="5" />
-        <mark key="]" line="14153" column="3" />
-        <mark key="." line="14153" column="3" />
-        <mark key="^" line="14153" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/resources/logback.xml" timestamp="1492414757059">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="53" />
-        <mark key="." line="8" column="53" />
-        <mark key="^" line="8" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/CouponAdInfo.java" timestamp="1492591705178">
+        <mark key="[" line="86" column="16" />
+        <mark key="]" line="86" column="115" />
+        <mark key="^" line="86" column="115" />
+        <mark key="." line="86" column="115" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/annotations/Conf.java" timestamp="1492590615652">
         <mark key="[" line="22" column="4" />
@@ -148,7 +121,32 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/PublicParametersEntity.java" timestamp="1492587934650" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/ConfigConverter.java" timestamp="1492411699270">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="2" column="19" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492590679450">
+        <mark key="[" line="8009" column="40" />
+        <mark key="]" line="8109" column="67" />
+        <mark key="." line="8109" column="67" />
+        <mark key="^" line="8109" column="67" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/ProcessSearchRequest.java" timestamp="1492596142506" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/resources/logback.xml" timestamp="1492414757059">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" timestamp="1492592189265">
+        <mark key="'" line="767" column="14" />
+        <mark key="[" line="1010" column="70" />
+        <mark key="]" line="1010" column="70" />
+        <mark key="." line="1010" column="70" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/pagination/PaginationPreProcess.java" timestamp="1492594699925" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeyword.java" timestamp="1492509476570">
         <mark key="[" line="35" column="53" />
         <mark key="]" line="34" column="27" />
@@ -161,14 +159,18 @@
         <mark key="^" line="151" column="87" />
         <mark key="." line="151" column="87" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/CheckSearchRequestParameter.java" timestamp="1492587901992">
-        <mark key="'" line="149" column="65" />
-        <mark key="[" line="106" column="16" />
-        <mark key="]" line="106" column="19" />
-        <mark key="^" line="106" column="19" />
-        <mark key="." line="106" column="418" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/simpleroomfilterrules/FilterVendorRoomByDaysRangeFilterSimple.java" timestamp="1492591002035">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="117" />
+        <mark key="^" line="28" column="117" />
+        <mark key="." line="28" column="117" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/qunar/tc/qclient/qclient-database-common/1.6.11/qclient-database-common-1.6.11-sources.jar!/qunar/tc/qclient/db/common/config/DbType.java" timestamp="1492584525656" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/FilterVendorRoomByDaysRange.java" timestamp="1492590976083">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/ShardHotelScore.java" timestamp="1492510475542">
         <mark key="[" line="20" column="11" />
         <mark key="]" line="20" column="27" />
@@ -180,6 +182,12 @@
         <mark key="]" line="54" column="108" />
         <mark key="^" line="54" column="108" />
         <mark key="." line="54" column="108" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/FacadeExtendFunction.java" timestamp="1492592119143">
+        <mark key="[" line="542" column="88" />
+        <mark key="]" line="543" column="15" />
+        <mark key="." line="543" column="15" />
+        <mark key="^" line="543" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/common/TimeRangeBitMap.java" timestamp="1492424227993">
         <mark key="[" line="28" column="30" />
@@ -193,19 +201,23 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1492590679450">
-        <mark key="[" line="8009" column="40" />
-        <mark key="]" line="8109" column="67" />
-        <mark key="^" line="8109" column="67" />
-        <mark key="." line="8109" column="67" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/test/java/com/ctrip/hotel/search/caches/test/ClassScannerTest.java" timestamp="1492087865650">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="41" />
         <mark key="^" line="25" column="10" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetShadowRoomData.java" timestamp="1492591040680" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/LazyModeFilter.java" timestamp="1492591981667">
+        <mark key="." line="142" column="111" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" timestamp="1492592549083">
+        <mark key="'" line="135" column="108" />
+        <mark key="[" line="135" column="108" />
+        <mark key="]" line="135" column="108" />
+        <mark key="^" line="135" column="108" />
+        <mark key="." line="135" column="108" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/baijiservice/HotelProductSearchServiceBaijiImpl.java" timestamp="1492595842184" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/HotelOptionalEntity.java" timestamp="1492430318162">
         <mark key="[" line="419" column="28" />
         <mark key="]" line="419" column="35" />
@@ -218,8 +230,6 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="53" column="112" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/ParallelContext.java" timestamp="1492585906746" />
-      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java" timestamp="1492588030800" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/startup/WebServiceBootstrap.java" timestamp="1492579592092">
         <mark key="'" line="62" column="24" />
       </file>
@@ -228,23 +238,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" timestamp="1492586801762">
-        <mark key="'" line="563" column="47" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1492589461313">
-        <mark key="'" line="126" column="33" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/pom.xml" timestamp="1492506754062">
         <mark key="[" line="75" column="25" />
         <mark key="]" line="80" column="24" />
         <mark key="^" line="80" column="24" />
         <mark key="." line="80" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1492591890435">
-        <mark key="[" line="1002" column="12" />
-        <mark key="]" line="1002" column="14" />
-        <mark key="." line="1002" column="14" />
-        <mark key="^" line="1002" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/IsPromoteRoomTypeFilter.java" timestamp="1492425801239">
         <mark key="[" line="67" column="29" />
@@ -252,16 +250,14 @@
         <mark key="^" line="67" column="32" />
         <mark key="." line="67" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1492589005769">
-        <mark key="'" line="250" column="49" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionary.java" timestamp="1492595969911" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1492595771080" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/DebugHotelData.java" timestamp="1492433077526">
         <mark key="[" line="110" column="49" />
         <mark key="]" line="110" column="51" />
         <mark key="." line="110" column="51" />
         <mark key="^" line="110" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/SSContext.java" timestamp="1492586014319" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/StatusTraceInfo.java" timestamp="1492486004669">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -280,24 +276,27 @@
         <mark key="^" line="52" column="92" />
         <mark key="." line="52" column="92" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1492589005769">
+        <mark key="'" line="250" column="49" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/CheckSearchRequestParameter.java" timestamp="1492587901992">
+        <mark key="'" line="149" column="65" />
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="106" column="19" />
+        <mark key="^" line="106" column="19" />
+        <mark key="." line="106" column="418" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/util/ABTestUtilTest.java" timestamp="1492506063706">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1492590436778">
+      <file name="/fragment.java" timestamp="1492596398713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" timestamp="1492592549083">
-        <mark key="'" line="135" column="108" />
-        <mark key="[" line="135" column="108" />
-        <mark key="]" line="135" column="108" />
-        <mark key="^" line="135" column="108" />
-        <mark key="." line="135" column="108" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/pricecomputer/PromotePrice.java" timestamp="1492509345768">
         <mark key="[" line="130" column="64" />
@@ -307,9 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/converter/HashsetArrayConvert.java" />
-      <jump line="56" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/loader/DBConfigurationLoader.java" />
       <jump line="62" column="61" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/java/com/ctrip/hotel/search/data/SearchConfigBuilderTest.java" />
       <jump line="28" column="50" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
       <jump line="223" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
@@ -407,6 +403,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/annotations/Conf.java" />
       <jump line="135" column="108" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
+      <jump line="9" column="18" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/test.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/test.json" />
+      <jump line="484" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/test.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
