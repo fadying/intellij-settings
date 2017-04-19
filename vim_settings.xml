@@ -9,6 +9,13 @@
         <mark key="^" line="35" column="80" />
         <mark key="." line="35" column="80" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" timestamp="1492598455733">
+        <mark key="'" line="427" column="18" />
+        <mark key="[" line="518" column="59" />
+        <mark key="]" line="518" column="64" />
+        <mark key="^" line="518" column="64" />
+        <mark key="." line="518" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1492589461313">
         <mark key="'" line="126" column="33" />
       </file>
@@ -46,6 +53,7 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1492585476872">
         <mark key="'" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectProcess.java" timestamp="1492598860463" />
       <file name="/SSContext.java" timestamp="1492596880202">
         <mark key="'" line="41" column="0" />
       </file>
@@ -138,6 +146,7 @@
         <mark key="^" line="8109" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/ProcessSearchRequest.java" timestamp="1492597804195" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectUtil.java" timestamp="1492599048926" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/resources/logback.xml" timestamp="1492414757059">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="53" />
@@ -166,6 +175,7 @@
         <mark key="^" line="151" column="87" />
         <mark key="." line="151" column="87" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/MasterHotelFilter.java" timestamp="1492599382791" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/simpleroomfilterrules/FilterVendorRoomByDaysRangeFilterSimple.java" timestamp="1492591002035">
         <mark key="[" line="28" column="17" />
         <mark key="]" line="28" column="117" />
@@ -215,9 +225,7 @@
         <mark key="^" line="25" column="10" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/LazyModeFilter.java" timestamp="1492591981667">
-        <mark key="." line="142" column="111" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/filterscence/CityScence.java" timestamp="1492599587358" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" timestamp="1492592549083">
         <mark key="'" line="135" column="108" />
         <mark key="[" line="135" column="108" />
@@ -314,16 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/toolutils/LogHelper.java" />
-      <jump line="118" column="44" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" />
-      <jump line="34" column="18" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/toolutils/LogHelperBase.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/ctrip/framework/clogging/clogging-agent/4.1.2/clogging-agent-4.1.2.jar!/com/ctrip/framework/clogging/agent/log/ILog.class" />
-      <jump line="138" column="59" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" />
-      <jump line="264" column="59" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" />
-      <jump line="273" column="48" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
-      <jump line="274" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" />
       <jump line="68" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
       <jump line="109" column="31" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/constant/ConfigurationTypeConst.java" />
       <jump line="714" column="35" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" />
@@ -414,13 +412,23 @@
       <jump line="41" column="0" filename="/SSContext.java" />
       <jump line="1689" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/PublicParametersEntity.java" />
       <jump line="636" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/PublicParametersEntity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="415" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="518" column="64" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="421" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" />
+      <jump line="423" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="584" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="425" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="602" column="23" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
+      <jump line="427" column="18" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SSContext init</text>
+        <text>Empty</text>
       </register>
       <register name="-" type="4">
-        <text>SSContext init</text>
+        <text>Empty</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
