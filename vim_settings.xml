@@ -61,8 +61,10 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectProcess.java" timestamp="1492604885416">
         <mark key="'" line="156" column="76" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/StreamTest.java" timestamp="1492654990725">
-        <mark key="[" line="7" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/StreamTest.java" timestamp="1492656986967">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/SSContext.java" timestamp="1492596880202">
         <mark key="'" line="41" column="0" />
@@ -265,6 +267,11 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/startup/WebServiceBootstrap.java" timestamp="1492579592092">
         <mark key="'" line="62" column="24" />
       </file>
+      <file name="/Dummy.txt" timestamp="1492592660066">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/pom.xml" timestamp="1492506754062">
         <mark key="[" line="75" column="25" />
         <mark key="]" line="80" column="24" />
@@ -443,7 +450,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIDEwMDAwKS5wYXJhbGxlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0KCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICBMaXN0PEhvdGVsSW5kZXhUcmVlPiBmaW5kZXIgPSA=</text>
@@ -455,23 +462,22 @@
         <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIDEwMDAwKS5wYXJhbGxlbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIDEwMDAwKS5wYXJhbGxlbCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLml0Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
-                || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLml0Cg==</text>
       </register>
       <register name="6" type="4">
         <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
@@ -481,11 +487,12 @@
         <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
                 || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb252ZXJ0ZXJDbGFzcygpIGRlZmF1bHQgIiI7Cg==</text>
+      <register name="8" type="4">
+        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
+                || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb252ZXJ0ZXJDbGFzcygpIGRlZmF1bHQgIiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/sheng.web/sheng.test.web/</text>
