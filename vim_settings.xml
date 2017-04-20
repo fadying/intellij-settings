@@ -9,6 +9,12 @@
         <mark key="^" line="35" column="80" />
         <mark key="." line="35" column="80" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeywordUtil.java" timestamp="1492658714661">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" timestamp="1492598455733">
         <mark key="'" line="427" column="18" />
         <mark key="[" line="518" column="59" />
@@ -176,6 +182,7 @@
         <mark key="'" line="636" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/pagination/PaginationPreProcess.java" timestamp="1492594699925" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterHiddeMasterHotelList.java" timestamp="1492658189068" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeyword.java" timestamp="1492509476570">
         <mark key="[" line="35" column="53" />
         <mark key="]" line="34" column="27" />
@@ -237,7 +244,13 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeyword.java" timestamp="1492658011521" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeyword.java" timestamp="1492658833056">
+        <mark key="'" line="62" column="21" />
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="56" column="13" />
+        <mark key="." line="56" column="13" />
+        <mark key="^" line="56" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/test/java/com/ctrip/hotel/search/caches/test/ClassScannerTest.java" timestamp="1492087865650">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="41" />
@@ -335,7 +348,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1492604661591">
+      <file name="/fragment.java" timestamp="1492658283146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -349,7 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="18" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/GPSDistanceComputerUtility.java" />
       <jump line="112" column="40" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/GPSDistanceComputerUtility.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hoteloptional/HotelOptionalCacheManagerV3.java" />
       <jump line="98" column="31" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hoteloptional/HotelOptionalCacheManagerV3.java" />
@@ -449,52 +461,52 @@
       <jump line="28" column="62" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectUtil.java" />
       <jump line="36" column="18" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/common/Lists.java" />
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/ArrayList.java" />
+      <jump line="63" column="21" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeyword.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0KCkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QENvbXBvbmVudCBAU2NvcGUoQ29uZmlndXJhYmxlQmVhbkZhY3RvcnkuU0NPUEVfUFJPVE9UWVBFKSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhvdGVsSW5kZXhUcmVlPiBmaW5kZXIgPSA=</text>
+        <text encoding="base64">QENvbXBvbmVudCBAU2NvcGUoQ29uZmlndXJhYmxlQmVhbkZhY3RvcnkuU0NPUEVfUFJPVE9UWVBFKSA=</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
       </register>
       <register name="0" type="4">
-        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword()</text>
+        <text>PublicParametersEntity publicSearchParameter</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0KCkK</text>
+      <register name="1" type="8">
+        <text encoding="base64">QFJlc291cmNlIApAUmVzb3VyY2UgCkBSZXNvdXJjZSAKQFJlc291cmNlIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIDEwMDAwKS5wYXJhbGxlbCgpCg==</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIER5bmFtaWNJbmZvVHJlZVYzIGR5bmFtaWNJbmZvVHJlZVYzOwogICAgQFJlc291cmNlIHByaXZhdGUgSG90ZWxNZXRyb1N0YXRpb25CdXNpbmVzcyBob3RlbE1ldHJvU3RhdGlvbkJ1c2luZXNzOwogICAgQFJlc291cmNlIHByaXZhdGUgTWV0cm9TdGF0aW9uSG90ZWxCdXNpbmVzcyBtZXRyb1N0YXRpb25Ib3RlbEJ1c2luZXNzOwogICAgQFJlc291cmNlIHByaXZhdGUgTWFwU2VhcmNoSG90ZWxFbnRpdHlFeHRlbmRzIG1hcFNlYXJjaEhvdGVsRW50aXR5RXh0ZW5kczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlQ2xvc2VkKDEsIDEwMDAwKS5wYXJhbGxlbCgpCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsSW5kZXhUcmVlIHRyZWVJbmRleCA6IGZpbmRlcikgewogICAgICAgICAgICBtYXN0ZXJIb3RlbHMuYWRkKHRyZWVJbmRleCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBtYXN0ZXJIb3RlbHM7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyZWFtLml0Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
-                || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
-      </register>
-      <register name="7" type="4">
-        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
-                || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
       </register>
       <register name="8" type="4">
         <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
                 || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjb252ZXJ0ZXJDbGFzcygpIGRlZmF1bHQgIiI7Cg==</text>
+      <register name="9" type="4">
+        <text>ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword() == null
+                || ConfigurationTypeConst.getSearchConfig().getRoomTicketAdvertisementKeyword().isEmpty()</text>
       </register>
       <register name=":" type="4">
         <text>s/sheng.web/sheng.test.web/</text>
