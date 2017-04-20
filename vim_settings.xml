@@ -278,7 +278,7 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="53" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492660905500">
+      <file name="/Dummy.txt" timestamp="1492661059694">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -483,11 +483,11 @@
       <jump line="102" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZSBwcml2YXRlIEFwcGxpY2F0aW9uQ29udGV4dCBhcHBsaWNhdGlvbkNvbnRleHQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isNotEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>isNotEmpty</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
