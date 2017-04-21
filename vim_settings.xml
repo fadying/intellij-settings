@@ -40,6 +40,7 @@
         <mark key="^" line="37" column="80" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/resources/logback.xml" timestamp="1492743541733" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/PreferentialRateScore.java" timestamp="1492510459782">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="27" />
@@ -109,6 +110,12 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1492744349895">
+        <mark key="[" line="29" column="9" />
+        <mark key="]" line="31" column="23" />
+        <mark key="^" line="31" column="23" />
+        <mark key="." line="31" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterHelper.java" timestamp="1492520255996">
         <mark key="[" line="719" column="0" />
@@ -277,6 +284,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/startup/WebServiceBootstrap.java" timestamp="1492579592092">
         <mark key="'" line="62" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1492743454058">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/pom.xml" timestamp="1492506754062">
         <mark key="[" line="75" column="25" />
@@ -463,51 +473,51 @@
       <jump line="106" column="0" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/jmh/HelloWorld.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>-generator-annprocess</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGludCBwdXRSaWdodFRhc2tMaW1pdChpbnQgdGFza0xpbWl0LCBTdHJpbmcgYXBwaWQsIGJvb2xlYW4gY3VyU3dpdGNoKSB7CiAgICAgICAgcmV0dXJuICFjdXJTd2l0Y2ggPyAxIDogcHV0UmlnaHRUYXNrTGltaXQodGFza0xpbWl0LCBhcHBpZCk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>maxDegreeOfParallelism</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHByb2Nlc3MoTGlzdDxURW50aXR5PiBzb3VyY2UsIGludCBpbmRleCwgTGlzdDxUUmVzdWx0SXRlbT4gcmVzdWx0LCBUQ29udGV4dCBjb250ZXh0LCBpbnQgZG9uZUNvdW50KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnRlcmZhY2UgUmVzdWx0Q2hlY2tlcjxURW50aXR5LCBUUmVzdWx0SXRlbSwgVENvbnRleHQ+IHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBGdW5jdGlvbmFsSW50ZXJmYWNlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5vcGVuamRrLmptaC5hbm5vdGF0aW9ucy5CZW5jaG1hcms7cGFja2FnZSBvcmcub3Blbmpkay5qbWguc2FtcGxlczsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text>/**
  * Created by ouyangs on 2017/4/20.
  */
 public class HelloWorld {
 }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqbWgudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqbWgudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBoYWRlcy1hcGkgZGV2aWNlSW5mbyAtLT4KICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ucXVuYXIubW9iaWxlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+aGFkZXMtYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+JHtoYWRlcy1hcGkudmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4KCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDwhLS0gaGFkZXMtYXBpIGRldmljZUluZm8gLS0+CiAgICAgICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnF1bmFyLm1vYmlsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmhhZGVzLWFwaTwvYXJ0aWZhY3RJZD4K</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBwcm9jZXNzb3JDbnQgPSBwcm9jZXNzb3JzOzsK</text>
       </register>
       <register name=":" type="4">
         <text>s/sheng.web/sheng.test.web/</text>
