@@ -114,12 +114,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493006995987">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="68" />
-        <mark key="]" line="40" column="69" />
-        <mark key="^" line="40" column="69" />
-        <mark key="." line="40" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493014202940">
+        <mark key="'" line="160" column="35" />
+        <mark key="[" line="159" column="57" />
+        <mark key="]" line="160" column="40" />
+        <mark key="^" line="160" column="40" />
+        <mark key="." line="160" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterHelper.java" timestamp="1492520255996">
         <mark key="[" line="719" column="0" />
@@ -388,8 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" />
       <jump line="696" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" />
       <jump line="661" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" />
       <jump line="654" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchDirection.java" />
@@ -488,13 +486,15 @@
       <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="115" column="30" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
+      <jump line="160" column="35" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
+      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>doneIndex</text>
       </register>
       <register name="/" type="4">
         <text>sheng.web</text>
@@ -509,28 +509,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUGFyYWxsZWxzLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZG9uZUluZGV4ID0gY3R4LmRvbmVJbmRleC5nZXQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQXRvbWljSW50ZWdlciBlb2YgPSBuZXcgQXRvbWljSW50ZWdlcigwKTsKCiAgICAgICAgcHVibGljIEF0b21pY0ludGVnZXIgbWF4RG9uZUluZGV4ID0gbmV3IEF0b21pY0ludGVnZXIoLTEpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5uZWVkQnJlYWsgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdHguZW9mLnNldCgxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5lb2Yuc2V0KDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhlY3V0aW9uRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBtYXhEb25lSW5kZXg7CiAgICAgICAgICAgICAgICBkbyB7CiAgICAgICAgICAgICAgICAgICAgbWF4RG9uZUluZGV4ID0gY3R4Lm1heERvbmVJbmRleC5nZXQoKTsKICAgICAgICAgICAgICAgIH0gd2hpbGUgKG1heERvbmVJbmRleCA8IGlkeCAmJiBjdHgubWF4RG9uZUluZGV4LmNvbXBhcmVBbmRTZXQobWF4RG9uZUluZGV4LCBpZHgpKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFRocmVhZCB0aHJlYWQgOiB0aHJlYWRzKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB0aHJlYWQuam9pbigpOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBMT0dHRVIuZXJyb3IoIlBhcmFsbGVscyBqb2luIGVycm9yIiwgZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHRocmVhZHMubGVuZ3RoOyBpKyspIAo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUGFyYWxsZWxzLmNsYXNzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/sheng.web/sheng.test.web/</text>
