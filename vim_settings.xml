@@ -14,10 +14,10 @@
         <mark key="]" line="63" column="5" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1493022297914">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1493024617244">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/modify/HotelOptionPriceV4Process.java" timestamp="1492660726071">
         <mark key="[" line="28" column="0" />
@@ -105,12 +105,11 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493022357216">
-        <mark key="'" line="74" column="103" />
-        <mark key="[" line="142" column="64" />
-        <mark key="]" line="142" column="63" />
-        <mark key="." line="142" column="63" />
-        <mark key="^" line="142" column="64" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493026565300">
+        <mark key="[" line="151" column="52" />
+        <mark key="]" line="137" column="26" />
+        <mark key="^" line="137" column="26" />
+        <mark key="." line="137" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/ScoreSimpleSetterHelper.java" timestamp="1492520255996">
         <mark key="[" line="719" column="0" />
@@ -378,8 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" />
-      <jump line="565" column="23" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" />
       <jump line="563" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" />
       <jump line="57" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/CheckSearchRequestParameter.java" />
       <jump line="54" column="105" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/CheckSearchRequestParameter.java" />
@@ -478,60 +475,62 @@
       <jump line="58" column="53" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Objects.java" />
       <jump line="70" column="103" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
+      <jump line="136" column="46" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
+      <jump line="127" column="4" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>= resultItem;</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>= resultItem;</text>
       </register>
       <register name="/" type="4">
-        <text>sheng.web</text>
+        <text>(TSource|TResult)</text>
       </register>
-      <register name="0" type="4">
-        <text>processStream(matchedCountLimit, process, resultChecker, context, stream)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9vbGVhbiBzb3VyY2VJc091dHB1dCwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHNvdXJjZS5zdWJMaXN0KHN0YXJ0SW5kZXgsIHNvdXJjZS5zaXplKCkpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLm1hcChpdGVtIC0+IFBhaXIub2YoaXRlbSwgcHJvY2Vzcy5wcm9jZXNzKGl0ZW0sIGNvbnRleHQpKSkKICAgICAgICAgICAgICAgICAgICAuZmlsdGVyKHBhaXIgLT4gcmVzdWx0Q2hlY2tlci5jaGVjayhwYWlyLmdldExlZnQoKSwgcGFpci5nZXRSaWdodCgpLCBjb250ZXh0KSkKICAgICAgICAgICAgICAgICAgICAubGltaXQobWF0Y2hlZENvdW50TGltaXQp</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">SW50U3RyZWFtLnJhbmdlKHN0YXJ0SW5kZXgsIHNvdXJjZS5zaXplKCkpIC5tYXBUb09iaihpZHggLT4gIHsKICAgICAgICAgICAgICAgICAgICAgICAgVFNvdXJjZSBpdGVtID0gc291cmNlLmdldChpZHgpOwogICAgICAgICAgICAgICAgICAgICAgICBUUmVzdWx0IHJlc3VsdCA9IHByb2Nlc3MucHJvY2VzcyhpdGVtLCBjb250ZXh0KTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHNvdXJjZUlzT3V0cHV0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2Uuc2V0KGlkeCwgKFRTb3VyY2UpIHJlc3VsdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFBhaXIub2YoaXRlbSwgcmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIocGFpciAtPiByZXN1bHRDaGVja2VyLmNoZWNrKHBhaXIuZ2V0TGVmdCgpLCBwYWlyLmdldFJpZ2h0KCksIGNvbnRleHQpKQogICAgICAgICAgICAgICAgICAgIC5saW1pdChtYXRjaGVkQ291bnRMaW1pdCkuY291bnQoKTs=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIoaXRlbSAtPiByZXN1bHRDaGVja2VyLmNoZWNrKGl0ZW0sIG51bGwsIGNvbnRleHQpKQogICAgICAgICAgICAgICAgLmxpbWl0KG1hdGNoZWRDb3VudExpbWl0KQogICAgICAgICAgICAgICAgLmNvdW50KCk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIDwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdEl0ZW07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLnNldChpZHgsIChUU291cmNlKSByZXN1bHRJdGVtKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgSW50U3RyZWFtLnJhbmdlKHN0YXJ0SW5kZXgsIHNvdXJjZS5zaXplKCkpCiAgICAgICAgICAgICAgICAgICAgLm1hcFRvT2JqKGlkeCAtPiAgewogICAgICAgICAgICAgICAgICAgICAgICBUU291cmNlIGl0ZW0gPSBzb3VyY2UuZ2V0KGlkeCk7CiAgICAgICAgICAgICAgICAgICAgICAgIFRSZXN1bHQgcmVzdWx0ID0gcHJvY2Vzcy5wcm9jZXNzKGl0ZW0sIGNvbnRleHQpOwogICAgICAgICAgICAgICAgICAgICAgICBpZiAoc291cmNlSXNPdXRwdXQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZS5zZXQoaWR4LCAoVFNvdXJjZSkgcmVzdWx0KTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gUGFpci5vZihpdGVtLCByZXN1bHQpOwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLmZpbHRlcihwYWlyIC0+IHJlc3VsdENoZWNrZXIuY2hlY2socGFpci5nZXRMZWZ0KCksIHBhaXIuZ2V0UmlnaHQoKSwgY29udGV4dCkpCiAgICAgICAgICAgICAgICAgICAgLmxpbWl0KG1hdGNoZWRDb3VudExpbWl0KS47</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9vbGVhbiBzb3VyY2VJc091dHB1dCwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZXN1bHRDaGVja2VyPFRJdGVtLCBUSXRlbSwgVENvbnRleHQ+IHJlc3VsdENoZWNrZXIs</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGFpci5vZihpdGVtLCBwcm9jZXNzLnByb2Nlc3MoaXRlbSwgY29udGV4dCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVzdWx0Q2hlY2tlcjxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gcmVzdWx0Q2hlY2tlciwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNvdXJjZUlzT3V0cHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFuZGxlcjI8VFNvdXJjZSwgVEl0ZW0sIFRDb250ZXh0PiBwcm9jZXNzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYm9vbGVhbiBzb3VyY2VJc091dHB1dCwK</text>
       </register>
       <register name=":" type="4">
-        <text>s/sheng.web/sheng.test.web/</text>
+        <text encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</text>
       </register>
     </registers>
     <search>
-      <last-search>sheng.web</last-search>
+      <last-search>(TSource|TResult)</last-search>
       <last-offset />
-      <last-pattern>sheng.web</last-pattern>
-      <last-replace>sheng.test.web</last-replace>
-      <last-substitute>sheng.web</last-substitute>
+      <last-pattern>(TSource|TResult)</last-pattern>
+      <last-replace>TItem</last-replace>
+      <last-substitute>(TSource|TResult)</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -553,6 +552,8 @@
         <entry>map</entry>
         <entry>sheng.test</entry>
         <entry>sheng.web</entry>
+        <entry>TSource|TResult</entry>
+        <entry>(TSource|TResult)</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -566,6 +567,8 @@
         <entry encoding="base64">JzwsJz5zL21hcC9fc2V0dGVyTWFwLw==</entry>
         <entry>s/sheng.test/sheng.test.web/</entry>
         <entry>s/sheng.web/sheng.test.web/</entry>
+        <entry encoding="base64">JzwsJz5zL1RTb3VyY2V8VFJlc3VsdC9USXRlbS9n</entry>
+        <entry encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
