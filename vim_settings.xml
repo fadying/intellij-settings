@@ -319,6 +319,12 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1493015423698">
         <mark key="'" line="132" column="51" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomselectors/RoomInCacheSelector_Pos.java" timestamp="1493121588643">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="105" column="19" />
+        <mark key="." line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/IsPromoteRoomTypeFilter.java" timestamp="1492425801239">
         <mark key="[" line="67" column="29" />
         <mark key="]" line="67" column="32" />
@@ -372,6 +378,12 @@
         <mark key="." line="0" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/primitives/Ints.java" timestamp="1493105514807" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomselectors/RoomDInfoCacheSelect.java" timestamp="1493121824869">
+        <mark key="[" line="264" column="15" />
+        <mark key="]" line="261" column="27" />
+        <mark key="^" line="261" column="27" />
+        <mark key="." line="261" column="27" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/ctriposs/baiji/baiji-rpc-server/2.4.2/baiji-rpc-server-2.4.2-sources.jar!/com/ctriposs/baiji/rpc/server/configuration/policy/source/PolicyServiceClient.java" timestamp="1493113247011">
         <mark key="'" line="36" column="22" />
       </file>
@@ -524,11 +536,11 @@
       <jump line="170" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectLazyProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoSG90ZWxEYXRhTGlzdCBob3RlbERhdGEgOiByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCkpIHsKICAgICAgbG9hZFJvb21JbmZvKHJlc3BvbnNlLCByZXF1ZXN0LCBob3RlbERhdGEsIHB1YmxpY0FyZ3MpOwogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>true;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE8gUGFyYWxsZWxz</text>
+        <text>true;</text>
       </register>
       <register name="/" type="4">
         <text>(TSource|TResult)</text>
@@ -537,35 +549,35 @@
         <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBpbnRbXSBhID0gSW50U3RyZWFtLnJhbmdlKDEsIDUpLnRvQXJyYXkoKTsKICAgICAgICBBcnJheXMucGFyYWxsZWxTZXRBbGwoYSwgaSAtPiBhW2ldICogMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy50b1N0cmluZyhhKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoSG90ZWxEYXRhTGlzdCBob3RlbERhdGEgOiByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCkpIHsKICAgICAgbG9hZFJvb21JbmZvKHJlc3BvbnNlLCByZXF1ZXN0LCBob3RlbERhdGEsIHB1YmxpY0FyZ3MpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUdlbmVyaWNMaXN0PEhvdGVsRGF0YUxpc3Q+IGhvdGVsRGF0YUxpc3QgPSByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCk7CiAgICAgICAgICAgIGZvciAoSG90ZWxEYXRhTGlzdCBob3RlbERhdGEgOiBob3RlbERhdGFMaXN0KSB7CiAgICAgICAgICAgICAgICBsb2FkSG90ZWxSb29tREluZm8oaG90ZWxEYXRhLCBjb250ZXh0KTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKEhvdGVsRGF0YUxpc3QgaG90ZWwgOiByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCkpIHsKCiAgICAgICAgICAgIGxvYWRIb3RlbFJvb21JbmZvKGhvdGVsLCBjb250ZXh0KTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgUGFyYWxsZWxzLkZvcmVhY2g8SG90ZWxEYXRhTGlzdCwgTG9hZFJvb21zQ29udGV4dD4ocmVzcG9uc2UuZ2V0SG90ZWxEYXRhTGlzdCgpLCBsb2FkSG90ZWxSb29tSW5mbywgdGFza0xpbWl0LCBjb250ZXh0KTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE8geC5mZW5nILKit6K908jrCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZvciAoSG90ZWxEYXRhTGlzdCBob3RlbERhdGEgOiByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCkpIHsKICAgICAgbG9hZFJvb21JbmZvKHJlc3BvbnNlLCByZXF1ZXN0LCBob3RlbERhdGEsIHB1YmxpY0FyZ3MpOwogICAgfQo=</text>
+      </register>
+      <register name="7" type="4">
         <text>otelDataList hotel, LoadRoomsContext context) {
     RetrievalMethod</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RlbERhdGFMaXN0W10gZGF0YUxpc3QgPSBuZXcgSG90ZWxEYXRhTGlzdFttYXN0ZXJIb3RlbHMuc2l6ZSgpXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hc3RlckhvdGVscy5zaXplKCk7IGkrKykgewogICAgICAgICAgICBwcm9jZXNzTWFzdGVySG90ZWwobWFzdGVySG90ZWxzLCBpLCBkYXRhTGlzdCwgY29udGV4dCk7Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFtpbmRleF0gPSBodGw7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W2luZGV4XSA9IGh0bDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWFzdGVySG90ZWxQb3MgPSBzb3VyY2UuZ2V0KGluZGV4KTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBtYXN0ZXJIb3RlbHMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgICAgIGhvdGVsRGF0YVNlbGVjdFV0aWxQb3MucHJvY2Vzc1ByZVN0YXRpY0ZpbHRlcihtYXN0ZXJIb3RlbHMsIGksIGNvbnRleHQpOwoKICAgICAgICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIb3RlbERhdGFJbmRleFtdIGRhdGFMaXN0ID0gbmV3IEhvdGVsRGF0YUluZGV4W21hc3RlckhvdGVscy5zaXplKCldOwo=</text>
+        <text encoding="base64">ICAgICAgICBIb3RlbERhdGFMaXN0W10gZGF0YUxpc3QgPSBuZXcgSG90ZWxEYXRhTGlzdFttYXN0ZXJIb3RlbHMuc2l6ZSgpXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hc3RlckhvdGVscy5zaXplKCk7IGkrKykgewogICAgICAgICAgICBwcm9jZXNzTWFzdGVySG90ZWwobWFzdGVySG90ZWxzLCBpLCBkYXRhTGlzdCwgY29udGV4dCk7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</text>
