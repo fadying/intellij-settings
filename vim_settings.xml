@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/java/com/ctrip/hotel/search/data/dynamicroominfoproductdb/provider/HtlRoomsPubShardProvider.java" timestamp="1493102870163" />
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/BaseStream.java" timestamp="1493108844015" />
       <file name="/a.dummy" timestamp="1493024617244">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="0" column="8" />
@@ -48,11 +49,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1493104623187">
         <mark key="'" line="1254" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493107510807">
-        <mark key="'" line="223" column="17" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="0" />
-        <mark key="." line="223" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493108799085">
+        <mark key="'" line="220" column="17" />
+        <mark key="]" line="226" column="3" />
+        <mark key="." line="226" column="3" />
+        <mark key="^" line="226" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" timestamp="1492586801762">
         <mark key="'" line="563" column="47" />
@@ -227,9 +228,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fix
-
-Change-Id: Icd320f030c1f6d7232a7a8d428b7ceb7071ec5cb</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -241,36 +240,36 @@ Change-Id: Icd320f030c1f6d7232a7a8d428b7ceb7071ec5cb</text>
         <text encoding="base64">CiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgdGVzdCgpIHsKICAgICAgICBpbnRbXSBhID0gSW50U3RyZWFtLnJhbmdlKDEsIDUpLnRvQXJyYXkoKTsKICAgICAgICBBcnJheXMucGFyYWxsZWxTZXRBbGwoYSwgaSAtPiBhW2ldICogMik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEFycmF5cy50b1N0cmluZyhhKSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>fix
-
-Change-Id: Icd320f030c1f6d7232a7a8d428b7ceb7071ec5cb</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXhlY3V0b3JzLmRkCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGlj</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4VGhyZWFkQ291bnQgPSA0Owo=</text>
+      <register name="3" type="4">
+        <text>fix
+
+Change-Id: Icd320f030c1f6d7232a7a8d428b7ceb7071ec5cb</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhEZWdyZWVPZlBhcmFsbGVsaXNtID0gNDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXhlY3V0b3JzLmRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICByYW5nZS5wYXJhbGxlbCgpLmZvckVhY2goYWN0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4VGhyZWFkQ291bnQgPSA0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZvcmtKb2luUG9vbChtYXhUaHJlYWRDb3VudCkuc3VibWl0KCgpIC0+IHJhbmdlLnBhcmFsbGVsKCkuZm9yRWFjaChhY3Rpb24pKTsK</text>
+        <text encoding="base64">ICAgICAgICBtYXhEZWdyZWVPZlBhcmFsbGVsaXNtID0gNDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICByYW5nZS5wYXJhbGxlbCgpLmZvckVhY2goYWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4VGhyZWFkQ291bnQgPSByZXNldE1heERlZ3JlZU9mUGFyYWxsZWxpc20obWF4RGVncmVlT2ZQYXJhbGxlbGlzbSwgc291cmNlLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IEZvcmtKb2luUG9vbChtYXhUaHJlYWRDb3VudCkuc3VibWl0KCgpIC0+IHJhbmdlLnBhcmFsbGVsKCkuZm9yRWFjaChhY3Rpb24pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4VGhyZWFkQ291bnQgPSByZXNldE1heERlZ3JlZU9mUGFyYWxsZWxpc20obWF4RGVncmVlT2ZQYXJhbGxlbGlzbSwgc291cmNlLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</text>
