@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1493024617244">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1492668422716">
         <mark key="'" line="126" column="33" />
       </file>
@@ -19,10 +14,15 @@
         <mark key="'" line="41" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1493197091580" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1493197202342">
-        <mark key="'" line="114" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1493201761746">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493191940208" />
+      <file name="/AllHotelIdEntity.java" timestamp="1493199177194" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ForkJoinPoolFactoryBean.java" timestamp="1493201913513" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493204515118" />
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1493202485717" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/startup/WebServiceBootstrap.java" timestamp="1492579592092">
         <mark key="'" line="62" column="24" />
       </file>
@@ -48,11 +48,11 @@
       </file>
       <file name="/StringCommonUtils.java" timestamp="1493192958748" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1493195762477" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493195944455">
-        <mark key="[" line="228" column="70" />
-        <mark key="]" line="228" column="70" />
-        <mark key="." line="228" column="70" />
-        <mark key="^" line="202" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" timestamp="1493204578150">
+        <mark key="[" line="265" column="69" />
+        <mark key="]" line="266" column="42" />
+        <mark key="." line="266" column="42" />
+        <mark key="^" line="266" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/SearchBase.java" timestamp="1492586801762">
         <mark key="'" line="563" column="47" />
@@ -69,17 +69,14 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/MasterHotelFilter.java" timestamp="1492669629902">
         <mark key="'" line="207" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493187482434">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/ParallelContext.java" timestamp="1493204463984" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/toolutils/ThreadPools.java" timestamp="1492767698651">
         <mark key="'" line="15" column="16" />
       </file>
+      <file name="/pom.xml" timestamp="1493199212051" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectLazyProcessPos.java" timestamp="1493204172251" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
       <jump line="415" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
       <jump line="518" column="64" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
       <jump line="421" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
@@ -179,13 +176,14 @@
       <jump line="141" column="90" filename="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" />
       <jump line="35" column="29" filename="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/sync/CouponCounter.java" />
       <jump line="114" column="14" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" />
+      <jump line="117" column="71" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>(TSource|TResult)</text>
@@ -194,34 +192,34 @@
         <text encoding="base64">ICAgICAgICBQYXJhbGxlbHMuPEludGVnZXIsIEludGVnZXIsIFZvaWQ+Zm9yZWFjaFYyKHNvdXJjZSwgKGEsIGIpIC0+IGlzUHJpbWUoYSkgPyBhIDogYSArIDEsIGZhbHNlLCBQQVJBTExFTElTTSwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGZvcmVhY2ggPSBQYXJhbGxlbHMuPEludGVnZXIsIEludGVnZXIsIFZvaWQ+Zm9yZWFjaChzb3VyY2UsIChhLCBiLCBjLCBlLCBmKSAtPiB7CiAgICAgICAgICAgIEludGVnZXIgaXRlbSA9IGEuZ2V0KGIpOwogICAgICAgICAgICBjLnNldChiLCBpc1ByaW1lKGl0ZW0pID8gaXRlbSA6IGl0ZW0gKyAxKTsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfSwgbnVsbCwgUEFSQUxMRUxJU00sIG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJhbGxlbHMuPEludGVnZXIsIEludGVnZXIsIFZvaWQ+Zm9yZWFjaChzb3VyY2UsIChhLCBiLCBjLCBlLCBmKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgSW50ZWdlciBpdGVtID0gYS5nZXQoYik7CiAgICAgICAgICAgICAgICAgICAgYy5zZXQoYiwgaXNQcmltZShpdGVtKSA/IGl0ZW0gOiBpdGVtICsxKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsKICAgICAgICAgICAgfSxudWxsLCBQQVJBTExFTElTTSwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KHJlc3BvbnNlLmdldEhvdGVscygpKSkgewogICAgICAgIGZvciAoaW50IGkgPSAwLCBudW1iZXJPZkRvbmUgPSAwOyBpIDwgcmVzcG9uc2UuZ2V0SG90ZWxzKCkuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgIGRhdGFQcm9jZXNzKHJlc3BvbnNlLmdldEhvdGVscygpLCBpLCByZXN1bHRMaXN0LCBsYXp5Q29udGV4dCwgbnVtYmVyT2ZEb25lKTsKICAgICAgICAgIGlmIChkYXRhQ2hlY2tlcihyZXNwb25zZS5nZXRIb3RlbHMoKS5nZXQoaSksIHJlc3VsdExpc3QuZ2V0KGkpLCBsYXp5Q29udGV4dCkpIHsKICAgICAgICAgICAgaWYgKCsrbnVtYmVyT2ZEb25lID49IGNhbmJvb2tDb3VudExpbWl0KSB7CiAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgPFRJdGVtLCBUQ29udGV4dD4gdm9pZCBmb3JlYWNoKExpc3Q8VEl0ZW0+IHNvdXJjZSwgSGFuZGxlcjxUSXRlbSwgVEl0ZW0sIFRDb250ZXh0PiBwcm9jZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IG1heERlZ3JlZU9mUGFyYWxsZWxpc20sIFRDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICB0b3BGb3Ioc291cmNlLCBzb3VyY2Uuc2l6ZSgpLCBwcm9jZXNzLCBSRVNVTFRfQ0hFQ0tFUiwgdHJ1ZSwgbWF4RGVncmVlT2ZQYXJhbGxlbGlzbSwgY29udGV4dCwgMCk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyA8VFNvdXJjZSwgVFJlc3VsdCwgVENvbnRleHQ+IExpc3Q8VFJlc3VsdD4gZm9yZWFjaChMaXN0PFRTb3VyY2U+IHNvdXJjZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFuZGxlcjxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gcHJvY2VzcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVzdWx0Q2hlY2tlcjxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gcmVzdWx0Q2hlY2tlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IG1heERlZ3JlZU9mUGFyYWxsZWxpc20sIFRDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICByZXR1cm4gdG9wRm9yKHNvdXJjZSwgc291cmNlLnNpemUoKSwgcHJvY2VzcywgZmlyc3ROb25OdWxsKHJlc3VsdENoZWNrZXIsIFJFU1VMVF9DSEVDS0VSKSwgZmFsc2UsCiAgICAgICAgICAgICAgICBtYXhEZWdyZWVPZlBhcmFsbGVsaXNtLCBjb250ZXh0LCAwKTsKICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgSG90ZWxEYXRhTGlzdFtdIHJlc3VsdExpc3QgPSBuZXcgSG90ZWxEYXRhTGlzdFtyZXNwb25zZS5nZXRIb3RlbHMoKSA9PSBudWxsID8gMCA6IHJlc3BvbnNlLmdldEhvdGVscygpLnNpemUoKV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIDxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gTGlzdDxUUmVzdWx0PiBmb3JlYWNoKExpc3Q8VFNvdXJjZT4gc291cmNlLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBIYW5kbGVyPFRTb3VyY2UsIFRSZXN1bHQsIFRDb250ZXh0PiBwcm9jZXNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBSZXN1bHRDaGVja2VyPFRTb3VyY2UsIFRSZXN1bHQsIFRDb250ZXh0PiByZXN1bHRDaGVja2VyLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgbWF4RGVncmVlT2ZQYXJhbGxlbGlzbSwgVENvbnRleHQgY29udGV4dCkgewogICAgICAgIHJldHVybiB0b3BGb3Ioc291cmNlLCBzb3VyY2Uuc2l6ZSgpLCBwcm9jZXNzLCBmaXJzdE5vbk51bGwocmVzdWx0Q2hlY2tlciwgUkVTVUxUX0NIRUNLRVIpLCBmYWxzZSwKICAgICAgICAgICAgICAgIG1heERlZ3JlZU9mUGFyYWxsZWxpc20sIGNvbnRleHQsIDApOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgPFRTb3VyY2UsIFRSZXN1bHQsIFRDb250ZXh0PiBMaXN0PFRSZXN1bHQ+IHRvcE5Gb3IoTGlzdDxUU291cmNlPiBzb3VyY2UsIGludCBtYXRjaGVkQ291bnRMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgSGFuZGxlcjxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gcHJvY2VzcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUmVzdWx0Q2hlY2tlcjxUU291cmNlLCBUUmVzdWx0LCBUQ29udGV4dD4gcmVzdWx0Q2hlY2tlciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IG1heERlZ3JlZU9mUGFyYWxsZWxpc20sIFRDb250ZXh0IGNvbnRleHQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludCBzdGFydEluZGV4KSB7CgogICAgICAgIHJldHVybiB0b3BGb3Ioc291cmNlLCBtYXRjaGVkQ291bnRMaW1pdCwgcHJvY2VzcywgZmlyc3ROb25OdWxsKHJlc3VsdENoZWNrZXIsIFJFU1VMVF9DSEVDS0VSKSwgZmFsc2UsCiAgICAgICAgICAgICAgICBtYXhEZWdyZWVPZlBhcmFsbGVsaXNtLCBjb250ZXh0LCBzdGFydEluZGV4KTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRhUmVzdWx0LnNldChpbmRleCwgbnVsbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRSZXN1bHQgcmVzdWx0ID0gcHJvY2Vzcy5wcm9jZXNzKHMuZ2V0KGkpLCBjKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGFSZXN1bHRbaW5kZXhdID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRhdGFSZXN1bHRbbmRleF0gPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoSG90ZWxEYXRhTGlzdCBob3RlbERhdGEgOiByZXNwb25zZS5nZXRIb3RlbERhdGFMaXN0KCkpIHsKICAgICAgcHJvY2Vzc0hvdGVsU3RhdGljUHJvY2Vzcyhob3RlbERhdGEsIGNvbnRleHQpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gUGFyYWxsZWxzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</text>
