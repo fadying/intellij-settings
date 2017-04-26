@@ -74,13 +74,6 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1492585476872">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectLazyProcess.java" timestamp="1493115659129">
-        <mark key="'" line="170" column="25" />
-        <mark key="[" line="185" column="97" />
-        <mark key="]" line="185" column="128" />
-        <mark key="^" line="185" column="128" />
-        <mark key="." line="185" column="128" />
-      </file>
       <file name="/SSContext.java" timestamp="1492596880202">
         <mark key="'" line="41" column="0" />
       </file>
@@ -181,6 +174,9 @@
         <mark key="." line="8109" column="67" />
         <mark key="^" line="8109" column="67" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1493191823734">
+        <mark key="'" line="114" column="14" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/test/resources/logback.xml" timestamp="1492414757059">
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="53" />
@@ -188,13 +184,6 @@
         <mark key="^" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/httpapi/HttpApiAdaptor.java" timestamp="1493191234167" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectProcess.java" timestamp="1493116110735">
-        <mark key="'" line="156" column="76" />
-        <mark key="[" line="169" column="0" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
-        <mark key="^" line="169" column="125" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/CommonUtils.java" timestamp="1492485863567">
         <mark key="[" line="151" column="28" />
         <mark key="]" line="151" column="87" />
@@ -255,6 +244,7 @@
         <mark key="^" line="225" column="0" />
         <mark key="." line="225" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493191940208" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/test/java/com/ctrip/hotel/search/caches/test/ClassScannerTest.java" timestamp="1492087865650">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="41" />
@@ -409,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="636" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/PublicParametersEntity.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
       <jump line="415" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
       <jump line="518" column="64" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/RequestExtendsUtil.java" />
@@ -509,6 +498,7 @@
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/stream/Stream.java" />
       <jump line="141" column="90" filename="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" />
       <jump line="35" column="29" filename="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/sync/CouponCounter.java" />
+      <jump line="114" column="14" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
