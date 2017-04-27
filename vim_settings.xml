@@ -18,15 +18,17 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java" timestamp="1493197091580" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Base/CacheData/CacheExtendDictionaryTempIndex.cs" timestamp="1493276121009" />
       <file name="/SearchHotelDataFacade.cs" timestamp="1493275365593" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/SearchConfig.cs" timestamp="1493276750192" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/SearchConfig.cs" timestamp="1493278431741" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/annotations/Conf.java" timestamp="1493278043757" />
       <file name="/AllHotelIdEntity.java" timestamp="1493199177194" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE-sources.jar!/org/springframework/scheduling/concurrent/ForkJoinPoolFactoryBean.java" timestamp="1493201913513" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493276774043">
-        <mark key="[" line="10181" column="0" />
-        <mark key="]" line="2970" column="99" />
-        <mark key="." line="2970" column="99" />
-        <mark key="^" line="2971" column="42" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493278635103">
+        <mark key="[" line="17789" column="5" />
+        <mark key="]" line="19413" column="12" />
+        <mark key="." line="19413" column="12" />
+        <mark key="^" line="19413" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfigShard.java" timestamp="1493278488563" />
       <file name="/SearchConfig.cs" timestamp="1493277284299" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinWorkerThread.java" timestamp="1493202485717" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/DynamicSearch/RoomFilterRules/CorpMemberSpecialInvoiceFilter.cs" timestamp="1493276839666" />
@@ -58,6 +60,7 @@
         <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Base/CacheData/CacheExtendDictionaryIndex.cs" timestamp="1493276078502" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/RedisCaches/LadderDeductionRoomDataBusinessV3.cs" timestamp="1493277351591" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/IsJustifyConfirmFilter.java" timestamp="1493276491547">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -69,6 +72,7 @@
       <file name="/StringCommonUtils.java" timestamp="1493192958748" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ForkJoinPool.java" timestamp="1493195762477" />
       <file name="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/facade/FacadeService.java" timestamp="1493189975425" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/builder/ConfigBuilder.java" timestamp="1493277788032" />
       <file name="$USER_HOME$/IdeaProjects/qunar/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/httpapi/HttpApiAdaptor.java" timestamp="1493191234167" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Base/BuildMethods/RefreshFromRedisMethod.cs" timestamp="1493274423214" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/util/CommonStringPool.java" timestamp="1493193208862" />
@@ -94,6 +98,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="/LadderDeductionRoomDataBusinessV3.cs" timestamp="1493277356134" />
       <file name="/CacheExtendDictionaryIndex.cs" timestamp="1493274980583" />
       <file name="/pom.xml" timestamp="1493199212051" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist_pos/HotelDataSelectLazyProcessPos.java" timestamp="1493204172251" />
@@ -202,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getSubHotelInfo</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>getSubHotelInfo</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>(TSource|TResult)</text>
