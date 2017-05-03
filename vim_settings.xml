@@ -115,6 +115,7 @@
         <mark key="^" line="8" column="53" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/SearchConfig.cs" timestamp="1493796713375" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Common/Utility/ShadowUtil.cs" timestamp="1493803649579" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/Service/Business/RoomTicketGifts/RoomTicketGiftsBusinessService.cs" timestamp="1493799797967" />
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/jdk8/ParallelTest.java" timestamp="1493105298080">
         <mark key="[" line="25" column="81" />
@@ -146,12 +147,12 @@
         <mark key="." line="28" column="30" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493800946312">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1493803378813">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11337" column="5" />
-        <mark key="]" line="11338" column="3" />
-        <mark key="^" line="11338" column="3" />
-        <mark key="." line="11338" column="3" />
+        <mark key="[" line="3150" column="10" />
+        <mark key="]" line="3154" column="17" />
+        <mark key="^" line="3154" column="17" />
+        <mark key="." line="3154" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleBaseCheckBusiness.java" timestamp="1493802438263">
         <mark key="'" line="46" column="4" />
@@ -259,6 +260,12 @@
         <mark key="^" line="177" column="15" />
         <mark key="." line="177" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/ShadowUtil.java" timestamp="1493803706659">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/pom.xml" timestamp="1492415528806">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="33" column="7" />
@@ -353,7 +360,7 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="53" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493799961434">
+      <file name="/Dummy.txt" timestamp="1493803554492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/IsPromoteRoomTypeFilter.java" timestamp="1492425801239">
@@ -417,7 +424,7 @@
         <mark key="^" line="382" column="34" />
         <mark key="." line="382" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftsBusinessService.java" timestamp="1493799807438">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftsBusinessService.java" timestamp="1493803528444">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="79" column="0" />
         <mark key="^" line="84" column="12" />
@@ -546,10 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(id:{0}, ruleId:{1})</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>(id:{0}, ruleId:{1})</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlcPg==</text>
