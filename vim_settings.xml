@@ -180,6 +180,7 @@
         <mark key="." line="226" column="10" />
         <mark key="^" line="201" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/CheckSearchRequest.cs" timestamp="1493799325131" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/HotelOptionalEntity.java" timestamp="1492430318162">
         <mark key="[" line="419" column="28" />
         <mark key="]" line="419" column="35" />
@@ -250,6 +251,7 @@
         <mark key="^" line="40" column="136" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/RoomStatusProcessOnCacheOrDBData.cs" timestamp="1493798984300" />
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/component/placeholder/PlaceholderComponentTest.java" timestamp="1492505570764">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="27" />
@@ -437,6 +439,12 @@
         <mark key="^" line="300" column="27" />
         <mark key="." line="300" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/RoomStatusProcessOnCacheOrDBData.java" timestamp="1493799232938">
+        <mark key="[" line="382" column="26" />
+        <mark key="]" line="382" column="34" />
+        <mark key="^" line="382" column="34" />
+        <mark key="." line="382" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/util/ABTestUtilTest.java" timestamp="1492506063706">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="27" />
@@ -559,47 +567,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/constants/CatMessageTypes.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>taxRuleForHotel.getTaxValue();</text>
       </register>
       <register name="-" type="4">
-        <text>GetType().Name);</text>
+        <text>taxRuleForHotel.getTaxValue();</text>
       </register>
       <register name="/" type="4">
         <text>(TSource|TResult)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ2F0LmxvZ0V2ZW50KHNlbGVjdG9yLmdldENsYXNzKCkuZ2V0U2ltcGxlTmFtZSgpLCBzdWJQcm9jZXNzRW5kKTsK</text>
+      <register name="0" type="4">
+        <text>HotelBaseInfoEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcm9vbURhdGFFbnRpdHkuZ2V0Um9vbVN0YXR1c0VudGl0eSgpLmdldFBheVR5cGUoKSA9PSBQYXlUeXBlLkZHLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkb3VibGUgZXhjaGFuZ2UgPSBDb21tb25VdGlscy5leGNoYW5nZUFkanVzdG1lbnRWMihjdXJyZW5jeS5nZXRFeGNoYW5nZSgpLCB0YXhSdWxlRm9ySG90ZWwuZ2V0Q3VycmVuY3koKSwgcmVxdWVzdCwgaG90ZWxEYXRhLCByb29tRGF0YUVudGl0eSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ2F0LmxvZ0V2ZW50KENhdE1lc3NhZ2VUeXBlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbmN5ICE9IG51bGwpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENhdE1lc3NhZ2VUeXBlcyB7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ3VycmVuY3lFbnRpdHkgY3VycmVuY3kgPSByb29tRGF0YUVudGl0eS5nZXRDdXJyZW5jeUluZm8oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEhvdGVsQmFzZUluZm9FbnRpdHkgaG90ZWxpbmZvID0gaG90ZWxCYXNlSVYzQnVzaW5lc3MudHJ5R2V0VmFsdWUodGFyZ2V0SG90ZWxJRCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgICBpZiAoaG90ZWwgPiAwKSB7CiAgICAgICAgICAgIHRhcmdldEhvdGVsSUQgPSBob3RlbDsKICAgICAgICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgLy8gQENvbmYoZGVzY3JpcHRpb24gPSAiIikKICAvLyBwdWJsaWMgRW51bVNldDxTZWFyY2hUeXBlPiBJc09wZW5BbGxpZW5jZSA9CiAgLy8gRW51bVNldC5vZihTZWFyY2hUeXBlLk9uTGluZVNlYXJjaCk7Ly/Tw2hhc2hTZXQgwLTM5rT6CiAgQENvbmYoZGVzY3JpcHRpb24gPSAiIiwgY29udmVydGVyQ2xhc3MgPSAiY29tLmN0cmlwLmhvdGVsLnNlYXJjaC5jb25mLmNvbnZlcnRlci5IYXNoU2V0U3RyaW5nQ29udmVydGVyIiwgc2VwYXJhdG9yID0gIiwiKQogIHB1YmxpYyBIYXNoU2V0PFN0cmluZz4gSXNPcGVuQWxsaWVuY2UgPSBTZXRzLm5ld0hhc2hTZXQoIk9uTGluZVNlYXJjaCIpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChob3RlbGluZm8gIT0gbnVsbCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIEhvdGVsQmFzZUluZm9FbnRpdHkgaG90ZWxpbmZvID0gaG90ZWxCYXNlSW5mb0VudGl0eTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhUU291cmNlfFRSZXN1bHQpL1RJdGVtL2c=</text>
