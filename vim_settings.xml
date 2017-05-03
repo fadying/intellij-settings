@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/HotelOwnedTicketGiftsRuleForRoom.java" timestamp="1493280700088">
@@ -369,6 +369,12 @@
         <mark key="." line="67" column="32" />
         <mark key="^" line="67" column="32" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForDomesticBusiness.java" timestamp="1493804436552">
+        <mark key="[" line="243" column="89" />
+        <mark key="]" line="243" column="90" />
+        <mark key="." line="243" column="90" />
+        <mark key="^" line="243" column="90" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1493797815185">
         <mark key="'" line="220" column="53" />
         <mark key="[" line="249" column="37" />
@@ -553,10 +559,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>const</text>
+        <text>, out hotelExtend</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>, out hotelExtend</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlcPg==</text>
