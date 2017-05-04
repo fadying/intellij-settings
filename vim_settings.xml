@@ -144,9 +144,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/SearchConfig.cs" timestamp="1493880633440" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Common/Utility/ShadowUtil.cs" timestamp="1493803649579" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/Service/Business/RoomTicketGifts/RoomTicketGiftsBusinessService.cs" timestamp="1493808170016">
-        <mark key="[" line="315" column="1" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/DynamicInfo.java" timestamp="1493877287807">
         <mark key="[" line="163" column="10" />
         <mark key="]" line="163" column="11" />
@@ -448,7 +445,7 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="53" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493877691971">
+      <file name="/Dummy.txt" timestamp="1493880674635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -501,8 +498,10 @@
         <mark key="." line="110" column="51" />
         <mark key="^" line="110" column="51" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/InterFaceHotelRoomPictureInfo.java" timestamp="1493880394174">
-        <mark key="[" line="33" column="115" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/InterFaceHotelRoomPictureInfo.java" timestamp="1493880663386">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/filter/FilterHotelKeywordUtil.java" timestamp="1492658714661">
         <mark key="[" line="22" column="8" />
@@ -689,10 +688,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">KSA9IA==</text>
+        <text>conf fix</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA9IA==</text>
+        <text>conf fix</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlcPg==</text>
@@ -701,34 +700,34 @@
         <text>HotelBaseIV3Business</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChOb1NoYXJlSG90ZWxCYXNlSURhdGFCdXNpbmVzcy5JbnN0YW5jZS5UcnlHZXRWYWx1ZUJ5UG9zKHN1YkhvdGVsUG9zLCBvdXQgbm9zaGFyZUluZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29uZmlndXJhdGlvblR5cGVDb25zdC5nZXRTZWFyY2hDb25maWcoKS5pc0Rpc2FibGVOZXdBcHBpZEluU3RhdGljUHJvY2VzcygpICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChOb1NoYXJlSG90ZWxCYXNlSURhdGFCdXNpbmVzcy5JbnN0YW5jZS5UcnlHZXRWYWx1ZUJ5UG9zKHN1YkhvdGVsUG9zLCBvdXQgbm9zaGFyZUluZm8pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCh2YXIgc3ViSG90ZWxQb3MgaW4gc3ViSG90ZWxQb3NMaXN0KQogICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCh2YXIgc3ViSG90ZWxQb3MgaW4gc3ViSG90ZWxQb3NMaXN0KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKG5vc2hhcmVJbmZvID0gbm9TaGFyZUhvdGVsQmFzZUlEYXRhQnVzaW5lc3MudHJ5R2V0VmFsdWUodHJlZS5nZXRIb3RlbHMoKVtpXSkpICE9IG51bAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKFJvb21EYXRhRW50aXR5IHJvb21EYXRhRW50aXR5IGluIGJhc2VSb29tRW50aXR5LlJvb21EYXRhRW50aXR5KQogICAgICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCh2YXIgc3ViSG90ZWxQb3MgaW4gc3ViSG90ZWxQb3NMaXN0KQogICAgICAgICAgICB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCh2YXIgc3ViSG90ZWxQb3MgaW4gc3ViSG90ZWxQb3NMaXN0KQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKG5vc2hhcmVJbmZvID0gbm9TaGFyZUhvdGVsQmFzZUlEYXRhQnVzaW5lc3MudHJ5R2V0VmFsdWUodHJlZS5nZXRIb3RlbHMoKVtpXSkpICE9IG51bAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGZvcmVhY2ggKFJvb21EYXRhRW50aXR5IHJvb21EYXRhRW50aXR5IGluIGJhc2VSb29tRW50aXR5LlJvb21EYXRhRW50aXR5KQogICAgICAgICAgICAgICAgICAgIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGZvcmVhY2ggKEJhc2VSb29tRW50aXR5IGJhc2VSb29tRW50aXR5IGluIGhvdGVsRGF0YUxpc3QuQmFzZVJvb21FbnRpdHkpCiAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>s/const string/static String/</text>
