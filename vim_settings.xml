@@ -38,6 +38,12 @@
         <mark key="^" line="332" column="12" />
         <mark key="." line="332" column="12" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypes/WirelessSearch.java" timestamp="1493897859413">
+        <mark key="[" line="242" column="8" />
+        <mark key="]" line="242" column="49" />
+        <mark key="^" line="242" column="49" />
+        <mark key="." line="242" column="49" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/modify/VendorPromotionProcess.java" timestamp="1492510220839">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -335,6 +341,7 @@
         <mark key="]" line="27" column="105" />
         <mark key="." line="27" column="105" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/SearchTypes/WirelessSearch.cs" timestamp="1493897925472" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/modify/HotelOptionPriceV4Process.java" timestamp="1492660726071">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -489,6 +496,10 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypes/ProcessFactoryBase.java" timestamp="1493897948801">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="179" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetShadowMinPriceData.java" timestamp="1493887819791" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/FacadeExtendFunction.java" timestamp="1492592119143">
         <mark key="[" line="542" column="88" />
@@ -542,10 +553,10 @@
         <mark key="^" line="39" column="71" />
         <mark key="." line="53" column="112" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493890767418">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="/Dummy.txt" timestamp="1493897952256">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/HotelUsedNamesInfo.java" timestamp="1493892341638">
         <mark key="[" line="65" column="0" />
@@ -775,17 +786,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>listStaticDataProcess</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LCA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL05vcm1hbLfW0rMKICAgICAgICBsaXN0RHluYW1pY0xhenlIb3RlbHNQcm9jZXNzLmFkZChjdXRIb3RlbExpc3RQcm9jZXNzKTsK</text>
+      <register name="0" type="4">
+        <text>listStaticDataProcess</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -794,28 +805,28 @@
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbml0Tm9ybWFsU29ydFByb2Nlc3NMaXN0KCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgogICAgcHVibGljIGZpbmFsIHZvaWQgaW5pdE5vcm1hbFNvcnRQcm9jZXNzTGlzdCgpIHsKICAgICAgICAvLyC+xrXqxcXQ8gogICAgICAgIGxpc3ROb3JtYWxTb3J0UHJvY2Vzcy5hZGQoY2FjdWxhdGVIb3RlbFNjb3JlKTsKICAgIH0KCiAgICBwdWJsaWMgZmluYWwgTGlzdDxJRHluYW1pY1NvcnRQcm9jZXNzPiBub3JtYWxTb3J0UHJvY2VzcygpIHsKICAgICAgICAvLyC+xrXqxcXQ8gogICAgICAgIHJldHVybiBsaXN0Tm9ybWFsU29ydFByb2Nlc3M7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIExpc3Q8SUR5bmFtaWNTb3J0UHJvY2Vzcz4gbGlzdE5vcm1hbFNvcnRQcm9jZXNzID0gbmV3IEFycmF5TGlzdDw+KDIpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbml0Tm9ybWFsU29ydFByb2Nlc3NMaXN0KCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgogICAgcHVibGljIGZpbmFsIExpc3Q8SUR5bmFtaWNTb3J0UHJvY2Vzcz4gbm9ybWFsU29ydFByb2Nlc3MoKSB7CiAgICAgICAgcmV0dXJuIGxpc3ROb3JtYWxTb3J0UHJvY2VzczsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgaW5pdE5vcm1hbFNvcnRQcm9jZXNzTGlzdCgpIHsKICAgICAgICAvLyC+xrXqxcXQ8goKICAgICAgICBsaXN0Tm9ybWFsU29ydFByb2Nlc3MuYWRkKGNhY3VsYXRlSG90ZWxTY29yZSk7CgogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxJRHluYW1pY1NvcnRQcm9jZXNzPiBsaXN0Tm9ybWFsU29ydFByb2Nlc3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Tm9ybWFsU29ydFByb2Nlc3NMaXN0KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgaW5pdE5vcm1hbFNvcnRQcm9jZXNzTGlzdCgpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbml0Tm9ybWFsU29ydFByb2Nlc3NMaXN0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/, /&quot;, &quot;/g</text>
