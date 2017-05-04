@@ -61,11 +61,12 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/Service/Business/HotelOptional/HotelOptionalBusinessServiceImplV4.cs" timestamp="1493812707435" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/RoomStatusProcessOnCacheOrDBData.cs" timestamp="1493798984300" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/CatMessageTypes.cs" timestamp="1493797083826" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" timestamp="1493864447018">
-        <mark key="[" line="48" column="72" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="45" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" timestamp="1493866827296">
+        <mark key="'" line="112" column="57" />
+        <mark key="[" line="112" column="93" />
+        <mark key="]" line="112" column="99" />
+        <mark key="^" line="112" column="99" />
+        <mark key="." line="112" column="99" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" timestamp="1493796269637">
         <mark key="[" line="177" column="14" />
@@ -131,12 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" />
-      <jump line="25" column="30" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/Parallels.java" />
-      <jump line="14" column="7" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/Parallels.java" />
-      <jump line="20" column="33" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/StreamTest.java" />
-      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/atomic/LongAdder.java" />
-      <jump line="81" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="71" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="106" column="0" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/jmh/HelloWorld.java" />
       <jump line="55" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
@@ -231,49 +226,57 @@
       <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForDomesticBusiness.java" />
       <jump line="138" column="111" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
       <jump line="44" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
+      <jump line="68" column="75" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
+      <jump line="98" column="78" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
+      <jump line="100" column="75" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
+      <jump line="110" column="121" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
+      <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/List.java" />
+      <jump line="112" column="57" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>public</text>
+        <text>RemoveAt</text>
       </register>
       <register name="-" type="4">
-        <text>public</text>
+        <text>RemoveAt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">yrXO8dDFz6LK/b7dtKbA7QogICAg</text>
+        <text>roomEntity.getRoomStaticInfoEntity().getRoomTypeChannelMapList()</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJvY2Vzc0RhdGEoSG90ZWxEYXRhTGlzdCBob3RlbERhdGFMaXN0LCBTZWFyY2hIb3RlbERhdGFSZXF1ZXN0IHNlYXJjaEhvdGVsRGF0YVJlcXVlc3QpIHsKCiAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>roomEntity.getRoomStaticInfoEntity().getRoomTypeChannelMapList() == null ||
+                            roomEntity.RoomStaticInfoEntity.RoomTypeChannelMapList.Count == 0</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>roomEntity.getRoomStaticInfoEntity().getRoomTypeChannelMapList() == null ||
+                            roomEntity.RoomStaticInfoEntity.RoomTypeChannelMapList.Count == 0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgcHJvY2Vzc0RhdGEoSG90ZWxEYXRhTGlzdCBob3RlbERhdGFMaXN0LCBTZWFyY2hIb3RlbERhdGFSZXF1ZXN0IHNlYXJjaEhvdGVsRGF0YVJlcXVlc3QpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFByb2Nlc3NEYXRhKEhvdGVsRGF0YUxpc3QgaG90ZWxEYXRhTGlzdCwgU2VhcmNoSG90ZWxEYXRhUmVxdWVzdCByZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KW5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigyKQogICAgew==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gd2FybmluZ0xvZ1RhZyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigyKQogICAgewo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFByb2Nlc3NEYXRhKEhvdGVsRGF0YUxpc3QgaG90ZWxEYXRhTGlzdCwgU2VhcmNoSG90ZWxEYXRhUmVxdWVzdCByZXF1ZXN0KQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">KW5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigyKQogICAgew==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIE1hcDxTdHJpbmcsIFN0cmluZz4gd2FybmluZ0xvZ1RhZyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgc3RyaW5nPigyKQogICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text>s/const string/static String/</text>
