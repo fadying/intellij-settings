@@ -9,4 +9,12 @@
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bTODO: 412\b.*" />
+    <filter name="412">
+      <pattern index="2" />
+    </filter>
+  </component>
 </application>
