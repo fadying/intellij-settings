@@ -35,6 +35,9 @@
         <mark key="]" line="61" column="5" />
         <mark key="." line="61" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1493956280950">
+        <mark key="[" line="75" column="3" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/dubbo/greeting/GreetingServiceTest.java" timestamp="1492506023332">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="0" column="28" />
@@ -49,6 +52,7 @@
         <mark key="^" line="163" column="149" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/LazySearch/RouteProcessCore.cs" timestamp="1493954656479" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/FW/ProcessNormalRoute.cs" timestamp="1493956044012" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/Parallels.java" timestamp="1492684162027">
         <mark key="[" line="65" column="5" />
         <mark key="]" line="18" column="23" />
@@ -242,9 +246,6 @@
         <mark key="^" line="33" column="7" />
       </file>
       <file name="/GenericExtends.cs" timestamp="1493885485891" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypes/CorpMemberSearch.java" timestamp="1493899347034">
-        <mark key="'" line="20" column="13" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresetters/DiffScore.java" timestamp="1492510493622">
         <mark key="[" line="20" column="10" />
         <mark key="]" line="20" column="27" />
@@ -310,7 +311,7 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/HotelBossInfo.java" timestamp="1493892655171">
         <mark key="[" line="28" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493955407088">
+      <file name="/Dummy.txt" timestamp="1493956058876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -739,6 +740,13 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" timestamp="1493955680130">
+        <mark key="'" line="57" column="15" />
+        <mark key="[" line="57" column="36" />
+        <mark key="]" line="57" column="10" />
+        <mark key="^" line="57" column="10" />
+        <mark key="." line="57" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/CouponInfo.java" timestamp="1493867526208">
         <mark key="[" line="314" column="101" />
         <mark key="]" line="153" column="106" />
@@ -753,7 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="103" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="136" column="46" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="127" column="4" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
       <jump line="47" column="40" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/test/java/com/ctrip/hotel/search/common/parallels/ParallelsTest.java" />
@@ -853,6 +860,7 @@
       <jump line="17" column="12" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/AutomaticLogic.java" />
       <jump line="18" column="67" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/AutomaticLogic.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" />
+      <jump line="57" column="15" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessRouteUtil.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
