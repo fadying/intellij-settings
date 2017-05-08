@@ -480,7 +480,7 @@
         <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/DynamicSearch/GetShadowMinPriceData.cs" timestamp="1493973765835" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/InternalEntity/ScaleableBitmapDictionaryForMutilDayV2.cs" timestamp="1494237107019" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/InternalEntity/ScaleableBitmapDictionaryForMutilDayV2.cs" timestamp="1494238170793" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypeslazy/OnLineIntlGTASearchLazy.java" timestamp="1493894943574">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -810,11 +810,12 @@
         <mark key="^" line="53" column="37" />
         <mark key="." line="53" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" timestamp="1494237090772">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="2" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" timestamp="1494238868915">
+        <mark key="'" line="173" column="12" />
+        <mark key="[" line="194" column="41" />
+        <mark key="]" line="194" column="41" />
+        <mark key="^" line="194" column="11" />
+        <mark key="." line="194" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomselectors/RoomInCacheSelector_Pos.java" timestamp="1493121588643">
         <mark key="[" line="98" column="0" />
@@ -850,7 +851,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="111" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
       <jump line="44" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
       <jump line="68" column="75" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
       <jump line="98" column="78" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
@@ -950,6 +950,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/HotelIndexLevelOneV2.java" />
       <jump line="241" column="39" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
       <jump line="340" column="44" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="173" column="12" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -976,10 +977,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vLyA=</text>
+        <text>removedValue</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vLyA=</text>
+        <text>removedValue</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -987,42 +988,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8Um9vbVRpY2tldEdpZnRSZWxhdGlvbkVudGl0eT4gdGVtcFNldCA9IE1vcmVPYmplY3RzLmZpcnN0Tm9uTnVsbCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC50cnlHZXRWYWx1ZShpbmZvLmdldEtleSgpKSwgTGlzdHMubmV3QXJyYXlMaXN0KCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY3RyaXAuaG90ZWwuc2VhcmNoLmludGVybmFsZW50aXR5OwoKLyoqCiAqIENyZWF0ZWQgYnkgb3V5YW5ncyBvbiAyMDE3LzUvOC4KICovCnB1YmxpYyBjbGFzcyBTY2FsZWFibGVCaXRtYXBEaWN0aW9uYXJ5Rm9yTXV0aWxEYXlWMiB7Cn0K</text>
+      <register name="1" type="4">
+        <text>;
+        if (daynum == 1) {
+            index = getIndex(dateOffset);
+        } else {</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>cacheElem.RoomTicketGiftsDetailID = addElem.RoomTicketGiftsDetailID;
-        cacheElem.RoomTicketGiftId = addElem.RoomTicketGiftId;
-        cacheElem.RoomTypeId = addElem.RoomTypeId;
-        cacheElem.StartDate = addElem.StartDate;
-        cacheElem.EndDate = addElem.EndDate;
-        cacheElem.ArrivalDate = addElem.ArrivalDate;
-        cacheElem.DepartureDate = addElem.DepartureDate;
-        cacheElem.PaymentType = addElem.PaymentType;</text>
+        <text encoding="base64">IDoKICAgICAgICAgICAgICAgIFNjYWxlYWJsZUJpdG1hcERpY3Rpb25hcnlGb3JNdXRpbERheUNvbmZpZy5DYXBhY2l0eUZvckZpcnN0RGF5KQ==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogICAgICAgIHZhciBjYWNoZUVsZW0gPSBmcm9tIFJvb21UaWNrZXRHaWZ0UmVsYXRpb25FbnRpdHkgdCBpbiBjYWNoZVNldAogICAgICAgIHdoZXJlIHQuUm9vbVRpY2tldEdpZnRzRGV0YWlsSUQgPT0gYWRkRWxlbS5Sb29tVGlja2V0R2lmdHNEZXRhaWxJRAogICAgICAgIHNlbGVjdCB0OwogICAgICAgIHZhciByb29tVGlja2V0UmVsYXRpb25zID0gY2FjaGVFbGVtIGFzIFJvb21UaWNrZXRHaWZ0UmVsYXRpb25FbnRpdHlbXSA/PyBjYWNoZUVsZW0uVG9BcnJheSgpOwogICAgICAgIGlmICghcm9vbVRpY2tldFJlbGF0aW9ucy5BbnkoKSkKICAgICAgICB7CiAgICAgICAgICAgIGNhY2hlU2V0LkFkZChhZGRFbGVtKTsKICAgICAgICB9CiAgICAgICAgZWxzZQogICAgICAgIHsKICAgICAgICAgICAgVXBkYXRlRW50aXR5KHJvb21UaWNrZXRSZWxhdGlvbnNbMF0sIGFkZEVsZW0pOwogICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdGF0dXNbMF0gPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZlByZXNlbnQodCAtPiBVcGRhdGVFbnRpdHkodCwgYWRkRWxlbSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBzZXRJbmRleChpbmRleCwgc2V0RW50aXR5T3JGaW5kU2FtZU9uZShpbmRleCwgdmFsdWUsIDEpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZGF5bnVtID4gMSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gY2FjaGVTZXQuYWRkKGFkZEVsZW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2UoKCkgLT4gewo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBpbnQgZW50aXR5Q2FwYWNpdHkgPSA0OwogICAgICAgIF92YWx1ZUxpc3QgPSBuZXcgQXJyYXlMaXN0PD4oZW50aXR5Q2FwYWNpdHkpOwogICAgICAgIF9pbmRleGRhdGFGb3JNdXRpbCA9IG5ldyBjaGFyWzRdOwogICAgICAgIHNldExhc3RJbmRleCgoc2hvcnQpIC0xLCBfaW5kZXhkYXRhRm9yTXV0aWwpOwogICAgICAgIGlmIChfYml0c1Blckl0ZW1NYXBwaW5nICE9IG51bGwgJiYgX2JpdHNQZXJJdGVtTWFwcGluZy5sZW5ndGggPiBlbnRpdHlDYXBhY2l0eSkgewogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQogICAgICAgIGNyZWF0ZUJpdE1hcEluZGV4KGVudGl0eUNhcGFjaXR5KTs=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcnJheUxpc3Q8Um9vbVRpY2tldEdpZnRSZWxhdGlvbkVudGl0eT4gdGVtcFNldCA9IE1vcmVPYmplY3RzLmZpcnN0Tm9uTnVsbCgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdC50cnlHZXRWYWx1ZShpbmZvLmdldEtleSgpKSwgTGlzdHMubmV3QXJyYXlMaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzZXRMYXN0SW5kZXgoKHNob3J0KSAtMSwgX2luZGV4ZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICBfaW5kZXhkYXRhID0gbmV3IGNoYXJbNF07Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
