@@ -120,6 +120,7 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="12" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/CacheManager.java" timestamp="1494230483377" />
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/resources/b.json" timestamp="1492506402788">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="221" column="0" />
@@ -148,6 +149,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/SetOvsPriceFilter.java" timestamp="1494216281772" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Solution/Hotel.Product.SearchService.CommonCore/Config/SearchConfig.cs" timestamp="1493888632044" />
+      <file name="/StartupManager.cs" timestamp="1494230434754" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/sortroom/a" timestamp="1493979594063">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="35" column="99" />
@@ -571,6 +573,7 @@
         <mark key="." line="8" column="53" />
         <mark key="^" line="8" column="53" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Runtime/StartupManager.cs" timestamp="1494230446650" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/Coupon.java" timestamp="1494224722236">
         <mark key="[" line="279" column="5" />
         <mark key="]" line="281" column="34" />
@@ -689,6 +692,7 @@
         <mark key="^" line="281" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/StaticSearch/InterFaceHotelRoomPictureInfo.cs" timestamp="1493891812542" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Runtime/CacheManageHandler.cs" timestamp="1494230637048" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessAutomaticRoute.java" timestamp="1493965756289">
         <mark key="[" line="37" column="2" />
         <mark key="]" line="37" column="19" />
@@ -702,6 +706,12 @@
         <mark key="]" line="11" column="10" />
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-webservice/src/main/java/com/ctrip/hotel/search/web/controller/CacheManageHandler.java" timestamp="1494230682870">
+        <mark key="[" line="240" column="16" />
+        <mark key="]" line="240" column="16" />
+        <mark key="." line="240" column="16" />
+        <mark key="^" line="240" column="63" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/AddNessaryStaticInfo.java" timestamp="1493893593338">
         <mark key="[" line="27" column="105" />
@@ -1042,11 +1052,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9leHRlbmRlZEluZGV4W2l0ZW0uZ2V0S2V5KCldID0gaXRlbS5WYWx1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>getInstance().</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>getInstance().</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
@@ -1055,34 +1065,34 @@
         <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXgucHV0KGN1ckxldmVsQ29kZSwgY3VyTGV2ZWxJbmRleCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9leHRlbmRlZEluZGV4W2l0ZW0uZ2V0S2V5KCldID0gaXRlbS5WYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICIiOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9leHRlbmRlZEluZGV4W2l0ZW0uZ2V0S2V5KCldID0gaXRlbS5WYWx1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gaG90ZWxJbmRleDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
