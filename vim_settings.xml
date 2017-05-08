@@ -100,6 +100,7 @@
         <mark key="." line="219" column="58" />
         <mark key="^" line="81" column="54" />
       </file>
+      <file name="/CurrencyServiceImpl.cs" timestamp="1494227634226" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/SetPriceFilter.java" timestamp="1493885157098" />
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/web/util/JsonCompareUtilTest.java" timestamp="1492505442085">
         <mark key="[" line="15" column="0" />
@@ -278,6 +279,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Services/HotelGeoHashIndex/V2/GeohashInfo.cs" timestamp="1494229234673" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessAutomaticUtil.java" timestamp="1493963614191" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/IDynamicInfo.java" timestamp="1493877044332">
         <mark key="[" line="94" column="0" />
@@ -294,6 +296,13 @@
         <mark key="]" line="209" column="8" />
         <mark key="." line="209" column="8" />
         <mark key="^" line="209" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" timestamp="1494230197701">
+        <mark key="'" line="234" column="39" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="309" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/pom.xml" timestamp="1492415528806">
         <mark key="[" line="32" column="21" />
@@ -367,6 +376,7 @@
         <mark key="^" line="142" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/PriceInfoEntity.java" timestamp="1494215991986" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Services/HotelGeoHashIndex/V2/GeohashDataWarpper.cs" timestamp="1494227700541" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/DynamicSearch/RoomTicketPriceProcess.cs" timestamp="1493966349245" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/LazySearch/AutomaticLogic.cs" timestamp="1493955161218" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/SSContext.java" timestamp="1493030650008">
@@ -658,6 +668,12 @@
         <mark key="^" line="189" column="130" />
         <mark key="." line="243" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashDataWarpper.java" timestamp="1494229317511">
+        <mark key="[" line="82" column="14" />
+        <mark key="]" line="82" column="15" />
+        <mark key="^" line="76" column="69" />
+        <mark key="." line="76" column="86" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomNumberGuaranteeInfo.java" timestamp="1493877504848">
         <mark key="'" line="194" column="0" />
         <mark key="[" line="186" column="24" />
@@ -680,6 +696,7 @@
         <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Business/SearchFactory/FW/IProcessLazyFactory.cs" timestamp="1493965585851" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/Services/HotelGeoHashIndex/V2/GeohashInfoEntityV2.cs" timestamp="1494229067806" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/HotelDynamicInfo.java" timestamp="1493966756654">
         <mark key="[" line="11" column="2" />
         <mark key="]" line="11" column="10" />
@@ -900,23 +917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="12" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/parallels/Parallels.java" />
-      <jump line="174" column="33" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheBase.java" />
-      <jump line="177" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" />
-      <jump line="154" column="78" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" />
-      <jump line="38" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/BreakFastFilter.java" />
-      <jump line="43" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomfilterrules/BreakFastFilter.java" />
-      <jump line="684" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" />
-      <jump line="219" column="53" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/constants/CatMessageTypes.java" />
-      <jump line="44" column="77" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleBaseCheckBusiness.java" />
-      <jump line="45" column="4" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleBaseCheckBusiness.java" />
-      <jump line="3325" column="55" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" />
-      <jump line="249" column="9" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/conditionentity/RoomTicketGiftsParamsV2.java" />
-      <jump line="283" column="10" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForDomesticBusiness.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForDomesticBusiness.java" />
       <jump line="138" column="111" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
       <jump line="44" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" />
       <jump line="68" column="75" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/RoomSaleChannelDataInfoCleanUp.java" />
@@ -1000,6 +1000,23 @@
       <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/ITicketGifts.java" />
       <jump line="139" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/BaseTicketGifts.java" />
       <jump line="12" column="62" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/HotelOwnedTicketGifts.java" />
+      <jump line="128" column="54" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="274" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="131" column="35" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="272" column="26" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="155" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="301" column="31" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="141" column="52" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/base/MoreObjects.java" />
+      <jump line="168" column="19" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="154" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="212" column="56" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="221" column="47" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="215" column="44" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/HotelIndexLevelOneV2.java" />
+      <jump line="241" column="39" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
+      <jump line="340" column="44" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hotelgeohashindex/GeohashInfo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1025,64 +1042,63 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>cityId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9leHRlbmRlZEluZGV4W2l0ZW0uZ2V0S2V5KCldID0gaXRlbS5WYWx1ZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cityId</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>var</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdJbmZvLmFkZChTdHJpbmcuZm9ybWF0KCIoaWQ6JTEkcywgcnVsZUlkOiUyJHMpIEN1c3RvbWl6ZWRUaWNrZXRzyK+49tDUu6+0q7LOzqq/1SIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGlja2V0UnVsZS5nZXRUaWNrZXRHaWZ0c0lkKCksIHRpY2tldFJ1bGUuZ2V0SWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXgucHV0KGN1ckxldmVsQ29kZSwgY3VyTGV2ZWxJbmRleCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z0luZm8uYWRkKFN0cmluZy5mb3JtYXQoIihpZDolMSRzKSBDdXN0b21pemVkVGlja2V0c7Srss7Oqr/Vsbu5/cLLLiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aWNrZXRSdWxlLmdldFRpY2tldEdpZnRzSWQoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9leHRlbmRlZEluZGV4W2l0ZW0uZ2V0S2V5KCldID0gaXRlbS5WYWx1ZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdJbmZvLmFkZChTdHJpbmcuZm9ybWF0KCIoaWQ6JTEkcykgJTIkcy4iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpY2tldFJ1bGUuZ2V0VGlja2V0R2lmdHNJZCgpLCBSRUFTT05fRVhDTFVERURfQllfQ1VTVE9NSVpFRF9IT1RFTElEKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnSW5mby5hZGQoU3RyaW5nLmZvcm1hdCgiKGlkOiUxJHMpICUyJHMuIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGlja2V0UnVsZS5nZXRUaWNrZXRHaWZ0c0lkKCksIFJFQVNPTl9FWENMVURFRF9CWV9DVVNUT01JWkVEX0NJVFlJRCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2hvdGVsSW5kZXhbY3VyTGV2ZWxDb2RlXSA9IGN1ckxldmVsSW5kZXg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z0luZm8uYWRkKFN0cmluZy5mb3JtYXQoIihpZDolMSRzKSAlMiRzLiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRpY2tldFJ1bGUuZ2V0VGlja2V0R2lmdHNJZCgpLCBSRUFTT05fRVhDTFVERURfQllfQ1VTVE9NSVpFRF9DSVRZSUQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaG90ZWxJbmRleFtvcmdMZXZlbENvZGVdID0gb3JnTGV2ZWxJbmRleDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmIHNlYXJjaEhvdGVsUmVxdWVzdC5nZXRQdWJsaWNTZWFyY2hQYXJhbWV0ZXIoKS5nZXRIaWRkZUhvdGVsTGlzdEhhc2goKSAhPSBudWxsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiBzZWFyY2hIb3RlbFJlcXVlc3QuUHVibGljU2VhcmNoUGFyYW1ldGVyLkhpZGRlSG90ZWxMaXN0SGFzaC5Db3VudCA+IDAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQgY3VycmVudEhvdGVsID0gQ29udmVydC5Ub0ludDMyKGhvdGVsQXJyeVtpXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8SW50ZWdlcj4gdG9wSG90ZWxTZXQgPSBwdWJsaWNQYXJhbWV0ZXIuZ2V0VG9wU2V0SG90ZWxMaXN0SGFzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJR2VuZXJpY0xpc3Q8SG90ZWxEYXRhTGlzdD4gaHRsRGF0YUxpc3RzID0gcmVzcG9uc2UuZ2V0SG90ZWxEYXRhTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0ID0gaG90ZWxJbmRleDsK</text>
       </register>
       <register name=":" type="4">
-        <text>s/, /&quot;, &quot;/g</text>
+        <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LCA=</last-search>
+      <last-search>var</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LCA=</last-pattern>
-      <last-replace>&quot;, &quot;</last-replace>
-      <last-substitute encoding="base64">LCA=</last-substitute>
+      <last-pattern>var</last-pattern>
+      <last-replace>int</last-replace>
+      <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZVR5cGVcPg==</entry>
         <entry>todo</entry>
         <entry>缓存</entry>
         <entry encoding="base64">XDw7XD4=</entry>
@@ -1102,6 +1118,7 @@
         <entry>const string</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry encoding="base64">LCA=</entry>
+        <entry>var</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
@@ -1121,6 +1138,8 @@
         <entry>m</entry>
         <entry>mlist</entry>
         <entry>s/, /&quot;, &quot;/g</entry>
+        <entry encoding="base64">JzwsJz5zL3Zhci9pbnQv</entry>
+        <entry encoding="base64">JzwsJz5zL3Zhci9pbnQ=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
