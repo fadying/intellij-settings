@@ -9,6 +9,7 @@
         <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectLazyProcess.java" timestamp="1494384117046" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" timestamp="1494385815580" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/AddNessaryStaticInfo.java" timestamp="1493893593338">
         <mark key="[" line="27" column="105" />
         <mark key="]" line="27" column="105" />
@@ -50,7 +51,7 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/FacadeExtendFunction.java" timestamp="1494326075569" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Facade/SearchServiceFace/SOA2/SearchDirection.cs" timestamp="1494323252787" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" timestamp="1494384416159" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterRoomForLazy.java" timestamp="1494384122146">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterRoomForLazy.java" timestamp="1494385649476">
         <mark key="'" line="374" column="19" />
         <mark key="[" line="390" column="24" />
         <mark key="]" line="390" column="24" />
@@ -66,6 +67,7 @@
         <mark key="]" line="180" column="8" />
         <mark key="." line="174" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendListIndex.java" timestamp="1494386005356" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/filterscence/MapScence.java" timestamp="1494333183551" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/RoomStatusInfoMultiDayBusinessBitMap.java" timestamp="1494325109846">
         <mark key="[" line="19" column="0" />
@@ -104,10 +106,11 @@
         <mark key="]" line="224" column="66" />
         <mark key="." line="224" column="66" />
       </file>
-      <file name="/fragment.java" timestamp="1494383480456">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+      <file name="/fragment.java" timestamp="1494385996455">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
     </filemarks>
     <jumps>
