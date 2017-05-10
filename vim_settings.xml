@@ -26,11 +26,11 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/LowStarHotelRecommend.java" timestamp="1493966996984">
         <mark key="[" line="255" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/RoomBaseInfoV4Business.java" timestamp="1494406340377">
-        <mark key="[" line="38" column="54" />
-        <mark key="]" line="38" column="54" />
-        <mark key="." line="38" column="54" />
-        <mark key="^" line="38" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/RoomBaseInfoV4Business.java" timestamp="1494406492129">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="34" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/DynamicInfo.java" timestamp="1494402835632" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/MasterHotelFilter.java" timestamp="1494390631918">
@@ -252,40 +252,42 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIF9tYXN0ZXJCYXNlUm9vbVBvc2l0aW9uUXVlcnkgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgX2hvdGVsUG9zaXRpb25RdWVyeSA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Ib3RlbFBvc2l0aW9uRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfc3ViQmFzZVJvb21Qb3NpdGlvblF1ZXJ5ICAgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uU3ViQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgICAgIF9zdWJSb29tUG9zaXRpb25RdWVyeSAgICAgICA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Sb29tUG9zaXRpb25EYXRhKTsKICAgICAgICBfc3ViSG90ZWxQb3NpdGlvblF1ZXJ5ICAgICAgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uTm9TaGFyZUhvdGVsUG9zaXRpb25EYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>var</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ID0gQ2FjaGVQb3NpdGlvbk1hbmFnZXIuSW5zdGFuY2UuZ2V0UG9zaXRpb25RdWVyeShDYWNoZVR5cGVFbnVtLkhvdGVsUG9zaXRpb25EYXRhKTs=</text>
+      <register name="0" type="8">
+        <text>= CachePositionManager.Instance.getPositionQuery(CacheTypeEnum.SubBaseRoomPositionData);
+= CachePositionManager.Instance.getPositionQuery(CacheTypeEnum.RoomPositionData);
+= CachePositionManager.Instance.getPositionQuery(CacheTypeEnum.NoShareHotelPositionData);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9tYXN0ZXJCYXNlUm9vbVBvc2l0aW9uUXVlcnkgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgX2hvdGVsUG9zaXRpb25RdWVyeSA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Ib3RlbFBvc2l0aW9uRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBfc3ViQmFzZVJvb21Qb3NpdGlvblF1ZXJ5ICAgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uU3ViQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgICAgIF9zdWJSb29tUG9zaXRpb25RdWVyeSAgICAgICA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Sb29tUG9zaXRpb25EYXRhKTsKICAgICAgICBfc3ViSG90ZWxQb3NpdGlvblF1ZXJ5ICAgICAgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uTm9TaGFyZUhvdGVsUG9zaXRpb25EYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIF9tYXN0ZXJCYXNlUm9vbVBvc2l0aW9uUXVlcnkgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgX2hvdGVsUG9zaXRpb25RdWVyeSA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Ib3RlbFBvc2l0aW9uRGF0YSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIF9zdWJCYXNlUm9vbVBvc2l0aW9uUXVlcnkgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uU3ViQmFzZVJvb21Qb3NpdGlvbkRhdGEpOwogICAgX3N1YlJvb21Qb3NpdGlvblF1ZXJ5ICAgICA9IENhY2hlUG9zaXRpb25NYW5hZ2VyLkluc3RhbmNlLmdldFBvc2l0aW9uUXVlcnkoQ2FjaGVUeXBlRW51bS5Sb29tUG9zaXRpb25EYXRhKTsKICAgIF9zdWJIb3RlbFBvc2l0aW9uUXVlcnkgICAgPSBDYWNoZVBvc2l0aW9uTWFuYWdlci5JbnN0YW5jZS5nZXRQb3NpdGlvblF1ZXJ5KENhY2hlVHlwZUVudW0uTm9TaGFyZUhvdGVsUG9zaXRpb25EYXRhKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgcHJvdGVjdGVkIEphY2tzb25TZXJpYWxpemVyQ29udmVydGVyIGluaXRDb252ZXJ0ZXIoKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHB1YmxpYyB2b2lkIHByb2Nlc3NGdWxsQ2FjaGVQYWNrKE1hcDxJbnRlZ2VyLCBEeW5hbWljRGF0YVYyRm9yTXVsdGlEYXlWMzxCb29sZWFuPj4gcGFjaywgSUNhY2hlRGF0YTxJbnRlZ2VyLCBTY2FsZWFibGVCaXRtYXBEaWN0aW9uYXJ5Rm9yTXV0aWxEYXlWMjxCb29sZWFuPj4gZGVzdCwgUmVmcmVzaExvZ0luZm8gbG9nKSB7CgogIH0KCiAgcHVibGljIFN0cmluZyBjYWNoZU5hbWUoKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIHB1YmxpYyBpbnQgZnVsbFJlZnJlc2hJbnRlcnZhbCgpIHsKICAgIHJldHVybiAwOwogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHN1cGVyKGNhY2hlVHlwZSwgdHlwZSk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgUm9vbVN0YXR1c0luZm9NdWx0aURheUJ1c2luZXNzQml0TWFwKENhY2hlVHlwZUVudW0gY2FjaGVUeXBlLCBDbGFzcyB0eXBlKSB7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgUm9vbVN0YXR1c0luZm9NdWx0aURheUJ1c2luZXNzQml0TWFwKENhY2hlVHlwZUVudW0gY2FjaGVUeXBlLCBDbGFzcyB0eXBlKSB7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
