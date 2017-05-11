@@ -31,7 +31,9 @@
         <mark key="[" line="255" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectUtil.java" timestamp="1494420494329" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/RoomTicketPriceProcess.java" timestamp="1494496149723" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/RoomTicketPriceProcess.java" timestamp="1494496274989">
+        <mark key="'" line="181" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/DynamicInfo.java" timestamp="1494491684165">
         <mark key="'" line="106" column="42" />
       </file>
@@ -169,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="927" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" />
-      <jump line="51" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CutHotelListProcess.java" />
       <jump line="56" column="24" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CutHotelListProcess.java" />
       <jump line="58" column="57" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CountNumberEntityProcess.java" />
       <jump line="0" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Dictionary.java" />
@@ -269,6 +269,8 @@
       <jump line="151" column="22" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" />
       <jump line="75" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendDictionaryIndex.java" />
       <jump line="23" column="23" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/ICacheExtendIndex.java" />
+      <jump line="185" column="32" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/RoomTicketPriceProcess.java" />
+      <jump line="181" column="22" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/RoomTicketPriceProcess.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -403,7 +405,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
