@@ -13,7 +13,7 @@
         <mark key="'" line="151" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectUtil.java" timestamp="1494420494329" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/DynamicInfo.java" timestamp="1494491562070">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/dynamicinfo/DynamicInfo.java" timestamp="1494491684165">
         <mark key="'" line="106" column="42" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/MasterHotelFilter.java" timestamp="1494475141375">
@@ -40,6 +40,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/SSContext.java" timestamp="1494320130367" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/HotelFacilitiesEntity.java" timestamp="1494325396864" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendDictionaryIndex.java" timestamp="1494492110383">
+        <mark key="'" line="75" column="41" />
+        <mark key="[" line="76" column="57" />
+        <mark key="]" line="76" column="60" />
+        <mark key="." line="76" column="60" />
+        <mark key="^" line="76" column="60" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/HotelIndexTree.java" timestamp="1494413013098" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/NoShareHotelBaseIDataBusiness.java" timestamp="1494406386411" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/HotelBaseInfoEntity.java" timestamp="1494411705024">
@@ -68,7 +75,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/BasicRoomTypeMappingHandler.java" timestamp="1494481786142" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/dashboardmetrics/MetricBase.java" timestamp="1494400076896" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendListIndex.java" timestamp="1494487439632" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendListIndex.java" timestamp="1494492164416" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/filterscence/MapScence.java" timestamp="1494333183551" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/SearchServer/SearchServer/Caches/RedisCaches/DynamicInfo/DynamicInfo.cs" timestamp="1494491599827" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/filterscence/CityScence.java" timestamp="1494484714199">
@@ -104,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1009" column="6" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetShadowRoomData.java" />
       <jump line="120" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetShadowMinPriceData.java" />
       <jump line="927" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" />
       <jump line="51" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CutHotelListProcess.java" />
@@ -204,6 +210,7 @@
       <jump line="61" column="49" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/filterscence/CityScence.java" />
       <jump line="176" column="33" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectLazyProcess.java" />
       <jump line="151" column="22" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" />
+      <jump line="75" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/CacheExtendDictionaryIndex.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -230,10 +237,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICYmIGhvdGVsTm9TaGFyZUluZm8uZ2V0TWFzdGVySG90ZWxJZCgpICE9IC0x</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICYmIGhvdGVsTm9TaGFyZUluZm8uZ2V0TWFzdGVySG90ZWxJZCgpICE9IC0x</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhTGlzdFw+</text>
