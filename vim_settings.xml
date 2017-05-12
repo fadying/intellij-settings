@@ -134,6 +134,13 @@
         <mark key="^" line="36" column="36" />
         <mark key="." line="36" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/resources/qdb_rule.xml" timestamp="1494560742470">
+        <mark key="'" line="61" column="41" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="41" />
+        <mark key="^" line="69" column="41" />
+        <mark key="." line="69" column="41" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" timestamp="1494502700989">
         <mark key="'" line="68" column="21" />
       </file>
@@ -208,10 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CountNumberEntityProcess.java" />
-      <jump line="3448" column="13" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/BaseTicketGifts.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/ITicketGifts.java" />
       <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/ITicketGifts.java" />
       <jump line="139" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/BaseTicketGifts.java" />
       <jump line="12" column="62" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/HotelOwnedTicketGifts.java" />
@@ -308,6 +311,10 @@
       <jump line="83" column="30" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/RoomConfirmStatusDataBusiness.java" />
       <jump line="68" column="21" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" />
       <jump line="95" column="21" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectProcess.java" />
+      <jump line="37" column="40" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/resources/qdb_rule.xml" />
+      <jump line="44" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/resources/qdb_rule.xml" />
+      <jump line="52" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/resources/qdb_rule.xml" />
+      <jump line="61" column="41" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-data/src/main/resources/qdb_rule.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -334,13 +341,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>InD</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>InD</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhTGlzdFw+</text>
+        <text>2</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBSb29tQ29uZmlybVN0YXR1c0VudGl0eSB0ZW1wID0gcm9vbUNvbmZpcm1TdGF0dXNFbnRpdHkgPT0gbnVsbCA/IG51bGwgOiBEYXRhRW50aXRpZXNWMi5nZXQocm9vbUNvbmZpcm1TdGF0dXNFbnRpdHkpOwogICAgICAgICAgICAgICAgICAgIGlmICh0ZW1wID09IG51bGwgJiYgcm9vbUNvbmZpcm1TdGF0dXNFbnRpdHkgIT0gbnVsbCkgewo=</text>
@@ -380,9 +387,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhTGlzdFw+</last-search>
+      <last-search>2</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhTGlzdFw+</last-pattern>
+      <last-pattern>2</last-pattern>
       <last-replace>int</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -390,7 +397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>缓存</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxsYXN0RnVsbFJlZnJlc2hTdGFydFRpbWVcPg==</entry>
         <entry>cache</entry>
@@ -410,6 +416,7 @@
         <entry encoding="base64">LCA=</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxkYXRhTGlzdFw+</entry>
+        <entry>2</entry>
       </history-search>
       <history-cmd>
         <entry>reg</entry>
