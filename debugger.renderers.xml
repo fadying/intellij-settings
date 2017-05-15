@@ -28,6 +28,18 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.ctrip.hotel.search.internalentity.searchresponse.SearchHotelDataResponse" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.ctrip.hotel.search.internalentity.searchresponse.SearchHotelDataResponse" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.ctrip.hotel.search.internalentity.searchresponse.SearchHotelDataResponse" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="getHotelDataList()&#13;&#13;JAVA" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="java.lang.String" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.String" />
