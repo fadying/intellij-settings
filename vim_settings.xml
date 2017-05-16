@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1494844243866">
+      <file name="/Dummy.txt" timestamp="1494904801733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1494902304726">
-        <mark key="'" line="939" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1494904663531">
+        <mark key="'" line="245" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/LazyModeLogic.java" timestamp="1494584878042">
         <mark key="[" line="101" column="70" />
@@ -29,6 +29,12 @@
         <mark key="]" line="249" column="4" />
         <mark key="." line="249" column="4" />
         <mark key="^" line="249" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/HotelOptionalEntity.java" timestamp="1494904800553">
+        <mark key="[" line="117" column="10" />
+        <mark key="]" line="117" column="12" />
+        <mark key="." line="117" column="12" />
+        <mark key="^" line="117" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" timestamp="1494844141831">
         <mark key="[" line="255" column="13" />
@@ -68,9 +74,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" />
-      <jump line="232" column="54" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" />
-      <jump line="290" column="72" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/ScaleableBitmapDictionaryForMutilDayV2.java" />
       <jump line="121" column="5" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/dynamiccache/DynamicDataV2ForMultiDayV3.java" />
       <jump line="106" column="8" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/SSContext.java" />
       <jump line="29" column="40" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/SSContext.java" />
@@ -168,6 +171,9 @@
       <jump line="31" column="10" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/staticcache/RoomPriceInfoIntlMultiDay.java" />
       <jump line="939" column="12" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
       <jump line="944" column="17" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
+      <jump line="434" column="107" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
+      <jump line="319" column="82" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
+      <jump line="245" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -193,11 +199,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVzcG9uc2UuZ2V0U2VhcmNoU3RhdGVFbnRpdHkoKS5nZXRNaW5Sb29tUHJpY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Integer</text>
       </register>
       <register name="-" type="4">
-        <text>412 ovs service</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
