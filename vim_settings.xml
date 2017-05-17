@@ -80,7 +80,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1494937567399" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1494999919534">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" timestamp="1495002355743">
         <mark key="'" line="429" column="23" />
         <mark key="[" line="912" column="59" />
         <mark key="]" line="912" column="58" />
@@ -131,12 +131,12 @@
         <mark key="." line="79" column="19" />
         <mark key="^" line="79" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1494999851814">
+      <file name="/fragment.java" timestamp="1495002102830">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelOptionalServiceBusinessV4.java" timestamp="1494923788199" />
@@ -268,10 +268,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>()</text>
+        <text>get(0).getOptionalHotelID() == 6619</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>get(0).getOptionalHotelID() == 6619</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
