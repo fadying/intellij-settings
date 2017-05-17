@@ -4,7 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/SetHotelVendorListAndLogo.java" timestamp="1495016739832" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/util/DateCommonUtils.java" timestamp="1495006586459" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/util/DateCommonUtils.java" timestamp="1495024088231">
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="63" column="46" />
+      </file>
       <file name="/CountHotelNumberProcess.java" timestamp="1494919652289" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" timestamp="1494933415471">
         <mark key="'" line="241" column="45" />
@@ -15,12 +20,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" timestamp="1495016692571" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomStaticInfoEntity.java" timestamp="1494919779607" />
-      <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" timestamp="1495022081746">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="16" column="47" />
-        <mark key="." line="16" column="47" />
-        <mark key="^" line="16" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" timestamp="1495025189192">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomDInfoEntityMapper.java" timestamp="1495009040356" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/buildmethods/RefreshFromRedisMethod.java" timestamp="1495010208965" />
@@ -68,9 +71,6 @@
         <mark key="^" line="23" column="64" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/PublicParametersEntityMapper.java" timestamp="1495003732188" />
-      <file name="$USER_HOME$/IdeaProjects/test/test/pom.xml" timestamp="1495006849571">
-        <mark key="[" line="120" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-facade/src/main/java/com/ctrip/hotel/search/facade/sao2/mapper/HotelStaticInfoEntityMapper.java" timestamp="1495016388899" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" timestamp="1494844141831">
         <mark key="[" line="255" column="13" />
@@ -79,9 +79,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelLogoPictureBusinessV2.java" timestamp="1495019411179" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/hotelstaticinfo/SupplierInfoEntity.java" timestamp="1494919968684" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomStaticInfoEntityMapper.java" timestamp="1495006014047">
-        <mark key="[" line="48" column="13" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java" timestamp="1495022241030">
         <mark key="'" line="2191" column="0" />
       </file>
@@ -122,8 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" />
       <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" />
       <jump line="66" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" />
       <jump line="63" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/BaseRoomDataBusinessV2.java" />
@@ -222,6 +217,8 @@
       <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" />
       <jump line="1842" column="6" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java" />
       <jump line="2191" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java" />
+      <jump line="32" column="87" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" />
+      <jump line="33" column="1" filename="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -248,10 +245,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRGF0ZSgtNjIxMzU3OTg0MDAwMDBMKSk7Cg==</text>
+        <text encoding="base64">KWRkCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -260,34 +257,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoLTYyMTM1Nzk4NDAwMDAwTCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRGF0ZSgtNjIxMzU3OTg0MDAwMDBMKSk7Cg==</text>
+        <text encoding="base64">KWRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGVUaW1lKDEsIDEsIDEsIDAsIDApLCBuZXcgRGF0ZVRpbWUoMTk3MCwgMSwgMSwgMCwwKS5taWxsaXNPZkRheSgpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgYyAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLk1JTl9WQUxVRSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjYS5zZXRUaW1lWm9uZShUaW1lWm9uZS5nZXRUaW1lWm9uZSgiVVRDIikpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBEYXRlKDYyMTM1NTk2ODAwMDAwTCkpOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgRGF0ZSgtNjIxMzU3OTg0MDAwMDBMKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnNldENoYW5uZWxzKHNvdXJjZS5nZXRDaGFubmVsSWRTZXQoKSAhPSBudWxsID8gbmV3IEFycmF5TGlzdDw+KHNvdXJjZS5nZXRDaGFubmVsSWRTZXQoKSkgOiBDb2xsZWN0aW9ucy5FTVBUWV9MSVNUKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgYyAgIFN5c3RlbS5vdXQucHJpbnRsbihJbnRlZ2VyLk1JTl9WQUxVRSk7</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuTGlzdDxJbnRlZ2VyPiBsaXN0Q2hhbm5lbHMgPSBzb3VyY2UuZ2V0Q2hkZGFubmVsSWRTZXQoKSA9PSBudWxsID8gbnVsbCA6IExpc3RzLm5ld0FycmF5TGlzdChzb3VyY2UuZ2V0Q2hhbm5lbElkU2V0KCkpOwogICAgICAgIGlmIChsaXN0Q2hhbm5lbHMgIT0gbnVsbCkgewogICAgICAgICAgICBqYXZhLnV0aWwuQXJyYXlMaXN0PEludGVnZXI+IHQgPSBuZXcgamF2YS51dGlsLkFycmF5TGlzdChsaXN0Q2hhbm5lbHMuc2l6ZSgpKTsKICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGkgOiBsaXN0Q2hhbm5lbHMpIHsKICAgICAgICAgICAgICAgIHQuYWRkKGkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGl0ZW0uc2V0Q2hhbm5lbHModCk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKGludCkgKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuTGlzdDxJbnRlZ2VyPiBsaXN0Q2hhbm5lbHMgPSBzb3VyY2UuZ2V0Q2hkZGFubmVsSWRTZXQoKSA9PSBudWxsID8gbnVsbCA6IExpc3RzLm5ld0FycmF5TGlzdChzb3VyY2UuZ2V0Q2hhbm5lbElkU2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
