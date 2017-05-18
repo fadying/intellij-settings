@@ -8,6 +8,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-core/src/main/java/com/ctrip/hotel/search/core/util/DateCommonUtils.java" timestamp="1495074445369">
+        <mark key="[" line="62" column="48" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/tools/pom.xml" timestamp="1495006787578">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -49,10 +52,17 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/searchtypes/ProcessFactoryBase.java" timestamp="1495096980583" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/CouponTagInfo.java" timestamp="1495099572894">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/CouponTagInfo.java" timestamp="1495100745855">
         <mark key="'" line="148" column="41" />
+        <mark key="[" line="149" column="29" />
+        <mark key="]" line="149" column="27" />
+        <mark key="." line="149" column="27" />
+        <mark key="^" line="149" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/ConfigRefreshManager.java" timestamp="1495094420070" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomDInfoEntity.java" timestamp="1495101645986">
+        <mark key="[" line="51" column="50" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/Cache.java" timestamp="1494844141831">
         <mark key="[" line="255" column="13" />
         <mark key="]" line="255" column="13" />
@@ -63,7 +73,7 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495099550589">
+      <file name="/Dummy.txt" timestamp="1495101109247">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="0" />
@@ -74,6 +84,7 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/ListCacheData.java" timestamp="1495079626482" />
       <file name="/SearchConfig.java" timestamp="1495095463802" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/time/Instant.java" timestamp="1495026751556" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/RoomStatusProcessOnCacheOrDBData.java" timestamp="1495102018221" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" timestamp="1495092499502" />
       <file name="/fragment.java" timestamp="1495098230852">
         <mark key="a" line="0" column="0" />
@@ -210,17 +221,17 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC5zb3J0KHIgLT4gcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CollectionUtils.isEmpty(hotelTicketRules)</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>CollectionUtils.isEmpty(hotelTicketRules)</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IERhdGUoMSwgMCwgMSkuZ2V0VGltZSgpKTsK</text>
+      <register name="0" type="4">
+        <text>hotelTicketRules</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdC5zb3J0KHIgLT4gcik7Cg==</text>
