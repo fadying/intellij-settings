@@ -64,6 +64,11 @@
         <mark key="." line="149" column="27" />
         <mark key="^" line="149" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/HotelLogoEntityV2Mapper.java" timestamp="1495164650048">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="31" />
+        <mark key="." line="18" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/runtime/ConfigRefreshManager.java" timestamp="1495094420070" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomDInfoEntity.java" timestamp="1495101645986">
         <mark key="[" line="51" column="50" />
@@ -76,24 +81,24 @@
         <mark key="]" line="255" column="13" />
         <mark key="." line="255" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomStaticInfoEntityMapper.java" timestamp="1495164020974">
-        <mark key="[" line="94" column="53" />
-        <mark key="]" line="94" column="53" />
-        <mark key="." line="94" column="53" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomStaticInfoEntityMapper.java" timestamp="1495164144464">
+        <mark key="[" line="96" column="12" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java" timestamp="1495022241030">
         <mark key="'" line="2191" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495101109247">
+      <file name="/Dummy.txt" timestamp="1495164786541">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/selector/SearchDataSelector.java" timestamp="1495077387188" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/HotelUsedNamesInfo.java" timestamp="1495092878859" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/BuyoutInventoryInfo.java" timestamp="1495161333778" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftRuleCheckForRelationBusiness.java" timestamp="1495162564013" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1495090874448" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1495164501711" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/base/ListCacheData.java" timestamp="1495079626482" />
       <file name="/SearchConfig.java" timestamp="1495095463802" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/time/Instant.java" timestamp="1495026751556" />
@@ -236,10 +241,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getRoomCouponTagGiftIds</text>
+        <text>DateTime.MinValue</text>
       </register>
       <register name="-" type="4">
-        <text>getRoomCouponTagGiftIds</text>
+        <text>DateTime.MinValue</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -248,34 +253,34 @@
         <text>hotelTicketRules</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50Lk1JTgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxJbnRlZ2VyPiB0ID0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGkyID0gLnRvSW5zdGFudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50Lk1JTgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaS5lcXVhbHMoaTIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGkyID0gLnRvSW5zdGFudCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnN0YW50IGkgPSAudG9JbnN0YW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaS5lcXVhbHMoaTIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdC5zb3J0KHIgLT4gcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbnN0YW50IGkgPSAudG9JbnN0YW50KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGkgOiBsaXN0Um9vbVRpY2tldEdpZnRJZHMpIHsKICAgICAgICAgICAgICAgIHQuYWRkKGkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdC5zb3J0KHIgLT4gcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuTGlzdDxJbnRlZ2VyPiBsaXN0Um9vbVRpY2tldEdpZnRJZHMgPSBzb3VyY2UuZ2V0Um9vbVRpY2tldEdpZnRJZHMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChJbnRlZ2VyIGkgOiBsaXN0Um9vbVRpY2tldEdpZnRJZHMpIHsKICAgICAgICAgICAgICAgIHQuYWRkKGkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuTGlzdDxJbnRlZ2VyPiBsaXN0Um9vbVRpY2tldEdpZnRJZHMgPSBzb3VyY2UuZ2V0Um9vbVRpY2tldEdpZnRJZHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIGQgPSAoRGF0ZSkgaQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
