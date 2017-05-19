@@ -107,15 +107,15 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/RoomStatusProcessOnCacheOrDBData.java" timestamp="1495102090485" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/roomticketgifts/RoomTicketGiftsBusinessService.java" timestamp="1495161654115" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" timestamp="1495092499502" />
-      <file name="/fragment.java" timestamp="1495176550891">
+      <file name="/fragment.java" timestamp="1495177275279">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelAndFacilityIndexBusiness.java" timestamp="1495175011882" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelAndFacilityIndexBusiness.java" timestamp="1495177377960" />
     </filemarks>
     <jumps>
       <jump line="83" column="15" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelBaseIV3Business.java" />
@@ -244,10 +244,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>);</text>
+        <text>.collect(Collectors.toList())</text>
       </register>
       <register name="-" type="4">
-        <text>);</text>
+        <text>.collect(Collectors.toList())</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
