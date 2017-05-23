@@ -4,7 +4,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/common/DynamicToStaticBusiness.java" timestamp="1495446990048" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/DomesticAutoCashBackV2Process.java" timestamp="1495525469997" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/DomesticAutoCashBackV2Process.java" timestamp="1495526743161">
+        <mark key="'" line="121" column="79" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/HotelSequenceRuleBusiness.java" timestamp="1495441222549">
+        <mark key="[" line="349" column="23" />
+        <mark key="]" line="349" column="22" />
+        <mark key="." line="349" column="22" />
+        <mark key="^" line="349" column="22" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entity/src/main/java/com/ctrip/soa/hotel/product/searchservice/entity/RoomDInfoEntity.java" timestamp="1495444956740">
         <mark key="'" line="356" column="23" />
       </file>
@@ -20,6 +28,12 @@
         <mark key="'" line="356" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/test/test/web/src/test/java/com/ouyangsheng/test/web/util/TimeUtilTest.java" timestamp="1495425240375" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/MinPriceProcess.java" timestamp="1495526651810">
+        <mark key="[" line="210" column="98" />
+        <mark key="]" line="210" column="7" />
+        <mark key="^" line="210" column="7" />
+        <mark key="." line="210" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/DeadLineTimeEntity.java" timestamp="1495437057089" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/EditorCollectionInfoBusiness.java" timestamp="1495512867691" />
       <file name="$USER_HOME$/IdeaProjects/qunar/dev_training2/exam2/src/main/resources/logback.xml" timestamp="1495454544210" />
@@ -66,7 +80,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roomselectors/RoomDInfoCacheSelect.java" timestamp="1495453910543" />
       <file name="/SearchConfig.java" timestamp="1495432483192" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" timestamp="1495526184233">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" timestamp="1495526572105">
         <mark key="'" line="533" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1495525950124">
@@ -84,8 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="401" column="17" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterRoomForLazy.java" />
-      <jump line="1380" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterRoomForLazy.java" />
       <jump line="157" column="34" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelfilterrules/FilterRoomForLazy.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/rediscaches/ServiceSindicatorsDataBusiness.java" />
       <jump line="0" column="1" filename="/fragment.java" />
@@ -183,6 +195,8 @@
       <jump line="247" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomStaticInfoEntity.java" />
       <jump line="94" column="61" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomStaticInfoEntity.java" />
       <jump line="24" column="73" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/roomstaticinfo/RoomStaticInfoEntity.java" />
+      <jump line="121" column="79" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/roompricecomputer/DomesticAutoCashBackV2Process.java" />
+      <jump line="2275" column="24" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" />
       <jump line="533" column="25" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/searchrequest/PublicParametersEntity.java" />
     </jumps>
     <registers>
@@ -209,8 +223,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Comparator.naturalOrder()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZWFyY2hIb3RlbFJlcXVlc3RXaXJlbGVzcy5nZXRQdWJsaWNTZWFyY2hQYXJhbWV0ZXIoKS5zZXRDaGFubmVsTGlzdFNldCgpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>Comparator.naturalOrder()</text>
@@ -222,34 +236,34 @@
         <text>.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hIb3RlbFJlcXVlc3RXaXJlbGVzcy5nZXRQdWJsaWNTZWFyY2hQYXJhbWV0ZXIoKS5zZXRDaGFubmVsTGlzdFNldCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgQENvbmYoZGVzY3JpcHRpb24gPSAiyse38cb008O78cih1+6689K7zOzFxdDyt9bC37ytIikKICBwcml2YXRlIGJvb2xlYW4gZ2V0TGFzdERheVNjb3JlID0gZmFsc2U7</text>
+        <text encoding="base64">bmV3IEhhc2hTZXQ8SW50ZWdlcj4oKSB7CgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBhZGQoMik7CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgcHVibGljIGJvb2xlYW4gaXNHZXRMYXN0RGF5U2NvcmUoKSB7CiAgICByZXR1cm4gZ2V0TGFzdERheVNjb3JlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0R2V0TGFzdERheVNjb3JlKGJvb2xlYW4gZ2V0TGFzdERheVNjb3JlKSB7CiAgICB0aGlzLmdldExhc3REYXlTY29yZSA9IGdldExhc3REYXlTY29yZTsKICB9</text>
+        <text encoding="base64">CiAgQENvbmYoZGVzY3JpcHRpb24gPSAiyse38cb008O78cih1+6689K7zOzFxdDyt9bC37ytIikKICBwcml2YXRlIGJvb2xlYW4gZ2V0TGFzdERheVNjb3JlID0gZmFsc2U7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNob3J0IG91dE9mZnNldEluZGV4ID0gKHNob3J0KSBEYXRlQ29tbW9uVXRpbHMuZ2V0RGF5c0JldHdlZW4oZGljLmdldFN0YXJ0RGF0ZSgpLCBkdCk7IC8vILSryOvI1cbauvMs16q7u86qxqvSxsG/Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgcHVibGljIGJvb2xlYW4gaXNHZXRMYXN0RGF5U2NvcmUoKSB7CiAgICByZXR1cm4gZ2V0TGFzdERheVNjb3JlOwogIH0KCiAgcHVibGljIHZvaWQgc2V0R2V0TGFzdERheVNjb3JlKGJvb2xlYW4gZ2V0TGFzdERheVNjb3JlKSB7CiAgICB0aGlzLmdldExhc3REYXlTY29yZSA9IGdldExhc3REYXlTY29yZTsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChDb25maWd1cmF0aW9uVHlwZUNvbnN0LmdldFNlYXJjaENvbmZpZygpLmlzR2V0TGFzdERheVNjb3JlKCkpIHsK</text>
+        <text encoding="base64">ICAgIHNob3J0IG91dE9mZnNldEluZGV4ID0gKHNob3J0KSBEYXRlQ29tbW9uVXRpbHMuZ2V0RGF5c0JldHdlZW4oZGljLmdldFN0YXJ0RGF0ZSgpLCBkdCk7IC8vILSryOvI1cbauvMs16q7u86qxqvSxsG/Owo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgaWYgKGVudGl0eSAhPSBudWxsKSB7CiAgICAgICAgcmV0dXJuIGVudGl0eTsKICAgICAgfQogICAgfSBlbHNlIGlmICgoZGljLmdldEVudGl0eUxpc3QoKS5sZW5ndGggPiBvdXRPZmZzZXRJbmRleCAmJiBkaWMuZ2V0RW50aXR5TGlzdCgpW291dE9mZnNldEluZGV4XSAhPSBudWxsKQogICAgICAgIHx8IChkaWMuZ2V0RW50aXR5TGlzdCgpLmxlbmd0aCA+IGxhc3REYXRlT2Zmc2V0SW5kZXggJiYgZGljLmdldEVudGl0eUxpc3QoKVtsYXN0RGF0ZU9mZnNldEluZGV4XSAhPSBudWxsKQogICAgICAgIHx8IChkaWMuZ2V0RW50aXR5TGlzdCgpLmxlbmd0aCA+IGN1cnJlbnREYXRlT2Zmc2V0SW5kZXggJiYgZGljLmdldEVudGl0eUxpc3QoKVtjdXJyZW50RGF0ZU9mZnNldEluZGV4XSAhPSBudWxsKSkgewogICAgICAvLyC4w7qvyv3Wu8rHzqrBy8ihtcPKtczlCiAgICB9CiAgICByZXR1cm4gbnVsbDs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChDb25maWd1cmF0aW9uVHlwZUNvbnN0LmdldFNlYXJjaENvbmZpZygpLmlzR2V0TGFzdERheVNjb3JlKCkpIHsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Zhci9pbnQ=</text>
