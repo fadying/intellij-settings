@@ -40,7 +40,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CaculateHotelScore.java" timestamp="1495694253952" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/CaculateHotelScore.java" timestamp="1495696343179" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectLazyProcess.java" timestamp="1495539465183">
         <mark key="[" line="164" column="12" />
         <mark key="]" line="164" column="12" />
@@ -53,12 +53,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1495693361957" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/LazyModeFilter.java" timestamp="1495693606727" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/HotelDataIndexExtendsUtil.java" timestamp="1495695369779" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-configuration/src/main/java/com/ctrip/hotel/search/conf/config/SearchConfig.java" timestamp="1495443429455">
         <mark key="[" line="605" column="0" />
         <mark key="]" line="605" column="0" />
         <mark key="." line="605" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1495694211393" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1495695737228" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomStatusEntityMapper.java" timestamp="1495691426047" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/HotelStatusEntityMapper.java" timestamp="1495167813224">
         <mark key="[" line="131" column="128" />
@@ -72,12 +73,12 @@
         <mark key="]" line="166" column="28" />
         <mark key="." line="166" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1495694022956">
+      <file name="/fragment.java" timestamp="1495696345700">
         <mark key="a" line="0" column="38" />
         <mark key="'" line="0" column="1" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="65" />
+        <mark key="." line="0" column="65" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotellist/HotelDataSelectProcess.java" timestamp="1495604267452">
@@ -218,10 +219,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">aG90ZWxEYXRhSW5kZXguZ2V0U2NvcmUoKS5nZXRIb3RlbElEKCkg</text>
+        <text>.getMasterHotelId(response.getHotels().ge</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aG90ZWxEYXRhSW5kZXguZ2V0U2NvcmUoKS5nZXRIb3RlbElEKCkg</text>
+        <text>.getMasterHotelId(response.getHotels().ge</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
