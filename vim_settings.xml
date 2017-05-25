@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/GetRoomStatusProcess.java" timestamp="1495705285626" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/statics/GetRoomStatusProcess.java" timestamp="1495706721920" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/hotelscoresimplesetters/SimpleHotelPriceScoreBase.java" timestamp="1495691602182" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessLazyRoute.java" timestamp="1495693448600" />
       <file name="/CommonUtils.java" timestamp="1495679622853" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/FilterStaticDataProcess.java" timestamp="1495703389340" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/resources/rebel-remote.xml" timestamp="1495684516818" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/hotelstaticinfo/HotelStatusEntity.java" timestamp="1495700410751" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-internalentity/src/main/java/com/ctrip/hotel/search/internalentity/hotelstaticinfo/HotelStatusEntity.java" timestamp="1495707312036" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/CommonUtils.java" timestamp="1495680163293" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/SortAdjustment.java" timestamp="1495693200830">
         <mark key="'" line="34" column="24" />
@@ -29,8 +29,8 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/SearchHotelDataFacade.java" timestamp="1495693361957" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/LazyModeFilter.java" timestamp="1495693606727" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/utility/HotelDataIndexExtendsUtil.java" timestamp="1495695369779" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" timestamp="1495701026778" />
-      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1495703437265">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetHotelStatusProcess.java" timestamp="1495707588294" />
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/lazy/RouteProcessCore.java" timestamp="1495708149191">
         <mark key="[" line="279" column="85" />
         <mark key="]" line="279" column="85" />
         <mark key="." line="279" column="85" />
@@ -39,12 +39,13 @@
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-entitymapper/src/main/java/com/ctrip/hotel/search/entitymapper/RoomStatusEntityMapper.java" timestamp="1495691426047" />
       <file name="/SimpleHotelPriceScoreBase.java" timestamp="1495691204478" />
       <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/SortHotelWithShadowRooms.java" timestamp="1495693299057" />
-      <file name="/fragment.java" timestamp="1495704871912">
+      <file name="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-common/src/main/java/com/ctrip/hotel/search/common/utility/DebugHotelData.java" timestamp="1495706860638" />
+      <file name="/fragment.java" timestamp="1495708134248">
         <mark key="a" line="0" column="38" />
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="3" />
       </file>
     </filemarks>
@@ -175,10 +176,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>532874</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>532874</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
