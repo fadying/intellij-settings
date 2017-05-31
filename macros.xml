@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="getter">
+      <action id="EditorSelectWord" />
+      <action id="SurroundWithLiveTemplate" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="fix">
+      <action id="GotoNextError" />
+      <action id="StringManipulation.SwitchStyleAction" />
+    </macro>
+  </component>
+</application>
