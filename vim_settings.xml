@@ -29,7 +29,7 @@
         <mark key="]" line="83" column="70" />
         <mark key="." line="83" column="70" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1496289372576">
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1496290294083">
         <mark key="'" line="84" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/pom.xml" timestamp="1496288126774">
@@ -49,11 +49,17 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-supplier-product-adapter-api/1.6.26/qta-supplier-product-adapter-api-1.6.26-sources.jar!/com/qunar/hotel/qta/spa/service/OProductAdapterService.java" timestamp="1496288168568">
         <mark key="'" line="18" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" timestamp="1496287770304">
-        <mark key="'" line="53" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/support/log/LoggerX.java" timestamp="1496290304691">
+        <mark key="'" line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" timestamp="1496290328299">
+        <mark key="'" line="149" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/PriceCoreExecutor.java" timestamp="1496287329459">
         <mark key="'" line="70" column="63" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/OHotelHelper.java" timestamp="1496290214048">
+        <mark key="'" line="31" column="70" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" timestamp="1496287399276">
         <mark key="'" line="59" column="26" />
@@ -71,13 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="82" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
-      <jump line="245" column="38" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
-      <jump line="959" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
-      <jump line="91" column="20" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
-      <jump line="68" column="31" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-thirdparty/src/main/java/com/ctrip/soa/hotel/queryws/productservice/v1/HotelProductServiceClient.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/fw/ProcessNormalRoute.java" />
-      <jump line="68" column="22" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/services/hoteloptional/HotelOptionalCacheManagerV3.java" />
       <jump line="429" column="23" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/optional/HotelOptionalBusinessServiceImplV4.java" />
       <jump line="423" column="54" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-business/src/main/java/com/ctrip/hotel/search/biz/factory/dynamic/GetShadowRoomData.java" />
       <jump line="159" column="17" filename="$USER_HOME$/IdeaProjects/ctrip/HotelSearchService/hotel-product-search-caches/src/main/java/com/ctrip/hotel/search/caches/common/HotelBaseInfoExtends.java" />
@@ -170,7 +169,14 @@
       <jump line="18" column="10" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-supplier-product-adapter-api/1.6.26/qta-supplier-product-adapter-api-1.6.26-sources.jar!/com/qunar/hotel/qta/spa/service/OProductAdapterService.java" />
       <jump line="105" column="53" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" />
+      <jump line="26" column="30" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/OHotelHelper.java" />
+      <jump line="31" column="70" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/OHotelHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/bean/CacheResult.java" />
       <jump line="84" column="16" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" />
+      <jump line="145" column="29" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" />
+      <jump line="30" column="11" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/support/log/LoggerX.java" />
+      <jump line="45" column="24" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/support/log/LoggerX.java" />
+      <jump line="149" column="56" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -203,7 +209,7 @@
         <text>accept</text>
       </register>
       <register name="/" type="4">
-        <text>2</text>
+        <text encoding="base64">XDxPbmVLZXlWYWx1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgc3RlcENvc3QucmVzZXQoKS5zdGFydCgpOwo=</text>
@@ -243,9 +249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>2</last-search>
+      <last-search encoding="base64">XDxPbmVLZXlWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>2</last-pattern>
+      <last-pattern encoding="base64">XDxPbmVLZXlWYWx1ZVw+</last-pattern>
       <last-replace>int</last-replace>
       <last-substitute>var</last-substitute>
       <last-dir>1</last-dir>
@@ -253,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxsYXN0RnVsbFJlZnJlc2hTdGFydFRpbWVcPg==</entry>
         <entry>cache</entry>
         <entry encoding="base64">XDxmdWxsUmVmcmVzaFw+</entry>
@@ -273,6 +278,7 @@
         <entry>var</entry>
         <entry encoding="base64">XDxkYXRhTGlzdFw+</entry>
         <entry>2</entry>
+        <entry encoding="base64">XDxPbmVLZXlWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>bn</entry>
