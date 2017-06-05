@@ -56,10 +56,11 @@
       <file name="/fragment.java" timestamp="1496650896366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496650680561">
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="56" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496654179691">
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="32" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -188,11 +189,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0ID0gIWZpcnN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -201,7 +202,7 @@
         <text encoding="base64">ICAgICAgICBGdXR1cmVBZGFwdGVyPE9Ib3RlbFByb2R1Y3Q+IGZ1dHVyZSA9IChGdXR1cmVBZGFwdGVyPE9Ib3RlbFByb2R1Y3Q+KSBScGNDb250ZXh0LmdldENvbnRleHQoKQogICAgICAgICAgICAgICAgLjxPSG90ZWxQcm9kdWN0PiBnZXRGdXR1cmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0ID0gIWZpcnN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZmlyc3QgPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -210,27 +211,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdCA9IGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgT0hvdGVsUHJvZHVjdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0ID0gIWZpcnN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT0hvdGVsUHJvZHVjdCBvSG90ZWxQcm9kdWN0ID0gbmV3IE9Ib3RlbFByb2R1Y3QoKTsKICAgICAgICAgICAgb0hvdGVsUHJvZHVjdC5zZXRFcnJvclR5cGUoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaXJzdCA9IGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZnV0dXJlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBuZXcgT0hvdGVsUHJvZHVjdCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKE1vY2tTcGFQcm92aWRlci5jbGFzcywgYXJncyk7CiAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT0hvdGVsUHJvZHVjdCBvSG90ZWxQcm9kdWN0ID0gbmV3IE9Ib3RlbFByb2R1Y3QoKTsKICAgICAgICAgICAgb0hvdGVsUHJvZHVjdC5zZXRFcnJvclR5cGUoMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZnV0dXJlKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>@SpringBootApplication
-@ImportResource(&quot;classpath:mock-spa-provider.xml&quot;)
-@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class,HibernateJpaAutoConfiguration.class})</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKE1vY2tTcGFQcm92aWRlci5jbGFzcywgYXJncyk7CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIHdyYXBwZXJQcmljZS5nZXRJZCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
