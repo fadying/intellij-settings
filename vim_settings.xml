@@ -7,17 +7,23 @@
       <file name="/a.dummy" timestamp="1496384375547">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/resources/mock-spa-consumer.xml" timestamp="1496634907960">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="52" />
-        <mark key="." line="17" column="52" />
-        <mark key="^" line="10" column="106" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/resources/mock-spa-consumer.xml" timestamp="1496643877973">
+        <mark key="[" line="7" column="48" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.8/dubbo-3.2.8-sources.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.java" timestamp="1496635824814" />
       <file name="/Dummy.txt" timestamp="1496400051183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/resources/mock-spa-provider.xml" timestamp="1496644055002">
+        <mark key="[" line="15" column="84" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="84" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgentTest.java" timestamp="1496640099110">
         <mark key="'" line="83" column="0" />
@@ -26,7 +32,7 @@
         <mark key="^" line="54" column="11" />
         <mark key="." line="89" column="81" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1496640223373">
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1496644013379">
         <mark key="'" line="84" column="16" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="58" />
@@ -37,13 +43,19 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/MockDubboService.java" timestamp="1496643126463">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+      </file>
       <file name="/fragment.java" timestamp="1496640230223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496404419778">
-        <mark key="[" line="38" column="29" />
-        <mark key="]" line="38" column="30" />
-        <mark key="." line="38" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496643816012">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -173,10 +185,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKE1vY2tTcGFQcm92aWRlci5jbGFzcywgYXJncyk7CiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -184,8 +196,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBPV3JhcHBlclJlcXVlc3Qgd3JhcHBlclJlcXVlc3QgPSBuZXcgT1dyYXBwZXJSZXF1ZXN0KCk7CiAgICAgICAgcmVxdWVzdC5zZXRXcmFwcGVyUmVxdWVzdCh3cmFwcGVyUmVxdWVzdCk7CiAgICAgICAgd3JhcHBlclJlcXVlc3Quc2V0U3VwcGxpZXJJZChjYXNlSWQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIHdyYXBwZXJQcmljZS5nZXRJZCgpKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3ByaW5nQXBwbGljYXRpb24ucnVuKE1vY2tTcGFQcm92aWRlci5jbGFzcywgYXJncyk7CiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -193,26 +205,28 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5zZXRXcmFwcGVyUmVxdWVzdCh3cmFwcGVyUmVxdWVzdCk7Cg==</text>
+      <register name="3" type="4">
+        <text>@SpringBootApplication
+@ImportResource(&quot;classpath:mock-spa-provider.xml&quot;)
+@EnableAutoConfiguration(exclude={DataSourceAutoConfiguration.class,HibernateJpaAutoConfiguration.class})</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3RhUHJvZHVjdExpc3RBZ2VudC5pbnZva2VSZW1vdGVTeW5jKGJ1aWxkUmVxdWVzdCgzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKDEsIHdyYXBwZXJQcmljZS5nZXRJZCgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgT1Byb2R1Y3RBZGFwdGVyU2VydmljZSBvcHJvZHVjdEFkYXB0ZXJTZXJ2aWNlOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWVzdC5zZXRXcmFwcGVyUmVxdWVzdCh3cmFwcGVyUmVxdWVzdCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3RhUHJvZHVjdExpc3RBZ2VudC5pbnZva2VSZW1vdGVTeW5jKGJ1aWxkUmVxdWVzdCgzKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIGwuY291bnREb3duKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaXZhdGUgT1Byb2R1Y3RBZGFwdGVyU2VydmljZSBvcHJvZHVjdEFkYXB0ZXJTZXJ2aWNlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
