@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1496667134425">
+      <file name="/Dummy.txt" timestamp="1496716048348">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/resources/mock-spa-provider.xml" timestamp="1496655834657">
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/resources/mock-spa-provider.xml" timestamp="1496717339950">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="14" column="84" />
@@ -55,10 +55,10 @@
       <file name="/fragment.java" timestamp="1496656773905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496716012895">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/test/java/com/qunar/hotel/price/breeze/processor/agent/product/otamock/MockSpaProvider.java" timestamp="1496716215508">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -187,8 +187,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>new OHotelProduct();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb0hvdGVsUHJvZHVjdDsK</text>
       </register>
       <register name="-" type="4">
         <text>new OHotelProduct();</text>
@@ -200,31 +200,31 @@
         <text encoding="base64">ICAgICAgICBGdXR1cmVBZGFwdGVyPE9Ib3RlbFByb2R1Y3Q+IGZ1dHVyZSA9IChGdXR1cmVBZGFwdGVyPE9Ib3RlbFByb2R1Y3Q+KSBScGNDb250ZXh0LmdldENvbnRleHQoKQogICAgICAgICAgICAgICAgLjxPSG90ZWxQcm9kdWN0PiBnZXRGdXR1cmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb0hvdGVsUHJvZHVjdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvbGF0aWxlIGJvb2xlYW4gZXZlbiA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHZvbGF0aWxlIGJvb2xlYW4gZXZlbiA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKGV2ZW4pIHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW4gPSAhZXZlbjsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaWYgKGV2ZW4pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGR1YmJvOm1ldGhvZCBuYW1lPSJnZXRPcmRlclByaWNlIiBhc3luYz0iZmFsc2UiIHRpbWVvdXQ9IjE1MDAwIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW4gPSAhZXZlbjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGR1YmJvOm1ldGhvZCBuYW1lPSJnZXRDaGVja0Jvb2tpbmdQcmljZSIgYXN5bmM9ImZhbHNlIiB0aW1lb3V0PSIxNTAwMCIvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGR1YmJvOm1ldGhvZCBuYW1lPSJnZXRPcmRlclByaWNlIiBhc3luYz0iZmFsc2UiIHRpbWVvdXQ9IjE1MDAwIi8+LS0+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS08ZHViYm86cmVnaXN0cnkgYWRkcmVzcz0iemsuZGV2LmNvcnAucXVuYXIuY29tOjIxODEiIHByb3RvY29sPSJ6b29rZWVwZXIiIGdyb3VwPSJob3RlbF9wcmljZV9icmVlemVfcF90Ii8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGR1YmJvOm1ldGhvZCBuYW1lPSJnZXRDaGVja0Jvb2tpbmdQcmljZSIgYXN5bmM9ImZhbHNlIiB0aW1lb3V0PSIxNTAwMCIvPi0tPgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDwhLS08ZHViYm86cmVnaXN0cnkgYWRkcmVzcz0iemsuZGV2LmNvcnAucXVuYXIuY29tOjIxODEiIHByb3RvY29sPSJ6b29rZWVwZXIiIGdyb3VwPSJob3RlbF9wcmljZV9icmVlemVfcF90Ii8+LS0+Cg==</text>
