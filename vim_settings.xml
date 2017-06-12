@@ -3,17 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/DetailResponse.java" timestamp="1497261062282">
-        <mark key="'" line="817" column="44" />
-        <mark key="[" line="942" column="13" />
-        <mark key="]" line="865" column="35" />
-        <mark key="." line="865" column="0" />
-        <mark key="^" line="858" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/DetailResponse.java" timestamp="1497261565289">
+        <mark key="'" line="849" column="44" />
+        <mark key="[" line="1194" column="13" />
+        <mark key="]" line="1196" column="7" />
+        <mark key="." line="1196" column="7" />
+        <mark key="^" line="1196" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.devq/config.properties" timestamp="1497247770004">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/ctrip/DetailResponse.xml" timestamp="1497262361819">
+        <mark key="[" line="207" column="34" />
+        <mark key="]" line="207" column="34" />
+        <mark key="^" line="46" column="63" />
+        <mark key="." line="207" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClient.java" timestamp="1497260647548">
         <mark key="[" line="46" column="5" />
@@ -54,13 +60,13 @@
         <mark key="^" line="39" column="26" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497250125529">
-        <mark key="[" line="25" column="73" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="8" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497261848424">
+        <mark key="[" line="25" column="84" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/DetailRequest.java" timestamp="1497251973935">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/DetailRequest.java" timestamp="1497262105774">
         <mark key="[" line="12" column="49" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="10" column="22" />
@@ -125,6 +131,7 @@
       </file>
       <file name="$USER_HOME$/.IntelliJIdea2017.1/idea64.vmoptions" timestamp="1497248529277" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/target/dubbo-access-consumer.2017-06-12-16.log" timestamp="1497257481544" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/GlobalGoTest.java" timestamp="1497262102192" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/context/request/async/DeferredResult.java" />
@@ -252,11 +259,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBYU3RyZWFtQXNBdHRyaWJ1dGUK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
