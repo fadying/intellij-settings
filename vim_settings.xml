@@ -7,11 +7,9 @@
       <file name="/a.dummy" timestamp="1497425563549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClient.java" timestamp="1497423581181">
-        <mark key="[" line="70" column="62" />
-        <mark key="]" line="71" column="38" />
-        <mark key="." line="71" column="38" />
-        <mark key="^" line="71" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClient.java" timestamp="1497426545670">
+        <mark key="]" line="63" column="88" />
+        <mark key="." line="63" column="88" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1497424008622" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.153/qta-open-product-api-1.1.153-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/PackageProductSource.java" timestamp="1497355672749" />
@@ -26,10 +24,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/exception/SpaInternalException.java" timestamp="1497343765666" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" timestamp="1497343836619" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/WorkChainFactory.java" timestamp="1497410353248" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497422488612">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="52" column="52" />
-        <mark key="." line="52" column="52" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497427185747">
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="63" />
+        <mark key="." line="31" column="63" />
         <mark key="^" line="51" column="61" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/DetailRequest.java" timestamp="1497347775053">
@@ -68,6 +66,9 @@
         <mark key="]" line="33" column="61" />
         <mark key="^" line="35" column="17" />
         <mark key="." line="33" column="61" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/GroupProductInfo.java" timestamp="1497426640591">
+        <mark key="[" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/constants/enums/RedSynResultStatusEnum.java" timestamp="1497411008105" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/ctrip/SoapDetailResponse.xml" timestamp="1497421956665" />
@@ -249,49 +250,49 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>handleGlobalGo</text>
+        <text>requestProductDetail</text>
       </register>
       <register name="-" type="4">
-        <text>handleGlobalGo</text>
+        <text>requestProductDetail</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoInJlc3BvbnNlOiB7fSIsIHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY29udmVydFJlc3BvbnNlKHJlc3BvbnNlLmdldFJlc3BvbnNlQm9keSgiVVRGLTgiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQE92ZXIK</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmUuCiAgICAgICAgUmVzcG9uc2UgcmVzcG9uc2UgPSBmdXR1cmUuZ2V0KCk7CiAgICAgICAgcmV0dXJuIGNvbnZlcnRSZXNwb25zZShyZXNwb25zZS5nZXRSZXNwb25zZUJvZHkoIlVURi04IikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXIK</text>
+      </register>
+      <register name="4" type="4">
         <text>ride
             public Integer apply(String input) {
                 return Integer.valueOf(input);
             }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBAUVZhbHVlKCkKICAgIHByaXZhdGUgYm9vbGVhbiB0b3BTd2l0Y2g7</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgcHVibGljIFN0cmluZyBnZXRUaW1lc3RhbXAoKSB7CiAgICAgICAgICAgIHJldHVybiB0aW1lc3RhbXA7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXRUaW1lc3RhbXAoU3RyaW5nIHRpbWVzdGFtcCkgewogICAgICAgICAgICB0aGlzLnRpbWVzdGFtcCA9IHRpbWVzdGFtcDsKICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIuZGVidWcoInJlc3BvbnNlOiB7fSIsIHJlc3BvbnNlKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygicmVzcG9uc2U6IHt9IiwgcmVzcG9uc2UpOwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFF1bmFySHR0cENsaWVudCBodHRwQ2xpZW50ID0gUXVuYXJIdHRwQ2xpZW50LmNyZWF0ZURlZmF1bHRDbGllbnQoMTAwLCAxMDAsIDUwLCAyMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuaW5mbygicmVzcG9uc2U6IHt9IiwgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
