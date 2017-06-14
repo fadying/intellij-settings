@@ -3,6 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.37/coupon-api-1.0.37-sources.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponRemote.java" timestamp="1497434956480" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/executenode/MpushWorkNode.java" timestamp="1497436739064" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/ctrip/DetailResponse.xml" timestamp="1497360583179">
         <mark key="'" line="69" column="48" />
         <mark key="[" line="34" column="62" />
@@ -32,7 +34,8 @@
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.6/commons-codec-1.6-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" timestamp="1497358208700" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/exception/SpaInternalException.java" timestamp="1497343765666" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" timestamp="1497343836619" />
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/WorkChainFactory.java" timestamp="1497410353248" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/WorkChain.java" timestamp="1497436436203" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/WorkChainFactory.java" timestamp="1497436308158" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497432761457">
         <mark key="[" line="37" column="72" />
         <mark key="]" line="31" column="63" />
@@ -55,11 +58,14 @@
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon-api/src/main/java/com/qunar/hotel/qta/coupon/api/remote/CouponHistoryRemote.java" timestamp="1497434767948">
+        <mark key="[" line="24" column="82" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/SOAResponseWrapper.java" timestamp="1497356817721">
         <mark key="[" line="4" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/resources/mapper/hotelRedSynFromDataDB.xml" timestamp="1497423269803" />
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/HotelRedEnvelopWork.java" timestamp="1497413536797" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/HotelRedEnvelopWork.java" timestamp="1497436111677" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1497343948276">
         <mark key="[" line="108" column="129" />
         <mark key="]" line="146" column="23" />
@@ -97,9 +103,14 @@
         <mark key="^" line="31" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/resources/mybatis-config.xml" timestamp="1497421974256" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" timestamp="1497435779596" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/GlobalGoHandler.java" timestamp="1497432272075" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/facade/FacadeService.java" timestamp="1497434779567">
+        <mark key="[" line="515" column="5" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources.prod/logback.xml" timestamp="1497345677412" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/RequestWrapper.java" timestamp="1497432117120" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/coupon/CouponServiceFacade.java" timestamp="1497435354013" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1497434433305">
         <mark key="[" line="110" column="47" />
         <mark key="]" line="115" column="0" />
@@ -122,15 +133,9 @@
         <mark key="^" line="11" column="103" />
         <mark key="." line="11" column="103" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/ResponseWrapper.java" timestamp="1497422474139">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="49" column="19" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-8068_ctrip-SNAPSHOT/qta-open-product-api-DZS-8068_ctrip-20170613.165355-1-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" timestamp="1497433802148" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/config/qconfig/HmsRedEnvelopMpushQconfig.java" timestamp="1497411635687" />
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/HmsRedEnvelopMpushThreadServiceImpl.java" timestamp="1497413403003" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/HmsRedEnvelopMpushThreadServiceImpl.java" timestamp="1497436220301" />
       <file name="/PriceErrorHandler.java" timestamp="1497344991654" />
       <file name="/fragment.java" timestamp="1497421289473">
         <mark key="[" line="0" column="0" />
