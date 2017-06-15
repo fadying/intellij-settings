@@ -87,26 +87,27 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497509179154">
+      <file name="/Dummy.txt" timestamp="1497511259018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources/mapper/coupon_history.xml" timestamp="1497510111517">
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="14" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources/mapper/coupon_history.xml" timestamp="1497511256836">
+        <mark key="[" line="58" column="13" />
+        <mark key="]" line="58" column="14" />
+        <mark key="." line="58" column="14" />
+        <mark key="^" line="58" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497497339669">
         <mark key="[" line="102" column="98" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497508700415">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497510956601">
         <mark key="[" line="398" column="55" />
         <mark key="]" line="398" column="10" />
         <mark key="^" line="398" column="10" />
         <mark key="." line="398" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1497509843373">
+      <file name="/fragment.java" timestamp="1497511107165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -236,11 +237,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>#{tableName}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG9Db3Vwb25JbmZvTGlzdCg=</text>
+        <text>#{tableName}</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
