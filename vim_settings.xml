@@ -11,6 +11,7 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/handler/VoucherRollBackHandler.java" timestamp="1497496586309" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/pom.xml" timestamp="1497447397950">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="28" />
@@ -34,11 +35,6 @@
         <mark key="^" line="54" column="52" />
         <mark key="." line="54" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.37/coupon-api-1.0.37-sources.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponHistoryRemote.java" timestamp="1497446629606">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="114" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponHistoryManagerImpl.java" timestamp="1497495879159">
         <mark key="[" line="118" column="56" />
         <mark key="]" line="84" column="36" />
@@ -57,6 +53,11 @@
         <mark key="." line="33" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" timestamp="1497495823680" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1497497672890">
+        <mark key="[" line="583" column="91" />
+        <mark key="]" line="580" column="57" />
+        <mark key="." line="580" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponHistoryStoreService.java" timestamp="1497495238359">
         <mark key="[" line="28" column="31" />
         <mark key="]" line="28" column="41" />
@@ -78,7 +79,7 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497495989283">
+      <file name="/Dummy.txt" timestamp="1497497486104">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -88,10 +89,13 @@
         <mark key="]" line="59" column="14" />
         <mark key="." line="59" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497447412706">
-        <mark key="[" line="358" column="125" />
-        <mark key="]" line="358" column="125" />
-        <mark key="." line="358" column="125" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1497497339669">
+        <mark key="[" line="102" column="98" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1497497743682">
+        <mark key="[" line="364" column="28" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -221,10 +225,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>activity</text>
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIG5vSGlzdG9yeSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJub0hpc3RvcnkiKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>activity</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -232,35 +236,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIExpc3Q8Q291cG9uSW5mbz4gZmluZEhpc3RvcnlCeVVzZXJBbmRBY3Rpdml0eUlkcyhDb3Vwb25Vc2VyIHVzZXIsIExpc3Q8TG9uZz4gYWN0aXZpdHlJZHMpIHRocm93cyBCaXpFeGNlcHRpb247Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIG5vSGlzdG9yeSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJub0hpc3RvcnkiKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY291cG9uRGFvLmZpbmRCeUlkcyhjb3Vwb25JZHMsIGdldFRhYmxlKHVzZXJJZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgbm9IaXN0b3J5ID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoIm5vSGlzdG9yeSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBVc2VTbGF2ZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY291cG9uRGFvLmZpbmRCeUlkcyhjb3Vwb25JZHMsIGdldFRhYmxlKHVzZXJJZCkpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG51bGw7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBVc2VTbGF2ZQo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">QE92ZXJyaWRlCiAgICAgICAgICAgIHByb3RlY3RlZCB2b2lkIGNoZWNrUGFyYW1zKCkgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICBjaGVja0NvdXBvblVzZXIodXNlcik7CiAgICAgICAgICAgICAgICBjaGVja0NvdXBvbklkcwogICAgICAgICAgICB9CgogICAgICAgIH0uZXhlY3V0ZSgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjaGVja1JldHJpZXZlTnVtKGludCBudW0pIHsKICAgICAgICBBc3NlcnQuaXNUcnVlKG51bSA+IDAgLCJudW0gbXVzdCBncmVhdGVyIHRoYW4gMCIpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjaGVja0NvdXBvbklkUmVmcyhMaXN0PFN0cmluZz4gY291cG9uSWRSZWZzKSB7CiAgICAgICAgQXNzZXJ0LmlzVHJ1ZSghQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoY291cG9uSWRSZWZzKSAsICJjb3Vwb25JZFJlZnMgY2Fubm90IGJlIGVtcHR5Iik7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNoZWNrQ291cG9uSWQobG9uZyBjb3Vwb25JZCkgewogICAgICAgIEFzc2VydC5pc1RydWUoY291cG9uSWQgPiAwLCAiY291cG9uSWQgbXVzdCBncmVhdGVyIHRoYW4gMCIpOwogICAgfQoKICAgIA==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIG51bGw7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBjaGVja0FjdGl2aXR5SWRzKGFjdGl2aXR5SWRzKTs=</text>
-      </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">QE92ZXJyaWRlCiAgICAgICAgICAgIHByb3RlY3RlZCB2b2lkIGNoZWNrUGFyYW1zKCkgdGhyb3dzIElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbiB7CiAgICAgICAgICAgICAgICBjaGVja0NvdXBvblVzZXIodXNlcik7CiAgICAgICAgICAgICAgICBjaGVja0NvdXBvbklkcwogICAgICAgICAgICB9CgogICAgICAgIH0uZXhlY3V0ZSgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjaGVja1JldHJpZXZlTnVtKGludCBudW0pIHsKICAgICAgICBBc3NlcnQuaXNUcnVlKG51bSA+IDAgLCJudW0gbXVzdCBncmVhdGVyIHRoYW4gMCIpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBjaGVja0NvdXBvbklkUmVmcyhMaXN0PFN0cmluZz4gY291cG9uSWRSZWZzKSB7CiAgICAgICAgQXNzZXJ0LmlzVHJ1ZSghQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoY291cG9uSWRSZWZzKSAsICJjb3Vwb25JZFJlZnMgY2Fubm90IGJlIGVtcHR5Iik7CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGNoZWNrQ291cG9uSWQobG9uZyBjb3Vwb25JZCkgewogICAgICAgIEFzc2VydC5pc1RydWUoY291cG9uSWQgPiAwLCAiY291cG9uSWQgbXVzdCBncmVhdGVyIHRoYW4gMCIpOwogICAgfQoKICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
