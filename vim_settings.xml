@@ -5,6 +5,7 @@
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/executenode/MpushWorkNode.java" timestamp="1497537991501" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/controller/bgctrlr/hidden/CpnBgCtr.java" timestamp="1497582146984" />
+      <file name="/ProductBenefitController.java" timestamp="1497600745026" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources.beta/logback.xml" timestamp="1497499732036" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponHistoryStoreServiceImpl.java" timestamp="1497495544833">
         <mark key="[" line="46" column="45" />
@@ -22,6 +23,21 @@
         <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryInventoryProcessor.java" timestamp="1497581632292" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1497600843917">
+        <mark key="[" line="31" column="109" />
+        <mark key="]" line="31" column="109" />
+        <mark key="." line="31" column="109" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1497429751502">
+        <mark key="[" line="193" column="19" />
+        <mark key="]" line="193" column="76" />
+        <mark key="." line="1303" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/SoapResponseWrapper.java" timestamp="1497421661366">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/HotelRedSynFromDataDBServiceImpl.java" timestamp="1497535719298" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon-api/pom.xml" timestamp="1497446945209">
         <mark key="[" line="13" column="13" />
@@ -37,6 +53,11 @@
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/resources/mapper/lockInDb.xml" timestamp="1497535938501" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/filter/LoginFilter.java" timestamp="1497582920234" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/webapp/WEB-INF/web.xml" timestamp="1497599493347" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/GroupProductInfo.java" timestamp="1497434412889">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="/CouponHistoryManagerImpl.java" timestamp="1497498227708" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/base/meerkat-http/1.0.0/meerkat-http-1.0.0-sources.jar!/com/qunar/base/meerkat/http/QunarHttpClient.java" timestamp="1497581910094" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/WorkChainNode.java" timestamp="1497537086554" />
@@ -74,6 +95,11 @@
         <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/webapp/WEB-INF/dispatcher-servlet.xml" timestamp="1497588264173" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/RequestWrapperConverter.java" timestamp="1497335087273">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1497583246215">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -219,10 +245,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>#{tableName}</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>#{tableName}</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
