@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.betanoah/config.properties" timestamp="1497868521626">
         <mark key="[" line="27" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/SortByTicketTypeHandler.java" timestamp="1498014966234" />
       <file name="/a.dummy" timestamp="1497425563549">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +25,7 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/GlobalGoHandler.java" timestamp="1498015074683" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/facade/FacadeService.java" timestamp="1497447560172">
         <mark key="[" line="526" column="12" />
         <mark key="]" line="526" column="12" />
@@ -47,10 +49,10 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1497868106139">
-        <mark key="[" line="193" column="19" />
-        <mark key="]" line="193" column="76" />
-        <mark key="." line="1303" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1498014866821">
+        <mark key="[" line="160" column="9" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/SoapResponseWrapper.java" timestamp="1497421661366">
         <mark key="[" line="15" column="38" />
@@ -66,7 +68,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.betamagic/config.properties" timestamp="1497868515704">
         <mark key="[" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1498014599270">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1498014892145">
         <mark key="[" line="83" column="112" />
         <mark key="]" line="206" column="26" />
         <mark key="." line="206" column="26" />
@@ -235,11 +237,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>IllegalAccessException, Instantiation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgcHJpdmF0ZSBIb3RlbENvdXBvbkNvbmZpZyBob3RlbENvdXBvbkNvbmZpZzsK</text>
       </register>
       <register name="-" type="4">
-        <text>IllegalAccessException, Instantiation</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -248,34 +250,34 @@
         <text encoding="base64">ICAgIExpc3Q8Q291cG9uSW5mbz4gZmluZEhpc3RvcnlCeVVzZXJBbmRBY3Rpdml0eUlkcyhDb3Vwb25Vc2VyIHVzZXIsIExpc3Q8TG9uZz4gYWN0aXZpdHlJZHMpIHRocm93cyBCaXpFeGNlcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRQcmljZVR5cGUoUGF5KTsK</text>
+        <text encoding="base64">ICAgcHJpdmF0ZSBIb3RlbENvdXBvbkNvbmZpZyBob3RlbENvdXBvbkNvbmZpZzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRQcmljZVR5cGUoUGF5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpc3RvcnlDb3Vwb25JZHMuYWRkKGNvdXBvbi5nZXRDb3Vwb25JZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjb3Vwb25JZFNldC5jb250YWlucyhjb3Vwb24uZ2V0Q291cG9uSWQoKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhpc3RvcnlDb3Vwb25JZHMuYWRkKGNvdXBvbi5nZXRDb3Vwb25JZCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gY291cG9uSWRTZXQgPSBuZXcgSGFzaFNldDw+KGNvdXBvbklkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFjb3Vwb25JZFNldC5jb250YWlucyhjb3Vwb24uZ2V0Q291cG9uSWQoKSkpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y291cG9ucyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8TG9uZz4gY291cG9uSWRTZXQgPSBuZXcgSGFzaFNldDw+KGNvdXBvbklkcyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIG5vSGlzdG9yeSA9IHJlcXVlc3QuZ2V0UGFyYW1ldGVyKCJub0hpc3RvcnkiKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y291cG9ucyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
