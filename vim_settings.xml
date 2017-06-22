@@ -59,8 +59,10 @@
         <mark key="]" line="33" column="68" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.prod/hotel.properties" timestamp="1498113964826">
-        <mark key="[" line="100" column="48" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.prod/hotel.properties" timestamp="1498115093978">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClientTest.java" timestamp="1498099512240">
         <mark key="[" line="42" column="9" />
@@ -109,7 +111,11 @@
         <mark key="]" line="32" column="68" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498114294803" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.prod/config.properties" timestamp="1498046005842">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="30" column="68" />
@@ -304,7 +310,9 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>update hprice common prod</text>
+        <text>#da反作弊接口
+da.blacklist.url=http://daplatform.beta.qunar.com/ac/blacklist/check
+da.blacklist.timeout=5000</text>
       </register>
       <register name="-" type="4">
         <text>update hprice common prod</text>
@@ -315,35 +323,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHtkYS5ibGFja2xpc3QudXJsfSIpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb24uYWRkUG9zdEZvcm1EYXRhKCJtb2JpbGUiLCBtb2JpbGUpOwo=</text>
+      <register name="1" type="4">
+        <text>#da反作弊接口
+da.blacklist.url=http://daplatform.beta.qunar.com/ac/blacklist/check
+da.blacklist.timeout=5000</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcHRpb24uYWRkUG9zdEZvcm1EYXRhKCJ1aWRzIiwgdWlkKTsK</text>
+      <register name="2" type="4">
+        <text>#da反作弊接口
+da.blacklist.url=http://daplatform.beta.qunar.com/ac/blacklist/check
+da.blacklist.timeout=5000</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uYWRkUG9zdEZvcm1EYXRhKCJtb2JpbGUiLCBtb2JpbGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5jb25maWcuQXBwQ29uZmlnOwppbXBvcnQgY29tLnF1bmFyLmhvdGVsLnF0YS5vcGVuLmpzb24uSnNvblV0aWxzOwo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRpb24uYWRkUG9zdEZvcm1EYXRhKCJ1aWRzIiwgdWlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHF1bmFyLkFwcENvbmZpZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5jb25maWcuQXBwQ29uZmlnOwppbXBvcnQgY29tLnF1bmFyLmhvdGVsLnF0YS5vcGVuLmpzb24uSnNvblV0aWxzOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBAVmFsdWUoIiR7ZGEuYmxhY2tsaXN0LnRpbWVvdXR9IikKICAgIHByaXZhdGUgaW50IHRpbWVvdXQ7</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHF1bmFyLkFwcENvbmZpZzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwb25zZSByZXNwb25zZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCIiKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICBAVmFsdWUoIiR7ZGEuYmxhY2tsaXN0LnRpbWVvdXR9IikKICAgIHByaXZhdGUgaW50IHRpbWVvdXQ7</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
