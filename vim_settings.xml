@@ -46,6 +46,7 @@
         <mark key="]" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.autotesta/hotel.properties" timestamp="1498201632417" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/config/BusinessSwitchConfig.java" timestamp="1498187636629" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon-api/pom.xml" timestamp="1497446945209">
         <mark key="[" line="13" column="13" />
@@ -78,7 +79,7 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/DaCouponBlackListClient.java" timestamp="1498189698478">
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/DaCouponBlackListClient.java" timestamp="1498201810936">
         <mark key="[" line="83" column="24" />
         <mark key="]" line="83" column="24" />
         <mark key="^" line="82" column="41" />
@@ -142,6 +143,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/test/java/com/qunar/hotel/price/service/util/DaCouponBlackListClientTest.java" timestamp="1498201565024">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -152,21 +158,36 @@
         <mark key="]" line="30" column="68" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PackageMap.java" timestamp="1498201012227">
+        <mark key="[" line="59" column="75" />
+        <mark key="]" line="187" column="29" />
+        <mark key="." line="187" column="29" />
+        <mark key="^" line="187" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice_autotest/src/test/resources.cn0_auto5/qunit.properties" timestamp="1498198495260" />
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/trigger/OrderPropUpdateListener.java" timestamp="1498115956197" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1498189012704">
+      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/additional/PackageProductType.java" timestamp="1498113620005">
+        <mark key="[" line="18" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/test/resources/hotel.properties" timestamp="1498201637632">
+        <mark key="[" line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1498201434927">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="43" />
         <mark key="." line="40" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PackageClassProcessUtil.java" timestamp="1498187718017" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/pom.xml" timestamp="1498112360342">
+        <mark key="[" line="43" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/enums/BusinessSwitchKeyEnum.java" timestamp="1498188663665">
         <mark key="[" line="15" column="46" />
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1498188420746">
+      <file name="/fragment.java" timestamp="1498201470079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -299,10 +320,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>cases/*.xml</text>
+        <text>com.qunar.hotel.qta.open.price.additional.support</text>
       </register>
       <register name="-" type="4">
-        <text>cases/*.xml</text>
+        <text>com.qunar.hotel.qta.open.price.additional.support</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
