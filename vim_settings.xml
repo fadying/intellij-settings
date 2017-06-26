@@ -108,6 +108,7 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/PackageConfig.java" timestamp="1498458523754" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.devq/config.properties" timestamp="1498045501584">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="29" column="68" />
@@ -133,7 +134,7 @@
         <mark key="]" line="526" column="12" />
         <mark key="." line="526" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-14209_170621_coupon_da_blacklist-SNAPSHOT/h_hprice_common-DZS-14209_170621_coupon_da_blacklist-20170623.025041-2.jar!/com/qunar/hotel/price/base/commonconf/PackageProductConfig.class" timestamp="1498458242038" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-14209_170621_coupon_da_blacklist-SNAPSHOT/h_hprice_common-DZS-14209_170621_coupon_da_blacklist-20170623.025041-2.jar!/com/qunar/hotel/price/base/commonconf/PackageProductConfig.class" timestamp="1498458555340" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/coupon/CouponServiceFacade.java" timestamp="1497613943883">
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
@@ -160,7 +161,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498449825579">
+      <file name="/Dummy.txt" timestamp="1498459294495">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -169,6 +170,12 @@
         <mark key="[" line="37" column="37" />
         <mark key="]" line="38" column="20" />
         <mark key="." line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/PackageProductConfig.java" timestamp="1498459273218">
+        <mark key="[" line="241" column="56" />
+        <mark key="]" line="241" column="56" />
+        <mark key="." line="241" column="56" />
+        <mark key="^" line="52" column="78" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
         <mark key="[" line="102" column="0" />
@@ -193,7 +200,7 @@
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice_autotest/src/test/resources/dynamicconfig/qconfig/business_switch_on.properties" timestamp="1498204337452">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1498449020350">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1498458586532">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="^" line="69" column="112" />
@@ -341,16 +348,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>couponInfoList</text>
+        <text>y(KEY_DA_BLACKLIST_SWITCH</text>
       </register>
       <register name="-" type="4">
-        <text>couponInfoList</text>
+        <text>y(KEY_DA_BLACKLIST_SWITCH</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oInJlcXVlc3QgZGEgYmxhY2tsaXN0IHN1Y2Nlc3MsIHVybDp7fSwgZGF0YTp7fSwgdGltZTp7fSIsIHVybCwgb3B0aW9uLmdldFBvc3RGb3JtRGF0YSgpLCBzLnN0b3AoKS5lbGFwc2VkKFRpbWVVbml0Lk1JTExJU0VDT05EUykpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEtFWV9EQV9CTEFDS0xJU1RfU1dJVENIID0gImRhLmJsYWNrbGlzdC5zd2l0Y2giOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
