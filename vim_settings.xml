@@ -8,12 +8,13 @@
         <mark key="]" line="30" column="68" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1498623385827">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="20" column="25" />
-        <mark key="." line="20" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1498632549650">
+        <mark key="[" line="37" column="57" />
+        <mark key="]" line="37" column="57" />
+        <mark key="." line="37" column="57" />
         <mark key="^" line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources.prod/qunar-url.properties" timestamp="1498632579173" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/OtterApplication.java" timestamp="1498480566656">
         <mark key="[" line="0" column="35" />
         <mark key="]" line="0" column="35" />
@@ -37,6 +38,7 @@
         <mark key="]" line="17" column="27" />
         <mark key="." line="17" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/touch/touch-service/src/main/java/com/qunar/hotel/hoteltc/touch/service/util/CouponIdMaker.java" timestamp="1498632410106" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/pom.xml" timestamp="1497608154038">
         <mark key="[" line="19" column="28" />
         <mark key="]" line="19" column="28" />
@@ -368,10 +370,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>orderPayPrice;</text>
+        <text>long orderId</text>
       </register>
       <register name="-" type="4">
-        <text>orderPayPrice;</text>
+        <text>long orderId</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
