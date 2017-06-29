@@ -46,6 +46,12 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/util/CipherUtil.java" timestamp="1498705135013">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/vo/BargainActivityDetail.java" timestamp="1498642606433">
         <mark key="[" line="14" column="42" />
       </file>
@@ -137,9 +143,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/base/src/main/java/com/qunar/hotel/otter/base/constant/Channel.java" timestamp="1498638394652">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/application.properties" timestamp="1498654662417">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/application.properties" timestamp="1498704525780">
+        <mark key="[" line="0" column="33" />
       </file>
+      <file name="/opt/jdk1.8.0_92/jre/lib/jce.jar!/javax/crypto/KeyGenerator.class" timestamp="1498705081087" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/IndexController.java" timestamp="1498482315232">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -458,8 +465,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ImmutableMap.of(&quot;success&quot;, true)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJJZAo=</text>
       </register>
       <register name="-" type="4">
         <text>ImmutableMap.of(&quot;success&quot;, true)</text>
@@ -471,34 +478,34 @@
         <text encoding="base64">ICAgIEJhcmdhaW5BY3Rpdml0eSBxdWVyeUFjdGl2aXR5QnlPcmRlcklkKEBQYXJhbSgib3JkZXJJZCIpIGxvbmcgb3JkZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJJZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLZXlHZW5lcmF0b3Iga2V5R2VuZXJhdG9yID0gS2V5R2VuZXJhdG9yLmdldEluc3RhbmNlKCJERVMiKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtiYXJnYWluLm9yZGVyLmNpcGhlcn0iKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8ZGVwbG95LnR5cGU+ZGV2PC9kZXBsb3kudHlwZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS5xdW5hci5ob3RlbC5wcmljZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cm9vdC5idW5kbGVzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDwvcGx1Z2luPg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CkBEdWJib1NlcnZpY2U=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
