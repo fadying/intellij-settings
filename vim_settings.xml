@@ -245,11 +245,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/vo/BargainStartRequest.java" timestamp="1498646575644">
         <mark key="[" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1498709915141">
-        <mark key="[" line="21" column="66" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1498717226286">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/util/CipherUtil.java" timestamp="1498709671437">
         <mark key="[" line="34" column="25" />
@@ -312,6 +312,7 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="/opt/jdk1.8.0_92/jre/lib/jce.jar!/javax/crypto/Cipher.class" timestamp="1498717337066" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/OtterApplication.java" timestamp="1498219036619">
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
@@ -323,7 +324,7 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="27" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.devq/config.properties" timestamp="1498715969896">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.devq/config.properties" timestamp="1498716975366">
         <mark key="[" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/java/com/qunar/hotel/price/otter/service/mapper/BargainRecordMapperTest.java" timestamp="1498647456052">
@@ -555,8 +556,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>808992</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>808992</text>
@@ -568,39 +569,39 @@
         <text encoding="base64">ICAgIEJhcmdhaW5BY3Rpdml0eSBxdWVyeUFjdGl2aXR5QnlPcmRlcklkKEBQYXJhbSgib3JkZXJJZCIpIGxvbmcgb3JkZXJJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZWNyZXRLZXkga2V5ID0ga2cuZ2VuZXJhdGVLZXkoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOWIneWni+WMlgogICAgICoKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQEJlYW4KICAgIHB1YmxpYyBzdGF0aWMgU2VydmxldExpc3RlbmVyUmVnaXN0cmF0aW9uQmVhbjxFdmVudExpc3RlbmVyPiBnZXRJbml0TGlzdGVuZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTZXJ2bGV0TGlzdGVuZXJSZWdpc3RyYXRpb25CZWFuPD4obmV3IFNlcnZsZXRDb250ZXh0TGlzdGVuZXIoKSB7CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgY29udGV4dEluaXRpYWxpemVkKFNlcnZsZXRDb250ZXh0RXZlbnQgc2NlKSB7CiAgICAgICAgICAgICAgICBVc2VyQ2xpZW50LnN0YXJ0KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBjb250ZXh0RGVzdHJveWVkKFNlcnZsZXRDb250ZXh0RXZlbnQgc2NlKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBEaWdlc3RVdGlscwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOWIneWni+WMlgogICAgICoKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgQEJlYW4KICAgIHB1YmxpYyBzdGF0aWMgU2VydmxldExpc3RlbmVyUmVnaXN0cmF0aW9uQmVhbjxFdmVudExpc3RlbmVyPiBnZXRJbml0TGlzdGVuZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBTZXJ2bGV0TGlzdGVuZXJSZWdpc3RyYXRpb25CZWFuPD4obmV3IFNlcnZsZXRDb250ZXh0TGlzdGVuZXIoKSB7CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgY29udGV4dEluaXRpYWxpemVkKFNlcnZsZXRDb250ZXh0RXZlbnQgc2NlKSB7CiAgICAgICAgICAgICAgICBVc2VyQ2xpZW50LnN0YXJ0KCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBjb250ZXh0RGVzdHJveWVkKFNlcnZsZXRDb250ZXh0RXZlbnQgc2NlKSB7CgogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
+      </register>
+      <register name="9" type="4">
         <text>catch (InvalidKeySpecException e) {
             e.printStackTrace();
         } catch (NoSuchAlgorithmException e) {
             e.printStackTrace();
         } catch (InvalidKeyException e) {
             e.printStackTrace();</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJJZAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlHZW5lcmF0b3Iga2V5R2VuZXJhdG9yID0gS2V5R2VuZXJhdG9yLmdldEluc3RhbmNlKCJERVMiKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtiYXJnYWluLm9yZGVyLmNpcGhlcn0iKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
