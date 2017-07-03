@@ -43,7 +43,7 @@
         <mark key="]" line="3" column="45" />
         <mark key="." line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betamagic/spring/datasource.properties" timestamp="1499054124319">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betamagic/spring/datasource.properties" timestamp="1499054178187">
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="44" />
         <mark key="." line="2" column="44" />
@@ -157,6 +157,9 @@
         <mark key="]" line="580" column="57" />
         <mark key="." line="580" column="57" />
       </file>
+      <file name="/a.sql" timestamp="1499054397360">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/resources/application-h2.properties" timestamp="1498796028237">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="0" column="0" />
@@ -220,14 +223,14 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/schema-mysql.sql" timestamp="1499054000001">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/schema-mysql.sql" timestamp="1499055261185">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="4" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/025cf417-b21a-41d6-9a3c-68717e9a009e/console.sql" timestamp="1498792195645">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/025cf417-b21a-41d6-9a3c-68717e9a009e/console.sql" timestamp="1499054230802">
+        <mark key="[" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
         <mark key="[" line="102" column="0" />
@@ -284,7 +287,6 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1499051635965" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/pom.xml" timestamp="1498445016872">
         <mark key="[" line="43" column="38" />
       </file>
@@ -320,7 +322,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/config/DubboConfig.java" timestamp="1498791375265">
         <mark key="[" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/BargainCommitView.java" timestamp="1499051049144" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/vo/BargainDetail.java" timestamp="1498637900436">
         <mark key="[" line="11" column="44" />
       </file>
@@ -367,7 +368,6 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.devq/application-devq.properties" timestamp="1499049473331" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" timestamp="1498633803116">
         <mark key="[" line="30" column="33" />
       </file>
@@ -497,8 +497,10 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="/dummy.sql" timestamp="1499053406885">
+      <file name="/dummy.sql" timestamp="1499054465793">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/pom.xml" timestamp="1498555235036">
         <mark key="[" line="13" column="0" />
@@ -703,11 +705,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2hvdyBEQVRBQkFTRVMgOwo=</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
