@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betanoah/spring/datasource.properties" timestamp="1499054117081">
         <mark key="[" line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.beta/spring/datasource.properties" timestamp="1499062053300" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice_autotest/src/test/java/com/qunar/hotel/price/test/PriceTest.java" timestamp="1498204261651">
         <mark key="[" line="14" column="25" />
         <mark key="]" line="14" column="25" />
@@ -287,6 +288,7 @@
         <mark key="^" line="13" column="70" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1499051635965" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/pom.xml" timestamp="1498445016872">
         <mark key="[" line="43" column="38" />
       </file>
@@ -322,6 +324,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/config/DubboConfig.java" timestamp="1498791375265">
         <mark key="[" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/BargainCommitView.java" timestamp="1499051049144" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/vo/BargainDetail.java" timestamp="1498637900436">
         <mark key="[" line="11" column="44" />
       </file>
@@ -368,6 +371,7 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.devq/application-devq.properties" timestamp="1499049473331" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" timestamp="1498633803116">
         <mark key="[" line="30" column="33" />
       </file>
@@ -411,6 +415,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/DateUtil.java" timestamp="1498812903876">
         <mark key="[" line="12" column="11" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/pom.xml" timestamp="1499061921579">
+        <mark key="'" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/IndexController.java" timestamp="1498482315232">
         <mark key="[" line="19" column="0" />
@@ -511,7 +518,7 @@
         <mark key="." line="208" column="36" />
         <mark key="^" line="44" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499054142384">
+      <file name="/Dummy.txt" timestamp="1499062062536">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -580,7 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="29" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/root.lang/0.0.36/root.lang-0.0.36-sources.jar!/com/qunar/hotel/price/root/lang/Safes.java" />
       <jump line="150" column="28" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/DataManager.java" />
       <jump line="66" column="26" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/PriceCoreExecutor.java" />
       <jump line="97" column="20" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/DataManager.java" />
@@ -680,6 +686,7 @@
       <jump line="60" column="23" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/DaCouponBlackListClient.java" />
       <jump line="32" column="69" filename="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/util/CipherUtil.java" />
       <jump line="109" column="10" filename="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" />
+      <jump line="15" column="20" filename="$USER_HOME$/IdeaProjects/promotion/otter/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -706,10 +713,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>mysql config</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>mysql config</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
