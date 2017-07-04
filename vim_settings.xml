@@ -14,7 +14,7 @@
         <mark key="]" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/java/com/qunar/hotel/price/otter/service/BargainOrderCommitServiceTest.java" timestamp="1499161418689">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/java/com/qunar/hotel/price/otter/service/BargainOrderCommitServiceTest.java" timestamp="1499161761837">
         <mark key="[" line="32" column="38" />
         <mark key="]" line="36" column="48" />
         <mark key="." line="36" column="48" />
@@ -102,11 +102,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/application.properties" timestamp="1499157903475">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="26" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/exception/BargainBizException.java" timestamp="1499071661682">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="8" column="0" />
@@ -162,8 +157,8 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1499157403272">
-        <mark key="[" line="55" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1499161878695">
+        <mark key="[" line="104" column="126" />
         <mark key="]" line="55" column="25" />
         <mark key="^" line="55" column="25" />
         <mark key="." line="55" column="25" />
@@ -178,7 +173,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/DZS-13700-SNAPSHOT/order-core-api-DZS-13700-20170630.072803-3-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/benefit/CashBackUpdateResponse.java" timestamp="1499158431527" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/DZS-13700-SNAPSHOT/order-core-api-DZS-13700-20170630.072803-3-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/benefit/CashBackUpdateResponse.java" timestamp="1499161533531" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
@@ -371,7 +366,7 @@
         <mark key="." line="208" column="36" />
         <mark key="^" line="44" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499161431545">
+      <file name="/Dummy.txt" timestamp="1499161878994">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -404,17 +399,18 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1499159486775">
-        <mark key="[" line="33" column="105" />
-        <mark key="]" line="28" column="59" />
-        <mark key="." line="28" column="59" />
-        <mark key="^" line="35" column="90" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1499161601181">
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="37" column="90" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/enums/BusinessSwitchKeyEnum.java" timestamp="1498459870307">
         <mark key="[" line="14" column="55" />
         <mark key="]" line="14" column="56" />
         <mark key="." line="14" column="56" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/DZS-13700-SNAPSHOT/order-core-api-DZS-13700-20170630.072803-3-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/benefit/CashBackUpdateRequest.java" timestamp="1499161593804" />
       <file name="/fragment.java" timestamp="1499157997042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -552,11 +548,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZXJyb3IoIiIsIGV4KTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;学生价：好友&quot; + record.getBargainUserNickname() + &quot;【&quot; + record.getBargainChannel() + &quot;】助攻砍价&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>group.entrySet().stream().m</text>
+        <text>&quot;学生价：好友&quot; + record.getBargainUserNickname() + &quot;【&quot; + record.getBargainChannel() + &quot;】助攻砍价&quot;</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
