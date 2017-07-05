@@ -318,8 +318,8 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1499228221686">
-        <mark key="[" line="43" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1499240485218">
+        <mark key="[" line="44" column="34" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="81" />
@@ -531,7 +531,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499239000840">
+      <file name="/Dummy.txt" timestamp="1499240513590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -540,11 +540,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.dev/spring/datasource.properties" timestamp="1499054091946">
         <mark key="[" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1499232044284">
-        <mark key="[" line="200" column="35" />
-        <mark key="]" line="200" column="35" />
-        <mark key="." line="200" column="35" />
-        <mark key="^" line="177" column="98" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1499240493623">
+        <mark key="[" line="88" column="80" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1499152138656">
         <mark key="[" line="106" column="29" />
@@ -729,8 +728,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhcmdhaW5CaXpFeGNlcHRpb24oImVycm9yIG9yZGVySWQiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -742,38 +741,37 @@
         <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYtaDIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFtb3VudCA9IG1pbihhbW91bnQsIFVTRVJfQkFSR0FJTl9BTU9VTlRfTElNSVQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhcmdhaW5CaXpFeGNlcHRpb24oImVycm9yIG9yZGVySWQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFtb3VudCA9IG1pbihhbW91bnQsIFVTRVJfQkFSR0FJTl9BTU9VTlRfTElNSVQpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBkb3VibGUgYW1vdW50ID0gREVGQVVMVF9BVkdfQU1PVU5UOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNTsgaSsrKSB7CiAgICAgICAgICAgIGFtb3VudCA9IDsKICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJhcmdhaW5PcHRpb25Db25maWcuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgY29uZmlnTGlzdC5hZGRBbGwoUGFpci5vZihSYW5nZS5jbG9zZWRPcGVuKGJhcmdhaW5PcHRpb25Db25maWcuZ2V0RG91YmxlKCkpKSkKICAgICAgICB9CiAgICAgICAgYmFyZ2Fpbk9wdGlvbkNvbmZpZy5zaXplKCk7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBiYXJnYWluT3B0aW9uQ29uZmlnLnJvd01hcCgpCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Views.of(hotelOrder.getFundOrder(), hotelOrder.getOrderProduct().getCurrencyExchange())
                 .cashBackDetail(CashBackSubject.Marketing)
                 .getDetail().get(PromotionCodeConstant.STUDENT_TASK_ACTIVITY)
                 .getDetails().get(StudentBargainConstants.STUDENT_ACTIVITY_TASK_ID).getAmount();//好长啊 待补充</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGFjdHVhbEJhcmdhaW4gPSBWaWV3cy5vZihob3RlbE9yZGVyLmdldEZ1bmRPcmRlcigpLCBob3RlbE9yZGVyLmdldE9yZGVyUHJvZHVjdCgpLmdldEN1cnJlbmN5RXhjaGFuZ2UoKSkKICAgICAgICAgICAgICAgIC5jYXNoQmFja0RldGFpbChDYXNoQmFja1N1YmplY3QuTWFya2V0aW5nKQogICAgICAgICAgICAgICAgLmdldERldGFpbCgpLmdldChQcm9tb3Rpb25Db2RlQ29uc3RhbnQuU1RVREVOVF9UQVNLX0FDVElWSVRZKQogICAgICAgICAgICAgICAgLmdldERldGFpbHMoKS5nZXQoU3R1ZGVudEJhcmdhaW5Db25zdGFudHMuU1RVREVOVF9BQ1RJVklUWV9UQVNLX0lEKS5nZXRBbW91bnQoKTsvL+WlvemVv+WViiDlvoXooaXlhYU=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBPcmRlclN0YXR1cyBvcmRlclN0YXR1cyA9IDsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>, String hotelSeq, int userId, BigDecimal orderPrice,
-                          BigDecimal bargainTotalAmount</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
