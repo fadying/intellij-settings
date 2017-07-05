@@ -529,10 +529,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.dev/spring/datasource.properties" timestamp="1499054091946">
         <mark key="[" line="2" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1499231680529">
-        <mark key="[" line="177" column="99" />
-        <mark key="]" line="177" column="98" />
-        <mark key="." line="177" column="98" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1499232044284">
+        <mark key="[" line="200" column="35" />
+        <mark key="]" line="200" column="35" />
+        <mark key="." line="200" column="35" />
         <mark key="^" line="177" column="98" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1499152138656">
@@ -718,8 +718,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclN0YXR1cyBvcmRlclN0YXR1cyA9IDsK</text>
+      <register name="&quot;" type="4">
+        <text>Views.of(hotelOrder.getFundOrder(), hotelOrder.getOrderProduct().getCurrencyExchange())
+                .cashBackDetail(CashBackSubject.Marketing)
+                .getDetail().get(PromotionCodeConstant.STUDENT_TASK_ACTIVITY)
+                .getDetails().get(StudentBargainConstants.STUDENT_ACTIVITY_TASK_ID).getAmount();//好长啊 待补充</text>
       </register>
       <register name="-" type="4">
         <text>abcDEfgh</text>
@@ -730,37 +733,40 @@
       <register name="0" type="2">
         <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYtaDIiKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclN0YXR1cyBvcmRlclN0YXR1cyA9IDsK</text>
+      <register name="1" type="4">
+        <text>Views.of(hotelOrder.getFundOrder(), hotelOrder.getOrderProduct().getCurrencyExchange())
+                .cashBackDetail(CashBackSubject.Marketing)
+                .getDetail().get(PromotionCodeConstant.STUDENT_TASK_ACTIVITY)
+                .getDetails().get(StudentBargainConstants.STUDENT_ACTIVITY_TASK_ID).getAmount();//好长啊 待补充</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGFjdHVhbEJhcmdhaW4gPSBWaWV3cy5vZihob3RlbE9yZGVyLmdldEZ1bmRPcmRlcigpLCBob3RlbE9yZGVyLmdldE9yZGVyUHJvZHVjdCgpLmdldEN1cnJlbmN5RXhjaGFuZ2UoKSkKICAgICAgICAgICAgICAgIC5jYXNoQmFja0RldGFpbChDYXNoQmFja1N1YmplY3QuTWFya2V0aW5nKQogICAgICAgICAgICAgICAgLmdldERldGFpbCgpLmdldChQcm9tb3Rpb25Db2RlQ29uc3RhbnQuU1RVREVOVF9UQVNLX0FDVElWSVRZKQogICAgICAgICAgICAgICAgLmdldERldGFpbHMoKS5nZXQoU3R1ZGVudEJhcmdhaW5Db25zdGFudHMuU1RVREVOVF9BQ1RJVklUWV9UQVNLX0lEKS5nZXRBbW91bnQoKTsvL+WlvemVv+WViiDlvoXooaXlhYU=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBPcmRlclN0YXR1cyBvcmRlclN0YXR1cyA9IDsK</text>
+      </register>
+      <register name="4" type="4">
         <text>, String hotelSeq, int userId, BigDecimal orderPrice,
                           BigDecimal bargainTotalAmount</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBib29sZWFuIGIgPSBiYXJkZGdhaW5CaXouc3RhcnRBY3Rpdml0eShvcmRlcklkKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>request.getOrderId(), request.getHotelSeq(), request.getUserId(),
                 request.getOrderPrice(), request.getBargainTotalAmount()</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1pdENoZWNrKG9yZGVySWQsIHJlc3BvbnNlLCBudWxsKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">aWYgKHJlc3BvbnNlLmlzUmV0KCkgJiYgcmVzcG9uc2UuZ2V0RGF0YSgpLmdldEVyckNvZGUoKSA9PSBDYXNoQmFja1VwZGF0ZVJlc3BvbnNlLlJFRlVTRURfVVBEQVRFRCkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBCYXJnYWluQml6RXhjZXB0aW9uKCIiKTsKICAgICAgICAgICAgICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmlzUmV0KCkgJiYgcmVzcG9uc2UuZ2V0RGF0YSgpLmdldEVyckNvZGUoKSA9PSBDYXNoQmFja1VwZGF0ZVJlc3BvbnNlLkVSUl9DT0RFX1NVQ0NFU1MpIHsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
