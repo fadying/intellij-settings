@@ -185,6 +185,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/OtterSystemError.java" timestamp="1499222106450">
         <mark key="[" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" timestamp="1499256138392">
+        <mark key="[" line="37" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1498629242623">
         <mark key="[" line="583" column="91" />
         <mark key="]" line="580" column="57" />
@@ -535,7 +538,7 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="/dummy.sql" timestamp="1499245477299">
+      <file name="/dummy.sql" timestamp="1499258187661">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -561,7 +564,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499255898305">
+      <file name="/Dummy.txt" timestamp="1499256651115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -577,13 +580,10 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="252" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityMapper.java" timestamp="1499245705556">
-        <mark key="[" line="18" column="89" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1499152138656">
-        <mark key="[" line="106" column="29" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1499257857511">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/RetryUtil.java" timestamp="1499176596557">
         <mark key="[" line="23" column="101" />
@@ -597,8 +597,10 @@
         <mark key="." line="18" column="56" />
         <mark key="^" line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1499249949556">
-        <mark key="[" line="50" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1499257923154">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/DZS-14937_170623_student_price-SNAPSHOT/open-promotion-api-DZS-14937_170623_student_price-20170704.070524-4.jar!/com/qunar/hotel/qta/open/promotion/api/exception/PromotionException.class" timestamp="1499243009849" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/constant/BargainActivity.java" timestamp="1498647409320">
@@ -767,7 +769,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoImVycm9yIiwgZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -779,34 +781,37 @@
         <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYtaDIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoImVycm9yIiwgZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIEJhcmdhaW5CaXpFeGNlcHRpb24gaWxsZWdhbChTdHJpbmcgbXNnKSB7CiAgICAgICAgcmV0dXJuIG5ldyBCYXJnYWluQml6RXhjZXB0aW9uKE90dGVyQml6RXhjZXB0aW9uLkVSUk9SX0NPREVfSUxMRUdBTCwgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihtc2cpKTsKICAgIH0=</text>
+        <text>//        info.setBargainCurrentAmount( Views.of(order.getFundOrder(), order.getOrderProduct().getCurrencyExchange())
+//                .cashBackDetail(CashBackSubject.Marketing)
+//                .getDetail().get(PromotionCodeConstant.STUDENT_TASK_ACTIVITY)
+//                .getDetails().get(StudentBargainConstants.STUDENT_ACTIVITY_TASK_ID).getAmount());</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIG9yZGVySWQgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMT0dHRVIuZXJyb3IoImVycm9yIiwgZXgpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IEJhcmdhaW5CaXpFeGNlcHRpb24oKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIEJhcmdhaW5CaXpFeGNlcHRpb24gaWxsZWdhbChTdHJpbmcgbXNnKSB7CiAgICAgICAgcmV0dXJuIG5ldyBCYXJnYWluQml6RXhjZXB0aW9uKE90dGVyQml6RXhjZXB0aW9uLkVSUk9SX0NPREVfSUxMRUdBTCwgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbihtc2cpKTsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hJZCAhPSBudWxsICYmIGJhdGNoSWQubGVuZ3RoKCkgPiAyKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIG9yZGVySWQgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5vdHRlci5kb21haW4uZXhjZXB0aW9uLk90dGVyU3lzdGVtRXJyb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgdGhyb3cgbmV3IEJhcmdhaW5CaXpFeGNlcHRpb24oKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZShtb25pdG9yS2V5ICsgIl9zdWNjZXNzIiwgKTs=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYmF0Y2hJZCAhPSBudWxsICYmIGJhdGNoSWQubGVuZ3RoKCkgPiAyKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5vdHRlci5kb21haW4uZXhjZXB0aW9uLk90dGVyU3lzdGVtRXJyb3I7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihjYXVzZSwgY29kZSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZShtb25pdG9yS2V5ICsgIl9zdWNjZXNzIiwgKTs=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
