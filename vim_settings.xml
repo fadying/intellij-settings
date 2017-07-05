@@ -236,7 +236,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/BargainRecordInfo.java" timestamp="1499051039809">
         <mark key="[" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1499238207346">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1499241492392">
         <mark key="[" line="134" column="45" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -274,6 +274,7 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/BizTemplate.java" timestamp="1499241377024" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6abfc403-23f9-4c21-8c47-a5755ff42a86/console.sql" timestamp="1499053961689">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -318,8 +319,8 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1499240485218">
-        <mark key="[" line="44" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1499241321104">
+        <mark key="[" line="77" column="53" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="47" column="81" />
@@ -531,7 +532,7 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499240513590">
+      <file name="/Dummy.txt" timestamp="1499241517312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -728,11 +729,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJhcmdhaW5CaXpFeGNlcHRpb24oImVycm9yIG9yZGVySWQiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>bargain change status fix</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>bargain change status fix</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
