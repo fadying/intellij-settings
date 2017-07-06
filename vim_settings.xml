@@ -15,6 +15,7 @@
         <mark key="^" line="34" column="57" />
         <mark key="." line="34" column="57" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" timestamp="1499327392251" />
       <file name="/a.dummy" timestamp="1499309097930">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -184,6 +185,9 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/qtaman/src/main/java/com/qunar/hotel/qta/open/promotion/controller/RedPacketController.java" timestamp="1499325910267" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/listener/ABCacheInitListener.java" timestamp="1499327872418">
+        <mark key="[" line="22" column="97" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/IndexController.java" timestamp="1499077042126">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -206,6 +210,12 @@
         <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitFlightCouponChooseProcessor.java" timestamp="1499328514155">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="30" column="68" />
+        <mark key="^" line="30" column="68" />
+        <mark key="." line="30" column="68" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/java/com/qunar/hotel/price/otter/service/mapper/BargainRecordMapperTest.java" timestamp="1499323676385">
         <mark key="[" line="52" column="71" />
@@ -341,7 +351,7 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499327077006">
+      <file name="/Dummy.txt" timestamp="1499328594355">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -573,10 +583,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09IFBheVN0YXR1cy5QQVlfU1VDQ0VTUw==</text>
+        <text encoding="base64">YmVuZWZpdHMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYi5nZXRBY3Rpb25JZCgpID09IDIwMDYpLmNvbGxlY3QodG9MaXN0KCkpOw==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IFBheVN0YXR1cy5QQVlfU1VDQ0VTUw==</text>
+        <text encoding="base64">YmVuZWZpdHMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYi5nZXRBY3Rpb25JZCgpID09IDIwMDYpLmNvbGxlY3QodG9MaXN0KCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -585,37 +595,34 @@
         <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYtaDIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0SW5mby4K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLnV0aWwuc3RyZWFtLkNvbGxlY3RvcnMudG9MaXN0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0SW5mby4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUVURFTlRfQUNUSVZJVFlfVEFTS19UWVBFID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUVURFTlRfQUNUSVZJVFlfVEFTS19JRCA9ICIiOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUVURFTlRfQUNUSVZJVFlfVEFTS19UWVBFID0gIiI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFNUVURFTlRfQUNUSVZJVFlfVEFTS19JRCA9ICIiOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWN0aXZpdHk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBCYXJnYWluQWN0aXZpdHkgYWN0aXZpdHkgPSBuZXcgKCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBhY3Rpdml0eS5zZXRPcmRlcklkKG9yZGVySWQpOwogICAgICAgIGFjdGl2aXR5LnNldFVzZXJJZCgpOw==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>//        info.setBargainCurrentAmount( Views.of(order.getFundOrder(), order.getOrderProduct().getCurrencyExchange())
-//                .cashBackDetail(CashBackSubject.Marketing)
-//                .getDetail().get(PromotionCodeConstant.STUDENT_TASK_ACTIVITY)
-//                .getDetails().get(StudentBargainConstants.STUDENT_ACTIVITY_TASK_ID).getAmount());</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
