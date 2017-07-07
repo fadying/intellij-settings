@@ -22,7 +22,7 @@
         <mark key="." line="14" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.61/open-promotion-api-1.1.61-sources.jar!/com/qunar/hotel/qta/open/promotion/api/enums/QBenefitFunctionalType.java" timestamp="1499326042886" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1499398640895" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1499405591623" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/QunarUserService.java" timestamp="1498647533174">
         <mark key="[" line="0" column="43" />
         <mark key="]" line="0" column="43" />
@@ -58,7 +58,8 @@
         <mark key="]" line="0" column="43" />
         <mark key="." line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/price/opromotion/PromotionExecutor.java" timestamp="1499401630126" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/price/opromotion/PromotionExecutor.java" timestamp="1499404863728" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceTest.java" timestamp="1499405683600" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon-api/pom.xml" timestamp="1497446945209">
         <mark key="[" line="13" column="13" />
         <mark key="]" line="13" column="13" />
@@ -196,6 +197,7 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.prod/registry.properties" timestamp="1499405544166" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betanoah/application.properties" timestamp="1499157946580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="40" />
@@ -221,12 +223,17 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/webapp/showlogs.jsp" timestamp="1499401603160" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/webapp/showlogs.jsp" timestamp="1499405075666" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/schema-mysqlshow.sql" timestamp="1499329171088">
         <mark key="[" line="10" column="54" />
         <mark key="]" line="35" column="57" />
         <mark key="^" line="35" column="57" />
         <mark key="." line="35" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/resources/test-dubbo.xml" timestamp="1499405662176">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" timestamp="1499327392251" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/json/diagnose/door/DoorController.java" timestamp="1499401520892" />
@@ -282,6 +289,10 @@
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-pub.xml" timestamp="1499405478184" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/test-dubbo.xml" timestamp="1499405496820">
+        <mark key="[" line="6" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" timestamp="1499075696677">
         <mark key="[" line="31" column="29" />
@@ -366,8 +377,10 @@
         <mark key="." line="164" column="64" />
         <mark key="^" line="164" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImplTest.java" timestamp="1499397958992" />
-      <file name="/Dummy.txt" timestamp="1499401504362">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImplTest.java" timestamp="1499405692861">
+        <mark key="[" line="22" column="3" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499405666871">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -542,10 +555,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YmVuZWZpdHMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYi5nZXRBY3Rpb25JZCgpID09IDIwMDYpLmNvbGxlY3QodG9MaXN0KCkpOw==</text>
+        <text>com.qunar.hotel.qta.open.service.QAdditionalRemote</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YmVuZWZpdHMuc3RyZWFtKCkuZmlsdGVyKGIgLT4gYi5nZXRBY3Rpb25JZCgpID09IDIwMDYpLmNvbGxlY3QodG9MaXN0KCkpOw==</text>
+        <text>com.qunar.hotel.qta.open.service.QAdditionalRemote</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
