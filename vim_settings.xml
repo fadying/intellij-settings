@@ -121,6 +121,9 @@
         <mark key="]" line="580" column="57" />
         <mark key="." line="580" column="57" />
       </file>
+      <file name="/a.sql" timestamp="1499680184127">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/resources/application-h2.properties" timestamp="1498796028237">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="0" column="0" />
@@ -210,6 +213,12 @@
         <mark key="[" line="7" column="28" />
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/schema-mysqlshow.sql" timestamp="1499682343029">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="4" column="49" />
+        <mark key="^" line="39" column="8" />
+        <mark key="." line="4" column="49" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/resources/test-dubbo.xml" timestamp="1499418751386">
         <mark key="[" line="11" column="91" />
@@ -348,7 +357,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499679767822">
+      <file name="/Dummy.txt" timestamp="1499680822490">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="." line="0" column="23" />
@@ -357,6 +366,13 @@
         <mark key="[" line="38" column="39" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1499681193617">
+        <mark key="'" line="252" column="36" />
+        <mark key="[" line="116" column="20" />
+        <mark key="]" line="150" column="16" />
+        <mark key="." line="150" column="16" />
+        <mark key="^" line="150" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1499262009737">
         <mark key="[" line="47" column="31" />
@@ -522,10 +538,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-noah-${ENV_CODE}</text>
+        <text>UNIQUE</text>
       </register>
       <register name="-" type="4">
-        <text>-noah-${ENV_CODE}</text>
+        <text>UNIQUE</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
