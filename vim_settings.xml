@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/pom.xml" timestamp="1499840043573">
+        <mark key="[" line="14" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1499671049462">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -247,6 +250,13 @@
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/QAdjustPriceRule.java" timestamp="1499830123443">
         <mark key="[" line="180" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" timestamp="1499840169851">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="182" column="58" />
+        <mark key="]" line="182" column="57" />
+        <mark key="^" line="182" column="57" />
+        <mark key="." line="182" column="57" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/bargain.puml" timestamp="1499691171942">
         <mark key="[" line="11" column="16" />
       </file>
@@ -255,6 +265,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/QAdjustPriceRule.java" timestamp="1499840097020" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/history/CouponHistoryDao.java" timestamp="1497494996511">
         <mark key="[" line="17" column="44" />
         <mark key="]" line="17" column="27" />
@@ -473,14 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="20" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/DataManager.java" />
-      <jump line="75" column="19" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/PriceCoreExecutor.java" />
-      <jump line="78" column="28" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" />
-      <jump line="138" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" />
-      <jump line="140" column="47" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" />
-      <jump line="53" column="29" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" />
-      <jump line="18" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-supplier-product-adapter-api/1.6.24/qta-supplier-product-adapter-api-1.6.24-sources.jar!/com/qunar/hotel/qta/spa/service/OProductAdapterService.java" />
       <jump line="40" column="27" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" />
       <jump line="18" column="10" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-supplier-product-adapter-api/1.6.26/qta-supplier-product-adapter-api-1.6.26-sources.jar!/com/qunar/hotel/qta/spa/service/OProductAdapterService.java" />
       <jump line="105" column="53" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" />
@@ -573,6 +576,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betanoah/spring/datasource.properties" />
       <jump line="83" column="47" filename="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/config/profit/processor/PriceModelProcessor.java" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/config/profit/processor/PriceModelProcessor.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QAdjustPriceRule.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
