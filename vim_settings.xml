@@ -84,6 +84,11 @@
         <mark key="]" line="14" column="11" />
         <mark key="." line="14" column="11" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1499933045166">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betanoah/application-betanoah.properties" timestamp="1499148963072">
         <mark key="[" line="1" column="61" />
         <mark key="]" line="0" column="0" />
@@ -304,11 +309,6 @@
         <mark key="]" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1498633029282">
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.prod/application.properties" timestamp="1499679749262">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="8" column="41" />
@@ -442,7 +442,7 @@
         <mark key="." line="173" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImplTest.java" timestamp="1499929469079" />
-      <file name="/Dummy.txt" timestamp="1499932939019">
+      <file name="/Dummy.txt" timestamp="1499933127129">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -632,7 +632,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4zLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJpY2UuYWRkaXRpb25hbC5zdXBwb3J0LkFkZGl0aW9uYWxDb25maWcuU1VQRVJfQlVTOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG91WW91IGNhbiBhbHNvIHB1dCBub3RlcyE=</text>
@@ -644,42 +644,34 @@
         <text>You can also put notes!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4zLjE8L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJpY2UuYWRkaXRpb25hbC5zdXBwb3J0LkFkZGl0aW9uYWxDb25maWcuU1VQRVJfQlVTOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>import com.qunar.hotel.qta.open.bean.price.product.QAdjustPriceRule;
-import com.qunar.hotel.qta.open.config.profit.bean.ProfitExecResult;
-import com.qunar.hotel.qta.open.config.profit.bean.ProfitProcessorContext;
-import com.qunar.hotel.qta.open.price.product.QProcessorContext;</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVTRVJfUEhPTkU7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>import com.qunar.hotel.qta.open.bean.price.product.QAdjustPriceRule;
-import com.qunar.hotel.qta.open.config.profit.bean.ProfitExecResult;
-import com.qunar.hotel.qta.open.config.profit.bean.ProfitProcessorContext;
-import com.qunar.hotel.qta.open.price.product.QProcessorContext;</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVJRDsK</text>
       </register>
-      <register name="4" type="4">
-        <text>package com.qunar.hotel.qta.open.config.profit.bean;
-
-import com.qunar.hotel.qta.open.config.profit.processor.*;</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcmljZS5hZGRpdGlvbmFsLnN1cHBvcnQuRGFDb3Vwb25CbGFja0xpc3RDbGllbnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbC5vZk51bGxhYmxlKGF0dHJpYnV0ZXMuZ2V0VmFsdWUoU1BFQ0lBTF9TT1VSQ0UpKQogICAgICAgICAgICAgICAgLmlmUHJlc2VudChzIC0+IHNwZWNpYWxTb3VyY2VMaXN0LmFkZEFsbChzKSk7CiAgICAgICAgaWYgKCFTdHJpbmdzLmlzTnVsbE9yRW1wdHkoYXR0cmlidXRlcy5nZXRWYWx1ZShTUEVDSUFMX1NPVVJDRSkpKSB7</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOVUxMOyAgLy8g6ZSZ6K+v6YWN572uCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubWF0aC5CaWdEZWNpbWFsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb247Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFNwZWNpYWxTb3VyY2UgdmFsdWVPZihTdHJpbmcgdmFsdWUpIHsKICAgICAgICAgICAgaWYgKFNGLm5hbWUoKS5lcXVhbHModmFsdWUpKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gU0Y7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoRksubmFtZSgpLmVxdWFscyh2YWx1ZSkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBGSzsKICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBOVUxMOwogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
