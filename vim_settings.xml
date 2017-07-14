@@ -48,10 +48,6 @@
         <mark key="]" line="7" column="45" />
         <mark key="." line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/pom.xml" timestamp="1499934449092">
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/config/profit/processor/FixCommissionProcessor.java" timestamp="1499765490781">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="25" column="0" />
@@ -124,6 +120,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QProductExtendMapConst.java" timestamp="1500005468165" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.beta/application.properties" timestamp="1499674570594">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="27" />
@@ -147,6 +144,9 @@
         <mark key="[" line="583" column="91" />
         <mark key="]" line="580" column="57" />
         <mark key="." line="580" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/QProduct.java" timestamp="1500005435348">
+        <mark key="[" line="131" column="33" />
       </file>
       <file name="/a.sql" timestamp="1499680184127">
         <mark key="[" line="0" column="0" />
@@ -181,7 +181,7 @@
         <mark key="]" line="64" column="19" />
         <mark key="." line="64" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QProduct.java" timestamp="1499999704485">
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze-api/src/main/java/com/qunar/hotel/price/breeze/api/ogbean/price/product/QProduct.java" timestamp="1500005426620">
         <mark key="[" line="131" column="42" />
         <mark key="]" line="131" column="31" />
         <mark key="^" line="131" column="31" />
@@ -207,6 +207,9 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/QProductExtendMapConst.java" timestamp="1500005470454">
+        <mark key="[" line="5" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.alpha/hotel.properties" timestamp="1498115069625">
         <mark key="[" line="102" column="0" />
@@ -271,8 +274,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.prod/logback.xml" timestamp="1499850644714">
         <mark key="[" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/QAdjustPriceRule.java" timestamp="1499830123443">
-        <mark key="[" line="180" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/QAdjustPriceRule.java" timestamp="1500005314365">
+        <mark key="[" line="180" column="0" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/config/profit/processor/DiscountRuleProcessor.java" timestamp="1499765483433">
         <mark key="[" line="29" column="25" />
@@ -606,8 +611,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>profit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKHN0dWRlbnRUYXNrRmxhZykK</text>
       </register>
       <register name="-" type="4">
         <text>profit</text>
@@ -619,34 +624,34 @@
         <text>You can also put notes!</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKHN0dWRlbnRUYXNrRmxhZykK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29tUVByb2R1Y3QuZ2V0RXh0ZW5kTWFwKCkuZ2V0KFFQcm9kdWN0RXh0ZW5kTWFwQ29uc3QuT1RBX1NQRUNJQUxfVFlQRSkgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMubmFtZSgpLmVxdWFscyhzcGVjaWFsU291cmNlVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29tUVByb2R1Y3QuZ2V0RXh0ZW5kTWFwKCkuZ2V0KFFQcm9kdWN0RXh0ZW5kTWFwQ29uc3QuT1RBX1NQRUNJQUxfVFlQRSkgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJpY2UuYWRkaXRpb25hbC5zdXBwb3J0LkFkZGl0aW9uYWxDb25maWcuU1VQRVJfQlVTOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMubmFtZSgpLmVxdWFscyhzcGVjaWFsU291cmNlVHlwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVTRVJfUEhPTkU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJpY2UuYWRkaXRpb25hbC5zdXBwb3J0LkFkZGl0aW9uYWxDb25maWcuU1VQRVJfQlVTOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVJRDsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVTRVJfUEhPTkU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcmljZS5hZGRpdGlvbmFsLnN1cHBvcnQuRGFDb3Vwb25CbGFja0xpc3RDbGllbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4uYmVhbi5wcmljZS5xdWVyeS5RQWRkaXRpb25hbFByb2R1Y3RRdWVyeS5FeHRlbmRNYXBLZXlzLlVJRDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcmljZS5hZGRpdGlvbmFsLnN1cHBvcnQuRGFDb3Vwb25CbGFja0xpc3RDbGllbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uczsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db21wYXJhdG9yOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
