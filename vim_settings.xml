@@ -14,6 +14,7 @@
         <mark key="." line="0" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/source/logging-log4j2/log4j-perf/src/main/resources/perf5AsyncApndDsrptrNoLoc-noOpAppender.xml" timestamp="1500119179218" />
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/test/LogOutput.java" timestamp="1500136310444" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.devq/application-h2.properties" timestamp="1499679266932">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -86,6 +87,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/openjdk/jmh/jmh-core/1.1.1/jmh-core-1.1.1-sources.jar!/org/openjdk/jmh/Main.java" timestamp="1500136304411" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources.betanoah/application-betanoah.properties" timestamp="1499148963072">
         <mark key="[" line="1" column="61" />
         <mark key="]" line="0" column="0" />
@@ -113,10 +115,10 @@
         <mark key="]" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async-lz4.xml" timestamp="1500135391849">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="21" column="12" />
-        <mark key="." line="21" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async-lz4.xml" timestamp="1500137476972">
+        <mark key="[" line="39" column="23" />
+        <mark key="]" line="39" column="23" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/webapp/monitor/qmonitor.jsp" timestamp="1499068132863">
         <mark key="[" line="9" column="2" />
@@ -203,7 +205,7 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/test/jmh/LogbackBenchmark.java" timestamp="1500132613921">
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/test/jmh/LogbackBenchmark.java" timestamp="1500136522014">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
         <mark key="^" line="39" column="0" />
@@ -588,11 +590,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2diCg==</text>
+      <register name="&quot;" type="4">
+        <text>ASYNC</text>
       </register>
       <register name="-" type="4">
-        <text>gzip</text>
+        <text>ASYNC</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
