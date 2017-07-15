@@ -52,7 +52,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/FileAppender.java" timestamp="1500129645380" />
       <file name="$USER_HOME$/IdeaProjects/mine/log_compress/perftest.log" timestamp="1500129369490" />
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500126746250" />
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/appender/CompressRollingFileAppender.java" timestamp="1500133931309">
+        <mark key="[" line="52" column="117" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClientTest.java" timestamp="1498205675446">
         <mark key="[" line="31" column="52" />
         <mark key="]" line="31" column="52" />
@@ -111,7 +113,7 @@
         <mark key="]" line="38" column="46" />
         <mark key="." line="38" column="46" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async-lz4.xml" timestamp="1500132158919">
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async-lz4.xml" timestamp="1500133936861">
         <mark key="[" line="21" column="12" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="21" column="12" />
@@ -201,7 +203,7 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/test/jmh/LogbackBenchmark.java" timestamp="1500130086540">
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/java/com/qunar/log/compress/test/jmh/LogbackBenchmark.java" timestamp="1500132613921">
         <mark key="[" line="40" column="3" />
         <mark key="]" line="40" column="3" />
         <mark key="^" line="39" column="0" />
@@ -302,7 +304,7 @@
         <mark key="]" line="18" column="17" />
         <mark key="." line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async.xml" timestamp="1500132007123" />
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/perf-logback-async.xml" timestamp="1500132778665" />
       <file name="$USER_HOME$/IdeaProjects/mine/log_compress/log_compress.iml" timestamp="1500129373746" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" timestamp="1499075696677">
         <mark key="[" line="31" column="29" />
@@ -326,8 +328,8 @@
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/logback.xml" timestamp="1500131993683">
-        <mark key="[" line="16" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/mine/log_compress/src/main/resources/logback.xml" timestamp="1500133885021">
+        <mark key="[" line="16" column="19" />
         <mark key="]" line="16" column="16" />
         <mark key="." line="16" column="16" />
       </file>
@@ -593,35 +595,35 @@
       <register name="0" type="4">
         <text>You can also put notes!</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9uZXQuanBvdW50ei5sejQvbHo0IC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5uZXQuanBvdW50ei5sejQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmx6NDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxGaWxlPiR7Y2F0YWxpbmEuYmFzZX0vbG9nL2xvZ19jb21wcmVzcy5sb2c8L0ZpbGU+Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLmF3YWl0VGVybWluYXRpb24oTG9uZy5NQVhfVkFMVUUsIFRpbWVVbml0LkRBWVMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNodXRkb3duKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxmaWxlPnBlcmZ0ZXN0LmxvZzwvZmlsZQo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAoKytpID09IDI5KSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
+        <text encoding="base64">ICAgICAgIDwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9uZXQuanBvdW50ei5sejQvbHo0IC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5uZXQuanBvdW50ei5sejQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmx6NDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjA8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgU1NDb250ZXh0LmluaXQoc3NDb250ZXh0SXRlbXMpOwogICAgICB0cnkgewogICAgICAgIAogICAgICB9ZmluYWxseSB7CiAgICAgICAgU1NDb250ZXh0LmNsZWFyKCk7CiAgICAgIH0KICAgIH07</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLmF3YWl0VGVybWluYXRpb24oTG9uZy5NQVhfVkFMVUUsIFRpbWVVbml0LkRBWVMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkNwblNlcnZpY2UgdXNpbmcgQ3BuQ2hvb3NlcjRPcmRpbmFyeS5jaG9vc2U0TG9naW4gY2hlY2tlZCB1c2VyIHR5cGU6IHt9IiwKICAgICAgICAgICAgICAgIHVzZXJUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlLnNodXRkb3duKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkNwbkNob29zZXI0QWJyb2FkIGNoZWNrZWQgdXNlclR5cGUoe30pIGZvciB1c2VyKHt9KSBhbmQgdWlkKHt9KSIsIHVzZXJUeXBlLAogICAgICAgICAgICAgICAgdXNlckRldkluZm8uZ2V0VXNlcigpLCB1c2VyRGV2SW5mby5nZXRVaWQoKSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoKytpID09IDI5KSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMT0cuaW5mbygiQ3BuU2VydmljZSB1c2luZyBDcG5DaG9vc2VyNFNhb21laSBjaGVja2VkIHVzZXJJZDp7fSwgY1R5cGU6e30sIHFUeXBlOnt9IiwgdXNlckRldkluZm8uZ2V0VXNlcigpLmdldElkKCksIGNUeXBlLCBxVHlwZSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgU1NDb250ZXh0LmluaXQoc3NDb250ZXh0SXRlbXMpOwogICAgICB0cnkgewogICAgICAgIAogICAgICB9ZmluYWxseSB7CiAgICAgICAgU1NDb250ZXh0LmNsZWFyKCk7CiAgICAgIH0KICAgIH07</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMT0cuZGVidWcoIkNwblNlcnZpY2UgdXNpbmcgQ3BuQ2hvb3NlcjRPcmRpbmFyeS5jaG9vc2U0TG9naW4gY2hlY2tlZCB1c2VyIHR5cGU6IHt9IiwKICAgICAgICAgICAgICAgIHVzZXJUeXBlKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
