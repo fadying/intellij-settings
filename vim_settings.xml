@@ -279,7 +279,7 @@
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1500625035718">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1500625235680">
         <mark key="[" line="21" column="36" />
         <mark key="]" line="21" column="36" />
         <mark key="." line="21" column="36" />
@@ -426,7 +426,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500625055394">
+      <file name="/Dummy.txt" timestamp="1500625739516">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -437,6 +437,11 @@
         <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/PackageProductConfig.java" timestamp="1500619254470" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1500625817129">
+        <mark key="[" line="271" column="78" />
+        <mark key="]" line="271" column="78" />
+        <mark key="." line="271" column="78" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/WeChatConsumeService.java" timestamp="1500539961818">
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="20" />
@@ -499,7 +504,7 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1500625055408">
+      <file name="/fragment.java" timestamp="1500625202149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
@@ -636,11 +641,11 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>cipher</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>result</text>
@@ -649,27 +654,30 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2lwaGVyVXRpbC5kZWNyeXB0KCJ0UFlGNW54WXV4ST0iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJjb21taXQiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdXJjZSk7</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5ZGRwdCgidFBZRjVueFl1eEk9IikpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5cHQoInRQWUY1bnhZdXhJPSIpKTsKICAgICAgICA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgbmV3IEJhcmdhaW5PcHRpb25CaXpJbXBsKCkuZ2VuZXJhdGVCYXJnYWluQW1vdW50KEJpZykKICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5iYXNlLmNvbW1vbmNvbmYuQWlyVm91Y2hlckFjdGl2aXR5Q29uZmlnOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;{\n&quot; +
                 &quot;    \&quot;queryType\&quot;: 1,\n&quot; +
                 &quot;    \&quot;checkInDate\&quot;: \&quot;2017-07-19\&quot;,\n&quot; +
@@ -737,15 +745,8 @@
                 &quot;    \&quot;channelType\&quot;: \&quot;1\&quot;\n&quot; +
                 &quot;}&quot;;</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>boolean markSuccess = markCode(cardId, codeId, openId, token);
-        if (!markSuccess) {
-            LOGGER.warn(&quot;mark weChat code failed. cardId:{}, codeId:{}, openId:{}&quot;, cardId, codeId, openId);
-            return false;
-        }</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
