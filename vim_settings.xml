@@ -371,6 +371,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/pom.xml" timestamp="1500624833066" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1500624829930">
+        <mark key="[" line="259" column="0" />
+        <mark key="]" line="259" column="0" />
+        <mark key="^" line="192" column="120" />
+        <mark key="." line="259" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/IndexController.java" timestamp="1499077042126">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -456,7 +462,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500881440342">
+      <file name="/Dummy.txt" timestamp="1500888201343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -554,6 +560,12 @@
         <mark key="[" line="0" column="29" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/WechatConsumeAction.java" timestamp="1500888176817">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="54" column="90" />
+        <mark key="." line="50" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -682,8 +694,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q3JlYXRlIFRhYmxlOiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiY29uc3VtZV93ZWNoYXRfY29kZV9lcnJvciIsIHMuc3RvcCgpLmVsYXBzZWQoVGltZVVuaXQuU0VDT05EUykpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Q3JlYXRlIFRhYmxlOiA=</text>
@@ -695,30 +707,33 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2lwaGVyVXRpbC5kZWNyeXB0KCJ0UFlGNW54WXV4ST0iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJjb21taXQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiY29uc3VtZV93ZWNoYXRfY29kZV9lcnJvciIsIHMuc3RvcCgpLmVsYXBzZWQoVGltZVVuaXQuU0VDT05EUykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJjb21taXQiKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdXJjZSk7</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5ZGRwdCgidFBZRjVueFl1eEk9IikpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5cHQoInRQWUY1bnhZdXhJPSIpKTsKICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgbmV3IEJhcmdhaW5PcHRpb25CaXpJbXBsKCkuZ2VuZXJhdGVCYXJnYWluQW1vdW50KEJpZykKICAgIH0=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5iYXNlLmNvbW1vbmNvbmYuQWlyVm91Y2hlckFjdGl2aXR5Q29uZmlnOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>&quot;{\n&quot; +
                 &quot;    \&quot;queryType\&quot;: 1,\n&quot; +
                 &quot;    \&quot;checkInDate\&quot;: \&quot;2017-07-19\&quot;,\n&quot; +
@@ -785,9 +800,6 @@
                 &quot;    \&quot;userPackageProducts\&quot;: [],\n&quot; +
                 &quot;    \&quot;channelType\&quot;: \&quot;1\&quot;\n&quot; +
                 &quot;}&quot;;</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
