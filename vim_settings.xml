@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/processor/PriceModelProcessor.java" timestamp="1500963707348" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/WechatConsumeServiceImpl.java" timestamp="1500965247289" />
       <file name="/a.dummy" timestamp="1500640073442">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -62,6 +63,7 @@
         <mark key="]" line="64" column="82" />
         <mark key="." line="64" column="82" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/WechatFunction.java" timestamp="1500964532074" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClientTest.java" timestamp="1498205675446">
         <mark key="[" line="31" column="52" />
         <mark key="]" line="31" column="52" />
@@ -205,8 +207,8 @@
         <mark key="]" line="46" column="76" />
         <mark key="." line="46" column="76" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1500881641686">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1500965031320">
+        <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -424,12 +426,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1500963769010">
+      <file name="/dummy.sql" timestamp="1500965206341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500964473899">
+      <file name="/Dummy.txt" timestamp="1500964556459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -519,11 +521,11 @@
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/WechatConsumeAction.java" timestamp="1500951829498">
-        <mark key="[" line="55" column="76" />
-        <mark key="]" line="38" column="12" />
-        <mark key="^" line="62" column="90" />
-        <mark key="." line="38" column="12" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/WechatConsumeAction.java" timestamp="1500964646738">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="61" column="90" />
+        <mark key="." line="42" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -652,8 +654,8 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -665,99 +667,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQ2lwaGVyVXRpbC5kZWNyeXB0KCJ0UFlGNW54WXV4ST0iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiY29uc3VtZV93ZWNoYXRfY29kZV9lcnJvciIsIHMuc3RvcCgpLmVsYXBzZWQoVGltZVVuaXQuU0VDT05EUykpOwo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJjb21taXQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiY29uc3VtZV93ZWNoYXRfY29kZV9lcnJvciIsIHMuc3RvcCgpLmVsYXBzZWQoVGltZVVuaXQuU0VDT05EUykpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPR0dFUi5pbmZvKCJjb21taXQiKTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZXIucmVtb3ZlKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHNvdXJjZSk7</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5ZGRwdCgidFBZRjVueFl1eEk9IikpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihDaXBoZXJVdGlsLmRlY3J5cHQoInRQWUY1bnhZdXhJPSIpKTsKICAgICAgICA=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgbmV3IEJhcmdhaW5PcHRpb25CaXpJbXBsKCkuZ2VuZXJhdGVCYXJnYWluQW1vdW50KEJpZykKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5iYXNlLmNvbW1vbmNvbmYuQWlyVm91Y2hlckFjdGl2aXR5Q29uZmlnOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>&quot;{\n&quot; +
-                &quot;    \&quot;queryType\&quot;: 1,\n&quot; +
-                &quot;    \&quot;checkInDate\&quot;: \&quot;2017-07-19\&quot;,\n&quot; +
-                &quot;    \&quot;checkOutDate\&quot;: \&quot;2017-07-20\&quot;,\n&quot; +
-                &quot;    \&quot;hotelSeq\&quot;: \&quot;dali_4359\&quot;,\n&quot; +
-                &quot;    \&quot;cityUrl\&quot;: \&quot;dali\&quot;,\n&quot; +
-                &quot;    \&quot;wrapperId\&quot;: \&quot;wapqunarqta\&quot;,\n&quot; +
-                &quot;    \&quot;priceType\&quot;: 26,\n&quot; +
-                &quot;    \&quot;productUniqueKey\&quot;: \&quot;MOBILE_MS_HD_PTLTE0NDQ3MTA1ODg\&quot;,\n&quot; +
-                &quot;    \&quot;productId\&quot;: 13024509,\n&quot; +
-                &quot;    \&quot;twellProductId\&quot;: \&quot;13024509_110379\&quot;,\n&quot; +
-                &quot;    \&quot;bookingChannel\&quot;: \&quot;MOBILE\&quot;,\n&quot; +
-                &quot;    \&quot;logicBit\&quot;: \&quot;589824\&quot;,\n&quot; +
-                &quot;    \&quot;orderSaleGroup\&quot;: {\n&quot; +
-                &quot;        \&quot;channelType\&quot;: \&quot;MS\&quot;,\n&quot; +
-                &quot;        \&quot;terminalType\&quot;: \&quot;MOBILE\&quot;,\n&quot; +
-                &quot;        \&quot;groupName\&quot;: \&quot;HD\&quot;,\n&quot; +
-                &quot;        \&quot;wrapperId\&quot;: \&quot;wapqunarqta\&quot;\n&quot; +
-                &quot;    },\n&quot; +
-                &quot;    \&quot;extendMap\&quot;: {\n&quot; +
-                &quot;        \&quot;uid\&quot;: 253673365,\n&quot; +
-                &quot;        \&quot;needQueryTicketDetail\&quot;: false,\n&quot; +
-                &quot;        \&quot;cancelPolicy\&quot;: \&quot;NO_CANCEL\&quot;,\n&quot; +
-                &quot;        \&quot;sHotelLevel\&quot;: \&quot;LEVEL2_OTHER\&quot;,\n&quot; +
-                &quot;        \&quot;needAccidentInsurance\&quot;: true,\n&quot; +
-                &quot;        \&quot;settlementCurrency\&quot;: \&quot;CNY\&quot;,\n&quot; +
-                &quot;        \&quot;hotelAddress\&quot;: \&quot;下关镇泰安桥北榆华路12号\&quot;,\n&quot; +
-                &quot;        \&quot;dailyPrice\&quot;: {\n&quot; +
-                &quot;            \&quot;2017-07-19\&quot;: 274.0\n&quot; +
-                &quot;        },\n&quot; +
-                &quot;        \&quot;guaranteeAmount\&quot;: -1,\n&quot; +
-                &quot;        \&quot;baiduPoint\&quot;: \&quot;25.606083,100.229039\&quot;,\n&quot; +
-                &quot;        \&quot;userPhone\&quot;: \&quot;153h5SU2717\&quot;,\n&quot; +
-                &quot;        \&quot;vid\&quot;: \&quot;80011128\&quot;,\n&quot; +
-                &quot;        \&quot;totalPrice\&quot;: 274.0,\n&quot; +
-                &quot;        \&quot;supplierId\&quot;: 110379,\n&quot; +
-                &quot;        \&quot;paySubtractPrice\&quot;: 0,\n&quot; +
-                &quot;        \&quot;needTiedSale\&quot;: false,\n&quot; +
-                &quot;        \&quot;oneyuanOrderFree\&quot;: true,\n&quot; +
-                &quot;        \&quot;pid\&quot;: \&quot;10010\&quot;,\n&quot; +
-                &quot;        \&quot;serviceType\&quot;: \&quot;0\&quot;,\n&quot; +
-                &quot;        \&quot;refundRule\&quot;: {\n&quot; +
-                &quot;            \&quot;cancelType\&quot;: \&quot;NO_CANCEL\&quot;,\n&quot; +
-                &quot;            \&quot;relativeCancelPoints\&quot;: null,\n&quot; +
-                &quot;            \&quot;absoluteCancelPoints\&quot;: null,\n&quot; +
-                &quot;            \&quot;description\&quot;: \&quot;不可取消变更。\&quot;,\n&quot; +
-                &quot;            \&quot;dateRange\&quot;: {\n&quot; +
-                &quot;                \&quot;fromDate\&quot;: \&quot;2017-07-19\&quot;,\n&quot; +
-                &quot;                \&quot;toDate\&quot;: \&quot;2017-07-19\&quot;\n&quot; +
-                &quot;            },\n&quot; +
-                &quot;            \&quot;priority\&quot;: 1\n&quot; +
-                &quot;        },\n&quot; +
-                &quot;        \&quot;regionType\&quot;: \&quot;INLAND\&quot;,\n&quot; +
-                &quot;        \&quot;isMainLand\&quot;: true,\n&quot; +
-                &quot;        \&quot;accidentInsuranceEndDate\&quot;: \&quot;2017-07-21\&quot;,\n&quot; +
-                &quot;        \&quot;cancelInsCode\&quot;: \&quot;QinterH50\&quot;,\n&quot; +
-                &quot;        \&quot;roomAmount\&quot;: 1,\n&quot; +
-                &quot;        \&quot;cancelInsDot\&quot;: 0.9717\n&quot; +
-                &quot;    },\n&quot; +
-                &quot;    \&quot;sHotelId\&quot;: 112637,\n&quot; +
-                &quot;    \&quot;sHotelLevel\&quot;: \&quot;LEVEL2_OTHER\&quot;,\n&quot; +
-                &quot;    \&quot;experiments\&quot;: \&quot;{\\\&quot;userId\\\&quot;:253673365,\\\&quot;platform\\\&quot;:\\\&quot;2\\\&quot;,\\\&quot;userLocation\\\&quot;:{\\\&quot;lat\\\&quot;:\\\&quot;25.574076\\\&quot;,\\\&quot;lng\\\&quot;:\\\&quot;100.21911\\\&quot;,\\\&quot;wgs84Lat\\\&quot;:\\\&quot;25.579893\\\&quot;,\\\&quot;wgs84Lng\\\&quot;:\\\&quot;-79.78503\\\&quot;},\\\&quot;experimentList\\\&quot;:[{\\\&quot;id\\\&quot;:\\\&quot;170301_ho_other_slbj2\\\&quot;,\\\&quot;bucket\\\&quot;:\\\&quot;B\\\&quot;,\\\&quot;env\\\&quot;:\\\&quot;B\\\&quot;},{\\\&quot;id\\\&quot;:\\\&quot;170322_ho_yhty_newtj\\\&quot;,\\\&quot;bucket\\\&quot;:\\\&quot;C\\\&quot;,\\\&quot;env\\\&quot;:\\\&quot;B\\\&quot;},{\\\&quot;id\\\&quot;:\\\&quot;170420_ho_djq2\\\&quot;,\\\&quot;bucket\\\&quot;:\\\&quot;B\\\&quot;,\\\&quot;env\\\&quot;:\\\&quot;B\\\&quot;},{\\\&quot;id\\\&quot;:\\\&quot;170518_ho_yhty_BJJJ\\\&quot;,\\\&quot;bucket\\\&quot;:\\\&quot;B\\\&quot;,\\\&quot;env\\\&quot;:\\\&quot;B\\\&quot;},{\\\&quot;id\\\&quot;:\\\&quot;161223_ho_sscp_sleep\\\&quot;,\\\&quot;bucket\\\&quot;:\\\&quot;B\\\&quot;,\\\&quot;env\\\&quot;:\\\&quot;B\\\&quot;}],\\\&quot;bitInfo\\\&quot;:7,\\\&quot;qualificationBits\\\&quot;:3899439}\&quot;,\n&quot; +
-                &quot;    \&quot;payType\&quot;: \&quot;PREPAY\&quot;,\n&quot; +
-                &quot;    \&quot;userPackageProducts\&quot;: [],\n&quot; +
-                &quot;    \&quot;channelType\&quot;: \&quot;1\&quot;\n&quot; +
-                &quot;}&quot;;</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
