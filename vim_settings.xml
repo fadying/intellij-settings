@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/processor/PriceModelProcessor.java" timestamp="1500976198327" />
@@ -44,12 +44,17 @@
         <mark key="]" line="96" column="17" />
         <mark key="." line="96" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1501140817680" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/DaCouponBlackListClient.java" timestamp="1501224131955">
+        <mark key="[" line="67" column="85" />
+        <mark key="]" line="67" column="85" />
+        <mark key="." line="67" column="85" />
+        <mark key="^" line="67" column="104" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/loader/ProfitConfigLoader.java" timestamp="1500968452591" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/task/qschedule/HotelServiceScoreTask.java" timestamp="1501137003478" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/bean/ActivityChangeParam.java" timestamp="1501041729443" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/context/PromotionCtx.java" timestamp="1501055029065" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/WrapperJsonController.java" timestamp="1501122783542" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/WrapperJsonController.java" timestamp="1501224544379" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/context/QtaPromotionContext.java" timestamp="1501055316407">
         <mark key="[" line="222" column="5" />
       </file>
@@ -70,7 +75,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.62/open-promotion-api-1.1.62-sources.jar!/com/qunar/hotel/qta/open/promotion/api/enums/QBenefitFunctionalType.java" timestamp="1501059319547" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/ProfitMaximizeProcessor.java" timestamp="1500975072370" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-promotion-api/20170726_discountCoupon_DZS-15876-SNAPSHOT/qta-service-promotion-api-20170726_discountCoupon_DZS-15876-20170726.065954-2-sources.jar!/com/qunar/hotel/qta/product/promotion/api/domain/result/rule/ProductPromotionRuleQuery.java" timestamp="1501058835917" />
-      <file name="/Dummy.txt" timestamp="1501222236195">
+      <file name="/Dummy.txt" timestamp="1501224163550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -179,7 +184,7 @@
         <mark key="." line="2" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Ordinary.java" timestamp="1501209119602" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/price/PackageMap.java" timestamp="1501125494353">
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/price/PackageMap.java" timestamp="1501224578572">
         <mark key="[" line="140" column="93" />
         <mark key="]" line="140" column="93" />
         <mark key="." line="140" column="93" />
@@ -314,10 +319,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Objects</text>
+        <text>, time:{}</text>
       </register>
       <register name="-" type="4">
-        <text>Objects</text>
+        <text>, time:{}</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
