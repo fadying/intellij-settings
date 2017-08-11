@@ -28,12 +28,21 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="product" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
+          <option name="LABEL_EXPRESSION" value="getProductId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="benefit" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
-          <option name="LABEL_EXPRESSION" value="getInventoryId().getData()&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>

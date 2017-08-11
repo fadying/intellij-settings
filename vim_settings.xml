@@ -7,6 +7,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/ctrip/DetailResponse.xml" timestamp="1502439367320" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources.betanoah/redis.properties" timestamp="1502442344264" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/support/PriceErrorHandler.java" timestamp="1502442274327" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/pom.xml" timestamp="1502359672096">
+        <mark key="[" line="31" column="38" />
+        <mark key="]" line="31" column="38" />
+        <mark key="." line="31" column="38" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/price/opromotion/PromotionExecutor.java" timestamp="1502354775432">
         <mark key="[" line="303" column="9" />
         <mark key="]" line="304" column="7" />
@@ -37,11 +42,21 @@
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/context/AbstractContextBuilder.java" timestamp="1502354130285">
+        <mark key="[" line="110" column="21" />
+        <mark key="]" line="116" column="58" />
+        <mark key="." line="116" column="58" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/ModifySomeAttributeProcessor.java" timestamp="1502358423178">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="53" column="26" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/context/product/ProductPromotionRule.java" timestamp="1502359620960">
+        <mark key="[" line="88" column="15" />
+        <mark key="]" line="88" column="15" />
+        <mark key="." line="88" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/SortByTicketTypeHandler.java" timestamp="1502274312267">
         <mark key="[" line="34" column="20" />
@@ -59,16 +74,15 @@
         <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QOrderPriceRemoteImpl.java" timestamp="1502437848116" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" timestamp="1502439419936">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="51" />
-        <mark key="^" line="40" column="20" />
-        <mark key="." line="37" column="51" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1502446412017" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" timestamp="1502447742904" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/bean/GroupProductInfo.java" timestamp="1502438527945" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.prod/logback.xml" timestamp="1502447339066">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1502438517841" />
-      <file name="/Dummy.txt" timestamp="1502446396777">
+      <file name="/Dummy.txt" timestamp="1502447343571">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -78,6 +92,12 @@
         <mark key="]" line="34" column="48" />
         <mark key="." line="34" column="48" />
         <mark key="^" line="34" column="48" />
+      </file>
+      <file name="/fragment.java" timestamp="1502448138962">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+        <mark key="^" line="0" column="2" />
       </file>
     </filemarks>
     <jumps>
@@ -207,10 +227,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">LVNOQVBTSE9UPA==</text>
+        <text>com.qunar.hotel.price.breeze.base.support.QProductUtil</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LVNOQVBTSE9UPA==</text>
+        <text>com.qunar.hotel.price.breeze.base.support.QProductUtil</text>
       </register>
       <register name="/" type="4">
         <text>result</text>
