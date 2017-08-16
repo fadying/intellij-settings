@@ -4,8 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/controller/FlightSellGoldCouponController.java" timestamp="1502863343810" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.63/open-promotion-api-1.1.63-sources.jar!/com/qunar/hotel/qta/open/promotion/api/context/QtaPromotionContext.java" timestamp="1502866554004" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1502857071604" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.63/open-promotion-api-1.1.63-sources.jar!/com/qunar/hotel/qta/open/promotion/api/context/QtaPromotionContext.java" timestamp="1502872142054" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1502872161355">
+        <mark key="'" line="326" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/coupon/CouponDao.java" timestamp="1502781931409" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-15682_cancel_discount-SNAPSHOT/qta-open-product-api-DZS-15682_cancel_discount-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/base/ChannelTypeEnum.java" timestamp="1502792878373" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-15682_cancel_discount-SNAPSHOT/qta-open-product-api-DZS-15682_cancel_discount-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/promotion/QActivityBenefit.java" timestamp="1502791603857" />
@@ -38,9 +40,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionProcessor.java" timestamp="1502784056878" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1502862244631" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1502802979014" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.63/open-promotion-api-1.1.63-sources.jar!/com/qunar/hotel/qta/open/promotion/api/biz/QtaOrderBenefitRemote.java" timestamp="1502872170518" />
       <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1-sources.jar!/org/apache/commons/lang3/builder/ToStringStyle.java" timestamp="1502784434846" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1502783900278" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" timestamp="1502865845142" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitFlightCouponChooseProcessor.java" timestamp="1502872705897" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/resources/qconfig_test/m_hotel_sprite/flight_sell_gold_coupon.properties" timestamp="1502799941705" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.87/order-core-api-1.4.87-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/pay/PromoteInfo.java" timestamp="1502778700052" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/util/ProductUtilLegacy.java" timestamp="1502789410430" />
@@ -69,7 +73,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/webapp/dynamicConfigTest.jsp" timestamp="1502798339662" />
     </filemarks>
     <jumps>
-      <jump line="84" column="16" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductListAgent.java" />
       <jump line="213" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/context/request/async/DeferredResult.java" />
       <jump line="190" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/web/context/request/async/DeferredResult.java" />
       <jump line="109" column="68" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/WrapperJsonController.java" />
@@ -169,6 +172,7 @@
       <jump line="39" column="63" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/daily/DailyPriceGenerator.java" />
       <jump line="17" column="22" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/daily/QDailyPriceCalc.java" />
       <jump line="20" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/DZS-15867_170724_hotel_promotion-SNAPSHOT/open-promotion-api-DZS-15867_170724_hotel_promotion-20170810.034216-9-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/constants/PromotionCodeConstant.java" />
+      <jump line="326" column="64" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
