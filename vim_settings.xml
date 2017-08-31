@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/resources/test-dubbo.xml" timestamp="1504166580455">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="52" />
+        <mark key="." line="8" column="52" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/controller/FlightSellGoldCouponController.java" timestamp="1504083728722" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qm-common/1.0.18/qm-common-1.0.18-sources.jar!/com/qunar/mobile/io/http/HttpClients.java" timestamp="1504082909081" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-api-common/1.6.66/qta-api-common-1.6.66-sources.jar!/com/qunar/hotel/qta/base/money/Money.java" timestamp="1504078316458" />
@@ -58,6 +63,7 @@
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/insurance/QCancelledEnsure.java" timestamp="1503996163480">
         <mark key="[" line="26" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/qunar/common/common-rpc/8.2.4/common-rpc-8.2.4-sources.jar!/qunar/rpc/dubbo/QunarAccessLogFilter.java" timestamp="1504167993840" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-17448_20170828_ab_client_version-SNAPSHOT/h_hprice_common-DZS-17448_20170828_ab_client_version-SNAPSHOT-sources.jar!/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1504063128125" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitStudentBenefitPostProcessor.java" timestamp="1504165800753" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QCancelInsurancePromotionProcessor.java" timestamp="1504164182576">
@@ -77,6 +83,12 @@
         <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1504063109510" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/test/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImplTest.java" timestamp="1504167498342">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="86" column="7" />
+      </file>
       <file name="/Dummy.txt" timestamp="1504165553144">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -229,7 +241,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgb3JkZXJJZCA9IG1haW5PcmRlci5nZXRPcmRlckJhc2UoKS5nZXRPcmRlck5vKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFQUEVSLnJlYWRWYWx1ZShyZXF1ZXN0LCBRdGFQcm9tb3Rpb25Db250ZXh0LmNsYXNzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>l-hrebuild25.h.cn5.qunar.com</text>
@@ -241,36 +253,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY2FuY2VsbGVkRW5zdXJlLnNldENhbmNlbGxlZEVuc3VyZVByaWNlKHByaWNlLm11bHRpcGx5KGNvdW50KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgb3JkZXJJZCA9IG1haW5PcmRlci5nZXRPcmRlckJhc2UoKS5nZXRPcmRlck5vKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTUFQUEVSLnJlYWRWYWx1ZShyZXF1ZXN0LCBRdGFQcm9tb3Rpb25Db250ZXh0LmNsYXNzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FuY2VsbGVkRW5zdXJlLnNldENhbmNlbGxlZEVuc3VyZVByaWNlKG5ldyBCaWdEZWNpbWFsKHBhY2thZ2VQcm9kdWN0LmdldFByaWNlKCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBKc29uVXRpbC50b0JlYW4oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBxQ2FuY2VsbGVkRW5zdXJlLnNldGNhbgo=</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgbyA9IEpTT04udG9KU09OKHJlcXVlc3QsIFF0YVByb21vdGlvbkNvbnRleHQuY2xhc3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHggLT4gbmV3IEJpZ0RlY2ltYWwoKGludCkgKHguaW50VmFsdWUoKSAqIGJlbmVmaXQuZ2V0RGlzY291bnQoKSAvIDEwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgb3JkZXJJZCA9IG1haW5PcmRlci5nZXRPcmRlckJhc2UoKS5nZXRPcmRlck5vKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWxsZWRFbnN1cmUuc2V0Q2FuY2VsbGVkRW5zdXJlUHJpY2UobmV3IEJpZ0RlY2ltYWwocGFja2FnZVByb2R1Y3QuZ2V0UHJpY2UoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FuY2VsbGVkRW5zdXJlLnNldENhbmNlbGxlZEVuc3VyZVByaWNlKG5ldyBCaWdEZWNpbWFsKHBhY2thZ2VQcm9kdWN0LmdldFByaWNlKCkpKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBxQ2FuY2VsbGVkRW5zdXJlLnNldGNhbgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHggLT4gbmV3IEJpZ0RlY2ltYWwoKGludCkgKHguaW50VmFsdWUoKSAqIGJlbmVmaXQuZ2V0RGlzY291bnQoKSAvIDEwKSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjYW5jZWxsZWRFbnN1cmUuc2V0Q2FuY2VsbGVkRW5zdXJlUHJpY2UobmV3IEJpZ0RlY2ltYWwocGFja2FnZVByb2R1Y3QuZ2V0UHJpY2UoKSkpOwo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsdGVybmF0aXZlT2ZBcHBBQiA9IG51bGw7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>Revert &quot;query add uid&quot;
-
-This reverts commit 57afc1c</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cmVzID0gZ2V0QWJ0ZXN0UXVlcnkoMTQ0NDYzNjMxOCwgIjgwMDExMTQwIiwgIiIpOwogICAgICAgIGFzc2VydEVxdWFscygxLCByZXMuZ2V0RXhwZXJpbWVudExpc3QoKS5zaXplKCkpOwogICAgICAgIGFzc2VydEVxdWFscygiQiIsIHJlcy5nZXRFeHBlcmltZW50TGlzdCgpLmdldCgwKS5nZXRCdWNrZXQoKSk7CiAgICAgICAgYXNzZXJ0RXF1YWxzKCIxNjExMjJfaG9fc3NjcF92cHVybCIsIHJlcy5nZXRFeHBlcmltZW50TGlzdCgpLmdldCgwKS5nZXRJZCgpKTsKICAgICAgICBMT0dHRVIud2FybigiaW9zIHJlc3VsdDoge30iLCByZXMpOwoK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9Im9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5jb3JlIiBsZXZlbD0iREVCVUciIC8+CiAgICA8bG9nZ2VyIG5hbWU9ImphdmEuc3FsIiBsZXZlbD0iREVCVUciIC8+CiAgICA8bG9nZ2VyIG5hbWU9ImNvbS5xdW5hci5ob3RlbCIgbGV2ZWw9IkRFQlVHIiAvPg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
