@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504839623743">
+      <file name="/Dummy.txt" timestamp="1504841761940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/base/Stopwatch.java" timestamp="1504839793552" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/base/utils/QApiTemplate.java" timestamp="1504839529130" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-15682_cancel_discount-SNAPSHOT/qta-open-product-api-DZS-15682_cancel_discount-20170830.122751-6-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/InsuranceProductInfo.java" timestamp="1504841363211" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/LowPriceRoomPromotionProcessor.java" timestamp="1504839347124">
         <mark key="a" line="86" column="57" />
         <mark key="[" line="90" column="16" />
@@ -15,13 +15,20 @@
         <mark key="." line="107" column="28" />
         <mark key="^" line="107" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-15682_cancel_discount-SNAPSHOT/qta-open-product-api-DZS-15682_cancel_discount-20170830.122751-6-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.java" timestamp="1504841019239" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-16385_170831_same_room_promotion-SNAPSHOT/h_hprice_common-DZS-16385_170831_same_room_promotion-SNAPSHOT-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" timestamp="1504842860931" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/base/utils/QApiTemplate.java" timestamp="1504839529130" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/processors/InstantProcessor.java" timestamp="1504842833987">
+        <mark key="'" line="230" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/AdditionalConfig.java" timestamp="1504841311232" />
       <file name="/fragment.java" timestamp="1504837936268">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1504839796532" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1504840876423" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/InsuranceProduct2QAddProductInfo.java" timestamp="1504841606073" />
     </filemarks>
     <jumps>
-      <jump line="842" column="50" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" />
       <jump line="116" column="23" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/impl/HotelPriceServiceImpl.java" />
       <jump line="50" column="29" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/p/PriceMaker.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/util/PriceCreator.java" />
@@ -121,6 +128,7 @@
       <jump line="131" column="38" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/task/HotelServiceScoreTask.java" />
       <jump line="118" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/task/HotelServiceScoreTask.java" />
       <jump line="152" column="93" filename="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" />
+      <jump line="230" column="40" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/service/src/main/java/com/qunar/hotel/price/service/processors/InstantProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
