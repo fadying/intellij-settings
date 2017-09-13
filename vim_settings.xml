@@ -49,6 +49,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynSubtractProcessImp.java" timestamp="1505284406460" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/pom.xml" timestamp="1505305838480" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnSender.java" timestamp="1505308086130" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/impl/HotelListPriceServiceImpl.java" timestamp="1505296720006" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1505307130101">
         <mark key="[" line="236" column="106" />
@@ -67,13 +68,14 @@
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-http/9.0.6/common-http-9.0.6-sources.jar!/qunar/hc/QunarAsyncClient.java" timestamp="1505290132782" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/PriceApiUrlGenerator.java" timestamp="1505284362476" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QOrderPriceRemoteImpl.java" timestamp="1505290480836" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505307625596">
-        <mark key="[" line="28" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505308822661">
+        <mark key="[" line="35" column="35" />
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="33" />
         <mark key="^" line="27" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/bean/LmPriceApiInfo.java" timestamp="1505290675763" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnExtendInfoBuilder.java" timestamp="1505308081242" />
       <file name="/ComposedAdditionalService.java" timestamp="1505285476129" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/product/QOrderQuery2PriceApiQuery.java" timestamp="1505294750774" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-16385_170831_same_room_promotion-SNAPSHOT/h_hprice_common-DZS-16385_170831_same_room_promotion-20170913.063405-9.jar!/com/qunar/hotel/price/bean/PriceExtendKey.class" timestamp="1505293706195" />
@@ -85,13 +87,15 @@
         <mark key="'" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiUtils.java" timestamp="1505285008236" />
-      <file name="/Dummy.txt" timestamp="1505307541515">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/constants/HotelURLConstants.java" timestamp="1505307846399" />
+      <file name="/Dummy.txt" timestamp="1505307761207">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="2" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/PriceApiClient.java" timestamp="1505284229124" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/price/result/PriceVoBuilder.java" timestamp="1505293678025" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/profiles/product/url.properties" timestamp="1505307838056" />
       <file name="/fragment.java" timestamp="1505305888629">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,10 +228,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>fetchWeChatToken</text>
+        <text>xml</text>
       </register>
       <register name="-" type="4">
-        <text>fetchWeChatToken</text>
+        <text>xml</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
