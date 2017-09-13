@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/bean/voucher/VoucherSendTask.java" timestamp="1505312126572" />
-      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1505312362794" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/FlightSellGoldCouponServiceImpl.java" timestamp="1505312418208" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/task/HotelServiceScoreTask.java" timestamp="1505310969224" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice_autotest/src/test/java/com/qunar/hotel/price/test/PriceTest.java" timestamp="1505290997604">
         <mark key="[" line="16" column="116" />
@@ -14,11 +14,11 @@
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/abtest/ABRouter.java" timestamp="1505304950733">
         <mark key="'" line="204" column="113" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505312375618">
-        <mark key="[" line="65" column="50" />
-        <mark key="]" line="65" column="50" />
-        <mark key="^" line="62" column="89" />
-        <mark key="." line="65" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505312793815">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="34" />
+        <mark key="." line="50" column="34" />
+        <mark key="^" line="95" column="52" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/UserBenefitService.java" timestamp="1505305865832">
         <mark key="'" line="52" column="22" />
@@ -191,46 +191,47 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">PFZvdWNoZXJTZW5kVGFzay5Wb3VjaGVyRGVzY0l0ZW0+</text>
+        <text>taskMonitor.getLogger();</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFZvdWNoZXJTZW5kVGFzay5Wb3VjaGVyRGVzY0l0ZW0+</text>
+        <text>taskMonitor.getLogger();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFFUQV9HT0xEX0NPVVBPTl9BQkFURV9GQUlMID0gIlFUQV9HT0xEX0NPVVBPTl9BQkFURV9GQUlMIjsK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMb2dnZXIgdGFza0xvZ2dlciA9IHRhc2tNb25pdG9yLmdldExvZ2dlcigpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSBlbmRUaW1lID0gbmV3IERhdGVUaW1lKCkuZGF5T2ZNb250aCgpLndpdGhNYXhpbXVtVmFsdWUoKS50b0RhdGUoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZnJvbU51bGxhYmxlKGVtcHR5VG9OdWxsKHBhcmFtZXRlci5nZXRTdHJpbmcoInNlcmllcyIpKSkudHJhbnNmb3JtKG5ldyBGdW5jdGlvbjxTdHJpbmcsIEludGVnZXI+KCkgewogICAgICAgICAgICAgICAgcHVibGljIEludGVnZXIgYXBwbHkoQE51bGxhYmxlIFN0cmluZyBpbnB1dCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBJbnRlZ2VyLnBhcnNlSW50KGlucHV0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSkub3IoMzApOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSBzdGFydFRpbWUgPSBuZXcgRGF0ZVRpbWUoKS50b0RhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBOdWxsYWJsZQogICAgICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB1c2VySWQgPSAwOwo=</text>
+      <register name="3" type="4">
+        <text>finally {
+                            }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHRhc2suc2V0QmF0Y2hTZXJpZXNOdW0oImJpcnRoZGF5LXRhc2stMDktQiIpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVzdWx0KCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSBlbmRUaW1lID0gbmV3IERhdGVUaW1lKCkuZGF5T2ZNb250aCgpLndpdGhNYXhpbXVtVmFsdWUoKS50b0RhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZSBzdGFydFRpbWUgPSBuZXcgRGF0ZVRpbWUoKS50b0RhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciB1c2VySWQgPSBKU09OLnBhcnNlT2JqZWN0KGJlYW4uZ2V0RXhwZXJpbWVudHMoKSwgQWJ0ZXN0UXVlcnkuY2xhc3MpLmdldFVzZXJJZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB1c2VySWQgPSAwOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHRhc2suc2V0QmF0Y2hTZXJpZXNOdW0oImJpcnRoZGF5LXRhc2stMDktQiIpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVzdWx0KCkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
