@@ -20,13 +20,14 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-biz-common/1.6.66/qta-biz-common-1.6.66-sources.jar!/com/qunar/hotel/qta/base/rwrouting/datasource/AppNameConfiguration.java" timestamp="1505322219654" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-ref.xml" timestamp="1505319362930" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505323119148">
-        <mark key="[" line="160" column="34" />
-        <mark key="]" line="131" column="43" />
-        <mark key="." line="131" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTask.java" timestamp="1505356264055">
+        <mark key="[" line="137" column="83" />
+        <mark key="]" line="144" column="0" />
+        <mark key="." line="144" column="0" />
+        <mark key="^" line="140" column="41" />
       </file>
       <file name="/opt/jdk1.8.0_92/src.zip!/java/lang/reflect/Constructor.java" timestamp="1505321038499" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/test/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTaskTest.java" timestamp="1505323237066">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/test/java/com/qunar/hotel/qta/open/promotion/task/BirthdayCouponSendTaskTest.java" timestamp="1505356579323">
         <mark key="[" line="35" column="144" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -72,7 +73,7 @@
       <file name="/dummy.sql" timestamp="1505322444927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505323214615">
+      <file name="/Dummy.txt" timestamp="1505356246221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="2" />
@@ -224,7 +225,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFwcE5hbWVDb25maWd1cmF0aW9uIGluc3RhbmNlID0gQXBwTmFtZUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza01vbml0b3Iuc2V0UmF0ZSh0b3RhbENvdW50KTsK</text>
       </register>
       <register name="-" type="4">
         <text>测试需要配置类似 -Dqunar.cache=/home/ouyangsheng/IdeaProjects/promotion/open-promotion/task/src/test/resources</text>
@@ -236,34 +237,34 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBMb2dnZXIgdGFza0xvZ2dlciA9IHRhc2tNb25pdG9yLmdldExvZ2dlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFwcE5hbWVDb25maWd1cmF0aW9uIGluc3RhbmNlID0gQXBwTmFtZUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza01vbml0b3Iuc2V0UmF0ZSh0b3RhbENvdW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEFwcE5hbWVDb25maWd1cmF0aW9uIGluc3RhbmNlID0gQXBwTmFtZUNvbmZpZ3VyYXRpb24uSU5TVEFOQ0U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygic2VuZCBiaXJ0aCBkYXkgY291cG9uIHN1Y2Nlc3MgdXNlcklkOnt9LCBjb3Vwb25JZDp7fSIsIGxpbmUsIHN1Y0luZm8uZ2V0Q291cG9ucygpLmdldCgwKS5nZXRDb3Vwb25JZHMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBMT0dHRVIuaW5mbygic2VuZCBiaXJ0aCBkYXkgY291cG9uIHN1Y2Nlc3MgdXNlcklkOnt9LCBjb3Vwb25JZDp7fSIsIGxpbmUsIHN1Y0luZm8uZ2V0Q291cG9ucygpLmdldCgwKS5nZXRDb3Vwb25JZHMoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJmaWxlIiBjbGFzcz0iY2gucW9zLmxvZ2JhY2suY29yZS5GaWxlQXBwZW5kZXIiPgogICAgICAgIDxmaWxlPmxvZ2dlci5sb2c8L2ZpbGU+CiAgICAgICAgPGFwcGVuZD50cnVlPC9hcHBlbmQ+CiAgICAgICAgPGVuY29kZXIgY2hhcnNldD0iVVRGLTgiPgogICAgICAgICAgICA8cGF0dGVybj5bJWR7eXl5eS1NTS1kZCBISDptbTpzcy5TU1N9XSAlLTVwICVDezB9OiVMIFslLjExdF0gLSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgIDwvYXBwZW5kZXI+</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBBcHBOYW1lQ29uZmlndXJhdGlvbiBpbnN0YW5jZSA9IEFwcE5hbWVDb25maWd1cmF0aW9uLklOU1RBTkNFOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnF1bmFyLmhvdGVsLnF0YTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cXRhLWJpei1jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">dWlkLG1vYmlsZSxiaXJ0aGRheSx2ZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
