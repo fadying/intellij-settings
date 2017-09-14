@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/json/diagnose/door/DoorController.java" timestamp="1505389998317" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/json/diagnose/door/DoorController.java" timestamp="1505392173057" />
       <file name="/a.dummy" timestamp="1505314436086">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,7 +34,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/tools/QuietComfort.java" timestamp="1505361650961" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/tools/QuietComfort.java" timestamp="1505392497993" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/executor/conditions/OwnCheckInOrderCondition.java" timestamp="1505321865653" />
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-api/8.2.4/common-api-8.2.4-sources.jar!/qunar/util/QunarFileUtil.java" timestamp="1505320987114" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-16385_170831_same_room_promotion-SNAPSHOT/qta-open-product-api-DZS-16385_170831_same_room_promotion-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QProductTracking.java" timestamp="1505376671307" />
@@ -101,6 +101,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/io/Resources.java" timestamp="1505320672330" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/common/src/main/java/com/qunar/hotel/qta/open/cache/FileCaches.java" timestamp="1505310905668" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1505393375404" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1505307130101">
         <mark key="[" line="236" column="106" />
         <mark key="]" line="236" column="114" />
@@ -108,8 +109,11 @@
         <mark key="^" line="236" column="114" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/cache/controller/CacheController.java" timestamp="1505370399529" />
-      <file name="/fragment.java" timestamp="1505361031814">
+      <file name="/fragment.java" timestamp="1505393413653">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.175/qta-open-product-api-1.1.175-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" timestamp="1505376260275" />
     </filemarks>
@@ -240,10 +244,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>omitEmptyStrings().</text>
+        <text>getRoomtype() + &quot;:&quot; + getCodebase()</text>
       </register>
       <register name="-" type="4">
-        <text>omitEmptyStrings().</text>
+        <text>getRoomtype() + &quot;:&quot; + getCodebase()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>

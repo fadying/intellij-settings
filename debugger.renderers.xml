@@ -28,6 +28,15 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+          <option name="LABEL_EXPRESSION" value="getRoomtype() + &quot;:&quot; + getCodebase()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
