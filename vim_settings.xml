@@ -26,7 +26,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynCheCheProcessImp.java" timestamp="1505406400480" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" timestamp="1505407794062" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynAbstractProcess.java" timestamp="1505407729116">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynAbstractProcess.java" timestamp="1505408230117">
         <mark key="[" line="58" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/test/resources/logback.xml" timestamp="1505322382040">
@@ -42,11 +42,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/common/RedisConfigProcessor.java" timestamp="1505398488878" />
       <file name="/DynAbstractProcess.java" timestamp="1505406157152" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/DynActivityProcessor.java" timestamp="1505406534905">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/DynActivityProcessor.java" timestamp="1505408565413">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="63" column="46" />
+        <mark key="]" line="63" column="46" />
+        <mark key="." line="63" column="46" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/LowPriceRoomPromotionProcessor.java" timestamp="1505398140018">
         <mark key="[" line="68" column="68" />
@@ -64,7 +65,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/QProcessorContext.java" timestamp="1505406422840">
         <mark key="[" line="122" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505407831309">
+      <file name="/Dummy.txt" timestamp="1505408285033">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="2" />
@@ -78,6 +79,13 @@
       <file name="/DynPriceRelateProcessImp.java" timestamp="1505406082552" />
       <file name="/HotelListPriceServiceImpl.java" timestamp="1505394541168" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/AbstractDetailExecutor.java" timestamp="1505398558927" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1505397984192">
+        <mark key="'" line="211" column="27" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="^" line="248" column="102" />
+        <mark key="." line="240" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynPriceRelateProcessImp.java" timestamp="1505406022680" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/HotelParser.java" timestamp="1505399482367" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/adaptor/concrete/QProcessorContextAdaptor.java" timestamp="1505406222007" />
@@ -89,7 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClient.java" />
       <jump line="84" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClient.java" />
       <jump line="148" column="29" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
       <jump line="65" column="56" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/OrderBenefitAdaptor.java" />
@@ -189,6 +196,7 @@
       <jump line="1862" column="0" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/impl/HotelListPriceServiceImpl.java" />
       <jump line="211" column="27" filename="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" />
       <jump line="180" column="17" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-16385_170831_same_room_promotion-SNAPSHOT/h_hprice_common-DZS-16385_170831_same_room_promotion-20170914.135134-11-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/DynActivityProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -215,10 +223,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIGxvd1ByaWNlUHJvbW90aW9uS2V5ID0gY29udGV4dC5nZXRDdXJyZW50UHJvZHVjdCgpLmdldEV4dGVuZEluZm9NYXAoKS5nZXQoTE9XX1BSSUNFX1JPT01fUFJPTU9USU9OKTsKICAgICAgICBpZiAoIVN0cmluZ3MuaXNOdWxsT3JFbXB0eShsb3dQcmljZVByb21vdGlvbktleSkpIHsKICAgICAgICAgICAgcU9yZGVyUHJvZHVjdC5nZXRQcm9kdWN0VHJhY2tpbmcoKS5nZXRUcmFja2luZ1BhcmFtZXRlcnMoKS5wdXQoUVByb2R1Y3RUcmFja2luZy5MT1dfUFJJQ0VfUFJPTU9USU9OLCBsb3dQcmljZVByb21vdGlvbktleSk7CiAgICAgICAgfQ==</text>
+        <text>(com.qunar.hotel.qta.open.bean.price.query.QOrderQuery, com.qunar.hotel.qta.open.price.product.QProcessorContext, com.qunar.hotel.qta.open.dynamic.priceapi.bean.PriceApiProduct)</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>(com.qunar.hotel.qta.open.bean.price.query.QOrderQuery, com.qunar.hotel.qta.open.price.product.QProcessorContext, com.qunar.hotel.qta.open.dynamic.priceapi.bean.PriceApiProduct)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
