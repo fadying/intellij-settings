@@ -19,6 +19,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-17857_170911_insurance_qss-SNAPSHOT/qta-open-product-api-DZS-17857_170911_insurance_qss-20170918.025654-1-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" timestamp="1505703787658" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/StringFunctions.java" timestamp="1505703891181" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/price/VoucherLowPriceProcessor.java" timestamp="1505718451706" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1505723140257" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-common/pom.xml" timestamp="1505412923911">
         <mark key="[" line="25" column="83" />
         <mark key="]" line="11" column="13" />
@@ -47,26 +48,28 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/bean/ProfitProcessorFactory.java" timestamp="1505720691209" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/LowPriceRoomPromotionProcessor.java" timestamp="1505717175146">
-        <mark key="'" line="75" column="83" />
-        <mark key="[" line="68" column="68" />
-        <mark key="]" line="66" column="17" />
-        <mark key="^" line="66" column="17" />
-        <mark key="." line="66" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1505723895040">
+        <mark key="[" line="185" column="131" />
+        <mark key="]" line="178" column="131" />
+        <mark key="." line="178" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/bean/ProfitProcessorFactory.java" timestamp="1505720691209" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/bean/HotelPriceListProcessor.java" timestamp="1505458188980">
         <mark key="[" line="1664" column="86" />
         <mark key="]" line="1664" column="85" />
         <mark key="^" line="1664" column="85" />
         <mark key="." line="1664" column="85" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505722920699">
+      <file name="/dummy.sql" timestamp="1505724366704">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505723672626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-16385_170831_same_room_promotion-SNAPSHOT/h_hprice_common-DZS-16385_170831_same_room_promotion-20170913.063405-9-sources.jar!/com/qunar/hotel/price/base/commonconf/VoucherLowPriceConfig.java" timestamp="1505718570628" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1505723574676" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/pom.xml" timestamp="1505321810357">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -214,7 +217,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm91Y2hlckluZm8uc2V0Vm91Y2hlckRlc2NJdGVtcyhMaXN0cy5uZXdBcnJheUxpc3QobmV3IFZvdWNoZXJTZW5kVGFzay5Wb3VjaGVyRGVzY0l0ZW0oIuS8mOaDoOivtOaYjiIsICLmu6E1MOWPr+eUqO+8jOWPr+eUqOS6jumihOiuouKAmOS7o+mHkeWKteKAmeagh+etvuaIv+Wei+aKpeS7tyIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQ29tcG9zZWRBZGRpdGlvblByb2R1Y3RzKGNvbXBvc2VkQWRkaXRpb25hbFByb2R1Y3RJbmZvcywgQUJUZXN0Q29uc3RzLkNBTkNFTF9JTlNVUkFOQ0VfVFlQRSwgdG9SZW1vdmVQcm9kdWN0SWRzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>.getLogicBit()</text>
@@ -222,40 +225,40 @@
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>condition.getCodebase(), condition.getPriceModel()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlQ29tcG9zZWRBZGRpdGlvblByb2R1Y3RzKGNvbXBvc2VkQWRkaXRpb25hbFByb2R1Y3RJbmZvcywgQUJUZXN0Q29uc3RzLkNBTkNFTF9JTlNVUkFOQ0VfVFlQRSwgdG9SZW1vdmVQcm9kdWN0SWRzKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdm91Y2hlckluZm8uc2V0Vm91Y2hlckRlc2NJdGVtcyhMaXN0cy5uZXdBcnJheUxpc3QobmV3IFZvdWNoZXJTZW5kVGFzay5Wb3VjaGVyRGVzY0l0ZW0oIuS8mOaDoOivtOaYjiIsICLmu6E1MOWPr+eUqO+8jOWPr+eUqOS6jumihOiuouKAmOS7o+mHkeWKteKAmeagh+etvuaIv+Wei+aKpeS7tyIpKSk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIHJlbW92ZUNvbXBvc2VkQWRkaXRpb25Qcm9kdWN0cyhjb21wb3NlZEFkZGl0aW9uYWxQcm9kdWN0SW5mb3MsIEFCVGVzdENvbnN0cy5DQU5DRUxfSU5TVVJBTkNFX1RZUEUsIHRvUmVtb3ZlUHJvZHVjdElkcyk7CiAgICAgICAgICAgIHJldHVybjs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gaWYgKGxvd1ByaWNlTWFyayA9PSAxKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdm91Y2hlckluZm8uc2V0Vm91Y2hlckRlc2NJdGVtcyhMaXN0cy5uZXdBcnJheUxpc3QobmV3IFZvdWNoZXJTZW5kVGFzay5Wb3VjaGVyRGVzY0l0ZW0oIuS8mOaDoOivtOaYjiIsICLmu6E1MOWPr+eUqO+8jOWPr+eUqOS6jumihOiuouKAmOS7o+mHkeWKteKAmeagh+etvuaIv+Wei+aKpeS7tyIpKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gaWYgKGxvd1ByaWNlTWFyayA9PSAxKSB7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBza2lwV3JhcHBlciA9IHRydWU7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICBARXhwcmVzc2lvbk1ldGhvZAogICAgcHJpdmF0ZSBib29sZWFuIGxpc3RDb250YWlucyhMaXN0IGxpc3QsIE9iamVjdCB0YXJnZXQpIHsKICAgICAgICByZXR1cm4gbGlzdC5jb250YWlucyh0YXJnZXQpOwogICAgfQ==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>&quot;
 
 This reverts commit 8a6f423</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb250ZXh0LnNldFByaWNlUHJvZHVjdEV4dGVuZE1hcChwcmljZUFwaVByb2R1Y3QuZ2V0RXh0ZW5kSW5mb01hcCgpKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgU3RyaW5nIGxvd1ByaWNlUHJvbW90aW9uS2V5ID0gY29udGV4dC5nZXRDdXJyZW50UHJvZHVjdCgpLmdldEV4dGVuZEluZm9NYXAoKS5nZXQoTE9XX1BSSUNFX1JPT01fUFJPTU9USU9OKTsKICAgICAgICBpZiAoIVN0cmluZ3MuaXNOdWxsT3JFbXB0eShsb3dQcmljZVByb21vdGlvbktleSkpIHsKICAgICAgICAgICAgcU9yZGVyUHJvZHVjdC5nZXRQcm9kdWN0VHJhY2tpbmcoKS5nZXRUcmFja2luZ1BhcmFtZXRlcnMoKS5wdXQoUVByb2R1Y3RUcmFja2luZy5MT1dfUFJJQ0VfUFJPTU9USU9OLCBsb3dQcmljZVByb21vdGlvbktleSk7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocU9yZGVyUXVlcnkuZ2V0UHNQYXJhbWV0ZXJzKCkuKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Jlc3VsdC9vSG90ZWxQcm9kdWN0Lw==</text>
