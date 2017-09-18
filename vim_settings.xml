@@ -27,7 +27,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/StringFunctions.java" timestamp="1505703891181" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/price/VoucherLowPriceProcessor.java" timestamp="1505718451706" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1505723140257" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalServiceImpl.java" timestamp="1505729047190" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-common/pom.xml" timestamp="1505412923911">
         <mark key="[" line="25" column="83" />
         <mark key="]" line="11" column="13" />
@@ -38,9 +38,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractSelectWinnerProcessor.java" timestamp="1505728061586" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractSelectWinnerProcessor.java" timestamp="1505728491332" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/exception/HProcessException.java" timestamp="1505727162529" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1505728112667" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" timestamp="1505728923788" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1505728395858" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/VoucherLowPriceConfig.java" timestamp="1505719005134" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/test/resources/logback.xml" timestamp="1505322382040">
         <mark key="[" line="7" column="0" />
@@ -54,17 +55,12 @@
         <mark key="]" line="13" column="32" />
         <mark key="." line="13" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/ComposedAdditionalService.java" timestamp="1505725798950">
-        <mark key="[" line="185" column="131" />
-        <mark key="]" line="178" column="131" />
-        <mark key="." line="178" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.224/h_hprice_common-1.2.224.jar!/com/qunar/hotel/price/bean/enums/PriceHiddenBit.class" timestamp="1505728058058" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/bean/ProfitProcessorFactory.java" timestamp="1505720691209" />
       <file name="/PriceHiddenBit.java" timestamp="1505728099626" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" timestamp="1505727365184" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.8/dubbo-3.2.8-sources.jar!/com/alibaba/dubbo/rpc/cluster/support/FailoverClusterInvoker.java" timestamp="1505726421971" />
-      <file name="/Dummy.txt" timestamp="1505727162878">
+      <file name="/Dummy.txt" timestamp="1505728936427">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -75,12 +71,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/pom.xml" timestamp="1505726026661">
-        <mark key="[" line="674" column="25" />
-        <mark key="]" line="674" column="24" />
-        <mark key="^" line="674" column="24" />
-        <mark key="." line="674" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fresh/ares/ares/src/test/java/com/qunar/autotest/ares/controller/TaskReportControllerTest.java" timestamp="1505728361395" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/monitor/MonitorName.java" timestamp="1505727145049" />
