@@ -18,7 +18,7 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/LowPriceRoomPromotionProcessor.java" timestamp="1505962541354" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/LowPriceRoomPromotionProcessor.java" timestamp="1505963607282" />
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/graph/DetailProdBGraphForList.java" timestamp="1505907906895">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="79" />
@@ -57,7 +57,7 @@
         <mark key="^" line="57" column="32" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505961746258">
+      <file name="/Dummy.txt" timestamp="1505963513947">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -98,7 +98,12 @@
         <mark key="." line="265" column="133" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/config/qconfig/CpnQconfig.java" timestamp="1505930980029" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1505962724975" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/util/ActivityComparePriceUtils.java" timestamp="1505963558298">
+        <mark key="[" line="262" column="12" />
+        <mark key="]" line="262" column="12" />
+        <mark key="^" line="262" column="58" />
+        <mark key="." line="262" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/test/resources/test-dubbo.xml" timestamp="1505319992529">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="32" />
@@ -237,10 +242,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChtYXRjaFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgIGlmIChsb3dQcmljZVJvb21Qcm9tb3Rpb25Ta2lwV3JhcHBlciA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJMb3dQcmljZVJvb21Qcm9tb3Rpb25fYWRkIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCkKICAgICAgICAgICAgICAgIGlmICghc2tpcFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">Ly8g5Yik5patd3JhcHBlcuaYr+WQpuWcqOmFjee9rumHjO+8jOaUr+aMgeS7pemAl+WPt+malOW8gAogICAgICAgICAgICBpZiAoIXNraXBXcmFwcGVyICYmICF0eXBlLmlzV3JhcHBlck1hdGNoKGNvbmRpdGlvbi5nZXRDb2RlYmFzZSgpLCBjb25kaXRpb24uZ2V0UHJpY2VNb2RlbCgpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>Skip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
@@ -249,31 +254,36 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5kZXBlbmRzT24oRGV0YWlsUHJvY2Vzc29yTm9kZS5EZXBlbmRlbmN5LkNPTlRFWFQsIGNvbnRleHROb2RlKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChtYXRjaFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgIGlmIChsb3dQcmljZVJvb21Qcm9tb3Rpb25Ta2lwV3JhcHBlciA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJMb3dQcmljZVJvb21Qcm9tb3Rpb25fYWRkIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCkKICAgICAgICAgICAgICAgIGlmICghc2tpcFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
+        <text encoding="base64">Ly8g5Yik5patd3JhcHBlcuaYr+WQpuWcqOmFjee9rumHjO+8jOaUr+aMgeS7pemAl+WPt+malOW8gAogICAgICAgICAgICBpZiAoIXNraXBXcmFwcGVyICYmICF0eXBlLmlzV3JhcHBlck1hdGNoKGNvbmRpdGlvbi5nZXRDb2RlYmFzZSgpLCBjb25kaXRpb24uZ2V0UHJpY2VNb2RlbCgpKSkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvd1ByaWNlUm9vbVByb21vdGlvblNraXBXcmFwcGVyID09IDIpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghbG93UHJpY2VSb29tUHJvbW90aW9uTWFyay5pc1ByZXNlbnQoKSB8fCBsb3dQcmljZVJvb21Qcm9tb3Rpb25NYXJrLmdldCgpID09IDIpIHsKICAgICAgICAgICAgICAgICAgICBsb3dQcmljZVJvb21Qcm9tb3Rpb25NYXJrUmVzdWx0ID0gMjsKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAobG93UHJpY2VSb29tUHJvbW90aW9uTWFyay5nZXQoKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgbG93UHJpY2VSb29tUHJvbW90aW9uTWFya1Jlc3VsdCA9IDE7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGxvd1ByaWNlUm9vbVByb21vdGlvblNraXBXcmFwcGVyID0gMDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiAK</text>
+      <register name="4" type="4">
+        <text>if (lowPriceRemoveBenefit) {
+                if (matchWrapper) {
+                    QMonitor.recordOne(&quot;LowPriceRoomPromotion_remove&quot;);
+                }
+                return true;
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBsb3dQcmljZVJlbW92ZUJlbmVmaXQgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFN0cmluZyBidWlsZFRyYW5zYWN0aW9uSWQoU3RyaW5nIHNvdXJjZSwgU3RyaW5nIHNlcmllcykgewogICAgICAgIHJldHVybiBzb3VyY2UgKyBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAvIERhdGVzLk1JTlVURTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0YXNrLnNldEJhdGNoU2VyaWVzTnVtKHNvdXJjZSArICItdGFzay0iICsgc2VyaWVzICsgIi0iICsgdW5pdCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2b3VjaGVySW5mby5zZXRWb3VjaGVyQ29uZGl0aW9ucyhjb25kaXRpb25NYXAuZ2V0KHVuaXQpLmdldExlZnQoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2b3VjaGVySW5mby5zZXRWb3VjaGVyRGVzY0l0ZW1zKGNvbmRpdGlvbk1hcC5nZXQodW5pdCkuZ2V0VmFsdWUoKSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb3dQcmljZVJlbW92ZUJlbmVmaXQgPSB0cnVlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghY29uZGl0aW9uTWFwLmNvbnRhaW5zS2V5KHVuaXQpKSB7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChtYXRjaFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgIGlmIChsb3dQcmljZVJvb21Qcm9tb3Rpb25Ta2lwV3JhcHBlciA9PSAxKSB7CiAgICAgICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJMb3dQcmljZVJvb21Qcm9tb3Rpb25fYWRkIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKCkKICAgICAgICAgICAgICAgIGlmICghc2tpcFdyYXBwZXIpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
