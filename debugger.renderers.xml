@@ -28,6 +28,15 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+          <option name="LABEL_EXPRESSION" value="ruleId&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="int" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="int" />
