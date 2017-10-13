@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/root.bundles/0.0.36/root.bundles-0.0.36-sources.jar!/com/qunar/hotel/price/root/monitor/M.java" timestamp="1507776572244" />
+      <file name="$USER_HOME$/IdeaProjects/qta/baseinfo/otaman/src/main/resources.betanoah/jdbc.properties" timestamp="1507877726052" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources.betanoah/redis.properties" timestamp="1507781074679" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.betamagic/redis.properties" timestamp="1507792318454" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1507723589559" />
@@ -16,6 +17,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/OrderBenefitAdaptor.java" timestamp="1507716256714" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.68/open-promotion-api-1.1.68-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/benefit/QBenefit.java" timestamp="1507724241323" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c9841805-60c8-4580-a8bd-c195623ff819/console.sql" timestamp="1507706359010">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources/dubbo/dubbo-ref.xml" timestamp="1507794003427" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" timestamp="1507815135875" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-common/1.2.4/qtracer-common-1.2.4-sources.jar!/qunar/tc/qtracer/netty/NettyClient.java" timestamp="1507709128889" />
@@ -55,6 +61,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.20.Final/netty-all-4.0.20.Final-sources.jar!/io/netty/util/ReferenceCountUtil.java" timestamp="1507704744790" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/base/utils/QApiTemplate.java" timestamp="1507867935883" />
+      <file name="$USER_HOME$/IdeaProjects/qta/baseinfo/crm/src/main/resources.betanoah/jdbc.properties" timestamp="1507877714980" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-instrument-http/1.2.4/qtracer-instrument-http-1.2.4.jar!/META-INF/maven/qunar.tc.qtracer/qtracer-instrument-http/pom.xml" timestamp="1507707752426" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/notify/qmq/voucher/CashVoucherViewAdaptor.java" timestamp="1507715188096" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/StudentPriceProcessor.java" timestamp="1507793703494" />
@@ -66,6 +73,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" timestamp="1507723858117" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionProcessor.java" timestamp="1507810882571" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.prod/jdbc.properties" timestamp="1507792478945" />
+      <file name="$USER_HOME$/IdeaProjects/qta/baseinfo/service/src/main/resources/mapper/mhotel.xml" timestamp="1507877635968" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources.betamagic/redis.properties" timestamp="1507780144270" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1507724443730">
         <mark key="[" line="121" column="13" />
@@ -95,9 +103,14 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeBenefitAction.java" timestamp="1507811052178" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/constant/QtaCallerConstant.java" timestamp="1507811699252" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QCancelInsurancePromotionProcessor.java" timestamp="1507722075174" />
+      <file name="/dummy.sql" timestamp="1507878027544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1507714732739" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.prod/logback.xml" timestamp="1507860279547" />
-      <file name="/Dummy.txt" timestamp="1507864738387">
+      <file name="/Dummy.txt" timestamp="1507877752381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
@@ -241,10 +254,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+        <text>hotel_seq='beijing_city_22454'</text>
       </register>
       <register name="-" type="4">
-        <text>setCouponConditionDescBodyList(Lists.newArrayList(new CouponConditionDescBody()));</text>
+        <text>hotel_seq='beijing_city_22454'</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
