@@ -60,7 +60,7 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508900921904">
+      <file name="/Dummy.txt" timestamp="1508904010390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -72,7 +72,7 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/constant/ConfigKey.java" timestamp="1508848517082">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/constant/ConfigKey.java" timestamp="1508903613904">
         <mark key="[" line="8" column="81" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherSubractApiService.java" timestamp="1508900059407" />
@@ -92,12 +92,12 @@
         <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/notify/qmq/voucher/CashVoucherQmqDelayNotifyStrategy.java" timestamp="1508899678818" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1508849585801">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1508903974052">
         <mark key="'" line="167" column="4" />
-        <mark key="[" line="89" column="125" />
-        <mark key="]" line="138" column="19" />
+        <mark key="[" line="141" column="54" />
+        <mark key="]" line="141" column="54" />
         <mark key="^" line="138" column="36" />
-        <mark key="." line="138" column="19" />
+        <mark key="." line="141" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.devq/application.properties" timestamp="1508849816529" />
     </filemarks>
@@ -208,10 +208,10 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!CouponStatus.isCouponVolatile(coupon.getCouponStatus())</text>
+        <text>.setScale(2, BigDecimal.ROUND_HALF_UP);</text>
       </register>
       <register name="-" type="4">
-        <text>!CouponStatus.isCouponVolatile(coupon.getCouponStatus())</text>
+        <text>.setScale(2, BigDecimal.ROUND_HALF_UP);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9tb3Rpb25BY3Rpdml0eUlkc1w+</text>
