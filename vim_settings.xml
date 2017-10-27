@@ -19,6 +19,7 @@
         <mark key="." line="119" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/resources.betanoah/redis.properties" timestamp="1509077230962" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/hotel-data-center-api/1.0.51/hotel-data-center-api-1.0.51-sources.jar!/com/qunar/hotel/service/HotelTreeService.java" timestamp="1509089436921" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.betanoah/jdbc.properties" timestamp="1509078609303">
         <mark key="'" line="12" column="24" />
         <mark key="[" line="6" column="0" />
@@ -45,8 +46,11 @@
         <mark key="^" line="15" column="60" />
         <mark key="." line="15" column="60" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/java/com/qunar/hotel/price/accessor/provider/provider/BuildAllTreeMappingProvider.java" timestamp="1509087383422" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/spi/src/main/java/com/qunar/hotel/price/accessor/spi/spa/accessor/hoteltree/HotelTreeUpdater.java" timestamp="1509089884504" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/ShiftOriginalDynSubtractProcessor.java" timestamp="1509071711642" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/PromotionWrapperProcessor.java" timestamp="1509009304029" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hotel-data-center/provider/src/main/resources.beta/datasource.properties" timestamp="1509089212491" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/util/BenefitParseUtil.java" timestamp="1508900768572">
         <mark key="[" line="121" column="29" />
         <mark key="]" line="121" column="28" />
@@ -65,17 +69,15 @@
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.betanoah/settings.properties" timestamp="1509077471468">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/InternationalKeepPriceProcessor.java" timestamp="1509072800419">
-        <mark key="'" line="34" column="31" />
-      </file>
-      <file name="/dummy.sql" timestamp="1509072944222">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.betamagic/zk.properties" timestamp="1509088896307" />
+      <file name="/dummy.sql" timestamp="1509090340592">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1509024349474" />
-      <file name="/Dummy.txt" timestamp="1509078638698">
+      <file name="/Dummy.txt" timestamp="1509090080350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -97,6 +99,7 @@
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/java/com/qunar/hotel/price/accessor/provider/door/DoorController.java" timestamp="1509085523223">
         <mark key="'" line="114" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/spi/src/main/java/com/qunar/hotel/price/accessor/spi/spa/accessor/hoteltree/TreeCenterService.java" timestamp="1509090353229" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/redpacket/ParseRedPacket.java" timestamp="1508991636982" />
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/resources.betanoah/redis.properties" timestamp="1509078593303">
         <mark key="[" line="4" column="21" />
@@ -109,6 +112,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-accessor/provider/src/main/java/com/qunar/hotel/price/accessor/provider/door/test/HotelTreeTest.java" timestamp="1509088398497" />
     </filemarks>
     <jumps>
       <jump line="214" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailInterfaceExecutor.java" />
@@ -216,11 +220,11 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;baoding_4707&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>hprice_accessor_redis_beta_${hotelsearch/hprice-accessor/provider.ENV_CODE}</text>
+        <text>&quot;baoding_4707&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9tb3Rpb25BY3Rpdml0eUlkc1w+</text>
