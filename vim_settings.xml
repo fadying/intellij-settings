@@ -52,6 +52,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-20171030.101301-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" timestamp="1509532413171" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynCommonProcessImp.java" timestamp="1509531308280" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalPromoBalanceProcessor.java" timestamp="1509525456224" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1509609939027" />
       <file name="/a.sql" timestamp="1509023247161">
         <mark key="[" line="0" column="0" />
       </file>
@@ -299,7 +300,7 @@
         <text>qOrderProdu.getSupplier().getId());</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>废券</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3JkZXJNZW1iZXJJbmZvLnB1dCgiY2hlY2tlZE1lbWJlckxldmVsIiwgbS5nZXQoImNoZWNrZWRNZW1iZXJMZXZlbCIpKQo=</text>
@@ -339,9 +340,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>废券</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>废券</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -349,7 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry>TSource|TResult</entry>
         <entry>(TSource|TResult)</entry>
         <entry>const string</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
@@ -369,6 +369,7 @@
         <entry encoding="base64">XDxiZW5lZml0c1w+</entry>
         <entry encoding="base64">XDxwcm9tb3Rpb25BY3Rpdml0eUlkc1w+</entry>
         <entry>user</entry>
+        <entry>废券</entry>
       </history-search>
       <history-cmd>
         <entry>set rnu</entry>
