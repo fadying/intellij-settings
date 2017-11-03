@@ -9,11 +9,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources.prod/qunar-url.properties" timestamp="1509645475309" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/controller/FlightSellGoldCouponController.java" timestamp="1509644426806" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/exchange/CommonCEProcessor.java" timestamp="1509686795115" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1508924065954">
-        <mark key="[" line="119" column="16" />
-        <mark key="]" line="119" column="16" />
-        <mark key="." line="119" column="16" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryMemberInfoProcessor.java" timestamp="1509692086743">
         <mark key="[" line="81" column="33" />
         <mark key="]" line="69" column="8" />
@@ -26,22 +21,8 @@
         <mark key="." line="106" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/CouponController.java" timestamp="1509644534935" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/StringFunctions.java" timestamp="1509095188630">
-        <mark key="[" line="103" column="38" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/coupon/CouponDao.java" timestamp="1509709981567" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/DiscountCodeApiService.java" timestamp="1509682849719" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" timestamp="1509626912581">
-        <mark key="[" line="37" column="46" />
-        <mark key="]" line="37" column="46" />
-        <mark key="." line="37" column="46" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/spring-qconfig.xml" timestamp="1509434039252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/WriteMemberInfoProcess.java" timestamp="1509689461259">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -51,11 +32,6 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-supplier-product-adapter-api/1.7.4-SNAPSHOT/qta-supplier-product-adapter-api-1.7.4-20171102.091940-3-sources.jar!/com/qunar/hotel/qta/spa/bean/OProduct.java" timestamp="1509695070331" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/ChosedMemberPriceInfo.java" timestamp="1509675506347">
         <mark key="[" line="11" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/spring-qconfig.xml.kt" timestamp="1509434021374">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/ChoosedMemberPriceInfo.java" timestamp="1509675194385">
         <mark key="[" line="5" column="37" />
@@ -94,11 +70,6 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/Mem.java" timestamp="1509626344432">
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/user/MemberDiscountAgent.java" timestamp="1509692053589">
         <mark key="[" line="17" column="31" />
         <mark key="]" line="17" column="31" />
@@ -128,11 +99,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/MemberPrice.java" timestamp="1509676452177">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1509708831914">
+      <file name="/dummy.sql" timestamp="1509710612094">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
+        <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1509701334263">
         <mark key="[" line="0" column="0" />
@@ -144,7 +115,7 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509708872291">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1509710325030">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -155,11 +126,6 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1508902784214">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/common/src/main/java/com/qunar/hotel/qta/open/json/JsonUtils.java" timestamp="1509676071419">
         <mark key="[" line="102" column="5" />
         <mark key="]" line="80" column="0" />
@@ -169,11 +135,6 @@
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/pom.xml" timestamp="1509682288796" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/task/MarkExpiredCouponTask.java" timestamp="1509681264266" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/notify/NotifyService.java" timestamp="1509703631979" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice_accessor_svr/src/main/resources.betanoah/jdbc.properties" timestamp="1509078622244">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1509643843118" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1509682853871" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynGroupMemberProcessImp.java" timestamp="1509688759627" />
@@ -183,11 +144,6 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
         <mark key="^" line="14" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailInterfaceExecutor.java" timestamp="1509689680865">
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/product/util/MemberPriceCalcUtilTest.java" timestamp="1509677825608">
         <mark key="[" line="13" column="42" />
@@ -202,11 +158,6 @@
       </file>
       <file name="/fragment.java" timestamp="1509693340210">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/user/MemberInfoResponse.java" timestamp="1509503191136">
-        <mark key="[" line="151" column="9" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
     </filemarks>
     <jumps>
