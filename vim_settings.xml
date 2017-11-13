@@ -38,8 +38,8 @@
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1510557698353" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.179/qta-open-product-api-1.1.179-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1510544378635" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/order/ordercenter-consumer-api/2.6.23/ordercenter-consumer-api-2.6.23.jar!/qunar/tc/ordercenter/consumer/api/OrderQueryService.class" timestamp="1510557593240" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" timestamp="1510566156245">
-        <mark key="'" line="82" column="47" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" timestamp="1510567511488">
+        <mark key="'" line="97" column="23" />
         <mark key="[" line="89" column="26" />
         <mark key="]" line="89" column="31" />
         <mark key="." line="89" column="31" />
@@ -48,6 +48,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/additional/AdditionalProductAdapter.java" timestamp="1510293044173" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-baseinfo-api/1.2.118/qta-service-baseinfo-api-1.2.118-sources.jar!/com/qunar/hotel/qta/baseinfo/bean/shotel/SHotelPropInfo.java" timestamp="1510558404609" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.4/dubbo-3.2.4-sources.jar!/com/alibaba/com/caucho/hessian/io/JavaSerializer.java" timestamp="1510567526715" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigGeneral.java" timestamp="1510542958609" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalABTestService.java" timestamp="1510565926323">
         <mark key="'" line="155" column="20" />
@@ -137,7 +138,6 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/supplier/QSupplierServiceConfig.java" timestamp="1510303300948" />
     </filemarks>
     <jumps>
-      <jump line="28" column="31" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/QOrderProcessor.java" />
       <jump line="35" column="18" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" />
       <jump line="135" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/controller/QBabyController.java" />
       <jump line="18" column="12" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" />
@@ -237,6 +237,7 @@
       <jump line="100" column="19" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/QProduct.java" />
       <jump line="42" column="41" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/SortByTicketTypeHandler.java" />
       <jump line="50" column="27" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser.java" />
+      <jump line="97" column="23" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
