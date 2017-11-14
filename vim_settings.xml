@@ -20,7 +20,9 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/AdditionalContext.java" timestamp="1510569669596">
         <mark key="'" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1510580991992" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1510633853916">
+        <mark key="'" line="102" column="58" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1510558425250" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" timestamp="1510575616377">
         <mark key="'" line="32" column="21" />
@@ -46,6 +48,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/QmdcSender.java" timestamp="1510308220791" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" timestamp="1510631405282" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/PackageProductSource.java" timestamp="1510543234509" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/SetPriceTrackingProcessor.java" timestamp="1510310498308">
+        <mark key="[" line="123" column="20" />
+        <mark key="]" line="73" column="24" />
+        <mark key="." line="73" column="24" />
+        <mark key="^" line="73" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1510557698353" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.179/qta-open-product-api-1.1.179-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1510544378635" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.4/dubbo-3.2.4-sources.jar!/com/alibaba/dubbo/remoting/exchange/support/header/HeartbeatHandler.java" timestamp="1510626368526" />
@@ -103,7 +111,7 @@
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_api/src/main/java/com/qunar/hotel/price/service/impl/LmPriceApiServiceMultiDayImpl.java" timestamp="1510224788354">
         <mark key="'" line="680" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510576743935">
+      <file name="/Dummy.txt" timestamp="1510633834016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -113,7 +121,19 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1510571360961" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CareFreeInsuranceHandler.java" timestamp="1510298507082" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/order/Impl/TcOrderQueryServiceImpl.java" timestamp="1510566055973">
+        <mark key="[" line="46" column="33" />
+        <mark key="]" line="46" column="31" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/enums/TieSaleTicketPriorityInfoEnum.java" timestamp="1510312647155" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/PromotionConstants.java" timestamp="1510633377406">
+        <mark key="[" line="45" column="69" />
+        <mark key="]" line="45" column="75" />
+        <mark key="." line="45" column="69" />
+        <mark key="^" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/enums/TyingModelDubboParamEnum.java" timestamp="1510294832291" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1510212816586">
         <mark key="[" line="0" column="0" />
@@ -139,7 +159,6 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.180/qta-open-product-api-1.1.180-sources.jar!/com/qunar/hotel/qta/open/bean/supplier/QSupplierServiceConfig.java" timestamp="1510303300948" />
     </filemarks>
     <jumps>
-      <jump line="26" column="35" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/product/QOrderQuery2PriceApiQuery.java" />
       <jump line="23" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" />
       <jump line="376" column="15" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" />
       <jump line="379" column="32" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" />
@@ -239,6 +258,7 @@
       <jump line="35" column="13" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/AdditionalContextBuilder.java" />
       <jump line="49" column="17" filename="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.4/dubbo-3.2.4-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DecodeableRpcInvocation.java" />
       <jump line="57" column="17" filename="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.4/dubbo-3.2.4-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DecodeableRpcInvocation.java" />
+      <jump line="102" column="58" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
