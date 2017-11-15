@@ -51,10 +51,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/base/src/main/java/com/qunar/hotel/price/breeze/base/bean/ProductType.java" timestamp="1510668179163" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/base/QPayTypeEnum.java" timestamp="1510722888846" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/MemberPriceCalcUtil.java" timestamp="1510724915179">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/MemberPriceCalcUtil.java" timestamp="1510726928256">
+        <mark key="[" line="158" column="9" />
+        <mark key="]" line="158" column="9" />
+        <mark key="." line="158" column="9" />
         <mark key="^" line="112" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/pom.xml" timestamp="1510122901259">
@@ -358,10 +358,10 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZGFpbHkg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZGFpbHkg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>F</text>
@@ -369,35 +369,37 @@
       <register name="0" type="4">
         <text>学生专属优惠</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdG90YWxTdWJBbW91bnQ7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            context.setTotalDynCashBackPerRoom(totalSubAmount);
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdG90YWxTdWJBbW91bnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaG9vc2VJbmZvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbGFwc2VkID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydDsKICAgICAgICAgICAgcmV0dXJuIGdldE91dHB1dFdpdGhMb2coaW5wdXQsIG91dHB1dCwgZWxhcHNlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaG9vc2VJbmZvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5UHJpY2UuZ2V0RGV0YWlsKCkuc2V0RGFpbHlBZGp1c3RQcmljZShCaWdEZWNpbWFsLlpFUk8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbGFwc2VkID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydDsKICAgICAgICAgICAgcmV0dXJuIGdldE91dHB1dFdpdGhMb2coaW5wdXQsIG91dHB1dCwgZWxhcHNlZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5UHJpY2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5UHJpY2UuZ2V0RGV0YWlsKCkuc2V0RGFpbHlBZGp1c3RQcmljZShCaWdEZWNpbWFsLlpFUk8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pbmZvKCJhbGdvcml0aG1TZXJ2aWNlU3luYyBQYXJhbXM6IHt9IiwgSnNvblV0aWxzLnRvSnNvblN0cmluZyhwYXJhbXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhaWx5UHJpY2UuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExPRy5pbmZvKCJhbGdvcml0aG1TZXJ2aWNlU3luYyBQYXJhbXM6IHt9IiwgSnNvblV0aWxzLnRvSnNvblN0cmluZyhwYXJhbXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFuZXdVc2VyKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvRy9n</text>
