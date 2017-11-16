@@ -30,6 +30,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" timestamp="1510743646156">
         <mark key="'" line="126" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/validator/PriceApiProductValidator.java" timestamp="1510806964022" />
       <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/vo/UserStatus.java" timestamp="1510669967775">
         <mark key="'" line="20" column="21" />
       </file>
@@ -37,6 +38,9 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-price-api/1.0.73/qta-service-price-api-1.0.73-sources.jar!/com/qunar/hotel/qta/product/price/bean/rateplan/RatePlan.java" timestamp="1510804013622" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryProductProcessor.java" timestamp="1510805233816">
         <mark key="'" line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/service/impl/DynamicPriceApiService.java" timestamp="1510806960101">
+        <mark key="'" line="64" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherChangeAction.java" timestamp="1510800397862" />
       <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/BindingRecordBizImpl.java" timestamp="1510663603706">
@@ -156,8 +160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" />
-      <jump line="73" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" />
       <jump line="74" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" />
       <jump line="75" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" />
       <jump line="70" column="45" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" />
@@ -256,6 +258,8 @@
       <jump line="51" column="28" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/QProcessorContext.java" />
       <jump line="58" column="70" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynPriceRelateProcessImp.java" />
       <jump line="208" column="26" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/QProcessorContext.java" />
+      <jump line="122" column="29" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/service/impl/DynamicPriceApiService.java" />
+      <jump line="64" column="50" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/service/impl/DynamicPriceApiService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
