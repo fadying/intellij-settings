@@ -1,7 +1,13 @@
 <scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="FONT_SCALE" value="1.25" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono for Powerline" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Microsoft YaHei" />
+    <option name="EDITOR_FONT_SIZE" value="13" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -1223,6 +1229,12 @@
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="73642" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="73642" />
+        <option name="BACKGROUND" value="ededed" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
