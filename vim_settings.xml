@@ -164,12 +164,18 @@
         <mark key="]" line="149" column="60" />
         <mark key="." line="149" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/root/0.0.40/root-0.0.40.pom" timestamp="1511270574437" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/QOrderQueryUtils.java" timestamp="1510893501803">
         <mark key="'" line="57" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/supplier-product-adapter/src/main/java/com/qunar/hotel/qta/spa/price/base/service/AbstractDbQueryStorageService.java" timestamp="1511181005249" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/productfilter/IProductFilter.java" timestamp="1510892497643">
         <mark key="'" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/pom.xml" timestamp="1511270405375">
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="24" column="19" />
+        <mark key="." line="24" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/provider/src/main/resources.autotest/mybatis/BenefitMapper.xml" timestamp="1511180344354" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" timestamp="1510893475457">
@@ -220,6 +226,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-biz-common/1.6.83/qta-biz-common-1.6.83-sources.jar!/qunar/tc/qtracer/impl/QTraceUtils.java" timestamp="1511182934996" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/ABTestConsts.java" timestamp="1511169523620" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/PriceApiClient.java" timestamp="1511186435066" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1511270587436" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.3.9.RELEASE/spring-tx-4.3.9.RELEASE-sources.jar!/org/springframework/transaction/interceptor/TransactionAspectSupport.java" timestamp="1511179912050" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/redpacket/ParseRedPacket.java" timestamp="1511185573813" />
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/pom.xml" timestamp="1511262547622">
@@ -239,6 +246,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/AdaptBeanProcessor.java" timestamp="1510920456059">
         <mark key="'" line="94" column="50" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/pom.xml" timestamp="1511270390551" />
     </filemarks>
     <jumps>
       <jump line="57" column="38" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/PriceRemoteImpl.java" />
@@ -347,7 +355,7 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1.1.181</text>
+        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmRldnE8L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDxkZXBsb3kudHlwZT5kZXZxPC9kZXBsb3kudHlwZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4=</text>
       </register>
       <register name="-" type="4">
         <text>1.1.181</text>
@@ -358,38 +366,38 @@
       <register name="0" type="4">
         <text>DZS-19490_171115_choose_room_hds-SNAPSHOT</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5sb2dPblJlbW90ZShpbnB1dCwgZWxhcHNlZCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmRldnE8L2lkPgogICAgICAgICAgICA8cHJvcGVydGllcz4KICAgICAgICAgICAgICAgIDxkZXBsb3kudHlwZT5kZXZxPC9kZXBsb3kudHlwZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gZ2V0VXJsKCk7Cg==</text>
+        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5xdW5hci5ob3RlbC5wcmljZTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5sb2dPblJlbW90ZShpbnB1dCwgZWxhcHNlZCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gZ2V0VXJsKCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gb2ZOdWxsYWJsZSh1c2VySWQpLi5vckVsc2UoMCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>.orElse(0);
     }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
             context.setTotalDynCashBackPerRoom(totalSubAmount);
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gdG90YWxTdWJBbW91bnQ7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBjaG9vc2VJbmZvCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBlbGFwc2VkID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgLSBzdGFydDsKICAgICAgICAgICAgcmV0dXJuIGdldE91dHB1dFdpdGhMb2coaW5wdXQsIG91dHB1dCwgZWxhcHNlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvRy9n</text>
