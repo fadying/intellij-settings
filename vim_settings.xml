@@ -33,6 +33,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1511781560028">
         <mark key="'" line="99" column="24" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1511853604272">
+        <mark key="'" line="113" column="80" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupVendor.java" timestamp="1511848872395">
         <mark key="[" line="24" column="23" />
       </file>
@@ -125,6 +128,16 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandlerTest.java" timestamp="1511853755310">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" timestamp="1511853406725">
+        <mark key="'" line="95" column="49" />
+        <mark key="[" line="122" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/breeze-api/DZS-19490_171115_choose_room_hds-SNAPSHOT/breeze-api-DZS-19490_171115_choose_room_hds-SNAPSHOT-sources.jar!/com/qunar/hotel/price/breeze/api/ogbean/hotel/QHotel.java" timestamp="1511521939645">
         <mark key="'" line="22" column="23" />
       </file>
@@ -167,18 +180,17 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="7" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.0.0.RELEASE/spring-core-4.0.0.RELEASE-sources.jar!/org/springframework/util/ReflectionUtils.java" timestamp="1511853665977" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QRefundInfoDetail.java" timestamp="1511782835596">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1511782978807">
+      <file name="/fragment.java" timestamp="1511852019009">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="21" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" />
-      <jump line="17" column="29" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/insurance/QCancelledEnsure.java" />
       <jump line="44" column="43" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CareFreeInsuranceConfig.java" />
       <jump line="106" column="26" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CareFreeInsuranceConfig.java" />
       <jump line="212" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CareFreeInsuranceHandler.java" />
@@ -277,19 +289,21 @@
       <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/RefundTypeEnum.java" />
       <jump line="46" column="20" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.69/open-promotion-api-1.1.69-sources.jar!/com/qunar/hotel/qta/open/promotion/api/context/QtaPromotionContext.java" />
       <jump line="24" column="17" filename="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProduct.java" />
+      <jump line="113" column="80" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" />
+      <jump line="95" column="49" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>未消费退款</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>未消费退款</text>
+        <text>ReflectionUtils</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -304,30 +318,30 @@
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBAQ29uZmlndXJhYmxlCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIENvbmZpZyB7CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgc3RhdGljIENhbmNlbEluc3VyYW5jZUNvbmZpZ0hvbGRlciBjYW5jZWxJbnN1cmFuY2VDb25maWdIb2xkZXIoKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ2FuY2VsSW5zdXJhbmNlQ29uZmlnSG9sZGVyKCk7CiAgICAgICAgfQogICAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nSlVuaXQ0Q2xhc3NSdW5uZXIuY2xhc3MpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>RefundTypeEnum(int code, String desc) {
         this.desc = desc;
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldERlc2MoKSB7CiAgICAgICAgcmV0dXJuIGRlc2M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGVzYyhpbnQgZGVzYykgewogICAgICAgIHRoaXMuZGVzYyA9IGRlc2M7CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgbG9uZyBnZXRSZWZQcm9kdWN0SWQoKSB7CiAgICAgICAgcmV0dXJuIHRocmlkUHJvZHVjdElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlZlByb2R1Y3RJZChsb25nIHJlZlByb2R1Y3RJZCkgewogICAgICAgIHRoaXMudGhyaWRQcm9kdWN0SWQgPSByZWZQcm9kdWN0SWQ7CiAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDw+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvRy9n</text>
