@@ -17,9 +17,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/Hotel.java" timestamp="1511520379561">
         <mark key="'" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProduct.java" timestamp="1511842368697">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProduct.java" timestamp="1511849794258">
         <mark key="'" line="24" column="17" />
-        <mark key="[" line="186" column="0" />
+        <mark key="[" line="84" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/WrapperJsonController.java" timestamp="1511520362608">
         <mark key="'" line="69" column="44" />
@@ -142,7 +142,7 @@
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/RefundTypeEnum.java" timestamp="1511782816898">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/RefundTypeEnum.java" timestamp="1511849887847">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="5" column="7" />
@@ -160,6 +160,12 @@
         <mark key="]" line="15" column="57" />
         <mark key="." line="15" column="57" />
         <mark key="^" line="15" column="56" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/InvoiceTypeEnum.java" timestamp="1511850167652">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QRefundInfoDetail.java" timestamp="1511782835596">
         <mark key="[" line="8" column="0" />
@@ -277,13 +283,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIA==</text>
+        <text>未消费退款</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>未消费退款</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -291,37 +297,37 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLmdlbmVyYXRlUmlnaHRKU09OKGQpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIA==</text>
+      </register>
+      <register name="3" type="4">
         <text>RefundTypeEnum(int code, String desc) {
         this.desc = desc;
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldERlc2MoKSB7CiAgICAgICAgcmV0dXJuIGRlc2M7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0RGVzYyhpbnQgZGVzYykgewogICAgICAgIHRoaXMuZGVzYyA9IGRlc2M7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgbG9uZyBnZXRSZWZQcm9kdWN0SWQoKSB7CiAgICAgICAgcmV0dXJuIHRocmlkUHJvZHVjdElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlZlByb2R1Y3RJZChsb25nIHJlZlByb2R1Y3RJZCkgewogICAgICAgIHRoaXMudGhyaWRQcm9kdWN0SWQgPSByZWZQcm9kdWN0SWQ7CiAgICB9</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDw+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvRy9n</text>
