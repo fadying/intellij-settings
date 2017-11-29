@@ -17,19 +17,14 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.182/qta-open-product-api-1.1.182.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.class" timestamp="1511417230359">
         <mark key="'" line="173" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" timestamp="1511927014983">
-        <mark key="'" line="331" column="35" />
-        <mark key="[" line="341" column="52" />
-        <mark key="]" line="336" column="28" />
-        <mark key="." line="336" column="28" />
-        <mark key="^" line="336" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" timestamp="1511932339336">
+        <mark key="'" line="69" column="36" />
+        <mark key="]" line="333" column="28" />
+        <mark key="." line="333" column="28" />
+        <mark key="^" line="333" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/Hotel.java" timestamp="1511520379561">
         <mark key="'" line="46" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProduct.java" timestamp="1511926117788">
-        <mark key="'" line="28" column="17" />
-        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1511876587296">
         <mark key="'" line="132" column="34" />
@@ -50,6 +45,7 @@
         <mark key="'" line="293" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1511927327981" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/config/PriceABtestConfTest.java" timestamp="1511929553361" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/HotelResponse.java" timestamp="1511520366482">
         <mark key="'" line="19" column="21" />
       </file>
@@ -59,6 +55,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QRefundInfo.java" timestamp="1511783658013">
         <mark key="[" line="13" column="47" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/spring-config.xml" timestamp="1511929517276">
+        <mark key="[" line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/AppConfig.java" timestamp="1511931374609" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" timestamp="1511928136944" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/TicketTypeConfig.java" timestamp="1511408739340">
         <mark key="'" line="12" column="20" />
@@ -70,6 +70,9 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderPrice.java" timestamp="1511868351528">
         <mark key="'" line="64" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1511929880796">
+        <mark key="[" line="395" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" timestamp="1511868272790">
         <mark key="'" line="295" column="26" />
       </file>
@@ -79,16 +82,19 @@
       <file name="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/MemcachedClient.java" timestamp="1511529831893">
         <mark key="'" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/qconfig_test/h_qta_openapi/compose_additional_config.json" timestamp="1511927908233" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" timestamp="1511930401674" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/qconfig_test/h_qta_openapi/compose_additional_config.json" timestamp="1511931252061" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.69/open-promotion-api-1.1.69-sources.jar!/com/qunar/hotel/qta/open/promotion/api/context/QtaPromotionContext.java" timestamp="1511838675274">
         <mark key="'" line="46" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ComposeAdditionalConfig.java" timestamp="1511929491761" />
       <file name="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/XMemcachedClientBuilder.java" timestamp="1511530714382">
         <mark key="'" line="330" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/cache/memcache/MemCache.java" timestamp="1511529829994">
         <mark key="'" line="247" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" timestamp="1511929770124" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/MemberPriceCalcUtil.java" timestamp="1511752218701">
         <mark key="'" line="41" column="31" />
       </file>
@@ -116,7 +122,9 @@
         <mark key="'" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/qconfig_test/h_qta_openapi/coupon_info_set.t" timestamp="1511927985877" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1511923738170" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" timestamp="1511930236897">
+        <mark key="'" line="148" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandlerTest.java" timestamp="1511928998754" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/CouponInfo.java" timestamp="1511856910459">
         <mark key="'" line="19" column="23" />
@@ -127,7 +135,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/breeze-api/DZS-19490_171115_choose_room_hds-SNAPSHOT/breeze-api-DZS-19490_171115_choose_room_hds-SNAPSHOT-sources.jar!/com/qunar/hotel/price/breeze/api/ogbean/hotel/QHotel.java" timestamp="1511521939645">
         <mark key="'" line="22" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511927725391">
+      <file name="/Dummy.txt" timestamp="1511932787940">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupSupplier.java" timestamp="1511783304962">
@@ -136,12 +144,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/agent/ctrip/CtripProductChangeAgentTest.java" timestamp="1511779596794">
         <mark key="[" line="28" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/RefundTypeEnum.java" timestamp="1511925199977">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="5" column="7" />
-        <mark key="." line="5" column="7" />
-        <mark key="^" line="18" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/qconfig_test/h_qta_openapi/profile.properties" timestamp="1511931672225">
+        <mark key="[" line="7" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProductRuleInfo.java" timestamp="1511783211660">
         <mark key="[" line="7" column="36" />
@@ -154,19 +158,19 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalServiceTest.java" timestamp="1511929020906">
-        <mark key="[" line="31" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalServiceTest.java" timestamp="1511932490708">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDynSubtractProcessor.java" timestamp="1511869009275">
         <mark key="'" line="242" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1511926941619">
+      <file name="/fragment.java" timestamp="1511930442283">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="317" column="31" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" />
-      <jump line="102" column="12" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" />
       <jump line="108" column="17" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcActivityProcessor.java" />
       <jump line="127" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcActivityProcessor.java" />
       <jump line="412" column="35" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-18954-20171016-membership-SNAPSHOT/qta-open-product-api-DZS-18954-20171016-membership-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" />
@@ -265,55 +269,57 @@
       <jump line="293" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" />
       <jump line="132" column="34" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" />
       <jump line="331" column="35" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" />
+      <jump line="70" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" />
+      <jump line="148" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0U3VwcGxpZXJJZCgpIHsKICAgICAgICByZXR1cm4gc3VwcGxpZXJJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdXBwbGllcklkKGludCBzdXBwbGllcklkKSB7CiAgICAgICAgdGhpcy5zdXBwbGllcklkID0gc3VwcGxpZXJJZDsKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZGF0YS5nZXRDb21wb3NlZEFkZGl0aW9uYWxQcm9kdWN0SW5mb0xpc3QoKS5zaXplKCksIDEpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>com.qunar.hotel.price.raven.api.bean.constant.</text>
+        <text>oneYuan</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSnNvblV0aWxzLmdlbmVyYXRlUmlnaHRKU09OKGQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZGF0YS5nZXRDb21wb3NlZEFkZGl0aW9uYWxQcm9kdWN0SW5mb0xpc3QoKS5zaXplKCksIDEpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0U3VwcGxpZXJJZCgpIHsKICAgICAgICByZXR1cm4gc3VwcGxpZXJJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTdXBwbGllcklkKGludCBzdXBwbGllcklkKSB7CiAgICAgICAgdGhpcy5zdXBwbGllcklkID0gc3VwcGxpZXJJZDsKICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZGF0YS5nZXRDb21wb3NlZEFkZGl0aW9uYWxQcm9kdWN0SW5mb0xpc3QoKS5zaXplKCksIDEpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldENvZGUoKSB7CiAgICAgICAgcmV0dXJuIGNvZGU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREZXNjKCkgewogICAgICAgIHJldHVybiBkZXNjOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoZGF0YS5nZXRDb21wb3NlZEFkZGl0aW9uYWxQcm9kdWN0SW5mb0xpc3QoKS5nZXQoMCkuZ2V0VHlwZSgpLCAiY2lkIik7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICBSZWZ1bmRUeXBlRW51bShpbnQgY29kZSwgU3RyaW5nIGRlc2MpIHsKICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHRoaXMuZGVzYyA9IGRlc2M7CiAgICB9</text>
+        <text encoding="base64">CiAgICAgICAgYWRkaXRpb25hbFByb2R1Y3RMaXN0LmFkZChjaWQpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9zZWRBZGRpdGlvbmFsUHJvZHVjdEluZm9zLnJlbW92ZUlmKHggLT4gQUJUZXN0Q29uc3RzLkNBTkNFTF9JTlNVUkFOQ0VfRElTQ09VTlRfVFlQRS5jb250YWlucyh4LmdldFR5cGUoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvUmVtb3ZlUHJvZHVjdElkcy5yZW1vdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRFeHBlcmltZW50cygie1wiZXhwZXJpbWVudExpc3RcIjpbe1wiaWRcIjpcIjE3MDgxOF9ob196el9xeHpzOVwiLFwiYnVja2V0XCI6XCJEXCIsXCJlbnZcIjpcIkJcIn1dfSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5zZXRFeHRlbmRNYXAoSW1tdXRhYmxlTWFwLm9mKFFBZGRpdGlvbmFsUHJvZHVjdFF1ZXJ5LkV4dGVuZE1hcEtleXMuVUlELCAxKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBAQ29uZmlndXJhYmxlCiAgICBwcm90ZWN0ZWQgc3RhdGljIGNsYXNzIENvbmZpZyB7CiAgICAgICAgQEJlYW4KICAgICAgICBwdWJsaWMgc3RhdGljIENhbmNlbEluc3VyYW5jZUNvbmZpZ0hvbGRlciBjYW5jZWxJbnN1cmFuY2VDb25maWdIb2xkZXIoKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgQ2FuY2VsSW5zdXJhbmNlQ29uZmlnSG9sZGVyKCk7CiAgICAgICAgfQogICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFJ1bldpdGgoU3ByaW5nSlVuaXQ0Q2xhc3NSdW5uZXIuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBjaWQuc2V0SWQoIjQwMSIpOyAgICAvLyDlj5bmtojpmanmiZPmipjljaEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRQWRkaXRpb25hbFByb2R1Y3RJbmZvIGNpZCA9IG5ldyBRQWRkaXRpb25hbFByb2R1Y3RJbmZvKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL0YvRy9n</text>
