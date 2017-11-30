@@ -37,6 +37,9 @@
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="StringManipulation.ToSnakeCaseOrCamelCase">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
