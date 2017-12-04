@@ -18,7 +18,7 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/java/com/qunar/hotel/price/raven/task/util/MockTaskMonitor.java" timestamp="1512361923277">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/java/com/qunar/hotel/price/raven/task/util/MockTaskMonitor.java" timestamp="1512368242752">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="4" column="35" />
         <mark key="." line="4" column="35" />
@@ -27,6 +27,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/resources/application.properties" timestamp="1512368274395">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/adaptor/Adaptor.java" timestamp="1512129397985">
         <mark key="[" line="5" column="17" />
@@ -66,6 +71,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/CtripGroupTotalTask.java" timestamp="1512050932805">
         <mark key="[" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" timestamp="1512368913820">
+        <mark key="'" line="208" column="28" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/resources/schema-h2.sql" timestamp="1512358213712">
         <mark key="[" line="41" column="35" />
@@ -147,7 +156,7 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/order/Impl/TcOrderQueryServiceImpl.java" timestamp="1512362145938">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/order/Impl/TcOrderQueryServiceImpl.java" timestamp="1512368238031">
         <mark key="'" line="76" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/agent/ctrip/CtripProductChangeAgentTest.java" timestamp="1512050879113">
@@ -192,8 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="23" filename="$USER_HOME$/IdeaProjects/promotion/kiwi/pom.xml" />
-      <jump line="250" column="39" filename="$MAVEN_REPOSITORY$/qunar/tc/tcdev/3.0.6/tcdev-3.0.6.pom" />
       <jump line="54" column="42" filename="$USER_HOME$/IdeaProjects/promotion/raven/pom.xml" />
       <jump line="286" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-parent/1.5.8.RELEASE/spring-boot-parent-1.5.8.RELEASE.pom" />
       <jump line="38" column="22" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/WechatConsumeServiceImpl.java" />
@@ -292,19 +299,21 @@
       <jump line="21" column="33" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/resources/schema-show.sql" />
       <jump line="144" column="22" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalABTestService.java" />
       <jump line="76" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/order/Impl/TcOrderQueryServiceImpl.java" />
+      <jump line="54" column="32" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" />
+      <jump line="206" column="28" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/AlgorithmHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5wcmljZS5yYXZlbi50YXNrLnV0aWwuTW9ja1Rhc2tNb25pdG9yOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>package qunar.tc.schedule;</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
