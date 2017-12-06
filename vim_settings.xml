@@ -21,6 +21,12 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupProduct.java" timestamp="1512531594283">
+        <mark key="[" line="154" column="11" />
+        <mark key="]" line="154" column="11" />
+        <mark key="^" line="48" column="26" />
+        <mark key="." line="154" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/system/DubboConfig.java" timestamp="1512384404783">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -186,6 +192,11 @@
         <mark key="]" line="37" column="86" />
         <mark key="." line="37" column="86" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupVendor.java" timestamp="1512531622744">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/adaptor/HotelLinkagePOAdaptor.java" timestamp="1512129239969">
         <mark key="[" line="5" column="27" />
       </file>
@@ -239,8 +250,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/CtripGroupTotalTask.java" timestamp="1512050932805">
         <mark key="[" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/resources/schema-h2.sql" timestamp="1512473257423">
-        <mark key="[" line="17" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/resources/schema-h2.sql" timestamp="1512531704148">
+        <mark key="[" line="41" column="12" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="16" column="44" />
@@ -297,9 +308,9 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/InternationalKeepPriceProcessor.java" timestamp="1512456017346" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/service/QGroupProductRemote.java" timestamp="1512466105694" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/service/QGroupProductRemote.java" timestamp="1512531379761" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/HotelLinkageAdaptor.java" timestamp="1512471367360" />
-      <file name="/dummy.sql" timestamp="1512529828547">
+      <file name="/dummy.sql" timestamp="1512531704798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/system/DBConfig.java" timestamp="1512527736463" />
@@ -439,14 +450,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIHBybXRfcmF2ZW47Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>`hostname -i`</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
