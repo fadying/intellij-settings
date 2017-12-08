@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/SimpleGroupProductVOAdaptor.java" timestamp="1512464322419">
         <mark key="[" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/agent/base/HttpRemoteAgent.java" timestamp="1512701859523" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/agent/base/HttpRemoteAgent.java" timestamp="1512702837358" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/processor/HotelProfitProcessor.java" timestamp="1512644888684">
         <mark key="'" line="22" column="13" />
       </file>
@@ -336,6 +336,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QAppointmentInfo.java" timestamp="1512541462145">
         <mark key="[" line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" timestamp="1512703153295">
+        <mark key="'" line="228" column="42" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/HotelLinkageAdaptor.java" timestamp="1512550640549">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -344,7 +347,7 @@
       <file name="/dummy.sql" timestamp="1512554099531">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512642210856">
+      <file name="/Dummy.txt" timestamp="1512702970961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -380,6 +383,9 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/HotelCouponHandler.java" timestamp="1512703205398">
+        <mark key="'" line="135" column="62" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QRefundInfoDetail.java" timestamp="1512541430066">
         <mark key="[" line="9" column="30" />
       </file>
@@ -391,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-api/provider/src/main/java/com/qunar/hotel/qta/open/cache/memcache/MemCache.java" />
-      <jump line="1141" column="36" filename="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/XMemcachedClient.java" />
-      <jump line="24" column="17" filename="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/MemcachedClient.java" />
       <jump line="141" column="19" filename="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/utils/XMemcachedClientFactoryBean.java" />
       <jump line="330" column="19" filename="$MAVEN_REPOSITORY$/com/googlecode/xmemcached/xmemcached/1.4.3/xmemcached-1.4.3-sources.jar!/net/rubyeye/xmemcached/XMemcachedClientBuilder.java" />
       <jump line="41" column="31" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/MemberPriceCalcUtil.java" />
@@ -491,6 +494,9 @@
       <jump line="128" column="25" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/wrapperinfo/WrapperInfoAgent.java" />
       <jump line="49" column="47" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/wrapperinfo/WrapperInfoAgent.java" />
       <jump line="22" column="13" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/processor/HotelProfitProcessor.java" />
+      <jump line="241" column="23" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" />
+      <jump line="135" column="62" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/HotelCouponHandler.java" />
+      <jump line="228" column="42" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
