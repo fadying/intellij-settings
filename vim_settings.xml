@@ -5,6 +5,7 @@
       <mark key="S" line="120" column="28" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/bean/GrantRecordPO.java" timestamp="1512930166295" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/product/CtripProductAddition.java" timestamp="1512470202838">
         <mark key="[" line="54" column="13" />
         <mark key="]" line="56" column="0" />
@@ -134,6 +135,9 @@
         <mark key="]" line="30" column="76" />
         <mark key="." line="30" column="76" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/aop/RedisCache.java" timestamp="1512930279569">
+        <mark key="'" line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupSupplier.java" timestamp="1511783304962">
         <mark key="[" line="31" column="5" />
       </file>
@@ -166,8 +170,11 @@
       <file name="$MAVEN_REPOSITORY$/com/ning/async-http-client/1.9.39/async-http-client-1.9.39-sources.jar!/com/ning/http/client/providers/netty/request/NettyRequestSender.java" timestamp="1512918701153">
         <mark key="'" line="141" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/HotelLinkageService.java" timestamp="1512925192558">
-        <mark key="[" line="13" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/HotelLinkageService.java" timestamp="1512930013199">
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+        <mark key="^" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/ctrip/converter/DoubleConverter.java" timestamp="1512553014753">
         <mark key="[" line="21" column="22" />
@@ -284,13 +291,14 @@
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-http/9.0.9/common-http-9.0.9-sources.jar!/qunar/hc/QunarAsyncClient.java" timestamp="1512631320892">
         <mark key="'" line="212" column="54" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/support/SimpleLZFUtil.java" timestamp="1512930175391" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/HotelSyncTask.java" timestamp="1512050947988">
         <mark key="[" line="0" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" timestamp="1512873621539">
         <mark key="'" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/qhotel/HotelSyncTask.java" timestamp="1512460491951">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/qhotel/HotelSyncTask.java" timestamp="1512930091311">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -361,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcOrderPriceProcessor.java" />
       <jump line="293" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" />
       <jump line="132" column="34" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" />
       <jump line="331" column="35" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" />
@@ -461,19 +468,20 @@
       <jump line="124" column="25" filename="$USER_HOME$/IdeaProjects/hprice/travelco/src/main/java/com/qunar/hotel/travelco/conf/PriceFetchBlackListQConfig.java" />
       <jump line="78" column="13" filename="$MAVEN_REPOSITORY$/io/netty/netty/3.10.4.Final/netty-3.10.4.Final-sources.jar!/org/jboss/netty/util/HashedWheelTimer.java" />
       <jump line="116" column="29" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/CtripProductService.java" />
+      <jump line="20" column="18" filename="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/aop/RedisCache.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0RGVmYXVsdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>adaptor.adaptFrom(l)</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>google.com:81</text>
+        <text>adaptor.adaptFrom(l)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
