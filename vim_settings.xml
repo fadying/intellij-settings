@@ -8,7 +8,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51423050-93d0-4fbf-931d-819696bcf357/console_2.sql" timestamp="1512948173782">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1512945920590">
+      <file name="/a.dummy" timestamp="1512950210822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/SendCouponTask.java" timestamp="1512945534769" />
@@ -39,16 +39,17 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/facade/app/PreSubmitGraph.java" timestamp="1512852791220">
         <mark key="'" line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTaskTest.java" timestamp="1512949739876">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTaskTest.java" timestamp="1512949790801">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="19" column="14" />
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/agent/base/HttpRemoteAgent.java" timestamp="1512941304885">
-        <mark key="[" line="79" column="5" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/agent/base/HttpRemoteAgent.java" timestamp="1512950271778">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="99" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/profit/processor/HotelProfitProcessor.java" timestamp="1512644888684">
         <mark key="'" line="22" column="13" />
@@ -94,13 +95,14 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" timestamp="1512703153295">
         <mark key="'" line="228" column="42" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/HotelLinkageAdaptor.java" timestamp="1512940816921">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1512949453809">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/agent/base/RemoteAsyncAgent.java" timestamp="1512950157737">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1512947515001">
         <mark key="[" line="0" column="0" />
@@ -127,10 +129,10 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-package.api/1.0.132/order-package.api-1.0.132-sources.jar!/com/qunar/hotel/qta/order/packages/api/remote/param/PackageQueryProduct.java" timestamp="1512854215074">
         <mark key="'" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTask.java" timestamp="1512949572927">
-        <mark key="[" line="44" column="61" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTask.java" timestamp="1512950388318">
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="43" column="38" />
+        <mark key="." line="43" column="38" />
       </file>
       <file name="/fragment.java" timestamp="1512948960546">
         <mark key="[" line="0" column="0" />
@@ -245,14 +247,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>page</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdGVuYWJsZUZ1dHVyZTxSZXNwb25zZVdyYXBwZXI8TGlzdFJlc3BvbnNlPj4gcXVlcnkgPSA=</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -261,34 +263,42 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbmV3TGF0ZXN0VmVyc2lvbiA9IGdldExhdGVzdFZlcnNpb24oc3luY0xpbmthZ2VzKTsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRpbWVvdXQgPSBnZXRUaW1lb3V0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFza0xvZ2dlci5pbmZvKCJzeW5jIHFob3RlbCBsaW5rYWdlIGZyb20gdmVyc2lvbjp7fSB0byB2ZXJzaW9uOnt9IiwKICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uLCBsYXRlc3RWZXJzaW9uKTsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>long start = System.currentTimeMillis();
+        try {
+            O res = future.get(timeout, TimeUnit.MILLISECONDS);
+            logOnAsyncGet(res, System.currentTimeMillis() - start);
+            return res;
+        } catch (Exception e) {
+            logOnAsyncGetError(logParam, e, System.currentTimeMillis() - start);
+            throw new QProcessException(QApiCode.queryError, &quot;获取异步结果错误， 接口：&quot; + key());
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwsCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIHRpbWVvdXQgPSByZW1vdGVDb25maWcuZ2V0SW50KGtleSgpICsgUmVtb3RlQ29uZmlnLlRJTUVPVVQsIERFRkFVTFRfVElNRU9VVCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzb3VyY2UsCiAgICAgICAgc291cmNlX2lkLAogICAgICAgIGNsdXN0ZXJfaWQsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBob3RlbF9hbGlhcywKICAgICAgICBob3RlbF9lbm5hbWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgbmV3TGF0ZXN0VmVyc2lvbiA9IGdldExhdGVzdFZlcnNpb24oc3luY0xpbmthZ2VzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaXRlX3BhcmFtLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza0xvZ2dlci5pbmZvKCJzeW5jIHFob3RlbCBsaW5rYWdlIGZyb20gdmVyc2lvbjp7fSB0byB2ZXJzaW9uOnt9IiwKICAgICAgICAgICAgICAgICAgICB2ZXJzaW9uLCBsYXRlc3RWZXJzaW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3twYXJhbS5jbHVzdGVySWR9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
