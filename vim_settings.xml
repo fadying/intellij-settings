@@ -20,12 +20,13 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/wrapperinfo/WrapperInfoAgent.java" timestamp="1512642277811">
         <mark key="'" line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/biz/impl/CtripSyncSerevice.java" timestamp="1512964435205">
-        <mark key="[" line="30" column="53" />
-        <mark key="]" line="81" column="86" />
-        <mark key="^" line="81" column="86" />
-        <mark key="." line="81" column="86" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/biz/impl/CtripSyncSerevice.java" timestamp="1512966432444">
+        <mark key="[" line="83" column="28" />
+        <mark key="]" line="92" column="131" />
+        <mark key="^" line="92" column="131" />
+        <mark key="." line="92" column="131" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/agent/ctrip/CtripProductDetailAgentTest.java" timestamp="1512966239205" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" timestamp="1512874794132">
         <mark key="'" line="1050" column="24" />
       </file>
@@ -33,6 +34,7 @@
         <mark key="'" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/ctrip/bean/detail/DetailResponse.java" timestamp="1512964355116" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/CtripDetailProductAdaptor.java" timestamp="1512966386104" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.11/qconfig-client-1.1.11-sources.jar!/qunar/tc/qconfig/client/impl/HttpClient.java" timestamp="1512857338033">
         <mark key="'" line="494" column="43" />
       </file>
@@ -96,11 +98,6 @@
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.24.Final/netty-all-4.0.24.Final-sources.jar!/io/netty/channel/ConnectTimeoutException.java" timestamp="1512933807274">
         <mark key="'" line="23" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/qhotel/HotelSyncTask.java" timestamp="1512958898039">
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="74" column="70" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1512961519927" />
       <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/aop/RedisCache.java" timestamp="1512930279569">
         <mark key="'" line="20" column="18" />
@@ -149,21 +146,20 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-package.api/1.0.132/order-package.api-1.0.132-sources.jar!/com/qunar/hotel/qta/order/packages/api/remote/param/PackageQueryProduct.java" timestamp="1512854215074">
         <mark key="'" line="59" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTask.java" timestamp="1512965657171">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="58" column="48" />
-        <mark key="." line="58" column="48" />
-        <mark key="^" line="56" column="135" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/ctrip/CtripGroupTotalTask.java" timestamp="1512966154553">
+        <mark key="[" line="82" column="35" />
+        <mark key="]" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+        <mark key="^" line="82" column="33" />
       </file>
       <file name="/fragment.java" timestamp="1512965572227">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/CtripProductService.java" timestamp="1512925079772">
-        <mark key="'" line="116" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/CtripProductService.java" timestamp="1512966222262">
+        <mark key="'" line="96" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" />
       <jump line="148" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProductInfo.java" />
       <jump line="166" column="21" filename="$USER_HOME$/IdeaProjects/promotion/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/vo/QueryUserDiscountResult.java" />
       <jump line="479" column="30" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcActivityProcessor.java" />
@@ -263,19 +259,20 @@
       <jump line="23" column="13" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.24.Final/netty-all-4.0.24.Final-sources.jar!/io/netty/channel/ConnectTimeoutException.java" />
       <jump line="138" column="25" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/util/concurrent/ListenableFuture.java" />
       <jump line="103" column="47" filename="$USER_HOME$/IdeaProjects/qta/supplier-product-adapter/src/main/java/com/qunar/hotel/qta/spa/hotel/ctrip/service/CtripHotelListService.java" />
+      <jump line="96" column="16" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/CtripProductService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWVyeVw+</text>
@@ -284,7 +281,7 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYW5hZ2VkRXhlY3V0b3JzLnNjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -293,27 +290,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsaXN0ID09IG51bGwgfHwgQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobGlzdC5nZXRJbmZvTGlzdCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmVycm9yKCLmn6Xor6LmkLrnqIvkuqflk4HliJfooajlpLHotKUsIG1zZzp7fSIsIHJlcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW1tdXRhYmxlTGlzdC5vZigpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgRnVuY3Rpb248TGlzdDxJbnRlZ2VyPiwgTGlzdDxPYmplY3Q+PiBkZXRhaWxUcmFuc2Zvcm0gPSAoaWRzLCByZXMpIC0+IHN5bmNTZXJldmljZS5nZXREZXRhaWxCeUlkcyhpZHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbW11dGFibGVMaXN0Lm9mKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYW5hZ2VkRXhlY3V0b3JzLnNjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlcy5hZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVuYXIudGMucWNsaWVudC5yZWRpcy51dGlsLkZ1dHVyZXMudHJhbnNmb3JtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsaXN0ID09IG51bGwgfHwgQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkobGlzdC5nZXRJbmZvTGlzdCgpKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTE9HR0VSLmVycm9yKCLmn6Xor6LmkLrnqIvkuqflk4HliJfooajlpLHotKUsIG1zZzp7fSIsIHJlcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gSW1tdXRhYmxlTGlzdC5vZigpOwogICAgICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="9" type="4">
-        <text>if (CollectionUtils.isEmpty(list)) {
-                            list.getInfoList()
-                        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBJbW11dGFibGVMaXN0Lm9mKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
