@@ -11,12 +11,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/wrapperinfo/WrapperInfoAgent.java" timestamp="1512642277811">
         <mark key="'" line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1513236072195">
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="35" column="13" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" timestamp="1513158590895">
         <mark key="'" line="918" column="54" />
       </file>
@@ -25,6 +19,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryPsProductProcessor.java" timestamp="1513236359095" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/KeepBasePriceProcessImp.java" timestamp="1513236020447" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1513158134592">
+        <mark key="'" line="107" column="36" />
+        <mark key="[" line="398" column="35" />
+        <mark key="]" line="398" column="35" />
+        <mark key="." line="398" column="35" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" timestamp="1513240806112" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/common/src/main/java/com/qunar/hotel/qta/open/time/SystemTimer.java" timestamp="1513150080396">
         <mark key="'" line="20" column="13" />
@@ -70,12 +70,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/CouponInfo.java" timestamp="1513155716037">
         <mark key="'" line="166" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/group/QGroupSupplier.java" timestamp="1513237316028">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CareFreeInsuranceHandler.java" timestamp="1513156259487" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/PromotionConstants.java" timestamp="1513241241102" />
       <file name="$MAVEN_REPOSITORY$/com/ning/async-http-client/1.9.39/async-http-client-1.9.39-sources.jar!/com/ning/http/client/providers/netty/request/NettyRequestSender.java" timestamp="1512918701153">
@@ -100,6 +94,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/ComposedAdditionalService.java" timestamp="1513155458675">
         <mark key="'" line="228" column="48" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/SortByTicketTypeHandler.java" timestamp="1513242137704">
+        <mark key="'" line="88" column="35" />
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/secteam/sec-activity-api/1.1.1/sec-activity-api-1.1.1.jar!/com/qunar/secteam/activity/ActivityEntryService.class" timestamp="1513232842874" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/daily/QDailyPriceFactory.java" timestamp="1513240106615" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/common/src/main/java/com/qunar/hotel/qta/open/node/AbstractNode.java" timestamp="1513150031496">
@@ -111,23 +111,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/TicketAdditionalProduct.java" timestamp="1512874692885">
         <mark key="'" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/additional/SortableProduct.java" timestamp="1513159324164">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="34" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QOrderPriceRemoteImpl.java" timestamp="1513234744338">
         <mark key="'" line="58" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/common/src/main/java/com/qunar/hotel/qta/open/object/ObjectClone.java" timestamp="1513150057032">
         <mark key="'" line="11" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" timestamp="1513156884329">
-        <mark key="[" line="393" column="40" />
-        <mark key="]" line="393" column="26" />
-        <mark key="." line="393" column="26" />
-        <mark key="^" line="393" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.11/qconfig-client-1.1.11-sources.jar!/qunar/tc/qconfig/client/impl/HttpClient.java" timestamp="1512857338033">
         <mark key="'" line="494" column="43" />
@@ -143,7 +131,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-20130_171213_composed_location-SNAPSHOT/qta-open-product-api-DZS-20130_171213_composed_location-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/AdditionalContext.java" timestamp="1513157028417">
         <mark key="'" line="42" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QProductRemoteImpl.java" timestamp="1513229390202" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QProductRemoteImpl.java" timestamp="1513241826128" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/executor/DefaultDetailManualExecutor.java" timestamp="1513238563579">
         <mark key="'" line="138" column="37" />
       </file>
@@ -205,12 +193,6 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.183/qta-open-product-api-1.1.183-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QComposedAdditionalProductInfo.java" timestamp="1513153590381" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-20130_171213_composed_location-SNAPSHOT/qta-open-product-api-DZS-20130_171213_composed_location-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/daily/QPriceDetail.java" timestamp="1513239486599">
         <mark key="'" line="31" column="34" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/AdditionalContextUtil.java" timestamp="1513157690730">
-        <mark key="[" line="15" column="23" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="31" />
       </file>
     </filemarks>
     <jumps>
