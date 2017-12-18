@@ -40,8 +40,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/resources/application.properties" timestamp="1513328541146">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1513586917085">
-        <mark key="'" line="191" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1513591653128">
+        <mark key="'" line="74" column="33" />
         <mark key="[" line="203" column="0" />
         <mark key="]" line="203" column="50" />
         <mark key="." line="203" column="0" />
@@ -139,8 +139,8 @@
         <mark key="^" line="13" column="50" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalABTestService.java" timestamp="1513568326448">
-        <mark key="'" line="140" column="80" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalABTestService.java" timestamp="1513591508929">
+        <mark key="'" line="133" column="9" />
         <mark key="[" line="143" column="73" />
         <mark key="]" line="146" column="42" />
         <mark key="^" line="146" column="42" />
@@ -172,7 +172,13 @@
       <file name="/a.sql" timestamp="1513336386706">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-20130_171213_composed_location-SNAPSHOT/qta-open-product-api-DZS-20130_171213_composed_location-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/additional/QAdditionalProduct.java" timestamp="1513566623199">
+        <mark key="'" line="31" column="41" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/main/java/com/qunar/hotel/price/raven/task/qhotel/HotelSyncTask.java" timestamp="1513559274271" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" timestamp="1513591642440">
+        <mark key="'" line="246" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/HotelLinkageAdaptor.java" timestamp="1513336455240">
         <mark key="[" line="25" column="24" />
       </file>
@@ -232,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="25" filename="$USER_HOME$/IdeaProjects/hprice/travelco/src/main/java/com/qunar/hotel/travelco/conf/PriceFetchBlackListQConfig.java" />
-      <jump line="78" column="13" filename="$MAVEN_REPOSITORY$/io/netty/netty/3.10.4.Final/netty-3.10.4.Final-sources.jar!/org/jboss/netty/util/HashedWheelTimer.java" />
-      <jump line="116" column="29" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/CtripProductService.java" />
       <jump line="20" column="18" filename="$USER_HOME$/IdeaProjects/promotion/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/aop/RedisCache.java" />
       <jump line="23" column="13" filename="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.24.Final/netty-all-4.0.24.Final-sources.jar!/io/netty/channel/ConnectTimeoutException.java" />
       <jump line="138" column="25" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/19.0/guava-19.0-sources.jar!/com/google/common/util/concurrent/ListenableFuture.java" />
@@ -332,6 +335,9 @@
       <jump line="485" column="33" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/CalcBookingRuleProcessor.java" />
       <jump line="24" column="18" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/root.beans/0.0.36/root.beans-0.0.36-sources.jar!/com/qunar/hotel/price/root/beans/time/ShortDate.java" />
       <jump line="40" column="6" filename="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/product/CtripProductAddition.java" />
+      <jump line="133" column="9" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/QAdditionalABTestService.java" />
+      <jump line="246" column="30" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/InsuranceUtils.java" />
+      <jump line="74" column="33" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
