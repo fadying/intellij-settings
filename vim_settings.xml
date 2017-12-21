@@ -28,6 +28,7 @@
         <mark key="[" line="31" column="13" />
       </file>
       <file name="/opt/jdk1.8.0_92/src.zip!/java/util/Comparator.java" timestamp="1513762597912" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" timestamp="1513827863552" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/ProductTree.java" timestamp="1513765750760">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -54,7 +55,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/resources/mapper/VendorMapper.xml" timestamp="1513771722729" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/ProductAddition.java" timestamp="1513765060967" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/bean/SimpleGroupProductVO.java" timestamp="1513766183191" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/SupplierCodeEnum.java" timestamp="1513826736640">
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/src/main/java/com/qunar/hotel/price/raven/api/bean/constant/SupplierCodeEnum.java" timestamp="1513827610183">
         <mark key="[" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/base/utils/QApiTemplate.java" timestamp="1513753093178" />
@@ -108,11 +109,10 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/product/additional/QComposedAdditionalProductInfo.java" timestamp="1513757896792" />
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/CtripProductAdditionAdaptor.java" timestamp="1513751882469" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/remote/QGroupProductRemoteImpl.java" timestamp="1513772894227">
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="84" column="62" />
-        <mark key="." line="84" column="62" />
-        <mark key="^" line="84" column="62" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/remote/QGroupProductRemoteImpl.java" timestamp="1513827729179">
+        <mark key="[" line="76" column="92" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/web/GroupProductController.java" timestamp="1513771606665">
         <mark key="[" line="41" column="56" />
@@ -156,7 +156,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513774090522">
+      <file name="/Dummy.txt" timestamp="1513827743520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -292,7 +292,7 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcm91cFByb2R1Y3RWT0FkYXB0b3IgYWRhcHRvciA9IG5ldyBHcm91cFByb2R1Y3RWT0FkYXB0b3IoKTsK</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -307,34 +307,34 @@
         <text encoding="base64">ICAgICAgICBNYXA8SW50ZWdlciwgVmVuZG9yPiB2ZW5kb3JNYXAgPSB2ZW5kb3JzLnN0cmVhbSgpLmNvbGxlY3QodG9NYXAodiAtPiB2LmdldElkKCksIHYgLT4gdikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcm91cFByb2R1Y3RWT0FkYXB0b3IgYWRhcHRvciA9IG5ldyBHcm91cFByb2R1Y3RWT0FkYXB0b3IoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFFBcGlEYXRhUmVzdWx0PFFPcmRlckdyb3VwUHJvZHVjdD4gcXVlcnlPcmRlclByb2R1Y3QoUU9yZGVyR3JvdXBQcm9kdWN0UXVlcnkgcXVlcnkpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBiZWFuLmdldFByb2R1Y3QoKS5nZXRBZGRpdGlvbigpLmdldFBpY3R1cmVzKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5maWx0ZXIocCAtPiBwLmdldENhdGVnb3J5KCkgPT0gMSkKICAgICAgICAgICAgICAgIC5maW5kQW55KCkKICAgICAgICAgICAgICAgIC5pZlByZXNlbnQocCAtPiB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0LnNldEhlYWRQaWN0dXJlKHAuZ2V0VXJsKCkpOwogICAgICAgICAgICAgICAgfSk7</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgdGFyZ2V0LnNldFByb2R1Y3RJZChiZWFuLmdldFByb2R1Y3QoKS5nZXRJZCgpKTsKICAgICAgICB0YXJnZXQuc2V0UHJvZHVjdE5hbWUoYmVhbi5nZXRQcm9kdWN0KCkuZ2V0UHJvZHVjdE5hbWUoKSk7CiAgICAgICAgdGFyZ2V0LnNldFNlbGxQcmljZShiZWFuLmdldFByb2R1Y3QoKS5nZXRTZWxsUHJpY2UoKSk7CiAgICAgICAgdGFyZ2V0LnNldFNob3dQcmljZShiZWFuLmdldFByb2R1Y3QoKS5nZXRTaG93UHJpY2UoKSk7CiAgICAgICAgYmVhbi5nZXRQcm9kdWN0KCkuZ2V0QWRkaXRpb24oKS5nZXRQaWN0dXJlcygpLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHAgLT4gcC5nZXRDYXRlZ29yeSgpID09IDEpCiAgICAgICAgICAgICAgICAuZmluZEFueSgpCiAgICAgICAgICAgICAgICAuaWZQcmVzZW50KHAgLT4gewogICAgICAgICAgICAgICAgICAgIHRhcmdldC5zZXRIZWFkUGljdHVyZShwLmdldFVybCgpKTsKICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICB0YXJnZXQuc2V0VmVuZG9yKGFkYXB0RnJvbShiZWFuLmdldFZlbmRvcnMoKS5nZXQoMCkpKTsKCi8vICAgICAgICB0YXJnZXQuc2V0UmVmdW5kSW5mbyhiZWFuLmdldFByb2R1Y3QoKS5nZXRSZWZ1bmRJbmZvKCkpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICB0YXJnZXQuc2V0UGljdHVyZXMoYmVhbi5nZXRQcm9kdWN0KCkuZ2V0QWRkaXRpb24oKS5nZXRQaWN0dXJlcygpKTsKICAgICAgICB0YXJnZXQuc2V0U3ViUHJvZHVjdHMoYmVhbi5nZXRQcm9kdWN0KCkuZ2V0QWRkaXRpb24oKS5nZXRTdWJQcm9kdWN0cygpKTsKICAgICAgICB0YXJnZXQuc2V0UHJvZHVjdERlc2NyaXB0aW9uKGJ1aWxkRGVzY3JpcHRpb24oYmVhbikpOw==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTaW1wbGVHcm91cFByb2R1Y3RWTyBzaW1wbGVHcm91cFByb2R1Y3RWTyA9IHNpbXBsZUdyb3VwUHJvZHVjdFZPQWRhcHRvci5hZGFwdEZyb20oYmVhbik7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmlkID0gaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
