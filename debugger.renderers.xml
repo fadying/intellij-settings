@@ -1,12 +1,5 @@
 <application>
   <component name="NodeRendererSettings">
-    <Renderer ID="ArrayRenderer">
-      <option name="NAME" value="unnamed" />
-      <option name="ENABLED" value="true" />
-      <option name="START_INDEX" value="0" />
-      <option name="END_INDEX" value="99" />
-      <option name="ENTRIES_LIMIT" value="99" />
-    </Renderer>
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
     </Renderer>
@@ -33,7 +26,8 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
-          <option name="LABEL_EXPRESSION" value="getId() + &quot; : &quot; + getTitle() + &quot; : &quot; + getSource() + &quot; : &quot; + getTicketPriority()&#13;&#13;JAVA" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getId() + &quot; : &quot; + getTitle() + &quot; : &quot; + getSource() + &quot; : &quot; + getTicketType() + &quot; : &quot; + getTicketPriority()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
       <Renderer ID="CompoundTypeRenderer">
@@ -42,6 +36,7 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+          <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="ruleId&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
@@ -60,6 +55,7 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+          <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="getRoomtype() + &quot;:&quot; + getCodebase()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
@@ -69,6 +65,7 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
+          <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="getTaskId()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
@@ -78,6 +75,7 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
+          <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="getProductId()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
@@ -87,6 +85,7 @@
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
+          <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
