@@ -21,6 +21,16 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="CtripProductInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.raven.domain.bean.product.CtripProductInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.raven.domain.bean.product.CtripProductInfo" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getProduct().getProductName() + &quot;:&quot; + getProduct().getPictureUrl()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
