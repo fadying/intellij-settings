@@ -16,6 +16,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/BargainReCommitException.java" timestamp="1516691011915">
         <mark key="[" line="7" column="67" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/price/opromotion/function/BizFunctions.java" timestamp="1516697137041" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcPackagePriceProcessor.java" timestamp="1516697507292" />
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/BargainBizException.java" timestamp="1516692042043">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -61,6 +63,11 @@
         <mark key="^" line="102" column="128" />
         <mark key="." line="102" column="128" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/base/RemoteAsyncAgent.java" timestamp="1516338361244">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/resources/application.properties" timestamp="1516689841629">
         <mark key="[" line="6" column="48" />
       </file>
@@ -77,6 +84,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/UserSecurityService.java" timestamp="1516692551549" />
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/java/com/qunar/hotel/price/otter/service/mapper/BargainRecordMapperTest.java" timestamp="1516689483033" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/CalcPackagePriceProcessor.java" timestamp="1516697348699" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/dacc5cd4-e13c-4001-a92a-526d65d00be5/console.sql" timestamp="1516690202306">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,6 +104,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityAwardsMapper.java" timestamp="1516688723161">
         <mark key="[" line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/packageactivity/PackagePromotionListAgent.java" timestamp="1516697189002" />
       <file name="/a.sql" timestamp="1516690227921">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,13 +119,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/StudentGenerateOptionProcessor.java" timestamp="1516341272308">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/qconfig/SmsConfig.java" timestamp="1516695713654">
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1516692561355">
+      <file name="/dummy.sql" timestamp="1516696700501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516695963268">
+      <file name="/Dummy.txt" timestamp="1516697097186">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -140,6 +154,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/resources/mybatis/BargainActivityAwardsMapper.xml" timestamp="1516690618834">
         <mark key="[" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/test/java/com/qunar/hotel/price/otter/provider/util/CipherUtilTest.java" timestamp="1516696722904">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainCommitBizImpl.java" timestamp="1516695869210">
         <mark key="[" line="81" column="61" />
@@ -276,13 +295,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmVzdWx0Lm1hcChyIC0+IG5ldyBCYXJnYWluT3B0aW9uUmVzdWx0KHIuZ2V0QW1vdW50KCkubWluKG1heE9wdGlvbkFtb3VudChuZWNlc3NpdHkpKSkpOw==</text>
+        <text>114446363182203</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVzdWx0Lm1hcChyIC0+IG5ldyBCYXJnYWluT3B0aW9uUmVzdWx0KHIuZ2V0QW1vdW50KCkubWluKG1heE9wdGlvbkFtb3VudChuZWNlc3NpdHkpKSkpOw==</text>
+        <text>114446363182203</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
