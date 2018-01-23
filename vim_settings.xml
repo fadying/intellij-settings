@@ -134,10 +134,11 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.local/logback.xml" timestamp="1516712936907">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="27" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.local/logback.xml" timestamp="1516716847290">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="13" column="20" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/AbstractBargainOptionChecker.java" timestamp="1516335560337">
         <mark key="[" line="12" column="41" />
@@ -147,6 +148,9 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1516716298114">
+        <mark key="[" line="235" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityAwardsMapperTest.java" timestamp="1516690507219">
         <mark key="[" line="39" column="49" />
@@ -255,11 +259,21 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="11" column="49" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/target/prmt-otter-provider/WEB-INF/classes/logback.xml" timestamp="1516716161792">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/BargainOptionProcessorImpl.java" timestamp="1516695978496">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="15" />
         <mark key="." line="41" column="15" />
         <mark key="^" line="41" column="71" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/StudentGenerateOptionProcessor.java" timestamp="1516341272308">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/resources/logback.xml" timestamp="1516710739109">
         <mark key="[" line="29" column="0" />
@@ -277,7 +291,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/monitor/RemoteMonitor.java" timestamp="1516705208433">
         <mark key="[" line="12" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516713233510">
+      <file name="/Dummy.txt" timestamp="1516716824416">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -425,13 +439,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>qtaAppender</text>
+        <text encoding="base64">ICVYe1FUUkFDRVJ9</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>qtaAppender</text>
+        <text encoding="base64">ICVYe1FUUkFDRVJ9</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -440,34 +454,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IFJJU0tfVVNFUiA9IDQ7IC8vIOmjjumZqeeUqOaItwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJxdGFBcHBlbmRlciIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNvcmUucm9sbGluZy5Sb2xsaW5nRmlsZUFwcGVuZGVyIj4KICAgICAgICA8ZmlsZT4ke0xPR19IT01FfS9xdGEubG9nPC9maWxlPgogICAgICAgIDxyb2xsaW5nUG9saWN5IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLnJvbGxpbmcuVGltZUJhc2VkUm9sbGluZ1BvbGljeSI+CiAgICAgICAgICAgIDxmaWxlTmFtZVBhdHRlcm4+JHtMT0dfSE9NRX0vcXRhLmxvZy4lZHt5eXl5LU1NLWRkfS5nejwvZmlsZU5hbWVQYXR0ZXJuPgogICAgICAgICAgICA8bWF4SGlzdG9yeT4xNTwvbWF4SGlzdG9yeT4KICAgICAgICA8L3JvbGxpbmdQb2xpY3k+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSAlWHtRVFJBQ0VSfVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgIDwvYXBwZW5kZXI+</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLnF1bmFyLmhvdGVsIiBsZXZlbD0iSU5GTyI+CiAgICAgICAgPGFwcGVuZGVyLXJlZiByZWY9ImNvbnNvbGUiIC8+CiAgICA8L2xvZ2dlcj4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9ImNvbS5xdW5hci5ob3RlbCIgbGV2ZWw9IklORk8iPgogICAgICAgIDxhcHBlbmRlci1yZWYgcmVmPSJjb25zb2xlIiAvPgogICAgPC9sb2dnZXI+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGFjcXVpcmUpOwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgcmVkaXNMb2NrU2VydmljZS5yZWxlYXNlKGNvbW1pdExvY2ssIGtleSk7</text>
+        <text encoding="base64">ICAgIDxhcHBlbmRlciBuYW1lPSJxdGFBcHBlbmRlciIgY2xhc3M9ImNoLnFvcy5sb2diYWNrLmNvcmUucm9sbGluZy5Sb2xsaW5nRmlsZUFwcGVuZGVyIj4KICAgICAgICA8ZmlsZT4ke0xPR19IT01FfS9xdGEubG9nPC9maWxlPgogICAgICAgIDxyb2xsaW5nUG9saWN5IGNsYXNzPSJjaC5xb3MubG9nYmFjay5jb3JlLnJvbGxpbmcuVGltZUJhc2VkUm9sbGluZ1BvbGljeSI+CiAgICAgICAgICAgIDxmaWxlTmFtZVBhdHRlcm4+JHtMT0dfSE9NRX0vcXRhLmxvZy4lZHt5eXl5LU1NLWRkfS5nejwvZmlsZU5hbWVQYXR0ZXJuPgogICAgICAgICAgICA8bWF4SGlzdG9yeT4xNTwvbWF4SGlzdG9yeT4KICAgICAgICA8L3JvbGxpbmdQb2xpY3k+CiAgICAgICAgPGVuY29kZXI+CiAgICAgICAgICAgIDxwYXR0ZXJuPlslZHtISDptbTpzcy5TU1N9XSAlWHtRVFJBQ0VSfVslaGlnaGxpZ2h0KCUtNXApXVslbG9nZ2VyezB9XSAlbSVuPC9wYXR0ZXJuPgogICAgICAgIDwvZW5jb2Rlcj4KICAgIDwvYXBwZW5kZXI+</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNxdWlyZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNxdWlyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKGFjcXVpcmUpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgcmVkaXNMb2NrU2VydmljZS5yZWxlYXNlKGNvbW1pdExvY2ssIGtleSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkobmVjZXNzaXR5LmdldFJlY29yZHMoKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWNxdWlyZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vUS8=</text>
