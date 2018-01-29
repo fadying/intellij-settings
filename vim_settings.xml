@@ -37,6 +37,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/AtourActivityRequest.java" timestamp="1516349638636">
         <mark key="[" line="14" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/service/VendorService.java" timestamp="1517223289049">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/bean/HttpInput.java" timestamp="1516871297141">
         <mark key="[" line="35" column="58" />
       </file>
@@ -104,6 +110,9 @@
         <mark key="]" line="103" column="4" />
         <mark key="." line="103" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/resources/mapper/VendorMapper.xml" timestamp="1517222130011">
+        <mark key="'" line="30" column="16" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/constant/ConfigKey.java" timestamp="1516614317600">
         <mark key="[" line="10" column="60" />
       </file>
@@ -118,6 +127,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/agent/product/ota/OtaProductAdapter.java" timestamp="1517212720257">
         <mark key="'" line="104" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/mapper/VendorMapper.java" timestamp="1517222131601">
+        <mark key="'" line="17" column="9" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/AbstractBargainOptionChecker.java" timestamp="1516335560337">
         <mark key="[" line="12" column="41" />
@@ -205,6 +217,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityAwardsMapper.java" timestamp="1516853846943">
         <mark key="[" line="26" column="22" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/Vendor.java" timestamp="1517222361483">
+        <mark key="'" line="19" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/adapter/response/helper/PriceCalc.java" timestamp="1517216888183">
         <mark key="'" line="51" column="37" />
       </file>
@@ -214,14 +229,14 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/DailyCalcPrice.java" timestamp="1517216889639">
         <mark key="'" line="68" column="16" />
       </file>
-      <file name="/dummy.sql" timestamp="1517221464397">
+      <file name="/dummy.sql" timestamp="1517222509626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/monitor/RemoteMonitor.java" timestamp="1516705208433">
         <mark key="[" line="12" column="66" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" timestamp="1517219039281" />
-      <file name="/Dummy.txt" timestamp="1517220579725">
+      <file name="/Dummy.txt" timestamp="1517223234718">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -248,9 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="55" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/base/HttpRemoteAgent.java" />
-      <jump line="115" column="0" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/base/HttpRemoteAgent.java" />
-      <jump line="29" column="23" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/UserSecurityService.java" />
       <jump line="22" column="41" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/ActivityStatusOptionChecker.java" />
       <jump line="110" column="54" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourAwardBizImpl.java" />
       <jump line="17" column="8" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityAwardsMapper.java" />
@@ -348,13 +360,16 @@
       <jump line="70" column="21" filename="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/Product.java" />
       <jump line="75" column="20" filename="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/Product.java" />
       <jump line="75" column="91" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/adaptor/CtripDetailProductAdaptor.java" />
+      <jump line="30" column="16" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/resources/mapper/VendorMapper.xml" />
+      <jump line="17" column="9" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/mapper/VendorMapper.java" />
+      <jump line="19" column="24" filename="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/Vendor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZW5lZml0LnNldENvbmRpdGlvbnMoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGpkZGF2YS51dGlsLio7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -369,35 +384,35 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFByZWNvbmRpdGlvbnMuY2hlY2tBcmd1bWVudChNYXBVdGlscy5pc0VtcHR5KHByaWNlUGFyYW1zKSwgIuaKpeS7t+WPguaVsOS4uuepuiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZW5lZml0LnNldENvbmRpdGlvbnMoKTsK</text>
+        <text encoding="base64">aW1wb3J0IGpkZGF2YS51dGlsLio7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCB0b3RhbEZ1bmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wYXJhdG9yPFZlbmRvcj4gdmVuZG9yQ29tcGFyYXRvciA9IENvbXBhcmF0b3IuY29tcGFyaW5nKHYgLT4gdi5nZXRUaGlyZFZlbmRvcklkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShiZW5lZml0LmdldENvbmRpdGlvbnMoKSkgJiYgYmVuZWZpdC5nZXRCZW5lZml0VmlldygpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBiZW5lZml0LnNldENvbmRpdGlvbnMoKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQmlnRGVjaW1hbCB0b3RhbEZ1bmQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShiZW5lZml0LmdldENvbmRpdGlvbnMoKSkgJiYgYmVuZWZpdC5nZXRCZW5lZml0VmlldygpKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAqIEByZXR1cm5gCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>InventoryIdActivityIdMapping mapping = CacheHolder.getBean(CacheHolder.CACHE_NAME_INVENTORYID_ACTIVITYID_MAPPING,
                         CacheHolder.FIELD_NAME_INVENTORY_ID, benefit.getBenefitView().getGroupId());</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiZW5lZml0LmdldENhdGVnb3J5SWQoKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkdWIK</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBsb25nIGFjdGl2aXR5SWQgPSBtYXBwaW5nLmdldEFjdGl2aXR5SWQoKTs=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFN0cmluZyBhcHBseShATnVsbGFibGUgU2ltcGxlUm9vbVByaWNlSW5mbyBpbnB1dCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGlucHV0LmdldFJvb21JZCgpICsgInwiICsgaW5wdXQuZ2V0UHJpY2UoKSArICJ8IiArIGlucHV0LmdldFJlZHVjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgIDxkdWIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL14vUS8=</text>
