@@ -8,6 +8,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryFreeRoomInventoryProcessor.java" timestamp="1517310558852" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/WechatConsumeServiceImpl.java" timestamp="1517299499262" />
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/QUserService.java" timestamp="1517295220391" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.betag/hotel.properties" timestamp="1517320479036" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.betae/hotel.properties" timestamp="1517320265409" />
       <file name="/HotelDetailPriceAgentTest.java" timestamp="1517303701895" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" timestamp="1517220670988">
         <mark key="'" line="88" column="50" />
@@ -16,9 +18,6 @@
         <mark key="." line="181" column="26" />
       </file>
       <file name="/UserBenefitView.java" timestamp="1517303480252" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/bean/price/RoomPriceInfo.java" timestamp="1517298695026">
-        <mark key="'" line="37" column="25" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/price/PriceMaxBenefitView.java" timestamp="1517303400699" />
       <file name="/HotelPriceInfo.java" timestamp="1517303661766" />
       <file name="/ConditionalBenefitWrapper.java" timestamp="1517303489140" />
@@ -35,12 +34,9 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.269/h_hprice_common-1.2.269-sources.jar!/com/qunar/hotel/price/base/util/HotelConstant.java" timestamp="1517317884945" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/listener/ABCacheInitListener.java" timestamp="1517303545776" />
       <file name="/RemoteConfig.java" timestamp="1517303671334" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.269/h_hprice_common-1.2.269-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" timestamp="1517298710714">
-        <mark key="'" line="165" column="25" />
-      </file>
       <file name="/SimpleRoomPriceInfo.java" timestamp="1517303648198" />
       <file name="/HotelDetailPriceAgent.java" timestamp="1517303628342" />
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/test/resources/hotel.properties" timestamp="1517317977682" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/test/resources/hotel.properties" timestamp="1517319422107" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/resources/spring/spring-redis.xml" timestamp="1517303717983" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1517293869393">
         <mark key="[" line="0" column="0" />
@@ -48,9 +44,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="/UserBenefitViewAdapter.java" timestamp="1517300583661" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/price/bean/RoomPriceInfo.java" timestamp="1517297209122">
-        <mark key="'" line="25" column="19" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/ucenter/ucenter-client/3.3.2/ucenter-client-3.3.2-sources.jar!/com/qunar/ucenter/client/UserClient.java" timestamp="1517314154846">
         <mark key="'" line="308" column="89" />
       </file>
@@ -78,9 +71,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" timestamp="1517309803373" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/resources.betanoah/config.properties" timestamp="1517289352410" />
       <file name="/BenefitException.java" timestamp="1517299839328" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.70/open-promotion-api-1.1.70-sources.jar!/com/qunar/hotel/qta/open/promotion/api/exception/PromotionException.java" timestamp="1517289445876">
-        <mark key="'" line="13" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/service/PromotionService.java" timestamp="1517317891153">
         <mark key="'" line="13" column="22" />
       </file>
@@ -96,6 +86,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-21235_180118_cash_to_prepay-SNAPSHOT/qta-open-product-api-DZS-21235_180118_cash_to_prepay-20180118.040430-3-sources.jar!/com/qunar/hotel/qta/open/bean/common/QApiCode.java" timestamp="1517317876673" />
       <file name="/ABCacheInitListener.java" timestamp="1517303569373" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/exception/BenefitException.java" timestamp="1517299838120" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/resources.autoteste/hotel.properties" timestamp="1517320305162" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/adaptor/product/ProductGenerator.java" timestamp="1517304909508" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcOcncProcessor.java" timestamp="1516256434938">
         <mark key="'" line="102" column="28" />
@@ -113,17 +104,14 @@
       <file name="/PriceMaxBenefitView.java" timestamp="1517303524748" />
       <file name="/HttpRemoteAgent.java" timestamp="1517303609958" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeBenefitAction.java" timestamp="1517313824311" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/KeepBasePriceProcessor.java" timestamp="1517311217058">
-        <mark key="'" line="52" column="58" />
-      </file>
       <file name="/PromotionConfig.java" timestamp="1517303677062" />
-      <file name="/Dummy.txt" timestamp="1517317934353">
+      <file name="/Dummy.txt" timestamp="1517320541987">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/service/impl/PromotionServiceImpl.java" timestamp="1517317915211" />
+      <file name="$USER_HOME$/IdeaProjects/hprice/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/service/impl/PromotionServiceImpl.java" timestamp="1517320567732" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1517301030970">
         <mark key="'" line="200" column="65" />
       </file>
