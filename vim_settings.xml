@@ -105,9 +105,19 @@
         <mark key="'" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/resources/application.properties" timestamp="1517558692794" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/util/BizTemplate.java" timestamp="1517567379040" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/util/BizTemplate.java" timestamp="1517567860070">
+        <mark key="[" line="60" column="19" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourAwardBizImpl.java" timestamp="1517474129675">
         <mark key="'" line="149" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/biz/src/main/java/com/qunar/hotel/price/raven/biz/support/BizTemplate.java" timestamp="1517567898486">
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="19" />
+        <mark key="^" line="58" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/monitor/qmonitor.jsp" timestamp="1517473232341">
         <mark key="[" line="5" column="0" />
@@ -155,7 +165,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517559402745">
+      <file name="/Dummy.txt" timestamp="1517568223292">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -166,6 +176,9 @@
         <mark key="[" line="111" column="12" />
         <mark key="]" line="103" column="4" />
         <mark key="." line="103" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/biz/src/main/java/com/qunar/hotel/price/raven/biz/QGroupProductBiz.java" timestamp="1517568210879">
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/RiskUserOptionProcessor.java" timestamp="1517398694437">
         <mark key="[" line="33" column="19" />
@@ -185,6 +198,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitVoucherSegmentCalcPostProcessor.java" timestamp="1517397915008">
         <mark key="'" line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/biz/src/main/java/com/qunar/hotel/price/raven/biz/impl/QGroupProductBizImpl.java" timestamp="1517568204520">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="89" column="21" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.beta/application.properties" timestamp="1517559060817" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" timestamp="1517459126781">
@@ -322,13 +341,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.toJson</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>.toJson</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>^</text>
@@ -336,45 +355,40 @@
       <register name="0" type="2">
         <text encoding="base64">c3ByaW5nLnByb2ZpbGVzLmFjdGl2ZT1teXNxbAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJRdWVyeTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICJyZWxhdGVIb3RlbFNlcSIsIHJlbGF0ZUhvdGVsU2Vx</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3JkZXJRdWVyeTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuYXR0YWNoLlZpcnR1YWxNYWNoaW5lOwo=</text>
+        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3RyaW5nIGlwID0gcmVxdWVzdC5nZXRIZWFkZXIoIlgtUmVhbC1JUCIpOwppZihpcCA9PSBudWxsIHx8IGlwLmlzRW1wdHkoKSkKICAgIGlwID0gcmVxdWVzdC5nZXRSZW1vdGVBZGRyKCk7CmlmICghKFN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxOTIuMTY4LiIpfHxTdHJpbmdVdGlscy5zdGFydHNXaXRoKGlwLCAiMTI3LjAuIikgfHwgU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjEwLjg2LiIpKSkgewoJcmVzcG9uc2Uuc2VuZEVycm9yKDQwMywgaXArIiBJUCBhZGRyIEVycm9yISIpOwoJcmV0dXJuOwp9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4udG9vbHMuYXR0YWNoLlZpcnR1YWxNYWNoaW5lOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">U3RyaW5nIGlwID0gcmVxdWVzdC5nZXRIZWFkZXIoIlgtUmVhbC1JUCIpOwppZihpcCA9PSBudWxsIHx8IGlwLmlzRW1wdHkoKSkKICAgIGlwID0gcmVxdWVzdC5nZXRSZW1vdGVBZGRyKCk7CmlmICghKFN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxOTIuMTY4LiIpfHxTdHJpbmdVdGlscy5zdGFydHNXaXRoKGlwLCAiMTI3LjAuIikgfHwgU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjEwLjg2LiIpKSkgewoJcmVzcG9uc2Uuc2VuZEVycm9yKDQwMywgaXArIiBJUCBhZGRyIEVycm9yISIpOwoJcmV0dXJuOwp9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxTdHJpbmc+IHByb21vdGlvbkNvZGVzID0gbmV3IEhhc2hTZXQ8Pihwcm9tb3Rpb25Db25maWcuZ2V0Q2FzaFZvdWNoZXJQcm9tb3Rpb25Db2RlcygpKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IAogICAgICAgICAgICAgICAgICAgICAgICAmJg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">NTE3NTk2MTM5MDAwCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>ComparatorChain.start.thenComparing(new java.util.function.Function() {
             @Override
             public Object apply(ConditionalBenefitWrapper o) {
                 return o.getBenefitView().getPriority();
             }
         }).</text>
-      </register>
-      <register name="9" type="4">
-        <text>.thenComparing(new java.util.function.Function() {
-            @Override
-            public Object apply(ConditionalBenefitWrapper o) {
-                return o.getBenefitView().getPriority();
-            }
-        }).)</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
