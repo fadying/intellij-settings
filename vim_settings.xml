@@ -20,6 +20,9 @@
       <file name="/a.dummy" timestamp="1517886368021">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" timestamp="1517831157851">
+        <mark key="'" line="48" column="53" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/test/java/CodeCacheUsage.java" timestamp="1517538377660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -103,12 +106,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1517839221253">
+      <file name="/dummy.sql" timestamp="1517887566273">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517839953465">
+      <file name="/Dummy.txt" timestamp="1517887295007">
         <mark key="'" line="0" column="4" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -128,6 +131,9 @@
       <file name="$MAVEN_REPOSITORY$/qunar/tc/order/ordercenter-consumer-api/2.6.66/ordercenter-consumer-api-2.6.66.jar!/qunar/tc/ordercenter/consumer/api/OrderQueryServiceAsync.class" timestamp="1517830263234" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources.prod/jdbc.properties" timestamp="1517831136839" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/UserFunctions.java" timestamp="1517829800503" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" timestamp="1517887624076">
+        <mark key="'" line="23" column="64" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/51423050-93d0-4fbf-931d-819696bcf357/console_1.sql" timestamp="1517833060952">
         <mark key="[" line="0" column="55" />
       </file>
@@ -141,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="53" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/PriceBenefitBiz.java" />
       <jump line="149" column="29" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/PriceBenefitBiz.java" />
       <jump line="201" column="49" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/PriceBenefitBiz.java" />
       <jump line="172" column="28" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/PriceBenefitBiz.java" />
@@ -241,6 +246,7 @@
       <jump line="102" column="60" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/PriceBenefitBiz.java" />
       <jump line="42" column="19" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitUtil.java" />
       <jump line="98" column="21" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" />
+      <jump line="23" column="64" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
