@@ -37,7 +37,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/mobalarmclient/1.1.3/mobalarmclient-1.1.3-sources.jar!/com/qunar/mobalarm/AlarmQueue.java" timestamp="1519875493685">
         <mark key="'" line="23" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/ExceptionLogger.java" timestamp="1519888588337">
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/ExceptionLogger.java" timestamp="1519892398970">
         <mark key="'" line="44" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/RecalculateCommissionProcessor.java" timestamp="1519888155359">
@@ -95,10 +95,12 @@
         <mark key="'" line="152" column="21" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/8.3.2/common-concurrent-8.3.2-sources.jar!/qunar/concurrent/ManagedThreadPool.java" timestamp="1519877267730" />
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" timestamp="1519890557853">
-        <mark key="'" line="101" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" timestamp="1519892363192">
+        <mark key="'" line="102" column="38" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/8.3.2/common-concurrent-8.3.2-sources.jar!/qunar/concurrent/ManagedExecutors.java" timestamp="1519876842314" />
+      <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/8.3.2/common-concurrent-8.3.2-sources.jar!/qunar/concurrent/ManagedExecutors.java" timestamp="1519892502121">
+        <mark key="'" line="44" column="29" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/DiDiCouponService.java" timestamp="1519804622906">
         <mark key="'" line="60" column="54" />
       </file>
@@ -155,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="16" filename="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/LocalApiService.java" />
       <jump line="365" column="35" filename="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" />
       <jump line="92" column="16" filename="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponAdaptor.java" />
       <jump line="34" column="86" filename="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources/spring/service-bean.xml" />
@@ -215,7 +216,6 @@
       <jump line="406" column="54" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/NpkgService.java" />
       <jump line="401" column="55" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/NpkgService.java" />
       <jump line="160" column="17" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/NpkgService.java" />
-      <jump line="102" column="30" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" />
       <jump line="40" column="8" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/ExceptionLogger.java" />
       <jump line="45" column="36" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/ExceptionLogger.java" />
       <jump line="19" column="32" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/ExceptionLogger.java" />
@@ -255,6 +255,8 @@
       <jump line="96" column="35" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" />
       <jump line="169" column="17" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/NpkgService.java" />
       <jump line="101" column="45" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" />
+      <jump line="102" column="38" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/signincashback/NewUserExecutor.java" />
+      <jump line="44" column="29" filename="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/8.3.2/common-concurrent-8.3.2-sources.jar!/qunar/concurrent/ManagedExecutors.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
