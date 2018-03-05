@@ -21,6 +21,7 @@
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.3.6/httpclient-4.3.6-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1520240208145" />
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1519889055220">
         <mark key="'" line="506" column="64" />
       </file>
@@ -43,6 +44,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcActivityProcessor.java" timestamp="1520234180990">
         <mark key="'" line="108" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qm-common/1.0.14/qm-common-1.0.14-sources.jar!/com/qunar/mobile/io/http/HttpClients.java" timestamp="1520240301330">
+        <mark key="'" line="75" column="49" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/RecalculateCommissionProcessor.java" timestamp="1519893311594">
         <mark key="'" line="69" column="32" />
       </file>
@@ -61,10 +65,10 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-biz-common/1.6.91/qta-biz-common-1.6.91-sources.jar!/com/qunar/hotel/qta/base/concurrent/Bolt.java" timestamp="1519962120316">
         <mark key="'" line="102" column="29" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" timestamp="1519806220953">
-        <mark key="'" line="131" column="37" />
+      <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" timestamp="1520240235129">
+        <mark key="'" line="41" column="35" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" timestamp="1520237109284">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" timestamp="1520239819103">
         <mark key="'" line="127" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseData.java" timestamp="1519889800126">
@@ -106,7 +110,6 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/provider/src/main/java/com/qunar/hotel/qta/order_port/booking/controller/BookingV2Controller.java" timestamp="1519711978223">
         <mark key="'" line="295" column="49" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1519963734668" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/commission/RecalculateCommissionUtil.java" timestamp="1519887611979">
         <mark key="'" line="44" column="28" />
       </file>
@@ -154,8 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="25" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/facade/app/PreSubmitGraph.java" />
-      <jump line="82" column="17" filename="$USER_HOME$/IdeaProjects/promotion/raven/domain/src/main/java/com/qunar/hotel/price/raven/domain/bean/db/Product.java" />
       <jump line="177" column="20" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" />
       <jump line="132" column="36" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" />
       <jump line="131" column="37" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" />
@@ -254,6 +255,8 @@
       <jump line="108" column="19" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcActivityProcessor.java" />
       <jump line="414" column="40" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/ConfigKey.java" />
       <jump line="45" column="36" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/SwitchUtil.java" />
+      <jump line="41" column="35" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/HttpClientUtil.java" />
+      <jump line="75" column="49" filename="$MAVEN_REPOSITORY$/com/qunar/mobile/qm-common/1.0.14/qm-common-1.0.14-sources.jar!/com/qunar/mobile/io/http/HttpClients.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
