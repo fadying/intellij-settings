@@ -179,6 +179,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QCancelInsurancePromotionProcessor.java" timestamp="1520326207844">
         <mark key="'" line="74" column="77" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/test/user.jsp" timestamp="1520410598500" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalPromotionServiceImpl.java" timestamp="1520326353153">
         <mark key="'" line="38" column="34" />
       </file>
@@ -226,7 +227,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" timestamp="1520239819103">
         <mark key="'" line="127" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/monitor/qmonitor.jsp" timestamp="1520407016213">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/monitor/qmonitor.jsp" timestamp="1520411066846">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -249,7 +250,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/AbstractDataManager.java" timestamp="1520304042318">
         <mark key="'" line="70" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/pom.xml" timestamp="1520408138581">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/pom.xml" timestamp="1520410653651">
         <mark key="[" line="49" column="36" />
         <mark key="]" line="49" column="37" />
         <mark key="." line="49" column="37" />
@@ -263,7 +264,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/main/java/com/qunar/hotel/price/raven/service/system/DBConfig.java" timestamp="1520395787478">
         <mark key="'" line="51" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520410422813">
+      <file name="/Dummy.txt" timestamp="1520410678773">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/util/AdditionalContextBuilder.java" timestamp="1520321046422">
@@ -403,8 +404,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
+if(ip == null || ip.isEmpty())
+    ip = request.getRemoteAddr();
+if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;) || StringUtils.startsWith(ip, &quot;10.86.&quot;))) {
+	response.sendError(403, ip+&quot; IP addr Error!&quot;);
+	return;
+}</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -418,13 +425,7 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoTWFwVXRpbHMuaXNOb3RFbXB0eShjb25mKSwgIuivu+WPlnNlcnZpY2UgbWFw5aSx6LSl77yM6YWN572u5Li656m6Iik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="1" type="4">
         <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
 if(ip == null || ip.isEmpty())
     ip = request.getRemoteAddr();
@@ -433,26 +434,38 @@ if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(i
 	return;
 }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly9TdHJpbmcgaXAgPSByZXF1ZXN0LmdldEhlYWRlcigiWC1SZWFsLUlQIik7Ci8vaWYoaXAgPT0gbnVsbCB8fCBpcC5pc0VtcHR5KCkpCi8vICAgIGlwID0gcmVxdWVzdC5nZXRSZW1vdGVBZGRyKCk7Ci8vaWYgKCEoU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIil8fFN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4iKSB8fCBTdHJpbmdVdGlscy5zdGFydHNXaXRoKGlwLCAiMTAuODYuIikpKSB7Ci8vCXJlc3BvbnNlLnNlbmRFcnJvcig0MDMsIGlwKyIgSVAgYWRkciBFcnJvciEiKTsKLy8JcmV0dXJuOwovL30K</text>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
+if(ip == null || ip.isEmpty())
+    ip = request.getRemoteAddr();
+if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;) || StringUtils.startsWith(ip, &quot;10.86.&quot;))) {
+	response.sendError(403, ip+&quot; IP addr Error!&quot;);
+	return;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbnRyeSBrZXk9IjU3IiB2YWx1ZS1yZWY9ImNhc2hWb3VjaGVyU2VnbWVudEFwaVNlcnZpY2UiPjwvZW50cnk+Cg==</text>
+        <text encoding="base64">Ly9TdHJpbmcgaXAgPSByZXF1ZXN0LmdldEhlYWRlcigiWC1SZWFsLUlQIik7Ci8vaWYoaXAgPT0gbnVsbCB8fCBpcC5pc0VtcHR5KCkpCi8vICAgIGlwID0gcmVxdWVzdC5nZXRSZW1vdGVBZGRyKCk7Ci8vaWYgKCEoU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIil8fFN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4iKSB8fCBTdHJpbmdVdGlscy5zdGFydHNXaXRoKGlwLCAiMTAuODYuIikpKSB7Ci8vCXJlc3BvbnNlLnNlbmRFcnJvcig0MDMsIGlwKyIgSVAgYWRkciBFcnJvciEiKTsKLy8JcmV0dXJuOwovL30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXBzLnRyYW5zZm9ybUVudHJpZXMoY29uZiwgbmV3IE1hcHMuRW50cnlUcmFuc2Zvcm1lcjxTdHJpbmcsIFN0cmluZywgT2JqZWN0PigpIHsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxlbnRyeSBrZXk9IjU3IiB2YWx1ZS1yZWY9ImNhc2hWb3VjaGVyU2VnbWVudEFwaVNlcnZpY2UiPjwvZW50cnk+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigi6K+75Y+WIHNlcnZpY2UgbWFwIOWksei0pe+8jGNvbnRleHQiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXBzLnRyYW5zZm9ybUVudHJpZXMoY29uZiwgbmV3IE1hcHMuRW50cnlUcmFuc2Zvcm1lcjxTdHJpbmcsIFN0cmluZywgT2JqZWN0PigpIHsKICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsKSB7CiAgICAgICAgICAgIExPR0dFUi5lcnJvcigi6K+75Y+WIHNlcnZpY2UgbWFwIOWksei0pe+8jGNvbnRleHQiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS1jb25zdW1lci0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1jb25zdW1lci0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
