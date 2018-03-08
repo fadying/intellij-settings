@@ -41,9 +41,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/executor/src/main/java/com/qunar/hotel/price/breeze/executor/data/InterfaceDataManager.java" timestamp="1520405278114">
         <mark key="'" line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" timestamp="1520508421402">
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" timestamp="1520509294918">
+        <mark key="[" line="106" column="8" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/org/apache/http/concurrent/BasicFuture.java" timestamp="1519893538383">
         <mark key="'" line="79" column="27" />
@@ -448,7 +449,7 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBGbHV4LmNvbWJpbmVMYXRlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -463,22 +464,16 @@
         <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoTWFwVXRpbHMuaXNOb3RFbXB0eShjb25mKSwgIuivu+WPlnNlcnZpY2UgbWFw5aSx6LSl77yM6YWN572u5Li656m6Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGbHV4LmNvbWJpbmVMYXRlc3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
-if(ip == null || ip.isEmpty())
-    ip = request.getRemoteAddr();
-if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;) || StringUtils.startsWith(ip, &quot;10.86.&quot;))) {
-	response.sendError(403, ip+&quot; IP addr Error!&quot;);
-	return;
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBNb25vLnppcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGbHV4LmNvbWJpbmVMYXRlc3QoKQo=</text>
       </register>
       <register name="4" type="4">
         <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
@@ -489,20 +484,20 @@ if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(i
 	return;
 }</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">U3RyaW5nIGlwID0gUmVxdWVzdFV0aWwuZ2V0SVAocmVxdWVzdCk7CmlmICghU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIikgJiYgIVN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4wLiIpKSB7CglvdXQucHJpbnRsbigi6K+35L2/55So5YaF572R5Z+f5ZCN6K6/6ZeuIik7CglyZXR1cm47Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">U3RyaW5nIGlwID0gUmVxdWVzdFV0aWwuZ2V0SVAocmVxdWVzdCk7CmlmICghU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIikgJiYgIVN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4wLiIpKSB7CglvdXQucHJpbnRsbigi6K+35L2/55So5YaF572R5Z+f5ZCN6K6/6ZeuIik7CglyZXR1cm47Cn0=</text>
-      </register>
-      <register name="7" type="4">
         <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
 if(ip == null || ip.isEmpty())
     ip = request.getRemoteAddr();
-if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;))) {
+if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;) || StringUtils.startsWith(ip, &quot;10.86.&quot;))) {
 	response.sendError(403, ip+&quot; IP addr Error!&quot;);
 	return;
 }</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">U3RyaW5nIGlwID0gUmVxdWVzdFV0aWwuZ2V0SVAocmVxdWVzdCk7CmlmICghU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIikgJiYgIVN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4wLiIpKSB7CglvdXQucHJpbnRsbigi6K+35L2/55So5YaF572R5Z+f5ZCN6K6/6ZeuIik7CglyZXR1cm47Cn0=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">U3RyaW5nIGlwID0gUmVxdWVzdFV0aWwuZ2V0SVAocmVxdWVzdCk7CmlmICghU3RyaW5nVXRpbHMuc3RhcnRzV2l0aChpcCwgIjE5Mi4xNjguIikgJiYgIVN0cmluZ1V0aWxzLnN0YXJ0c1dpdGgoaXAsICIxMjcuMC4wLiIpKSB7CglvdXQucHJpbnRsbigi6K+35L2/55So5YaF572R5Z+f5ZCN6K6/6ZeuIik7CglyZXR1cm47Cn0=</text>
@@ -511,7 +506,7 @@ if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(i
         <text>String ip = request.getHeader(&quot;X-Real-IP&quot;);
 if(ip == null || ip.isEmpty())
     ip = request.getRemoteAddr();
-if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;) || StringUtils.startsWith(ip, &quot;10.86.&quot;))) {
+if (!(StringUtils.startsWith(ip, &quot;192.168.&quot;)||StringUtils.startsWith(ip, &quot;127.0.&quot;))) {
 	response.sendError(403, ip+&quot; IP addr Error!&quot;);
 	return;
 }</text>
