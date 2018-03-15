@@ -67,11 +67,11 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="/hotel.properties" timestamp="1521101879785" />
-      <file name="$USER_HOME$/IdeaProjects/tc/mhotelqatool/src/main/webapp/WEB-INF/jsp/Index.jsp" timestamp="1521123131910">
-        <mark key="[" line="160" column="9" />
-        <mark key="]" line="160" column="9" />
-        <mark key="." line="160" column="9" />
-        <mark key="^" line="237" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/tc/mhotelqatool/src/main/webapp/WEB-INF/jsp/Index.jsp" timestamp="1521130542792">
+        <mark key="[" line="201" column="33" />
+        <mark key="]" line="253" column="82" />
+        <mark key="^" line="83" column="29" />
+        <mark key="." line="253" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseData.java" timestamp="1519889800126">
         <mark key="'" line="71" column="30" />
@@ -159,6 +159,12 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qm-common/1.0.14/qm-common-1.0.14-sources.jar!/com/qunar/mobile/io/http/HttpClients.java" timestamp="1520240301330">
         <mark key="'" line="75" column="49" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/tc/mhotelqatool/src/main/webapp/WEB-INF/jsp/BetaSupport.jsp" timestamp="1521132360826">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
+        <mark key="^" line="288" column="39" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.189/qta-open-product-api-1.1.189-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QAdditionalProductQuery.java" timestamp="1520558950042">
         <mark key="'" line="105" column="36" />
       </file>
@@ -201,7 +207,7 @@
       <file name="/dummy.sql" timestamp="1521118992942">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521105296760">
+      <file name="/Dummy.txt" timestamp="1521132303762">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -600,14 +606,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgLmNvcHlyaWdodCBwIHsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBsaXN0PSJicm93c2VycyJkZD4K</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
@@ -615,39 +621,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BBR0VfU0laRSA9IDEwMDsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgLmNvcHlyaWdodCBwIHsKICAgICAgICAgICAgbWFyZ2luOiAwOwogICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCBsaXN0PSJicm93c2VycyJkZD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSI+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgPHNwYW4+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSI+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBoZWlnaHQ6IGF1dG87CiAgICBtaW4taGVpZ2h0OiA4MDBweDsKICAgIHdpZHRoOiA4NCU7CiAgICBmbG9hdDogbGVmdDsi</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>style=&quot;;
-    height: auto;
-    min-height: 800px;
-    width: 16%;
-    float: left;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsKICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIDwhLS0gSFRNTDUgc2hpbSBhbmQgUmVzcG9uZC5qcyBmb3IgSUU4IHN1cHBvcnQgb2YgSFRNTDUgZWxlbWVudHMgYW5kIG1lZGlhIHF1ZXJpZXMgLS0+CiAgICA8IS0tIFdBUk5JTkc6IFJlc3BvbmQuanMgZG9lc24ndCB3b3JrIGlmIHlvdSB2aWV3IHRoZSBwYWdlIHZpYSBmaWxlOi8vIC0tPgogICAgPCEtLVtpZiBsdCBJRSA5XT4KICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2Nkbi5ib290Y3NzLmNvbS9odG1sNXNoaXYvMy43LjMvaHRtbDVzaGl2Lm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG4uYm9vdGNzcy5jb20vcmVzcG9uZC5qcy8xLjQuMi9yZXNwb25kLm1pbi5qcyI+PC9zY3JpcHQ+CiAgICA8IVtlbmRpZl0tLT4=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICBodG1sLCBib2R5LCAjbWFpbi1mcmFtZSwgI2Rpc3BsYXlQYWdlIHsKICAgICAgICBoZWlnaHQ6IDEwMCU7CiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtaW4taGVpZ2h0OiA4MDBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
