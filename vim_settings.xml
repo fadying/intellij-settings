@@ -112,6 +112,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/InterFlightHotelRequest.java" timestamp="1521635427944" />
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/util/ProductUtils.java" timestamp="1521454463393" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QCancelInsurancePromotionProcessor.java" timestamp="1521691866761">
+        <mark key="'" line="143" column="24" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/provider/src/main/resources.betanoah/service.config.properties" timestamp="1521601160705" />
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.prod/spring/datasource.properties" timestamp="1521636672521" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1521431207383">
@@ -260,7 +263,7 @@
         <mark key="'" line="25" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/DelegateServiceScheduler.java" timestamp="1521474649454" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1521458775872">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" timestamp="1521689485252">
         <mark key="'" line="135" column="95" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/CoreSubscriber.java" timestamp="1521513086978">
@@ -376,7 +379,6 @@
       <file name="$MAVEN_REPOSITORY$/org/reactivestreams/reactive-streams/1.0.2/reactive-streams-1.0.2-sources.jar!/org/reactivestreams/Subscription.java" timestamp="1521529526824" />
     </filemarks>
     <jumps>
-      <jump line="28" column="34" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/Reactors.java" />
       <jump line="193" column="22" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" />
       <jump line="214" column="28" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" />
       <jump line="454" column="36" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" />
@@ -476,6 +478,7 @@
       <jump line="189" column="17" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourActivityBizImpl.java" />
       <jump line="110" column="23" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourActivityBizImpl.java" />
       <jump line="122" column="65" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/AtourActivityController.java" />
+      <jump line="143" column="24" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QCancelInsurancePromotionProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -663,7 +666,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
