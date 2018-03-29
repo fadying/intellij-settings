@@ -44,7 +44,7 @@
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/team/TeamDetailProductAgent.java" timestamp="1522326520291">
         <mark key="[" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcRefundRuleProcessor.java" timestamp="1522330404930" />
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcRefundRuleProcessor.java" timestamp="1522331444593" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/RedisLockService.java" timestamp="1521712394786">
         <mark key="[" line="50" column="32" />
       </file>
@@ -245,14 +245,21 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-price-api/1.0.2/open-price-api-1.0.2-sources.jar!/com/qunar/hotel/qta/open/bean/QOrderPriceData.java" timestamp="1521451958741">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/team/TeamFullProductAgent.java" timestamp="1522326513764">
-        <mark key="[" line="29" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/team/TeamFullProductAgent.java" timestamp="1522331611890">
+        <mark key="[" line="20" column="57" />
+        <mark key="]" line="20" column="57" />
+        <mark key="." line="20" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE.jar!/reactor/core/publisher/MonoMap.class" timestamp="1522329432946">
         <mark key="'" line="27" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" timestamp="1521613062946">
         <mark key="'" line="757" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/raven/GroupProductAgent.java" timestamp="1522331463913">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1522327168425">
         <mark key="[" line="0" column="0" />
@@ -409,8 +416,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uRXJyb3IoZSAtPiB7CiAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAubWFwKHIgLT4gci5nZXREYXRhKCkpCiAgICAgICAgICAgICAgICAubWFwKGQgLT4gZC5nZXQoMCkpCiAgICAgICAgICAgICAgICAubWFwKHAgLT4gcC5nZXRQYWNrYWdlTGlzdCgpKTs=</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -424,35 +431,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJEQV9CTEFDS19IT1RFTF9UQVNLX1NVQ0NFU1MiLCBzLnN0b3AoKS5lbGFwc2VkKFRpbWVVbml0Lk1JTExJU0VDT05EUykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uRXJyb3IoZSAtPiB7CiAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAubWFwKHIgLT4gci5nZXREYXRhKCkpCiAgICAgICAgICAgICAgICAubWFwKGQgLT4gZC5nZXQoMCkpCiAgICAgICAgICAgICAgICAubWFwKHAgLT4gcC5nZXRQYWNrYWdlTGlzdCgpKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uRXJyb3IoZSAtPiB7CiAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgaWYoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkob3V0cHV0LmdldERhdGEoKSkpewogICAgICAgICAgICBMT0dHRVIuZXJyb3IoImVtcHR5IHJlc3BvbnNlIDogcXVlcnk9e30iICwgcXVlcnkpOwogICAgICAgICAgICBRTW9uaXRvci5yZWNvcmRPbmUoImR5bmFtaWNfcmVzdWx0X2VtcHR5Iik7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmVycm9yKCJyZXN1bHQgZXJyb3I6IHt9Iiwgb3V0cHV0LmdldEVycm1zZygpKTsKICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJkeW5hbWljX3Jlc3VsdF9lcnJvciIpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBQcmljZUFwaVJlc3VsdC5idWlsZEZhaWx1cmUoUHJpY2VBcGlSZXN1bHQuUmVzdWx0VHlwZS5SRVNVTFRfRVJST1IsICJlbXB0eSByZXNwb25zZSIpOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiBQcmljZUFwaVJlc3VsdC5idWlsZEZhaWx1cmUoUHJpY2VBcGlSZXN1bHQuUmVzdWx0VHlwZS5SRVNVTFRfRVJST1IsIG91dHB1dC5nZXRFcnJtc2coKSk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAubWFwKHIgLT4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfSk=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHByb3RlY3RlZCBMaXN0ZW5hYmxlRnV0dXJlPFByaWNlQXBpUmVzcG9uc2U+IGludm9rZVJlbW90ZUFzeW5jKEFwaUlucHV0IGlucHV0KSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICByZXR1cm4gc3VwZXIuaW52b2tlUmVtb3RlQXN5bmMoaW5wdXQpOwogICAgfQ==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAubWFwKHIgLT4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
