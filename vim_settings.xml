@@ -33,16 +33,20 @@
         <mark key="[" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/output/AbstractHotelListModel.java" timestamp="1522654056661" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/invoker/AbstractRankInvoker.java" timestamp="1522657797995" />
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/pom.xml" timestamp="1522651158405" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-provider/src/main/resources/mapper/coupon.xml" timestamp="1521113073271">
         <mark key="[" line="105" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelListDaoHandler.java" timestamp="1522655736275" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelListDaoHandler.java" timestamp="1522657549491" />
       <file name="/a.sql" timestamp="1522161869853">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeBenefitAction.java" timestamp="1521802051587">
         <mark key="[" line="47" column="113" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/inner/ListItemInner.java" timestamp="1522657414517">
+        <mark key="'" line="264" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/test/java/com/qunar/hotel/qta/open/agent/additional/ai/AccidentInsuranceAgentTest.java" timestamp="1522398597879">
         <mark key="[" line="20" column="88" />
@@ -66,11 +70,18 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/ConvertUtil.java" timestamp="1522045751858">
         <mark key="[" line="75" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" timestamp="1522655884431">
-        <mark key="'" line="95" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/result/HotelItemTransform.java" timestamp="1522657413907">
+        <mark key="'" line="84" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/invoker/HotelRankInvoker.java" timestamp="1522657852170" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" timestamp="1522657710195">
+        <mark key="'" line="112" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/java/com/qunar/mobile/hotel/dubbo/HotdogDubboServices.java" timestamp="1522653057140">
         <mark key="'" line="141" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/entry/list/AbstractHotelListEntry.java" timestamp="1522657520963">
+        <mark key="'" line="108" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/java/com/qunar/mobile/hotel/list/hotel/HotelListController.java" timestamp="1522652509654" />
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/entry/list/hotel/HotelListEntry.java" timestamp="1522653992548" />
@@ -83,6 +94,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/test-dubbo.xml" timestamp="1522159136803">
         <mark key="[" line="8" column="55" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/Attributes.java" timestamp="1522658020291" />
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/constant/list/QueryTypeEnum.java" timestamp="1522651088246" />
       <file name="$USER_HOME$/IdeaProjects/open-coupon/coupon-provider/src/main/resources.prod/jdbc.properties" timestamp="1522635721723" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1521431207383">
@@ -121,6 +133,9 @@
         <mark key="[" line="19" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-root/2.0.4/qta-root-2.0.4.pom" timestamp="1522648911263" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/rank/ListItemModel.java" timestamp="1522657875338">
+        <mark key="'" line="144" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-coupon/coupon-provider/src/main/resources.prod/default.properties" timestamp="1522635739859" />
       <file name="/dummy.sql" timestamp="1522397500565">
         <mark key="[" line="0" column="0" />
@@ -156,13 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="20" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourAwardBizImpl.java" />
-      <jump line="45" column="44" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/AtourAwardController.java" />
-      <jump line="346" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/BargainConfigRequest.java" />
-      <jump line="198" column="42" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourActivityBizImpl.java" />
-      <jump line="14" column="9" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainConfigMapper.java" />
-      <jump line="189" column="17" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourActivityBizImpl.java" />
       <jump line="110" column="23" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/AtourActivityBizImpl.java" />
       <jump line="122" column="65" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/AtourActivityController.java" />
       <jump line="143" column="24" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QCancelInsurancePromotionProcessor.java" />
@@ -248,14 +256,21 @@
       <jump line="17" column="19" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/ListData.java" />
       <jump line="15" column="17" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/twell/Selected.java" />
       <jump line="37" column="35" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/resources/spring-list.xml" />
-      <jump line="52" column="63" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
-      <jump line="112" column="30" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
       <jump line="95" column="43" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
       <jump line="81" column="53" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/locationinfo/LocationInfoHandler.java" />
       <jump line="80" column="43" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/locationinfo/LocationInfoHandler.java" />
       <jump line="102" column="41" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/locationinfo/LocationInfoHandler.java" />
       <jump line="42" column="31" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/abstra/AbstractListItem.java" />
       <jump line="45" column="26" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/locationinfo/LocationInfoHandler.java" />
+      <jump line="68" column="21" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/inner/ListItemInner.java" />
+      <jump line="52" column="56" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
+      <jump line="84" column="27" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/result/HotelItemTransform.java" />
+      <jump line="264" column="16" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/inner/ListItemInner.java" />
+      <jump line="29" column="21" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/rank/ListItemModel.java" />
+      <jump line="144" column="18" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/list/rank/ListItemModel.java" />
+      <jump line="108" column="26" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/entry/list/AbstractHotelListEntry.java" />
+      <jump line="94" column="49" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
+      <jump line="112" column="38" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
