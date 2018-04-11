@@ -77,8 +77,8 @@
         <mark key="'" line="272" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-promotion/provider/src/main/webapp/monitor/qmonitor.jsp" timestamp="1523437049650" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" timestamp="1523440866209">
-        <mark key="'" line="84" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" timestamp="1523444071015">
+        <mark key="'" line="143" column="53" />
         <mark key="[" line="154" column="73" />
         <mark key="]" line="154" column="73" />
         <mark key="." line="154" column="73" />
@@ -174,6 +174,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/list/rank/HotelRankInvokeService.java" timestamp="1522657710195">
         <mark key="'" line="112" column="38" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/config/qconfig/GoldCouponConfig.java" timestamp="1523444090367">
+        <mark key="'" line="432" column="22" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/java/com/qunar/mobile/hotel/dubbo/HotdogDubboServices.java" timestamp="1522653057140">
         <mark key="'" line="141" column="17" />
@@ -378,8 +381,6 @@
       <file name="$MAVEN_REPOSITORY$/qunar/tc/order/ordercenter-api/2.6.23/ordercenter-api-2.6.23-sources.jar!/qunar/tc/ordercenter/api/face/OrderQuery.java" timestamp="1523257818964" />
     </filemarks>
     <jumps>
-      <jump line="60" column="33" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Saomei.java" />
-      <jump line="42" column="33" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Saomei.java" />
       <jump line="63" column="39" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Saomei.java" />
       <jump line="62" column="63" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Saomei.java" />
       <jump line="128" column="35" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
@@ -472,12 +473,14 @@
       <jump line="80" column="26" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/dubbo/impl/HotelSimpleServiceImpl.java" />
       <jump line="87" column="34" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/dubbo/impl/HotelSimpleServiceImpl.java" />
       <jump line="8" column="18" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/output/TrafficAroundInnerInfo.java" />
-      <jump line="560" column="18" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="56" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="296" column="19" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="246" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="84" column="34" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="70" column="40" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4Saomei.java" />
+      <jump line="560" column="23" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
+      <jump line="143" column="53" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
+      <jump line="432" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/config/qconfig/GoldCouponConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
