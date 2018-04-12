@@ -38,12 +38,15 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/Product.java" timestamp="1522055821881">
         <mark key="'" line="31" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/filters/beta.properties" timestamp="1523517296306" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/filters/beta.properties" timestamp="1523519001760" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/processor/src/main/java/com/qunar/hotel/price/breeze/processor/impl/price/opromotion/PromotionExecutor.java" timestamp="1521432750500">
         <mark key="'" line="81" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-http/8.3.6/common-http-8.3.6-sources.jar!/qunar/hc/QunarAsyncClient.java" timestamp="1521476064368">
         <mark key="'" line="46" column="17" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.2/qconfig-client-1.1.2-sources.jar!/qunar/tc/qconfig/client/spring/QConfigAnnotationProcessor.java" timestamp="1523519214449">
+        <mark key="'" line="61" column="26" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/facade/submit/app/SubmitContext.java" timestamp="1521540421997">
         <mark key="'" line="165" column="23" />
@@ -65,6 +68,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/activity_monitor.jsp" timestamp="1521706435495">
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/adaptor/local/LocalCouponServiceConfig.java" timestamp="1523519435455">
+        <mark key="[" line="55" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/8.3.6/common-concurrent-8.3.6-sources.jar!/qunar/concurrent/ManagedScheduledThreadPool.java" timestamp="1521547095131">
         <mark key="'" line="51" column="14" />
@@ -187,6 +193,9 @@
         <mark key="." line="131" column="16" />
         <mark key="^" line="124" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.2/qconfig-client-1.1.2-sources.jar!/qunar/tc/qconfig/client/spring/QConfig.java" timestamp="1523519157737">
+        <mark key="'" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityConfig.java" timestamp="1521083123664">
         <mark key="[" line="47" column="28" />
       </file>
@@ -288,7 +297,7 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/biz/comparator/mobile/MobPriceInfoComparator.java" timestamp="1521540354236">
         <mark key="'" line="122" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1523516540113">
+      <file name="/Dummy.txt" timestamp="1523519425778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/processor/price/mob/presubmit/PriceInfoPreSubmitItem.java" timestamp="1521457192233">
@@ -328,8 +337,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="757" column="57" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/Schedulers.java" />
-      <jump line="49" column="67" filename="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.2.0/qtracer-client-1.2.0-sources.jar!/qunar/tc/qtracer/concurrent/QTraceRunnable.java" />
       <jump line="65" column="54" filename="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.2.0/qtracer-client-1.2.0-sources.jar!/qunar/tc/qtracer/impl/AbstractQTraceClient.java" />
       <jump line="17" column="23" filename="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.2.0/qtracer-client-1.2.0-sources.jar!/qunar/tc/qtracer/impl/DefaultTraceStatus.java" />
       <jump line="174" column="32" filename="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.5.RELEASE/reactor-core-3.1.5.RELEASE-sources.jar!/reactor/core/scheduler/ElasticScheduler.java" />
@@ -428,6 +435,8 @@
       <jump line="104" column="24" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-baseinfo-api/1.2.121/qta-service-baseinfo-api-1.2.121-sources.jar!/com/qunar/hotel/qta/baseinfo/service/SHotelRemote.java" />
       <jump line="77" column="35" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/config/qconfig/NewYearCpkConfig.java" />
       <jump line="268" column="32" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/config/qconfig/NewYearCpkConfig.java" />
+      <jump line="12" column="18" filename="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.2/qconfig-client-1.1.2-sources.jar!/qunar/tc/qconfig/client/spring/QConfig.java" />
+      <jump line="61" column="26" filename="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.1.2/qconfig-client-1.1.2-sources.jar!/qunar/tc/qconfig/client/spring/QConfigAnnotationProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
