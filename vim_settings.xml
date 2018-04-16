@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/web-api/src/main/java/com/qunar/hotel/qta/order/web/api/base/ErrorCode.java" timestamp="1523851213647">
         <mark key="'" line="91" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/constants/enums/CpnSource.java" timestamp="1523863321572">
+        <mark key="'" line="78" column="34" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/java/com/qunar/mobile/hotel/trafficaround/HotelTrafficAroundController.java" timestamp="1523616059477">
         <mark key="[" line="33" column="47" />
       </file>
@@ -46,8 +49,11 @@
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/test/java/com/qunar/hotel/qta/open/agent/additional/prmt/CancelInsuranceDiscountAgent.java" timestamp="1522394234314">
         <mark key="[" line="11" column="99" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" timestamp="1523861422878">
-        <mark key="'" line="63" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" timestamp="1523863511062">
+        <mark key="'" line="121" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionProcessor.java" timestamp="1523862408421">
+        <mark key="[" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/team/TeamDetailProductAgent.java" timestamp="1522380339184">
         <mark key="[" line="25" column="16" />
@@ -147,8 +153,8 @@
       <file name="/code_base [betad]" timestamp="1523182502713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1523861487430">
-        <mark key="'" line="307" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1523863295295">
+        <mark key="'" line="307" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/utils/DateUtilForPeriod.java" timestamp="1523504125580">
         <mark key="[" line="50" column="15" />
@@ -211,7 +217,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/process/AdditionProductProcessor.java" timestamp="1522136900527">
         <mark key="[" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/otter/provider/pom.xml" timestamp="1523861180477" />
+      <file name="$USER_HOME$/IdeaProjects/otter/provider/pom.xml" timestamp="1523862948934" />
       <file name="/coupon_00 [betad]" timestamp="1522396395479">
         <mark key="[" line="0" column="0" />
       </file>
@@ -245,10 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="46" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/RemoteDetailAgent.java" />
-      <jump line="482" column="24" filename="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" />
-      <jump line="134" column="18" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/UserMemberInfo.java" />
-      <jump line="548" column="74" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/handler/ConfigCouponListHandler.java" />
       <jump line="80" column="17" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" />
       <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" />
       <jump line="362" column="41" filename="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" />
@@ -342,9 +344,13 @@
       <jump line="606" column="74" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/MHotelRecallServiceImpl.java" />
       <jump line="63" column="29" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" />
       <jump line="310" column="23" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" />
-      <jump line="307" column="30" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" />
       <jump line="71" column="28" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/MHotelRecallServiceImpl.java" />
       <jump line="217" column="23" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/MHotelRecallServiceImpl.java" />
+      <jump line="460" column="31" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" />
+      <jump line="307" column="23" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" />
+      <jump line="203" column="31" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" />
+      <jump line="78" column="34" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/constants/enums/CpnSource.java" />
+      <jump line="121" column="29" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
