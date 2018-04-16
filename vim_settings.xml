@@ -35,7 +35,7 @@
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/additional/team/TeamDetailProductAgent.java" timestamp="1522380339184">
         <mark key="[" line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/detail/infohandle/HotelDInfoHandler.java" timestamp="1523866412279">
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/detail/infohandle/HotelDInfoHandler.java" timestamp="1523867041058">
         <mark key="'" line="428" column="19" />
         <mark key="[" line="124" column="83" />
         <mark key="^" line="152" column="46" />
@@ -52,7 +52,7 @@
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/TrafficModeEnum.java" timestamp="1523865241449">
         <mark key="'" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/MHotelRecallServiceImpl.java" timestamp="1523861589735">
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/MHotelRecallServiceImpl.java" timestamp="1523867945649">
         <mark key="'" line="217" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityConfig.java" timestamp="1521083123664">
@@ -142,13 +142,6 @@
       <file name="/qta_promotion_coupon.activity_base [betac]" timestamp="1523182515309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/trafficaround/HotelTrafficAroundService.java" timestamp="1523847951404">
-        <mark key="'" line="524" column="24" />
-        <mark key="[" line="543" column="43" />
-        <mark key="]" line="524" column="24" />
-        <mark key="^" line="524" column="24" />
-        <mark key="." line="524" column="24" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1521431207383">
         <mark key="[" line="125" column="69" />
       </file>
@@ -191,8 +184,14 @@
       <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1523863295295">
         <mark key="'" line="307" column="23" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CurrencyExchangeProcessor.java" timestamp="1523867367349">
+        <mark key="'" line="24" column="21" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/test/java/com/qunar/hotel/qta/open/agent/additional/twell/ValidationPriceAgentTest.java" timestamp="1522394104853">
         <mark key="[" line="19" column="57" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/exchange/CommonCEProcessor.java" timestamp="1523867359600">
+        <mark key="'" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/resources/error-map.xml" timestamp="1523851057414">
         <mark key="'" line="44" column="55" />
@@ -224,10 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="17" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandler.java" />
-      <jump line="23" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/dynamic/ctrip/client/CtripGroupClientTest.java" />
-      <jump line="362" column="41" filename="$USER_HOME$/IdeaProjects/promotion/open-price/pom.xml" />
-      <jump line="42" column="49" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/java/com/qunar/hotel/qta/open/price/additional/support/CtripGroupHandlerTest.java" />
@@ -324,6 +319,10 @@
       <jump line="203" column="31" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" />
       <jump line="78" column="34" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/constants/enums/CpnSource.java" />
       <jump line="121" column="29" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/ActiveNoBookingServiceImpl.java" />
+      <jump line="65" column="20" filename="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/exchange/CommonCEProcessor.java" />
+      <jump line="173" column="27" filename="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/exchange/CommonCEProcessor.java" />
+      <jump line="42" column="19" filename="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/exchange/CommonCEProcessor.java" />
+      <jump line="24" column="21" filename="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CurrencyExchangeProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
