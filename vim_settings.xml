@@ -85,8 +85,9 @@
         <mark key="." line="39" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/facade/submit/app/Converts.java" timestamp="1524044587749" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/output/ListType.java" timestamp="1523616740607">
-        <mark key="'" line="6" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/output/CityRelation.java" timestamp="1524128618310" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/output/ListType.java" timestamp="1524128392934">
+        <mark key="'" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1523948732222">
         <mark key="'" line="97" column="12" />
@@ -97,6 +98,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/packet/DetailPacker.java" timestamp="1523499033392">
         <mark key="[" line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/test/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImplTest.java" timestamp="1523441347553">
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="51" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/base/SegmentMoneyCondition.java" timestamp="1524119294597">
         <mark key="[" line="31" column="40" />
@@ -184,11 +191,11 @@
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/test/java/com/qunar/hotel/qta/open/agent/additional/prmt/PromotionAgentTest.java" timestamp="1522395809759">
         <mark key="[" line="26" column="87" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" timestamp="1524127326573">
-        <mark key="'" line="246" column="21" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" timestamp="1524127951991">
+        <mark key="'" line="293" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" timestamp="1524127087268">
-        <mark key="'" line="110" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" timestamp="1524128071973">
+        <mark key="'" line="93" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/test/resources/test-dubbo.xml" timestamp="1522159136803">
         <mark key="[" line="8" column="55" />
@@ -199,16 +206,22 @@
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionProcessor.java" timestamp="1523862408421">
         <mark key="[" line="31" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/catalysis/src/test/resources/test-dubbo.xml" timestamp="1523266948419">
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="9" column="37" />
+        <mark key="." line="8" column="24" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-price-api/1.0.2/open-price-api-1.0.2.jar!/com/qunar/hotel/qta/open/bean/QOrderPriceSection.class" timestamp="1524123225001" />
       <file name="/qta_promotion_coupon.activity_base [betac]" timestamp="1523182515309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/trafficaround/HotelTrafficAroundService.java" timestamp="1524109772184">
-        <mark key="'" line="524" column="24" />
-        <mark key="[" line="470" column="83" />
-        <mark key="]" line="455" column="36" />
-        <mark key="^" line="455" column="36" />
-        <mark key="." line="455" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/trafficaround/HotelTrafficAroundService.java" timestamp="1524128619762">
+        <mark key="'" line="525" column="24" />
+        <mark key="[" line="479" column="56" />
+        <mark key="]" line="479" column="55" />
+        <mark key="^" line="479" column="55" />
+        <mark key="." line="479" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1521431207383">
         <mark key="[" line="125" column="69" />
@@ -274,11 +287,12 @@
         <mark key="[" line="19" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1523936848667" />
-      <file name="$USER_HOME$/IdeaProjects/open-promotion/pom.xml" timestamp="1524123381209">
+      <file name="$USER_HOME$/IdeaProjects/open-promotion/pom.xml" timestamp="1524128562937">
         <mark key="'" line="113" column="40" />
         <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="40" />
+        <mark key="]" line="19" column="15" />
+        <mark key="." line="19" column="15" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-promotion/README.md" timestamp="1523182369786">
         <mark key="[" line="30" column="0" />
@@ -296,11 +310,14 @@
         <mark key="'" line="44" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDetailValidateProcessor.java" timestamp="1524023803670" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/constant/list/HotelListCoordSearchEnum.java" timestamp="1524128568212">
+        <mark key="'" line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/service/adaptor/mobile/MobConfirmationAdaptor.java" timestamp="1524019222565" />
       <file name="/dummy.sql" timestamp="1524106366506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524123502250">
+      <file name="/Dummy.txt" timestamp="1524128644983">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -315,6 +332,12 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/web-api/src/main/java/com/qunar/hotel/qta/booking/protocol/price/PreSubmitResult.java" timestamp="1524019292142">
         <mark key="'" line="241" column="16" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/hhotdog/src/main/java/com/qunar/mobile/hotel/trafficaround/HotelTrafficAroundParam.java" timestamp="1523615447015">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/QAdditionalServicePrimeImpl.java" timestamp="1522833541816">
         <mark key="[" line="2" column="36" />
       </file>
@@ -327,8 +350,17 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/BenefitUnfreezeAction.java" timestamp="1520492293103">
         <mark key="[" line="46" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/query/ProductType.java" timestamp="1524123557251">
-        <mark key="[" line="51" column="33" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/config/InternationalHotelLocationConfig.java" timestamp="1523606466922">
+        <mark key="[" line="57" column="55" />
+        <mark key="]" line="56" column="33" />
+        <mark key="^" line="47" column="8" />
+        <mark key="." line="56" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/query/ProductType.java" timestamp="1524128725469">
+        <mark key="[" line="93" column="58" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/HotelDistanceMatrixServiceImpl.java" timestamp="1523865398519" />
       <file name="$USER_HOME$/IdeaProjects/open-price/provider/src/test/java/com/qunar/hotel/qta/open/agent/additional/ggo/GlobalGoAgentTest.java" timestamp="1522382746266">
@@ -343,11 +375,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
-      <jump line="571" column="19" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
-      <jump line="46" column="30" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/model/uuidmap/UserDevInfo.java" />
-      <jump line="136" column="28" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/model/uuidmap/UserDevInfo.java" />
-      <jump line="595" column="51" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="588" column="44" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="270" column="22" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="33" column="63" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4HourRoom.java" />
@@ -437,25 +464,30 @@
       <jump line="495" column="59" filename="$USER_HOME$/IdeaProjects/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" />
       <jump line="560" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="113" column="40" filename="$USER_HOME$/IdeaProjects/open-promotion/pom.xml" />
-      <jump line="113" column="28" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
       <jump line="110" column="16" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
       <jump line="296" column="24" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="273" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="56" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="246" column="21" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
+      <jump line="293" column="22" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
+      <jump line="113" column="27" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
+      <jump line="103" column="20" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
+      <jump line="93" column="50" filename="$USER_HOME$/IdeaProjects/kylin/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
+      <jump line="10" column="4" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/detail/output/ListType.java" />
+      <jump line="4" column="4" filename="$USER_HOME$/IdeaProjects/kylin/eywa/eywa-data/src/main/java/com/qunar/mobile/eywa/data/constant/list/HotelListCoordSearchEnum.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1.1.71</text>
+        <text>ListType.lhotel.toString().equals(hotelLevelExtra.getListKeyWord())</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>1.1.71</text>
+        <text>ListType.lhotel.toString().equals(hotelLevelExtra.getListKeyWord())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
