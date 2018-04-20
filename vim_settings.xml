@@ -132,8 +132,12 @@
       <file name="$USER_HOME$/IdeaProjects/open-product-api/src/main/java/com/qunar/hotel/qta/open/bean/price/query/QProductTracking.java" timestamp="1524209959345">
         <mark key="[" line="122" column="68" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1524213188007">
+      <file name="$USER_HOME$/IdeaProjects/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1524214639144">
         <mark key="'" line="56" column="13" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="0" />
+        <mark key="^" line="109" column="43" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1524211793914">
         <mark key="[" line="0" column="0" />
@@ -333,8 +337,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>// 这个字段影响 AssignDailyCashBackProcessor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -349,35 +353,35 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFFQcm9jZXNzRXhjZXB0aW9uKFFBcGlDb2RlLnByb2R1Y3RPZmZsaW5lLCAiyPax0rTz1/fVvbavzKy827jxsvrGt9LRz8LP3yIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRDdXJyZW50UHJvZHVjdChkeW5DYXNoUmVzdWx0LmdldERhdGEoKS5nZXRQcmljZUFwaVByb2R1Y3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5nZXRDdXJyZW50UHJvZHVjdCgpLmdldEV4dGVuZEluZm9NYXAoKS5wdXQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHByb21vdGlvbkNvZGUuZXF1YWxzKCJTVFVERU5UX1RBU0tfQUNUSVZJVFkiKSkgewo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5zZXRDdXJyZW50UHJvZHVjdChkeW5DYXNoUmVzdWx0LmdldERhdGEoKS5nZXRQcmljZUFwaVByb2R1Y3QoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5nZXRDdXJyZW50UHJvZHVjdCgpLmdldEV4dGVuZEluZm9NYXAoKS5wdXQoKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIC8qKgogICAgICogxtXNqLe1z9a98LbuCiAgICAgKi8KICAgIHByaXZhdGUgQmlnRGVjaW1hbCBjb21DYXNoYmFjazsKCiAgICAvKioKICAgICAqIMj2sdK3tc/WvfC27gogICAgICovCiAgICBwcml2YXRlIEJpZ0RlY2ltYWwgc3BlQ2FzaEJhY2s7CgogICAgLyoqCiAgICAgKiDX3Nb6uaXIy8r9CiAgICAgKi8KICAgIHByaXZhdGUgaW50IGFzc2lzdHNOdW07CgogICAgLyoqCiAgICAgKiC1scewu+62r7PW0PjKsbzko6y1pc67usHD6wogICAgICovCiAgICBwcml2YXRlIGxvbmcgZWZmZWN0aXZlVGltZTsKCiAgICAvKioKICAgICAqILWxx7DIy775vfC27gogICAgICovCiAgICBwcml2YXRlIGRvdWJsZSBwZXJzb25BbW91bnQ7</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIFFCZW5lZml0IGFkZGl0aW9uSW5mb3MgINbQo7o=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>, new String[] {
                 SupplierSectionType.SUPPLIER_PRICE_SECTION, SupplierSectionType.SUPPLIER_INVOICE_SECTION }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlcy50cmFuc2Zvcm0oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
