@@ -111,7 +111,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/constant/PushType.java" timestamp="1525337171944">
         <mark key="[" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/ActivityPushBizImpl.java" timestamp="1525339586797">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/ActivityPushBizImpl.java" timestamp="1525344892183">
         <mark key="[" line="42" column="85" />
         <mark key="]" line="41" column="72" />
         <mark key="." line="40" column="0" />
@@ -139,6 +139,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1525262022780">
         <mark key="[" line="87" column="57" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/annotation/PropertySource.java" timestamp="1525344543616">
+        <mark key="'" line="155" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/option/impl/ActivityStatusOptionChecker.java" timestamp="1525245543213">
         <mark key="[" line="24" column="35" />
@@ -205,7 +208,7 @@
         <mark key="." line="107" column="98" />
         <mark key="^" line="107" column="98" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/mpush/impl/MobileMessagePushService.java" timestamp="1525337274624">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/mpush/impl/MobileMessagePushService.java" timestamp="1525344946815">
         <mark key="[" line="33" column="67" />
         <mark key="]" line="42" column="0" />
         <mark key="^" line="2" column="6" />
@@ -286,7 +289,7 @@
         <mark key="[" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/test/resources/application.properties" timestamp="1525250751796" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/qconfig/MobilePushConfig.java" timestamp="1525337270298">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/qconfig/MobilePushConfig.java" timestamp="1525344963600">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -395,7 +398,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/mpush/MessagePushAgent.java" timestamp="1525330756436" />
     </filemarks>
     <jumps>
-      <jump line="35" column="30" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/SecurityUserDevQuery.java" />
       <jump line="31" column="23" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" />
       <jump line="129" column="63" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/chain/workchain/newfilter/FilterChainWorkNode.java" />
       <jump line="128" column="31" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
@@ -495,6 +497,7 @@
       <jump line="31" column="24" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/db/BargainActivity.java" />
       <jump line="30" column="20" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/raven-api/1.0.3/raven-api-1.0.3-sources.jar!/com/qunar/hotel/price/raven/api/bean/group/SimpleGroupProduct.java" />
       <jump line="151" column="20" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/raven-api/1.0.3/raven-api-1.0.3-sources.jar!/com/qunar/hotel/price/raven/api/bean/group/SimpleGroupProduct.java" />
+      <jump line="155" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE-sources.jar!/org/springframework/context/annotation/PropertySource.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
