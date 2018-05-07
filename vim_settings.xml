@@ -102,6 +102,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/test/java/com/qunar/hotel/price/breeze/provider/json/QtaJsonControllerTest.java" timestamp="1525249317825">
         <mark key="[" line="28" column="48" />
       </file>
+      <file name="/QGroupProductRemoteImpl.java" timestamp="1525675114481" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/adba7fb5-9098-49ea-abed-a859ba5a7dad/console.sql" timestamp="1524899548873">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,7 +172,7 @@
         <mark key="^" line="59" column="16" />
         <mark key="." line="59" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/filter/MobPromoFilter.java" timestamp="1525661828933">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/filter/MobPromoFilter.java" timestamp="1525673787717">
         <mark key="'" line="148" column="40" />
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -180,6 +181,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/createBargainAction.java" timestamp="1524825670205">
         <mark key="[" line="5" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/adaptor/GroupProductVOAdaptor.java" timestamp="1525674526975">
+        <mark key="'" line="180" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/BargainBizException.java" timestamp="1525252851156">
         <mark key="[" line="14" column="97" />
@@ -214,6 +218,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.prod/application.properties" timestamp="1525263181076">
         <mark key="[" line="20" column="122" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/remote/QGroupProductRemoteImpl.java" timestamp="1525675158954">
+        <mark key="'" line="286" column="70" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/adsf.java" timestamp="1521087284983">
         <mark key="[" line="5" column="17" />
       </file>
@@ -235,7 +242,7 @@
         <mark key="^" line="29" column="59" />
         <mark key="." line="29" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/pom.xml" timestamp="1525666453316">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/service/pom.xml" timestamp="1525673786088">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
@@ -253,12 +260,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/biz/ClientInfo.java" timestamp="1525251320333">
         <mark key="[" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StudentTaskPriceAction.java" timestamp="1525415390103">
-        <mark key="'" line="58" column="40" />
-        <mark key="]" line="64" column="29" />
-        <mark key="." line="64" column="29" />
-        <mark key="^" line="64" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeBenefitAction.java" timestamp="1521802051587">
         <mark key="[" line="47" column="113" />
@@ -305,6 +306,7 @@
         <mark key="]" line="52" column="5" />
         <mark key="." line="52" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/biz/src/main/java/com/qunar/hotel/price/raven/biz/impl/QGroupProductBizImpl.java" timestamp="1525673870451" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/process/AdditionProductProcessor.java" timestamp="1522136900527">
         <mark key="[" line="12" column="77" />
       </file>
@@ -322,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="0" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/TCOrderCenterDubboServiceImpl.java" />
       <jump line="571" column="19" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="46" column="30" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/model/uuidmap/UserDevInfo.java" />
       <jump line="136" column="28" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/model/uuidmap/UserDevInfo.java" />
@@ -422,6 +422,8 @@
       <jump line="34" column="53" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/biz/BargainOptionNecessity.java" />
       <jump line="222" column="40" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/pom.xml" />
       <jump line="191" column="37" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/pom.xml" />
+      <jump line="286" column="70" filename="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/remote/QGroupProductRemoteImpl.java" />
+      <jump line="165" column="32" filename="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/adaptor/GroupProductVOAdaptor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
