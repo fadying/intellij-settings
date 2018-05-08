@@ -100,7 +100,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/OtterBizException.java" timestamp="1525765622296">
         <mark key="[" line="14" column="87" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java" timestamp="1525773551887">
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/executor/resultset/DefaultResultSetHandler.java" timestamp="1525775856627">
         <mark key="'" line="389" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/webapp/activity_monitor.jsp" timestamp="1521706435495">
@@ -191,6 +191,11 @@
         <mark key="^" line="20" column="63" />
         <mark key="." line="20" column="63" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.betanoah/logback.xml" timestamp="1525776030942">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.betanoah/application.properties" timestamp="1525762761877">
         <mark key="[" line="2" column="39" />
       </file>
@@ -204,7 +209,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources/spring/mybatis.properties" timestamp="1525773013799" />
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/reflection/MetaClass.java" timestamp="1525773423547" />
       <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/qtaman/src/main/java/com/qunar/hotel/price/kiwi/qtaman/web/config/WebConfiguration.java" timestamp="1525766988263" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1525773651041">
+      <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" timestamp="1525775267785">
         <mark key="'" line="257" column="38" />
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
@@ -317,7 +322,7 @@
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.4/mybatis-3.4.4-sources.jar!/org/apache/ibatis/session/Configuration.java" timestamp="1525773257115">
         <mark key="'" line="527" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525773906711">
+      <file name="/Dummy.txt" timestamp="1525776022765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources/mybatis/BargainConfigMapper.xml" timestamp="1525767455651">
@@ -351,8 +356,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1525432618824">
         <mark key="[" line="68" column="105" />
       </file>
-      <file name="/fragment.java" timestamp="1525773389508">
-        <mark key="[" line="0" column="13" />
+      <file name="/fragment.java" timestamp="1525775279564">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -468,13 +473,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWQ=</text>
+        <text>WARN</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>WARN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
