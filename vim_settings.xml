@@ -198,10 +198,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/exception/BargainBizException.java" timestamp="1525252851156">
         <mark key="[" line="14" column="97" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/mail/MailServiceTest.java" timestamp="1525930469952">
-        <mark key="[" line="40" column="51" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/mail/MailServiceTest.java" timestamp="1525935390152">
+        <mark key="'" line="43" column="43" />
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="48" column="39" />
+        <mark key="." line="48" column="39" />
+        <mark key="^" line="48" column="39" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/java/com/qunar/hotel/price/raven/provider/adaptor/FlagshipStoreProductInfoAdaptor.java" timestamp="1525926346407" />
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/api/src/main/java/com/qunar/mobile/eywa/api/entity/detail/HotelTrafficAroundRequest.java" timestamp="1523525050103">
@@ -389,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="534" column="42" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/GoldCouponChecker.java" />
       <jump line="68" column="10" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StudentTaskPriceAction.java" />
       <jump line="73" column="56" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" />
       <jump line="169" column="63" filename="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainBizImpl.java" />
@@ -489,19 +490,20 @@
       <jump line="18" column="18" filename="$USER_HOME$/IdeaProjects/promotion/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/biz/MobilePushParam.java" />
       <jump line="40" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.12.RELEASE/spring-core-4.3.12.RELEASE-sources.jar!/org/springframework/core/io/InputStreamSource.java" />
       <jump line="115" column="24" filename="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/base/HttpRemoteAgent.java" />
+      <jump line="40" column="43" filename="$USER_HOME$/IdeaProjects/promotion/raven/service/src/test/java/com/qunar/hotel/price/raven/service/mail/MailServiceTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>DZS-24225-SNAPSHOT</text>
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>DZS-24225-SNAPSHOT</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
@@ -510,34 +512,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHB1c2hQYXJhbS5nZXRTdHJpbmcocHVzaFR5cGUuZ2V0S2V5KCksICJwYWdlIiksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JkZXJfaWQ9MTAxNTI4NTY1MjExCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWFNTRkNlbGwgY2VsbCA9IGNlbGwxOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">b3JkZXJfaWQ9MTAxNTI4NTY1MjExCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgTW9iaWxlUHVzaFBhcmFtKFN0cmluZyBwdXNoVXJsLCBpbnQgbVR5cGUsIFN0cmluZyB0LCBTdHJpbmcgcHVzaE1lc3NhZ2VUeXBlLCBTZXQ8U3RyaW5nPiBwYXJhbUtleXMpIHsKICAgICAgICB0aGlzLnB1c2hVcmwgPSBwdXNoVXJsOwogICAgICAgIHRoaXMubVR5cGUgPSBtVHlwZTsKICAgICAgICB0aGlzLnQgPSB0OwogICAgICAgIHRoaXMucHVzaE1lc3NhZ2VUeXBlID0gcHVzaE1lc3NhZ2VUeXBlOwogICAgICAgIHRoaXMucGFyYW1LZXlzID0gcGFyYW1LZXlzOwogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZUhlbHBlci5hZGRBdHRhY2htZW50KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXgubWFpbDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWFpbDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIDwhLS3lj5HluIPmnI3liqEtLT4KICAgIDxkdWJibzpyZWdpc3RyeSBwcm90b2NvbD0iem9va2VlcGVyIiBhZGRyZXNzPSIke3prLnJhdmVuLmFkZHJlc3N9IiBpZD0icHJtdC1yYXZlbiIgZ3JvdXA9IiR7emsucmF2ZW4uZ3JvdXB9IiAvPgogICAgPGR1YmJvOnByb3RvY29sIGlkPSJwcm10LXJhdmVuLXByb3RvY29sIiBuYW1lPSJkdWJibyIgcG9ydD0iMjA4OTAiLz4KCiAgICA8YmVhbiBpZD0icUdyb3VwUHJvZHVjdFJlbW90ZSIgY2xhc3M9ImNvbS5xdW5hci5ob3RlbC5wcmljZS5yYXZlbi5wcm92aWRlci5yZW1vdGUuUUdyb3VwUHJvZHVjdFJlbW90ZUltcGwiLz4KICAgIDxkdWJibzpzZXJ2aWNlIGludGVyZmFjZT0iY29tLnF1bmFyLmhvdGVsLnByaWNlLnJhdmVuLmFwaS5zZXJ2aWNlLlFHcm91cFByb2R1Y3RSZW1vdGUiCiAgICAgICAgICAgICAgICAgICByZWY9InFHcm91cFByb2R1Y3RSZW1vdGUiIHZlcnNpb249IjEuMCIgcmVnaXN0cnk9InBybXQtcmF2ZW4iIHByb3RvY29sPSJwcm10LXJhdmVuLXByb3RvY29sIiAvPgoKICAgIDxiZWFuIGlkPSJmbGFnc2hpcFN0b3JlUmVtb3RlIiBjbGFzcz0iY29tLnF1bmFyLmhvdGVsLnByaWNlLnJhdmVuLnByb3ZpZGVyLnJlbW90ZS5GbGFnc2hpcFN0b3JlUmVtb3RlSW1wbCIvPgogICAgPGR1YmJvOnNlcnZpY2UgaW50ZXJmYWNlPSJjb20ucXVuYXIuaG90ZWwucHJpY2UucmF2ZW4uYXBpLnNlcnZpY2UuRmxhZ3NoaXBTdG9yZVJlbW90ZSIKICAgICAgICAgICAgICAgICAgIHJlZj0iZmxhZ3NoaXBTdG9yZVJlbW90ZSIgdmVyc2lvbj0iMS4wIiByZWdpc3RyeT0icHJtdC1yYXZlbiIgcHJvdG9jb2w9InBybXQtcmF2ZW4tcHJvdG9jb2wiIC8+CgogICAgPGJlYW4gaWQ9InByb2R1Y3RTdG9ja1JlbW90ZSIgY2xhc3M9ImNvbS5xdW5hci5ob3RlbC5wcmljZS5yYXZlbi5wcm92aWRlci5yZW1vdGUuUHJvZHVjdFN0b2NrUmVtb3RlSW1wbCIvPgogICAgPGR1YmJvOnNlcnZpY2UgaW50ZXJmYWNlPSJjb20ucXVuYXIuaG90ZWwucHJpY2UucmF2ZW4uYXBpLnNlcnZpY2UuUHJvZHVjdFN0b2NrUmVtb3RlIgogICAgICAgICAgICAgICAgICAgcmVmPSJwcm9kdWN0U3RvY2tSZW1vdGUiIHZlcnNpb249IjEuMCIgcmVnaXN0cnk9InBybXQtcmF2ZW4iIHByb3RvY29sPSJwcm10LXJhdmVuLXByb3RvY29sIiAvPgo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZ1tdIHRvID0geyAic2hlbmcub3V5YW5nQHF1bmFyLmNvbSIsICJ4dWV5aS55YW5nQHF1bmFyLmNvbSIgfTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIDwhLS3lj5HluIPmnI3liqEtLT4KICAgIDxkdWJibzpyZWdpc3RyeSBwcm90b2NvbD0iem9va2VlcGVyIiBhZGRyZXNzPSIke3prLnJhdmVuLmFkZHJlc3N9IiBpZD0icHJtdC1yYXZlbiIgZ3JvdXA9IiR7emsucmF2ZW4uZ3JvdXB9IiAvPgogICAgPGR1YmJvOnByb3RvY29sIGlkPSJwcm10LXJhdmVuLXByb3RvY29sIiBuYW1lPSJkdWJibyIgcG9ydD0iMjA4OTAiLz4KCiAgICA8YmVhbiBpZD0icUdyb3VwUHJvZHVjdFJlbW90ZSIgY2xhc3M9ImNvbS5xdW5hci5ob3RlbC5wcmljZS5yYXZlbi5wcm92aWRlci5yZW1vdGUuUUdyb3VwUHJvZHVjdFJlbW90ZUltcGwiLz4KICAgIDxkdWJibzpzZXJ2aWNlIGludGVyZmFjZT0iY29tLnF1bmFyLmhvdGVsLnByaWNlLnJhdmVuLmFwaS5zZXJ2aWNlLlFHcm91cFByb2R1Y3RSZW1vdGUiCiAgICAgICAgICAgICAgICAgICByZWY9InFHcm91cFByb2R1Y3RSZW1vdGUiIHZlcnNpb249IjEuMCIgcmVnaXN0cnk9InBybXQtcmF2ZW4iIHByb3RvY29sPSJwcm10LXJhdmVuLXByb3RvY29sIiAvPgoKICAgIDxiZWFuIGlkPSJmbGFnc2hpcFN0b3JlUmVtb3RlIiBjbGFzcz0iY29tLnF1bmFyLmhvdGVsLnByaWNlLnJhdmVuLnByb3ZpZGVyLnJlbW90ZS5GbGFnc2hpcFN0b3JlUmVtb3RlSW1wbCIvPgogICAgPGR1YmJvOnNlcnZpY2UgaW50ZXJmYWNlPSJjb20ucXVuYXIuaG90ZWwucHJpY2UucmF2ZW4uYXBpLnNlcnZpY2UuRmxhZ3NoaXBTdG9yZVJlbW90ZSIKICAgICAgICAgICAgICAgICAgIHJlZj0iZmxhZ3NoaXBTdG9yZVJlbW90ZSIgdmVyc2lvbj0iMS4wIiByZWdpc3RyeT0icHJtdC1yYXZlbiIgcHJvdG9jb2w9InBybXQtcmF2ZW4tcHJvdG9jb2wiIC8+CgogICAgPGJlYW4gaWQ9InByb2R1Y3RTdG9ja1JlbW90ZSIgY2xhc3M9ImNvbS5xdW5hci5ob3RlbC5wcmljZS5yYXZlbi5wcm92aWRlci5yZW1vdGUuUHJvZHVjdFN0b2NrUmVtb3RlSW1wbCIvPgogICAgPGR1YmJvOnNlcnZpY2UgaW50ZXJmYWNlPSJjb20ucXVuYXIuaG90ZWwucHJpY2UucmF2ZW4uYXBpLnNlcnZpY2UuUHJvZHVjdFN0b2NrUmVtb3RlIgogICAgICAgICAgICAgICAgICAgcmVmPSJwcm9kdWN0U3RvY2tSZW1vdGUiIHZlcnNpb249IjEuMCIgcmVnaXN0cnk9InBybXQtcmF2ZW4iIHByb3RvY29sPSJwcm10LXJhdmVuLXByb3RvY29sIiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
