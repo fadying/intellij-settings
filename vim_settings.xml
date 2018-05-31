@@ -41,8 +41,12 @@
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/entry/list/hotel/transform/DirectSeqsTransform.java" timestamp="1524803308947">
         <mark key="[" line="47" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/bean/user/UserLevelInfo.java" timestamp="1527767701920">
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/bean/user/UserLevelInfo.java" timestamp="1527769990410">
         <mark key="'" line="16" column="13" />
+        <mark key="[" line="82" column="34" />
+        <mark key="]" line="135" column="7" />
+        <mark key="." line="135" column="7" />
+        <mark key="^" line="135" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/constant/DaBlackHotelConst.java" timestamp="1521088007296">
         <mark key="[" line="14" column="62" />
@@ -195,10 +199,10 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/resources.betamagic/application.properties" timestamp="1525837050796">
         <mark key="[" line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/agent/UserInfoAgent.java" timestamp="1527767660632">
-        <mark key="[" line="34" column="45" />
-        <mark key="]" line="34" column="45" />
-        <mark key="." line="34" column="45" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/agent/UserInfoAgent.java" timestamp="1527770538818">
+        <mark key="[" line="49" column="41" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/hprice/h_hprice_api/src/main/webapp/nprice/mapiview.jsp" timestamp="1521101855898">
         <mark key="[" line="32" column="42" />
@@ -264,7 +268,7 @@
       <file name="/dummy.sql" timestamp="1527760053094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527754616993">
+      <file name="/Dummy.txt" timestamp="1527770083000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,8 +420,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBnZXRJZCgpIHsKICAgICAgICAgICAgcmV0dXJuIGlkOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SWQoaW50IGlkKSB7CiAgICAgICAgICAgIHRoaXMuaWQgPSBpZDsKICAgICAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -431,35 +435,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQoYmlnU2FsZUJhc2VQcmljZUFyciAhPSBudWxsLCAi6YWS5bqX5aSn5L+D5Y6f5aeL5bqV5Lu35Li656m6Iik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBnZXRJZCgpIHsKICAgICAgICAgICAgcmV0dXJuIGlkOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SWQoaW50IGlkKSB7CiAgICAgICAgICAgIHRoaXMuaWQgPSBpZDsKICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBARGVwcmVjYXRlZAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBnZXRJZCgpIHsKICAgICAgICAgICAgcmV0dXJuIGlkOwogICAgICAgIH0KCiAgICAgICAgcHVibGljIHZvaWQgc2V0SWQoaW50IGlkKSB7CiAgICAgICAgICAgIHRoaXMuaWQgPSBpZDsKICAgICAgICB9</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBpZDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGRhaWx5UHJpY2VzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIFFEYWlseVByaWNlIHFEYWlseVByaWNlID0gZGFpbHlQcmljZXMuZ2V0KGkpOwogICAgICAgICAgICBCaWdEZWNpbWFsIGJhc2UgPSBiaWdTYWxlQmFzZVByaWNlQXJyLmdldChpKTsKICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5iZWFuLnV0aWwuT3JkZXJQcm9kdWN0VXRpbHM7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGRhaWx5UHJpY2VzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIFFEYWlseVByaWNlIHFEYWlseVByaWNlID0gZGFpbHlQcmljZXMuZ2V0KGkpOwogICAgICAgICAgICBCaWdEZWNpbWFsIGJhc2UgPSBiaWdTYWxlQmFzZVByaWNlQXJyLmdldChpKTsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcm9tb3Rpb24uYml6LnV0aWxzLk9yZGVyUHJvZHVjdFV0aWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gZXh0ZW5kTWFwTW9yZSA9IE1hcHMubmV3SGFzaE1hcCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5iZWFuLnV0aWwuT3JkZXJQcm9kdWN0VXRpbHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4dGVuZE1hcE1vcmUucHV0KFFCZW5lZml0VHJhY2luZy5BU1NJU1RTX05VTSwgSW50ZWdlci50b1N0cmluZyhtb25leUJhdHRsZVV0aWwuY2FsY1BlcnNvbkNvdW50KG1heFVzZU1vbmV5Lm11bHRpcGx5KHJvb21BbW91bnQpLG1vYlVzZXJDb250ZXh0LmdldFVpZCgpKSkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcm9tb3Rpb24uYml6LnV0aWxzLk9yZGVyUHJvZHVjdFV0aWxzOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
