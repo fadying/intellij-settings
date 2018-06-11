@@ -17,6 +17,7 @@
       <file name="/a.dummy" timestamp="1528451371902">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/listener/ListenerRegistry.java" timestamp="1528707978401" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/ActivityBenefitInfoAdapter.java" timestamp="1524829017659">
         <mark key="[" line="14" column="100" />
       </file>
@@ -35,6 +36,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/BenefitUnfreezeAction.java" timestamp="1520492293103">
         <mark key="[" line="46" column="47" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" timestamp="1528708265596">
+        <mark key="'" line="604" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/pom.xml" timestamp="1528438053390">
         <mark key="[" line="23" column="40" />
@@ -114,7 +118,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/OrderBargainInfo.java" timestamp="1525262022780">
         <mark key="[" line="87" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1528702922839" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1528707943656" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/SabiPriceProcessor.java" timestamp="1528459152273">
         <mark key="]" line="73" column="0" />
         <mark key="^" line="72" column="24" />
@@ -251,7 +255,7 @@
         <mark key="." line="158" column="0" />
         <mark key="^" line="158" column="32" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/pom.xml" timestamp="1528702875604">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/pom.xml" timestamp="1528708595934">
         <mark key="[" line="36" column="53" />
         <mark key="]" line="36" column="32" />
         <mark key="." line="36" column="32" />
@@ -259,6 +263,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/DateUtil.java" timestamp="1525766476608">
         <mark key="[" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" timestamp="1528708309989">
+        <mark key="'" line="128" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/test/java/com/qunar/mobile/eywa/service/inn/HotelCommentServiceTest.java" timestamp="1524888205647">
         <mark key="[" line="8" column="0" />
@@ -269,6 +276,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StudentTaskPriceAction.java" timestamp="1526909135206">
         <mark key="[" line="152" column="31" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/resources/spring/spring-qmq.xml" timestamp="1528708156025" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/mail/MailService.java" timestamp="1525835844151">
         <mark key="[" line="77" column="63" />
       </file>
@@ -338,13 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/user/MemberInfoResponse.java" />
-      <jump line="22" column="27" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/UserMemberInfo.java" />
-      <jump line="11" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.196/qta-open-product-api-1.1.196-sources.jar!/com/qunar/hotel/qta/open/bean/room/RoomImage.java" />
-      <jump line="45" column="15" filename="$USER_HOME$/IdeaProjects/qmdc/catalysis/src/main/webapp/sendCouponByMobile.jsp" />
-      <jump line="14" column="33" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/bean/HotelDiscountInfo.java" />
-      <jump line="89" column="22" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-24694_180511_youxianghui-SNAPSHOT/qta-open-product-api-DZS-24694_180511_youxianghui-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/rateplan/QRatePlan.java" />
-      <jump line="20" column="15" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-engine/3.1.3/open-promotion-engine-3.1.3-sources.jar!/com/qunar/hotel/qta/open/promotion/engine/cache/annotation/Function.java" />
       <jump line="384" column="32" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" />
       <jump line="134" column="65" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" />
       <jump line="126" column="19" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/XPromotionProcessor.java" />
@@ -438,6 +439,13 @@
       <jump line="76" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/supplier/OrderFeeAgent.java" />
       <jump line="73" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/supplier/OrderFeeAgent.java" />
       <jump line="33" column="40" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/supplier/OrderFeeAgent.java" />
+      <jump line="604" column="43" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/service/impl/QAdditionalServiceImpl.java" />
+      <jump line="993" column="21" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
+      <jump line="163" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
+      <jump line="160" column="4" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
+      <jump line="155" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
+      <jump line="182" column="16" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
+      <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -553,7 +561,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
