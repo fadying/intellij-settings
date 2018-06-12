@@ -215,12 +215,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/wechat/WechatPushAgent.java" timestamp="1525932188914">
         <mark key="[" line="52" column="43" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/test/java/com/qunar/hotel/price/otter/biz/BargainBizTest.java" timestamp="1528798374147">
-        <mark key="'" line="65" column="42" />
-        <mark key="[" line="129" column="25" />
-        <mark key="]" line="129" column="48" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="129" column="7" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/test/java/com/qunar/hotel/price/otter/biz/BargainBizTest.java" timestamp="1528801207589">
+        <mark key="'" line="69" column="42" />
+        <mark key="[" line="136" column="21" />
+        <mark key="]" line="44" column="55" />
+        <mark key="." line="44" column="55" />
+        <mark key="^" line="147" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityConfig.java" timestamp="1521083123664">
         <mark key="[" line="47" column="28" />
@@ -365,7 +365,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1527691272866">
         <mark key="[" line="368" column="53" />
       </file>
-      <file name="/dummy.sql" timestamp="1528796771642">
+      <file name="/dummy.sql" timestamp="1528801248486">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -414,7 +414,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1528777128654">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/mybatis/BargainRecordMapper.xml" timestamp="1528787447938">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/mybatis/BargainRecordMapper.xml" timestamp="1528800993409">
         <mark key="[" line="61" column="17" />
         <mark key="]" line="61" column="19" />
         <mark key="^" line="61" column="19" />
@@ -445,7 +445,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainOptionBizImpl.java" timestamp="1525432618824">
         <mark key="[" line="68" column="105" />
       </file>
-      <file name="/fragment.java" timestamp="1528797797215">
+      <file name="/fragment.java" timestamp="1528800743800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -557,8 +557,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQVBJUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIE5FV19PUkRFUl9JRCA9IA==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -572,35 +572,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMT0dHRVIud2Fybigi56CN5Lu35o+Q5Lqke30se30iLCBpbmRleCwgY29tbWl0KTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQVBJUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIE5FV19PUkRFUl9JRCA9IA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQVBJUmVzcG9uc2Uuc3VjY2VzcyhudWxsKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKGFjdGl2aXR5LmlzTG9ja2VkKCkp</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzdGFzaEFtb3VudCA9IGFjdGl2aXR5LmdldEJhcmdhaW5FbmRBbW91bnQoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBsYXN0QmFyZ2FpbkFtb3VudCA9IGFjdGl2aXR5LmdldEJhcmdhaW5FbmRBbW91bnQoKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgbGFzdFN0YXNoZWRGcm9tQW1vdW50ID0gYWN0aXZpdHkuZ2V0QmFyZ2FpbkVuZEFtb3VudCgpOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgLy8g56CN5Lu3MQogICAgICAgIGludCBpbmRleCA9IDE7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCLnoI3ku7fotbflp4vph5Hpop3plJnor68yIiwgcmVjb3JkczIuZ2V0KDApLmdldEJhcmdhaW5Gcm9tQW1vdW50KCkuZXF1YWxzKEJpZ0RlY2ltYWwuWkVSTykpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCLnoI3ku7fotbflp4vph5Hpop3plJnor68xIiwgcmVjb3JkczEuZ2V0KDApLmdldEJhcmdhaW5Gcm9tQW1vdW50KCkuZXF1YWxzKEJpZ0RlY2ltYWwuWkVSTykpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCLnoI3ku7fph5Hpop3plJnor68xIiwgcmVjb3Jkcy5nZXQoMCkuZ2V0QmFyZ2FpbkFtb3VudCgpLmVxdWFscyhhY3Rpdml0eS5nZXRCYXJnYWluRW5kQW1vdW50KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlKCLnoI3ku7fotbflp4vph5Hpop3plJnor68xIiwgcmVjb3JkczEuZ2V0KDApLmdldEJhcmdhaW5Gcm9tQW1vdW50KCkuZXF1YWxzKEJpZ0RlY2ltYWwuWkVSTykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
