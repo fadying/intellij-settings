@@ -163,8 +163,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/BargainSyncBiz.java" timestamp="1528787097123">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528869494643">
-        <mark key="[" line="0" column="4" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1528881192477">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/listener/OrderCoreUnlockListener.java" timestamp="1528875884964">
         <mark key="[" line="26" column="0" />
@@ -202,6 +202,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/resources.beta/application.properties" timestamp="1525837047646">
         <mark key="[" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/provider/web/BargainController.java" timestamp="1528869995145">
+        <mark key="'" line="111" column="54" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="62" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/test/resources/mybatis/BargainActivityMapper.xml" timestamp="1528795885697">
         <mark key="[" line="32" column="0" />
@@ -302,6 +309,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/DateUtil.java" timestamp="1525766476608">
         <mark key="[" line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/BargainSyncBizImpl.java" timestamp="1528881207834">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="39" />
+        <mark key="^" line="70" column="39" />
+        <mark key="." line="70" column="39" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/test/java/com/qunar/mobile/eywa/service/inn/HotelCommentServiceTest.java" timestamp="1524888205647">
         <mark key="[" line="8" column="0" />
       </file>
@@ -347,13 +360,13 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1527691272866">
         <mark key="[" line="368" column="53" />
       </file>
-      <file name="/dummy.sql" timestamp="1528877462649">
+      <file name="/dummy.sql" timestamp="1528881184330">
         <mark key="'" line="0" column="6" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528879314207">
+      <file name="/Dummy.txt" timestamp="1528881386057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -404,6 +417,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1528777128654">
         <mark key="[" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1528881351627">
+        <mark key="'" line="64" column="27" />
+        <mark key="[" line="96" column="90" />
+        <mark key="]" line="96" column="90" />
+        <mark key="^" line="96" column="77" />
+        <mark key="." line="96" column="90" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a175e04-9fb2-4eec-9f7c-e8d3ac620a2b/console_1.sql" timestamp="1528792520749">
         <mark key="[" line="0" column="0" />
@@ -528,14 +548,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW1vdW50Ont9LCBjdXJyZW50Ont9LCA=</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text encoding="base64">YW1vdW50Ont9LCBjdXJyZW50Ont9LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
