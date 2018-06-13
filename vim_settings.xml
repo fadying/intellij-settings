@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/BargainCreateAction.java" timestamp="1524826032445">
         <mark key="[" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1528882911203">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1528883365948">
         <mark key="[" line="88" column="15" />
         <mark key="]" line="82" column="26" />
         <mark key="^" line="82" column="26" />
@@ -182,6 +182,12 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/provider/src/main/resources.local/application.properties" timestamp="1525837061148">
         <mark key="[" line="23" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/RetryUtil.java" timestamp="1528883775992">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/resources.dev/config.properties" timestamp="1528879129637">
         <mark key="[" line="33" column="11" />
         <mark key="]" line="34" column="82" />
@@ -237,6 +243,13 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/listener/OrderUpdateListener.java" timestamp="1528875880446" />
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/agent/wechat/WechatPushAgent.java" timestamp="1525932188914">
         <mark key="[" line="52" column="43" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/biz/src/test/java/com/qunar/hotel/price/otter/biz/BargainBizTest.java" timestamp="1528883554712">
+        <mark key="'" line="218" column="41" />
+        <mark key="[" line="235" column="114" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="67" column="3" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityConfig.java" timestamp="1521083123664">
         <mark key="[" line="47" column="28" />
@@ -367,7 +380,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528881386057">
+      <file name="/Dummy.txt" timestamp="1528883844576">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -419,12 +432,19 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1528777128654">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1528882787728">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/mybatis/BargainRecordMapper.xml" timestamp="1528804997465">
+        <mark key="'" line="58" column="19" />
+        <mark key="[" line="58" column="15" />
+        <mark key="]" line="60" column="44" />
+        <mark key="^" line="60" column="44" />
+        <mark key="." line="60" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1528883836621">
         <mark key="'" line="64" column="27" />
-        <mark key="[" line="96" column="90" />
-        <mark key="]" line="96" column="90" />
-        <mark key="^" line="96" column="77" />
-        <mark key="." line="96" column="90" />
+        <mark key="[" line="82" column="80" />
+        <mark key="]" line="98" column="90" />
+        <mark key="^" line="98" column="77" />
+        <mark key="." line="98" column="90" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a175e04-9fb2-4eec-9f7c-e8d3ac620a2b/console_1.sql" timestamp="1528792520749">
         <mark key="[" line="0" column="0" />
@@ -553,13 +573,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">YW1vdW50Ont9LCBjdXJyZW50Ont9LCA=</text>
+        <text>BargainReCommitException</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW1vdW50Ont9LCBjdXJyZW50Ont9LCA=</text>
+        <text>BargainReCommitException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
