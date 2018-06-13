@@ -40,7 +40,8 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources.local/application.properties" timestamp="1525686054857">
         <mark key="[" line="21" column="137" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1527565952450">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1528883102524">
+        <mark key="'" line="20" column="13" />
         <mark key="[" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/java/com/qunar/hotel/price/otter/service/BargainOrderCommitServiceTest.java" timestamp="1528794054528">
@@ -56,7 +57,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/BargainCreateAction.java" timestamp="1524826032445">
         <mark key="[" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1528879086773">
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1528882911203">
         <mark key="[" line="88" column="15" />
         <mark key="]" line="82" column="26" />
         <mark key="^" line="82" column="26" />
@@ -418,7 +419,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/OrderReadService.java" timestamp="1528777128654">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1528881351627">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" timestamp="1528882787728">
         <mark key="'" line="64" column="27" />
         <mark key="[" line="96" column="90" />
         <mark key="]" line="96" column="90" />
@@ -429,6 +430,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.200/qta-open-product-api-1.1.200-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderPrice.java" timestamp="1528883276804">
+        <mark key="'" line="78" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/prmt_otter/provider/src/main/resources/mybatis/BargainRecordMapper.xml" timestamp="1525767562604">
         <mark key="[" line="50" column="0" />
@@ -443,9 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="366" column="22" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/util/concurrent/MoreExecutors.java" />
-      <jump line="67" column="55" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/service/city/HotelCityClientService.java" />
-      <jump line="76" column="52" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/city.api/2.0.14/city.api-2.0.14-sources.jar!/com/qunar/hotel/city/CityClient.java" />
       <jump line="40" column="45" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/city.api/2.0.14/city.api-2.0.14-sources.jar!/com/qunar/hotel/city/CityClient.java" />
       <jump line="1130" column="22" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/city.api/2.0.14/city.api-2.0.14-sources.jar!/com/qunar/hotel/city/CityClient.java" />
       <jump line="1083" column="31" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/city.api/2.0.14/city.api-2.0.14-sources.jar!/com/qunar/hotel/city/CityClient.java" />
@@ -543,6 +544,9 @@
       <jump line="47" column="13" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionManageProcessor.java" />
       <jump line="252" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionManageProcessor.java" />
       <jump line="165" column="20" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/section/impl/PromotionManageProcessor.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" />
+      <jump line="83" column="30" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.200/qta-open-product-api-1.1.200-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderPrice.java" />
+      <jump line="78" column="30" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.200/qta-open-product-api-1.1.200-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderPrice.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
