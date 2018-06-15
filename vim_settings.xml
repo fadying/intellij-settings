@@ -11,11 +11,10 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/fresh/demo/src/main/java/com/qunar/example/demo/config/ServletWatcherInitializer.java" timestamp="1529049045086" />
-      <file name="$USER_HOME$/IdeaProjects/fresh/demo/pom.xml" timestamp="1529049703784">
-        <mark key="[" line="25" column="40" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="14" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/fresh/demo/pom.xml" timestamp="1529053510587">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" timestamp="1529048609449">
         <mark key="[" line="521" column="39" />
@@ -64,6 +63,7 @@
         <mark key="^" line="178" column="57" />
         <mark key="." line="178" column="57" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/fresh/demo/provider/src/main/java/com/qunar/example/demo/DemoApplication.java" timestamp="1529053055727" />
       <file name="$USER_HOME$/IdeaProjects/fresh/demo/src/main/java/com/qunar/example/demo/web/TestController.java" timestamp="1529049342197">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="20" column="16" />
@@ -240,8 +240,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(&quot;&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjwvdmVyc2lvbj4K</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -256,34 +256,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiYmVuZWZpdF9ub19hY3Rpdml0eUlkX3JlZiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGhyZWFkTG9jYWw8aW50W10+IGJ1ZmZlciA9IG5ldyBUaHJlYWRMb2NhbDxpbnRbXT4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjwvdmVyc2lvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidWZmZXIuc2V0KG5ldyBpbnRbMTAyNDAwMF0pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGhyZWFkTG9jYWw8aW50W10+IGJ1ZmZlciA9IG5ldyBUaHJlYWRMb2NhbDxpbnRbXT4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPlNwcmluIEJvb3QgRGVtbzwvZmluYWxOYW1lPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBidWZmZXIuc2V0KG5ldyBpbnRbMTAyNDAwMF0pOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPlNwcmluIEJvb3QgRGVtbzwvZmluYWxOYW1lPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Pgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWZmZXIuc2V0KG5ldyBpbnRbMTAyNDAwMF0pOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICA8cXVuYXIuY29tbW9uLnZlcnNpb24+MS4zLjg8L3F1bmFyLmNvbW1vbi52ZXJzaW9uPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgkJCQk8Z3JvdXBJZD48L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">Cgk8cGFyZW50PgoJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXBhcmVudDwvYXJ0aWZhY3RJZD4KCQk8dmVyc2lvbj4yLjAuMy5SRUxFQVNFPC92ZXJzaW9uPgoJCTxyZWxhdGl2ZVBhdGgvPiA8IS0tIGxvb2t1cCBwYXJlbnQgZnJvbSByZXBvc2l0b3J5IC0tPgoJPC9wYXJlbnQ+</text>
+        <text encoding="base64">CgkJCQk8Z3JvdXBJZD48L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
