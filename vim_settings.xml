@@ -15,8 +15,6 @@
         <mark key="^" line="102" column="6" />
         <mark key="." line="102" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/constant/HotelOrderActionAct.java" timestamp="1529928079163" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/logic/BaseLogic.java" timestamp="1529919196958" />
       <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/pom.xml" timestamp="1529923561239">
         <mark key="[" line="17" column="37" />
         <mark key="]" line="26" column="25" />
@@ -26,8 +24,15 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/OrderInfoModel.java" timestamp="1529925090885">
         <mark key="'" line="335" column="16" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/hotelorder/HotelOrderDetailManager.java" timestamp="1529929149392">
+      <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/hotelorder/HotelOrderDetailManager.java" timestamp="1530007987006">
+        <mark key="'" line="374" column="77" />
         <mark key="[" line="788" column="91" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/HotelInfoModel.java" timestamp="1529920625322">
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="22" column="38" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/other/proto/HourRoom.proto" timestamp="1529676928236">
         <mark key="[" line="1" column="8" />
@@ -37,7 +42,9 @@
       <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/response/hotel/hotelorder/HotelOrderDetailResult.java" timestamp="1529928993817">
         <mark key="[" line="511" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/logic/hotelorder/HotelHomeCardOrderListLogic.java" timestamp="1529914951658" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/AskWayCard.java" timestamp="1529927345521">
+        <mark key="[" line="20" column="7" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/OtterApplication.java" timestamp="1529640354517">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -46,54 +53,9 @@
       <file name="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/tts/impl/ActionServiceImpl.java" timestamp="1529916499487">
         <mark key="'" line="485" column="18" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/service/KylinResultService.java" timestamp="1529922270669" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-helper/1.3.73/qmob-helper-1.3.73-sources.jar!/com/qunar/mobile/helper/hotelorder/HotelOrderHelper.java" timestamp="1529916973363" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/logic/hotelorder/HotelOrderDetailLogic.java" timestamp="1529918456038" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/constant/HotelOrderOP.java" timestamp="1529928355944">
-        <mark key="[" line="228" column="74" />
-        <mark key="]" line="228" column="75" />
-        <mark key="^" line="228" column="75" />
-        <mark key="." line="228" column="75" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/pom.xml" timestamp="1529639415700">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" timestamp="1529921719357">
-        <mark key="[" line="475" column="12" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/constant/HotelOrderOP.java" timestamp="1529927700077" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/logic/hotelorder/assist/HotelOrderInsuranceAssist.java" timestamp="1529926132025" />
-      <file name="$MAVEN_REPOSITORY$/qunar/tc/order/ordercenter-api/1.7.0/ordercenter-api-1.7.0-sources.jar!/qunar/tc/ordercenter/consumer/pojo/Order.java" timestamp="1529917194440" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/pom.xml" timestamp="1529923155212">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="390" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/RoomChooseAttr.java" timestamp="1529922137963" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.120930-2.jar!/com/qunar/mobile/commons/model/hotelorder/ActionModel.class" timestamp="1529928797913" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/web_kylin/src/main/profiles/beta/hotel.properties" timestamp="1529917174311" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/other/proto/coach/CoachCommon.proto" timestamp="1529897927227" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/service/hotelorder/HotelOrderService.java" timestamp="1529914229788" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/HotelInfoModel.java" timestamp="1529920625322">
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/Operation.java" timestamp="1529927387297" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.120930-2.jar!/com/qunar/mobile/commons/model/hotelorder/CheckInVoucher.class" timestamp="1529929145136" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/AskWayCard.java" timestamp="1529927345521">
-        <mark key="[" line="20" column="7" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.929/qmob-commons-1.3.929-sources.jar!/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" timestamp="1529921901040">
         <mark key="'" line="34" column="30" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/CheckInVoucher.java" timestamp="1529925389491" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.929/qmob-commons-1.3.929-sources.jar!/com/qunar/mobile/commons/entity/hotelorder/HotelOrder.java" timestamp="1529898508967" />
-      <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/model/hotelorder/detail/PreChangeInfo.java" timestamp="1529923274055" />
       <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/other/proto/CityPatch.proto" timestamp="1529675506825">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="20" />
@@ -104,8 +66,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qta/order-booking/provider/src/main/java/com/qunar/hotel/qta/order_port/booking/controller/ApiController.java" timestamp="1529916035357" />
-      <file name="$MAVEN_REPOSITORY$/qunar/tc/order/ordercenter-consumer-api/1.7.0/ordercenter-consumer-api-1.7.0.jar!/qunar/tc/ordercenter/consumer/api/OrderQueryService.class" timestamp="1529914585968" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1530004639279" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/constant/HotelOrderOP.java" timestamp="1529928355944">
+        <mark key="[" line="228" column="74" />
+        <mark key="]" line="228" column="75" />
+        <mark key="^" line="228" column="75" />
+        <mark key="." line="228" column="75" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" timestamp="1529925640681">
         <mark key="'" line="143" column="20" />
       </file>
@@ -115,24 +82,36 @@
         <mark key="^" line="33" column="29" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529984374615">
+      <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/pom.xml" timestamp="1529639415700">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/controller/hotel/hotelorder/assist/HotelOrderbookingAssist.java" timestamp="1530008433939">
+        <mark key="'" line="977" column="42" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1530007965479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.929/qmob-commons-1.3.929-sources.jar!/com/qunar/mobile/commons/model/hotelorder/HotelInfoModel.java" timestamp="1529920523312" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" timestamp="1529921719357">
+        <mark key="[" line="475" column="12" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/kylin/src/main/java/com/qunar/mobile/kylin/dao/hotelorder/HotelOrderDAO.java" timestamp="1529920482784">
         <mark key="'" line="958" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.120930-2.jar!/com/qunar/mobile/commons/constant/HotelOrderActionAct.class" timestamp="1529928752890" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.120930-2.jar!/com/qunar/mobile/commons/model/hotelorder/OrderInfoModel.class" timestamp="1529928964713">
         <mark key="'" line="272" column="62" />
       </file>
-      <file name="/pom.xml" timestamp="1529922582600" />
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/pom.xml" timestamp="1529923155212">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="390" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="8" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
-      <jump line="128" column="4" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductAdapter.java" />
       <jump line="23" column="23" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/DZS-25759_sabi_adjust-SNAPSHOT/order-core-api-DZS-25759_sabi_adjust-20180609.140543-3-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/order/SupplierOrderMapper.java" />
       <jump line="0" column="6" filename="/dummy.sql" />
       <jump line="55" column="27" filename="$USER_HOME$/IdeaProjects/promotion/otter/service/src/main/java/com/qunar/hotel/price/otter/service/BargainOrderCommitService.java" />
@@ -231,6 +210,8 @@
       <jump line="335" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/OrderInfoModel.java" />
       <jump line="143" column="20" filename="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" />
       <jump line="272" column="62" filename="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.120930-2.jar!/com/qunar/mobile/commons/model/hotelorder/OrderInfoModel.class" />
+      <jump line="374" column="77" filename="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/hotelorder/HotelOrderDetailManager.java" />
+      <jump line="977" column="42" filename="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/controller/hotel/hotelorder/assist/HotelOrderbookingAssist.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
