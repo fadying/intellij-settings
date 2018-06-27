@@ -46,7 +46,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/raven-api/pom.xml" timestamp="1530084025428">
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/pom.xml" timestamp="1530084020820">
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/pom.xml" timestamp="1530087170783">
         <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/java/com/qunar/hotel/price/otter/OtterApplication.java" timestamp="1529640354517">
@@ -54,8 +54,9 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/PriceNotice.java" timestamp="1530084736188">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/PriceNotice.java" timestamp="1530087135951" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/CreatePriceNoticeRequest.java" timestamp="1530087045678">
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/other/proto/CityPatch.proto" timestamp="1529675506825">
         <mark key="[" line="9" column="20" />
@@ -67,16 +68,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/service/PriceNoticeRemote.java" timestamp="1530084524747">
-        <mark key="[" line="11" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/service/PriceNoticeRemote.java" timestamp="1530087015582">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="48" column="32" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/src/main/resources/mybatis/BargainActivityMapper.xml" timestamp="1529396063562">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/PriceNoticeRequest.java" timestamp="1530084582420">
-        <mark key="[" line="7" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/PriceNoticeRequest.java" timestamp="1530085384193">
+        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/java/com/qunar/hotel/prmt/hulk/provider/web/IndexController.java" timestamp="1530016099723">
         <mark key="[" line="9" column="11" />
@@ -95,8 +99,16 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/UpdatePriceNoticeRequest.java" timestamp="1530087083760">
+        <mark key="[" line="12" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/qmob-commons/1.3.931-SNAPSHOT/qmob-commons-1.3.931-20180625.103527-1-sources.jar!/com/qunar/mobile/commons/model/hotelorder/result/HotelOrderDetailResult.java" timestamp="1530073337419">
         <mark key="'" line="143" column="20" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/request/UpdatePriceNoticeRequest.java" timestamp="1530087142891">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/provider/pom.xml" timestamp="1529639415700">
         <mark key="[" line="48" column="0" />
@@ -123,7 +135,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/java/com/qunar/hotel/prmt/hulk/IndexController.java" timestamp="1530014057639">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1530073108769">
+      <file name="/fragment.java" timestamp="1530085389988">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -234,13 +246,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
         <text>health</text>
@@ -249,21 +261,30 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJvdG9jRXhlY3V0YWJsZT4vb3B0L3Byb3RvYy0yLjYuMTwvcHJvdG9jRXhlY3V0YWJsZT4K</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmlvLnNwcmluZ2ZveDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nZm94LXN3YWdnZXIyPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldEhvdGVsU2VxKCkgewogICAgICAgIHJldHVybiBob3RlbFNlcTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIb3RlbFNlcShTdHJpbmcgaG90ZWxTZXEpIHsKICAgICAgICB0aGlzLmhvdGVsU2VxID0gaG90ZWxTZXE7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSb29tTmFtZSgpIHsKICAgICAgICByZXR1cm4gcm9vbU5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Um9vbU5hbWUoU3RyaW5nIHJvb21OYW1lKSB7CiAgICAgICAgdGhpcy5yb29tTmFtZSA9IHJvb21OYW1lOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldENoZWNrSW5EYXRlKCkgewogICAgICAgIHJldHVybiBjaGVja0luRGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDaGVja0luRGF0ZShEYXRlIGNoZWNrSW5EYXRlKSB7CiAgICAgICAgdGhpcy5jaGVja0luRGF0ZSA9IGNoZWNrSW5EYXRlOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldENoZWNrT3V0RGF0ZSgpIHsKICAgICAgICByZXR1cm4gY2hlY2tPdXREYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENoZWNrT3V0RGF0ZShEYXRlIGNoZWNrT3V0RGF0ZSkgewogICAgICAgIHRoaXMuY2hlY2tPdXREYXRlID0gY2hlY2tPdXREYXRlOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0Tm90aWNlUHJpY2UoKSB7CiAgICAgICAgcmV0dXJuIG5vdGljZVByaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5vdGljZVByaWNlKGludCBub3RpY2VQcmljZSkgewogICAgICAgIHRoaXMubm90aWNlUHJpY2UgPSBub3RpY2VQcmljZTsKICAgIH0KCiAgICBwdWJsaWMgZG91YmxlIGdldEluaXRQcm9iYWJpbGl0eSgpIHsKICAgICAgICByZXR1cm4gaW5pdFByb2JhYmlsaXR5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEluaXRQcm9iYWJpbGl0eShkb3VibGUgaW5pdFByb2JhYmlsaXR5KSB7CiAgICAgICAgdGhpcy5pbml0UHJvYmFiaWxpdHkgPSBpbml0UHJvYmFiaWxpdHk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiAiQ3JlYXRlUHJpY2VOb3RpY2VSZXF1ZXN0eyIgKwogICAgICAgICAgICAgICAgImhvdGVsU2VxPSciICsgaG90ZWxTZXEgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHJvb21OYW1lPSciICsgcm9vbU5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIGNoZWNrSW5EYXRlPSIgKyBjaGVja0luRGF0ZSArCiAgICAgICAgICAgICAgICAiLCBjaGVja091dERhdGU9IiArIGNoZWNrT3V0RGF0ZSArCiAgICAgICAgICAgICAgICAiLCBub3RpY2VQcmljZT0iICsgbm90aWNlUHJpY2UgKwogICAgICAgICAgICAgICAgIiwgaW5pdFByb2JhYmlsaXR5PSIgKyBpbml0UHJvYmFiaWxpdHkgKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9InJlbW90ZSIgbGV2ZWw9IkVSUk9SIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgbG9uZyBnZXRJZCgpIHsKICAgICAgICByZXR1cm4gaWQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0SWQobG9uZyBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEhvdGVsU2VxKCkgewogICAgICAgIHJldHVybiBob3RlbFNlcTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRIb3RlbFNlcShTdHJpbmcgaG90ZWxTZXEpIHsKICAgICAgICB0aGlzLmhvdGVsU2VxID0gaG90ZWxTZXE7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSb29tTmFtZSgpIHsKICAgICAgICByZXR1cm4gcm9vbU5hbWU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Um9vbU5hbWUoU3RyaW5nIHJvb21OYW1lKSB7CiAgICAgICAgdGhpcy5yb29tTmFtZSA9IHJvb21OYW1lOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldENoZWNrSW5EYXRlKCkgewogICAgICAgIHJldHVybiBjaGVja0luRGF0ZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDaGVja0luRGF0ZShEYXRlIGNoZWNrSW5EYXRlKSB7CiAgICAgICAgdGhpcy5jaGVja0luRGF0ZSA9IGNoZWNrSW5EYXRlOwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldENoZWNrT3V0RGF0ZSgpIHsKICAgICAgICByZXR1cm4gY2hlY2tPdXREYXRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENoZWNrT3V0RGF0ZShEYXRlIGNoZWNrT3V0RGF0ZSkgewogICAgICAgIHRoaXMuY2hlY2tPdXREYXRlID0gY2hlY2tPdXREYXRlOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0Tm90aWNlUHJpY2UoKSB7CiAgICAgICAgcmV0dXJuIG5vdGljZVByaWNlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5vdGljZVByaWNlKGludCBub3RpY2VQcmljZSkgewogICAgICAgIHRoaXMubm90aWNlUHJpY2UgPSBub3RpY2VQcmljZTsKICAgIH0KCiAgICBwdWJsaWMgZG91YmxlIGdldEluaXRQcm9iYWJpbGl0eSgpIHsKICAgICAgICByZXR1cm4gaW5pdFByb2JhYmlsaXR5OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEluaXRQcm9iYWJpbGl0eShkb3VibGUgaW5pdFByb2JhYmlsaXR5KSB7CiAgICAgICAgdGhpcy5pbml0UHJvYmFiaWxpdHkgPSBpbml0UHJvYmFiaWxpdHk7CiAgICB9CgogICAgcHVibGljIERhdGUgZ2V0Q3JlYXRlVGltZSgpIHsKICAgICAgICByZXR1cm4gY3JlYXRlVGltZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDcmVhdGVUaW1lKERhdGUgY3JlYXRlVGltZSkgewogICAgICAgIHRoaXMuY3JlYXRlVGltZSA9IGNyZWF0ZVRpbWU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIHRvU3RyaW5nKCkgewogICAgICAgIHJldHVybiAiUHJpY2VOb3RpY2V7IiArCiAgICAgICAgICAgICAgICAiaWQ9IiArIGlkICsKICAgICAgICAgICAgICAgICIsIGhvdGVsU2VxPSciICsgaG90ZWxTZXEgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHJvb21OYW1lPSciICsgcm9vbU5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIGNoZWNrSW5EYXRlPSIgKyBjaGVja0luRGF0ZSArCiAgICAgICAgICAgICAgICAiLCBjaGVja091dERhdGU9IiArIGNoZWNrT3V0RGF0ZSArCiAgICAgICAgICAgICAgICAiLCBub3RpY2VQcmljZT0iICsgbm90aWNlUHJpY2UgKwogICAgICAgICAgICAgICAgIiwgaW5pdFByb2JhYmlsaXR5PSIgKyBpbml0UHJvYmFiaWxpdHkgKwogICAgICAgICAgICAgICAgIiwgY3JlYXRlVGltZT0iICsgY3JlYXRlVGltZSArCiAgICAgICAgICAgICAgICAnfSc7CiAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGNpdHlVcmw7</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9ImNvbS5xdW5hci5ob3RlbC5wcmljZSIgbGV2ZWw9IkVSUk9SIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPg==</text>
+        <text encoding="base64">CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmlvLnNwcmluZ2ZveDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nZm94LXN3YWdnZXIyPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4=</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9InJlbW90ZSIgbGV2ZWw9IkVSUk9SIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICA8bG9nZ2VyIG5hbWU9ImNvbS5xdW5hci5ob3RlbC5wcmljZSIgbGV2ZWw9IkVSUk9SIj4KICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iY29uc29sZSIgLz4KICAgIDwvbG9nZ2VyPg==</text>
+      </register>
+      <register name="8" type="4">
         <text>spring.http.multipart.maxFileSize=5Mb
 spring.http.multipart.maxRequestSize=30Mb
 
@@ -273,20 +294,8 @@ qunar.flagship.settleRate=0.82
 email.host=mta3.corp.qunar.com
 email.smtp.timeout=25000</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>zk.raven.address=zk.beta.corp.qunar.com:2181,zk1.beta.corp.qunar.com:2181,zk2.beta.corp.qunar.com:2181,zk3.beta.corp.qunar.com:2181
-zk.raven.group=hotel-qta-raven-dev
-zk.qhotel.address=zk.beta.corp.qunar.com:2181,zk1.beta.corp.qunar.com:2181,zk2.beta.corp.qunar.com:2181,zk3.beta.corp.qunar.com:2181
-zk.qhotel.group=qhotel-beta</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8cXVuYXIuY29tbW9uLnZlcnNpb24+OS4yLjExPC9xdW5hci5jb21tb24udmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
