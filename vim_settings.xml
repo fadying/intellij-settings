@@ -63,6 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/test/flux/src/main/java/com/example/flux/web/TestController.java" timestamp="1530527224683">
         <mark key="[" line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/kylin/commons/src/main/java/com/qunar/mobile/commons/model/hotelorder/AskWayCard.java" timestamp="1530586457549">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/resources.local/application.properties" timestamp="1530015764532">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -178,7 +183,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530535271246">
+      <file name="/Dummy.txt" timestamp="1530586463512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -209,12 +214,6 @@
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/assist/HotelOrderDetailAssist.java" timestamp="1530522185142">
-        <mark key="'" line="714" column="34" />
-        <mark key="[" line="146" column="101" />
-        <mark key="]" line="2488" column="0" />
-        <mark key="." line="2488" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/controller/hotel/hotelorder/HotelOrderDetailController.java" timestamp="1530526811469" />
       <file name="/fragment.java" timestamp="1530531894748">
@@ -327,8 +326,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENvcHlEb25lVG9Ub2FzdCgpIHsKICAgICAgICByZXR1cm4gY29weURvbmVUb1RvYXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvcHlEb25lVG9Ub2FzdChTdHJpbmcgY29weURvbmVUb1RvYXN0KSB7CiAgICAgICAgdGhpcy5jb3B5RG9uZVRvVG9hc3QgPSBjb3B5RG9uZVRvVG9hc3Q7CiAgICB9</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -342,35 +341,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cHJvdG9jRXhlY3V0YWJsZT4vb3B0L3Byb3RvYy0yLjYuMTwvcHJvdG9jRXhlY3V0YWJsZT4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENvcHlEb25lVG9Ub2FzdCgpIHsKICAgICAgICByZXR1cm4gY29weURvbmVUb1RvYXN0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENvcHlEb25lVG9Ub2FzdChTdHJpbmcgY29weURvbmVUb1RvYXN0KSB7CiAgICAgICAgdGhpcy5jb3B5RG9uZVRvVG9hc3QgPSBjb3B5RG9uZVRvVG9hc3Q7CiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgdm9pZCBzZXRSb29tRW5OYW1lKFN0cmluZyByb29tRW5OYW1lKSB7CiAgICAgICAgZ2V0SG90ZWxJbmZvKCkuc2V0Um9vbUVuTmFtZShyb29tRW5OYW1lKTsKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CglwdWJsaWMgU3RyaW5nIGdldFJvb21Fbk5hbWUoKSB7CgkJcmV0dXJuIHJvb21Fbk5hbWU7Cgl9CgoJcHVibGljIHZvaWQgc2V0Um9vbUVuTmFtZShTdHJpbmcgcm9vbUVuTmFtZSkgewoJCXRoaXMucm9vbUVuTmFtZSA9IHJvb21Fbk5hbWU7Cgl9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHJvb21Fbk5hbWUgPSAiIjsgLy8g6Iux5paH5oi/5Z6L5ZCN56ewCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldExvbmdpdHVkZSgpIHsKICAgICAgICByZXR1cm4gbG9uZ2l0dWRlOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldExvbmdpdHVkZShTdHJpbmcgbG9uZ2l0dWRlKSB7CiAgICAgICAgdGhpcy5sb25naXR1ZGUgPSBsb25naXR1ZGU7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRMYXRpdHVkZSgpIHsKICAgICAgICByZXR1cm4gbGF0aXR1ZGU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TGF0aXR1ZGUoU3RyaW5nIGxhdGl0dWRlKSB7CiAgICAgICAgdGhpcy5sYXRpdHVkZSA9IGxhdGl0dWRlOwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOmFkuW6l+e7j+W6pgogICAgICovCiAgICBwcml2YXRlIFN0cmluZwlsb25naXR1ZGU7CgogICAgLyoqCiAgICAgKiDphZLlupfnuqzluqYKICAgICAqLwogICAgcHJpdmF0ZSBTdHJpbmcJbGF0aXR1ZGU7</text>
       </register>
       <register name=":" type="4">
         <text>q!</text>
