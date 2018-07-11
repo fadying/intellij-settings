@@ -210,7 +210,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/09356791-0d33-4370-9976-a1653825843d/console_1.sql" timestamp="1530860398061">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/price_notice [betac]" timestamp="1531280401629">
+      <file name="/price_notice [betac]" timestamp="1531280473796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qclient/qclient-redis/1.5.9/qclient-redis-1.5.9-sources.jar!/qunar/tc/qclient/redis/executor/HashExecutor.java" timestamp="1531225588498" />
@@ -331,7 +331,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/request/CreatePriceNoticeRequest.java" timestamp="1530862469680">
         <mark key="[" line="114" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1531280423362">
+      <file name="/dummy.sql" timestamp="1531280482677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -503,13 +503,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>varchar(255)</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>varchar(255)</text>
       </register>
       <register name="/" type="4">
         <text>health</text>
