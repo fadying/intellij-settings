@@ -56,11 +56,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/UserNoticeDO.java" timestamp="1531383635525">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1531388010876">
-        <mark key="[" line="63" column="99" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1531391314676">
+        <mark key="[" line="64" column="62" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="64" column="38" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/eywa-api/DZS-22253_depreciate-SNAPSHOT/eywa-api-DZS-22253_depreciate-20180712.080015-43-sources.jar!/com/qunar/mobile/eywa/api/entity/CommonInfo.java" timestamp="1531389853642" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/PriceNoticeRedisWriteService.java" timestamp="1531229558247">
@@ -205,8 +205,8 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/eywa-api/DZS-22253_depreciate-SNAPSHOT/eywa-api-DZS-22253_depreciate-20180712.080015-43-sources.jar!/com/qunar/mobile/eywa/api/entity/CommonResp.java" timestamp="1531384789596" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/PriceRecordDO.java" timestamp="1531386429711">
-        <mark key="[" line="41" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/PriceRecordDO.java" timestamp="1531391151971">
+        <mark key="[" line="51" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/biz/PriceNoticeSummary.java" timestamp="1531222558180">
         <mark key="[" line="39" column="0" />
@@ -291,10 +291,10 @@
         <mark key="[" line="25" column="66" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/mobile/eywa-api/DZS-22253_depreciate-SNAPSHOT/eywa-api-DZS-22253_depreciate-20180712.080015-43-sources.jar!/com/qunar/mobile/eywa/api/service/IHotelBatchPriceServiceAsync.java" timestamp="1531382776628" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/BeanMapperUtil.java" timestamp="1531390290549">
-        <mark key="[" line="29" column="84" />
-        <mark key="]" line="29" column="85" />
-        <mark key="." line="25" column="84" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/BeanMapperUtil.java" timestamp="1531391214036">
+        <mark key="[" line="27" column="85" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/bean/common/QApiCode.java" timestamp="1531189621667">
         <mark key="[" line="21" column="59" />
@@ -427,13 +427,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZVJlcXVlc3Quc2V0RnJvbUZvckxvZyhGUk9NX0ZPUl9MT0cpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuT3B0aW9uYWw7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>TODO record error, current ignore</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
@@ -442,34 +442,34 @@
         <text encoding="base64">ICAgICAgICBQcmVjb25kaXRpb25zLmNoZWNrQXJndW1lbnQob3V0cHV0ICE9IG51bGwsICLov5Tlm57kvY3nqboiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljZVJlcXVlc3Quc2V0RnJvbUZvckxvZyhGUk9NX0ZPUl9MT0cpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuY29tbW9uLmJhc2UuT3B0aW9uYWw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChyZXMuZ2V0RGF0YSgpICE9IG51bGwpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgTUFQUEVSX0ZBQ1RPUlkuY2xhc3NNYXAoUHJpY2VOb3RpY2VETy5jbGFzcywgUHJpY2VOb3RpY2UuY2xhc3MpLmJ5RGVmYXVsdCgpLnJlZ2lzdGVyKCk7CiAgICAgICAgTUFQUEVSX0ZBQ1RPUlkuY2xhc3NNYXAoQ3JlYXRlUHJpY2VOb3RpY2VSZXF1ZXN0LmNsYXNzLCBQcmljZU5vdGljZURPLmNsYXNzKS5ieURlZmF1bHQoKS5yZWdpc3RlcigpOwogICAgICAgIE1BUFBFUl9GQUNUT1JZLmNsYXNzTWFwKFVwZGF0ZVByaWNlTm90aWNlUmVxdWVzdC5jbGFzcywgUHJpY2VOb3RpY2VETy5jbGFzcykgLmJ5RGVmYXVsdCgpLnJlZ2lzdGVyKCk7</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWNvcmRETy5zZXROb3RpY2VJZChuLmdldElkKCkpOw==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAocmVxQW5kUmVzIC0+ICkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKHJlcUFuZFJlcyAtPiBGbHV4Lmp1c3QocmVxQW5kUmVzLmdldFQxKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC56aXBXaXRoKEZsdXguZnJvbUl0ZXJhYmxlKHJlcUFuZFJlcy5nZXRUMigpLmdldERhdGEoKS5nZXRCYXRjaEluZm9zKCkuZW50cnlTZXQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcChob3RlbCAtPiBGbHV4Lmp1c3QoaG90ZWwuZ2V0S2V5KCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuemlwV2l0aChGbHV4LmZyb21JdGVyYWJsZShob3RlbC5nZXRWYWx1ZSgpLmdldFJvb21zKCkpKSkpKQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmljZVJlcXVlc3Quc2V0RnJvbUZvckxvZyhGUk9NX0ZPUl9MT0cpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LmFkZChwcmljZVJlcXVlc3QpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8U2ltcGxlRGV0YWlsUHJpY2VSZXF1ZXN0PiByZXF1ZXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVEZXRhaWxQcmljZVJlcXVlc3QgcHJpY2VSZXF1ZXN0ID0gQmVhbk1hcHBlclV0aWwuTUFQUEVSX0ZBQ0FERS5tYXAoaW5wdXQsIFNpbXBsZURldGFpbFByaWNlUmVxdWVzdC5jbGFzcyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zd2l0Y2hJZkVtcHR5KCkK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAuZmxhdE1hcCh0IC0+IEZsdXguKQ==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAuZmlsdGVyKHJlcUFuZEhvdGVsUm9vbSAtPiByZXFBbmRIb3RlbFJvb20uZ2V0VDEoKS5nZXRIb3RlbFNlcSgpLmVxdWFscyhyZXFBbmRIb3RlbFJvb20uZ2V0VDIoKS5nZXRUMSgpKQogICAgICAgICAgICAgICAgICAgICAgICAmJiByZXFBbmRIb3RlbFJvb20uZ2V0VDEoKS5nZXRSb29tTmFtZSgpLmVxdWFscygpKQ==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">dCAtPiB0LmdldFQyKCkuZ2V0VDEoKS5lcXVhbHModC5nZXRUMSgpLmdldEhvdGVsU2VxKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICYmICk=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kZWZhdWx0SWZFbXB0eSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBTaW1wbGVEZXRhaWxQcmljZVJlcXVlc3QgcHJpY2VSZXF1ZXN0ID0gQmVhbk1hcHBlclV0aWwuTUFQUEVSX0ZBQ0FERS5tYXAoaW5wdXQsIFNpbXBsZURldGFpbFByaWNlUmVxdWVzdC5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/user/notice/g</text>
