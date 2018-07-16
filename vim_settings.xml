@@ -13,6 +13,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/service/impl/HotelDistanceMatrixServiceImpl.java" timestamp="1531726289346" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/pom.xml" timestamp="1531721958357">
         <mark key="[" line="129" column="25" />
         <mark key="]" line="128" column="37" />
@@ -118,6 +119,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/test/resources/qunar-env.properties" timestamp="1531452160147">
         <mark key="[" line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/constants/HotelMatrixMonitor.java" timestamp="1531726294854" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/test/java/com/qunar/hotel/prmt/hulk/service/util/BeanMapperUtilTest.java" timestamp="1531395676011">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -213,10 +215,6 @@
         <mark key="^" line="58" column="9" />
         <mark key="." line="58" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/PriceNoticeDO.java" timestamp="1531461486903">
-        <mark key="[" line="78" column="38" />
-        <mark key="^" line="116" column="11" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/test/spring-boot-1-vs-2-performance/sample-reactive-spring-boot-2/src/main/kotlin/com/xyzz/gsdd/samplereactivespringboot2/controllers/PersonController.kt" timestamp="1530601837422">
         <mark key="[" line="18" column="5" />
       </file>
@@ -261,6 +259,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/test/java/com/qunar/hotel/prmt/hulk/service/agent/user/UserCenterAgentTest.java" timestamp="1531462581056">
         <mark key="[" line="16" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/profiles/dev/requesturl.properties" timestamp="1531726123489">
+        <mark key="'" line="29" column="6" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1531381892316">
         <mark key="[" line="16" column="8" />
@@ -396,6 +397,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/src/main/java/com/qunar/hotel/prmt/hulk/api/service/DetailPagePriceNoticeRemote.java" timestamp="1531368799755">
         <mark key="[" line="22" column="76" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/constants/RequestUrlLoader.java" timestamp="1531726128249">
+        <mark key="'" line="73" column="43" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReciever.java" timestamp="1531381142083">
         <mark key="[" line="15" column="73" />
         <mark key="]" line="15" column="74" />
@@ -518,8 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="30" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/supplier/SupplierAdaptor.java" />
-      <jump line="37" column="19" filename="/home/ouyangs/.m2/repository/com/qunar/hotel/qta/qta-open-product-api/1.1.202/qta-open-product-api-1.1.202-sources.jar!/com/qunar/hotel/qta/open/bean/supplier/QSupplierPropInfo.java" />
       <jump line="39" column="27" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductDetailAgent.java" />
       <jump line="416" column="21" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" />
       <jump line="152" column="17" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" />
@@ -618,6 +620,8 @@
       <jump line="41" column="56" filename="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/java/com/qunar/hotel/prmt/hulk/provider/dubbo/PriceNoticeRemoteImpl.java" />
       <jump line="24" column="33" filename="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/test/java/com/qunar/hotel/prmt/hulk/service/agent/redis/HotelSummaryCacheAgentTest.java" />
       <jump line="26" column="23" filename="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/redis/HotelSummaryCacheAgent.java" />
+      <jump line="29" column="6" filename="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/profiles/dev/requesturl.properties" />
+      <jump line="73" column="43" filename="$USER_HOME$/IdeaProjects/qmdc/sprite/src/main/java/com/qunar/mobile/hotel/constants/RequestUrlLoader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
