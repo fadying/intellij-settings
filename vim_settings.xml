@@ -59,8 +59,11 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1532014849555">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1532014928522">
         <mark key="[" line="35" column="45" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/PriceRecordBiz.java" timestamp="1531811588087">
         <mark key="[" line="14" column="78" />
@@ -213,6 +216,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/constant/PriceNoticeDOStatus.java" timestamp="1532015499612">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="43" column="11" />
+        <mark key="^" line="43" column="11" />
+        <mark key="." line="43" column="11" />
+      </file>
       <file name="/a.sql" timestamp="1531828986038">
         <mark key="[" line="0" column="0" />
       </file>
@@ -253,11 +262,11 @@
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/beanmapper/BizPriceNoticeMapper.java" timestamp="1532014689352">
-        <mark key="[" line="18" column="43" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/beanmapper/BizPriceNoticeMapper.java" timestamp="1532015210401">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/prmt_hulk.sms_record [betac]" timestamp="1531808564251">
         <mark key="[" line="0" column="0" />
@@ -482,7 +491,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/UserPriceNoticeBizImpl.java" timestamp="1532014777144" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/UserPriceNoticeBizImpl.java" timestamp="1532015633097">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="149" column="30" />
+        <mark key="^" line="149" column="30" />
+        <mark key="." line="149" column="30" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBiz.java" timestamp="1531229739646">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="3" />
@@ -707,7 +721,7 @@
         <mark key="]" line="21" column="28" />
         <mark key="." line="21" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531962610079">
+      <file name="/Dummy.txt" timestamp="1532015640997">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -945,14 +959,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>noticeDO.getCheckInDate().isBefore()</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>.toDate());</text>
+        <text>noticeDO.getCheckInDate().isBefore()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmNsdWRlXD4=</text>
@@ -961,19 +975,19 @@
         <text encoding="base64">ICAgICAgICByZWNvcmRETy5zZXRSZWNvcmRQcmljZSgxMTApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAobm90aWNlLmdldFN0YXR1cygpID09IFByaWNlTm90aWNlU3RhdHVzLlJFQURZCiAgICAgICAgICAgICAgICAmJiBub3RpY2UuZ2V0Q2hlY2tJbkRhdGUoKS5iZWZvcmUoRGF0ZXMudG9EYXRlKExvY2FsRGF0ZS5ub3coKSkpKSB7CiAgICAgICAgICAgIG5vdGljZS5zZXRTdGF0dXMoUHJpY2VOb3RpY2VTdGF0dXMuRVhQSVJFRCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bm90aWNlRE8uZ2V0U3RhdHVzKCkgPT0gUHJpY2VOb3RpY2VTdGF0dXMuUkVBRFkKICAgICAgICAgICAgICAgICYmIG5vdGljZURPLmdldENoZWNrSW5EYXRlKCkuaXNCZWZvcmUoTG9jYWxEYXRlLm5vdygpKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
@@ -985,13 +999,13 @@
         <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHF1bmFyLkFwcENvbmZpZzsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWU7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGlkCXNlbGVjdF90eXBlCXRhYmxlCXR5cGUJcG9zc2libGVfa2V5cwlrZXkJa2V5X2xlbglyZWYJcm93cwlFeHRyYQogICAgMQlTSU1QTEUJcHJpY2Vfbm90aWNlCXJhbmdlCVBSSU1BUlksaWR4X2NoZWNrX2luX2RhdGVfY2hlY2tfb3V0X2RhdGUsaWR4X2NoZWNrX2luX2RhdGVfZWZmZWN0aXZlX3ByaWNlX3JlY29yZAlQUklNQVJZCTgJCTU5CVVzaW5nIHdoZXJl</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5maWx0ZXIociAtPiB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHIuZ2V0Tm90aWNlVGltZSgpLmFmdGVyKGxhc3RTZXRUaW1lKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgci5nZXRUeXBlKCkgPT0gU21zVHlwZUVudW0uRUZGRUNUSVZFLmdldENvZGUoKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuTG9jYWxEYXRlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/SUCCESS/MULTI/g</text>
