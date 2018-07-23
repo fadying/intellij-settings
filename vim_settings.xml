@@ -19,8 +19,14 @@
         <mark key="^" line="50" column="76" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" timestamp="1532348828723">
-        <mark key="'" line="35" column="11" />
+      <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" timestamp="1532350075238">
+        <mark key="'" line="88" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/system/ThreadPoolConfig.java" timestamp="1532350186744">
+        <mark key="[" line="47" column="135" />
+        <mark key="]" line="69" column="32" />
+        <mark key="." line="69" column="32" />
+        <mark key="^" line="69" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDynCashProcessor.java" timestamp="1532075821967">
         <mark key="'" line="58" column="39" />
@@ -39,11 +45,6 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/MonoBridges.java" timestamp="1532337011943" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1532326421199">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/application.properties" timestamp="1531815382470">
         <mark key="[" line="12" column="48" />
       </file>
@@ -73,11 +74,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/resources.beta/sms.properties" timestamp="1531833971180">
         <mark key="[" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/process/NoticeScanProcessor.java" timestamp="1532339174612">
-        <mark key="[" line="12" column="108" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1532066562277">
         <mark key="[" line="0" column="0" />
@@ -131,8 +127,8 @@
         <mark key="^" line="105" column="59" />
         <mark key="." line="105" column="59" />
       </file>
-      <file name="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" timestamp="1532348863362">
-        <mark key="'" line="133" column="8" />
+      <file name="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" timestamp="1532349926913">
+        <mark key="'" line="235" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/raven/task/src/test/java/com/qunar/hotel/price/raven/task/qhotel/HotelSyncTaskTest.java" timestamp="1532319683433" />
       <file name="/prmt_hulk.sms_record [betac]" timestamp="1531808564251">
@@ -152,11 +148,6 @@
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1532319439625" />
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/SafeBizTemplate.java" timestamp="1532332025953">
-        <mark key="[" line="52" column="49" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/CombineLogger.java" timestamp="1532339356672">
         <mark key="[" line="0" column="38" />
       </file>
@@ -200,11 +191,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/resources.prod/sms.properties" timestamp="1531833992272">
         <mark key="[" line="2" column="20" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/BizTemplate.java" timestamp="1532318124083">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/process/FutureNoticeScanProcessor.java" timestamp="1532349207246">
         <mark key="[" line="29" column="0" />
@@ -259,17 +245,23 @@
       <file name="vim_settings.xml" timestamp="1531984564645">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/ManagedThreadPoolExtend.java" timestamp="1532350483147">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="38" column="11" />
+        <mark key="^" line="38" column="11" />
+        <mark key="." line="38" column="11" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/util/JsonUtils.java" timestamp="1532332124972">
         <mark key="[" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductListAdapter.java" timestamp="1532072904436">
         <mark key="'" line="215" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/NoticeScanTask.java" timestamp="1532347343374">
-        <mark key="[" line="117" column="22" />
-        <mark key="]" line="41" column="28" />
-        <mark key="." line="41" column="28" />
-        <mark key="^" line="41" column="28" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/NoticeScanTask.java" timestamp="1532350614889">
+        <mark key="[" line="117" column="18" />
+        <mark key="]" line="117" column="18" />
+        <mark key="." line="117" column="18" />
+        <mark key="^" line="94" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceRecordBizImpl.java" timestamp="1532332089006">
         <mark key="[" line="155" column="13" />
@@ -351,10 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="28" filename="/home/ouyangs/.m2/repository/com/qunar/hotel/qta/qta-open-product-api/1.1.204/qta-open-product-api-1.1.204-sources.jar!/com/qunar/hotel/qta/open/bean/common/QApiCode.java" />
-      <jump line="248" column="5" filename="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/PriceNoticeDO.java" />
-      <jump line="21" column="3" filename="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/biz/SimplePriceNotice.java" />
-      <jump line="646" column="33" filename="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/assist/HotelHotFileQConfig.java" />
       <jump line="480" column="33" filename="$USER_HOME$/IdeaProjects/kylin/eywa/provider/src/main/java/com/qunar/mobile/eywa/config/HotelHotFileQConfig.java" />
       <jump line="33" column="4" filename="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/assist/HotelHotFileQConfig.java" />
       <jump line="115" column="4" filename="$USER_HOME$/IdeaProjects/kylin/web_hotdog/src/main/java/com/qunar/mobile/hotdog/manager/hotel/assist/HotelHotFileQConfig.java" />
@@ -451,19 +439,23 @@
       <jump line="111" column="12" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
       <jump line="35" column="11" filename="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" />
       <jump line="133" column="8" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
+      <jump line="87" column="40" filename="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" />
+      <jump line="100" column="36" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
+      <jump line="235" column="38" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/AbstractExecutorService.java" />
+      <jump line="88" column="24" filename="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBRVAo=</text>
+      <register name="&quot;" type="4">
+        <text>.collect(Collectors.toList());</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnJlZHVjZSgobWVyZ2UsIHIpIC0+KQ==</text>
+        <text>.collect(Collectors.toList());</text>
       </register>
       <register name="/" type="4">
         <text>SUCCESS</text>
@@ -472,37 +464,37 @@
         <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZS5hbGxPZihhc3luY1Rhc2tzLnRvQXJyYXkobmV3IENvbXBsZXRhYmxlRnV0dXJlWzBdKSkKICAgICAgICAgICAgICAgIC5nZXQoQXBwQ29uZmlnLmdldExvbmcobm90aWNlVHlwZSArICJfdGFza190aW1lb3V0IiwgNjAwTCksIFRpbWVVbml0Lk1JTlVURVMpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBRVAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFQ+IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBRVHJhY2VDbGllbnQK</text>
+        <text encoding="base64">ICAgICAgICBRVAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBRVHJhY2VDbGllbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25vLmZyb21TdXBwbGllcigoKSAtPiApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb25vLmZyb21TdXBwbGllcigoKSAtPiApCg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3luY1Rhc2tzIC5mb3JFYWNoKHQgLT4gdC5ibG9jaygpKTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgUHJpY2VSZWNvcmRCaXogcHJpY2VSZWNvcmRCaXo7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3luY1Rhc2tzIC5mb3JFYWNoKHQgLT4gdC5ibG9jaygpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5kb09uRXJyb3IoZXJyb3JIYW5kbGVyKTsK</text>
+        <text encoding="base64">CiAgICBAUmVzb3VyY2UKICAgIHByaXZhdGUgUHJpY2VSZWNvcmRCaXogcHJpY2VSZWNvcmRCaXo7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/SUCCESS/MULTI/g</text>
