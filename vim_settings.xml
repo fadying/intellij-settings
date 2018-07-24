@@ -26,6 +26,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/mapper/SmsRecordMapper.java" timestamp="1531816490631">
         <mark key="[" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/Reduce2ActivityProcessor.java" timestamp="1532423399636" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/provider/src/main/resources.betamagic/application.properties" timestamp="1532084598756">
         <mark key="[" line="27" column="50" />
         <mark key="]" line="18" column="33" />
@@ -72,6 +73,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynHotelDiscountProcessImp.java" timestamp="1532087790850">
         <mark key="[" line="55" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.205/qta-open-product-api-1.1.205.jar!/com/qunar/hotel/qta/open/bean/price/query/QProductTracking.class" timestamp="1532423156825" />
       <file name="/sms_record [@localhost]" timestamp="1532347530606">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,6 +167,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" timestamp="1532423103096">
+        <mark key="'" line="45" column="54" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1532340968057" />
       <file name="/price_notice [betac]" timestamp="1532354888222">
         <mark key="[" line="0" column="0" />
@@ -250,12 +255,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/agent/product/ota/OtaProductListAdapter.java" timestamp="1532072904436">
         <mark key="'" line="215" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceRecordBizImpl.java" timestamp="1532354737823">
-        <mark key="'" line="84" column="41" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/Benefit.java" timestamp="1532331837596">
         <mark key="'" line="105" column="38" />
       </file>
@@ -314,7 +313,6 @@
       <file name="/opt/jdk1.8.0_92/src.zip!/java/util/List.java" timestamp="1532335420346" />
     </filemarks>
     <jumps>
-      <jump line="101" column="31" filename="$USER_HOME$/IdeaProjects/kylin/kylin/pom.xml" />
       <jump line="196" column="22" filename="/opt/jdk1.8.0_92/src.zip!/java/lang/Throwable.java" />
       <jump line="84" column="30" filename="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeBizImpl.java" />
       <jump line="61" column="34" filename="/home/ouyangs/.m2/repository/com/qunar/dubbo/dubbo/3.2.22/dubbo-3.2.22-sources.jar!/com/alibaba/dubbo/config/AbstractMethodConfig.java" />
@@ -414,6 +412,7 @@
       <jump line="156" column="28" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/bean/CalCancelInsuranceInfo.java" />
       <jump line="47" column="103" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/packagesV2/component/HotelCancelInsuranceComponent.java" />
       <jump line="175" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-package.api/1.0.149/order-package.api-1.0.149.jar!/com/qunar/hotel/qta/order/packages/api/remote/param/PackageQueryProduct.class" />
+      <jump line="45" column="54" filename="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
