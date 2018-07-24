@@ -156,8 +156,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/process/NoticeScanProcessor.java" timestamp="1532352611875">
         <mark key="[" line="13" column="74" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.75/open-promotion-api-1.1.75-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/benefit/QBenefit.java" timestamp="1532330255131">
-        <mark key="'" line="55" column="29" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CouponFunctions.java" timestamp="1532414820953" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.75/open-promotion-api-1.1.75-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/benefit/QBenefit.java" timestamp="1532414238099">
+        <mark key="'" line="579" column="18" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/LogicBitUtils.java" timestamp="1532076643921">
         <mark key="'" line="249" column="33" />
@@ -202,7 +203,7 @@
       <file name="/price_notice_history [betac]" timestamp="1531998294894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1532406758592" />
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/additional/support/CancelInsuranceHandler.java" timestamp="1532413523930" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/price/DetailPriceAgent.java" timestamp="1532352059284">
         <mark key="'" line="46" column="66" />
         <mark key="[" line="40" column="28" />
@@ -224,6 +225,7 @@
         <mark key="]" line="33" column="61" />
         <mark key="." line="33" column="61" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitDoubleEggProcessor.java" timestamp="1532414047518" />
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CancelInsuranceConfig.java" timestamp="1532406746279">
         <mark key="'" line="36" column="25" />
       </file>
@@ -399,7 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="/home/ouyangs/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.9/qclient-redis-1.5.9-sources.jar!/qunar/tc/qclient/redis/impl/RedisAsyncClientImpl.java" />
       <jump line="120" column="21" filename="/home/ouyangs/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.9/qclient-redis-1.5.9-sources.jar!/qunar/tc/qclient/redis/impl/RedisAsyncClientImpl.java" />
       <jump line="119" column="26" filename="/home/ouyangs/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.9/qclient-redis-1.5.9-sources.jar!/qunar/tc/qclient/redis/impl/RedisAsyncClientImpl.java" />
       <jump line="34" column="39" filename="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/PriceNoticeRedisWriteService.java" />
@@ -499,6 +500,7 @@
       <jump line="2172" column="36" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/CompletableFuture.java" />
       <jump line="84" column="41" filename="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceRecordBizImpl.java" />
       <jump line="36" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CancelInsuranceConfig.java" />
+      <jump line="579" column="18" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.75/open-promotion-api-1.1.75-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/benefit/QBenefit.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
