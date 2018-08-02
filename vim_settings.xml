@@ -32,6 +32,9 @@
       <file name="/activity_benefit [noah]" timestamp="1532939660139">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/async/ActivityTask.java" timestamp="1533198102379">
+        <mark key="'" line="57" column="49" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.75/open-promotion-api-1.1.75-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/benefit/QBenefit.java" timestamp="1532414238099">
         <mark key="'" line="579" column="18" />
       </file>
@@ -76,8 +79,11 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="37" column="175" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1533196178594">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1533197980071">
         <mark key="[" line="82" column="109" />
+        <mark key="]" line="80" column="32" />
+        <mark key="^" line="80" column="32" />
+        <mark key="." line="80" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/NoticeScanTask.java" timestamp="1532427719916">
         <mark key="[" line="77" column="61" />
@@ -90,6 +96,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/process/NoticeScanProcessor.java" timestamp="1532352611875">
         <mark key="[" line="13" column="74" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" timestamp="1533198158500">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/otter/service/src/test/resources/application.properties" timestamp="1531815382470">
         <mark key="[" line="12" column="48" />
@@ -160,6 +169,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CancelInsuranceConfig.java" timestamp="1532406746279">
         <mark key="'" line="36" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1533198091696">
+        <mark key="'" line="343" column="46" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/LogicBitUtils.java" timestamp="1532076643921">
         <mark key="'" line="249" column="33" />
@@ -402,13 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="28" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1-sources.jar!/org/apache/http/util/EntityUtils.java" />
-      <jump line="15" column="39" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.205/qta-open-product-api-1.1.205.jar!/com/qunar/hotel/qta/open/bean/price/query/QPsParameters.class" />
-      <jump line="181" column="53" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/facade/app/QOrderPriceBolt.java" />
-      <jump line="323" column="23" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/biz/MobPriceParam.java" />
-      <jump line="77" column="19" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/biz/MobPriceParam.java" />
-      <jump line="651" column="32" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/biz/MobPriceParam.java" />
-      <jump line="35" column="8" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/util/RequestDecorator.java" />
       <jump line="482" column="27" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/bean/ProductQuery.java" />
       <jump line="57" column="20" filename="$USER_HOME$/IdeaProjects/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/facade/submit/app/HotelPriceBolt.java" />
       <jump line="75" column="81" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/product/QOrderQuery2PriceApiQuery.java" />
@@ -502,6 +507,13 @@
       <jump line="20" column="22" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/mapper/SmsRecordMapper.java" />
       <jump line="24" column="9" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/mapper/SmsRecordMapper.java" />
       <jump line="56" column="23" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/RemoteDetailAgent.java" />
+      <jump line="231" column="42" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" />
+      <jump line="346" column="70" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" />
+      <jump line="343" column="46" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" />
+      <jump line="57" column="49" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/async/ActivityTask.java" />
+      <jump line="29" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
+      <jump line="119" column="22" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
