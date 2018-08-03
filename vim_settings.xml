@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/test/java/com/qunar/hippo/touch/pci/proxy/web/controller/PortalControllerTest.java" timestamp="1533266778871">
         <mark key="[" line="77" column="39" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/QueryOTAPacketProcessor.java" timestamp="1533277015223" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/async/ActivityTask.java" timestamp="1533199138399">
         <mark key="'" line="57" column="49" />
       </file>
@@ -88,7 +89,7 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/surl/bean/ShortUrlRequest.java" timestamp="1531834625467">
         <mark key="[" line="41" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1533274320592" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1533276466859" />
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-concurrent/9.2.11/common-concurrent-9.2.11-sources.jar!/qunar/concurrent/ManagedThreadPool.java" timestamp="1532350075238">
         <mark key="'" line="88" column="24" />
       </file>
@@ -100,6 +101,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/pom.xml" timestamp="1532319449660">
         <mark key="[" line="21" column="21" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" timestamp="1533276505900">
+        <mark key="'" line="45" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/pom.xml" timestamp="1531883655471">
         <mark key="[" line="17" column="21" />
@@ -176,7 +180,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynHotelDiscountProcessImp.java" timestamp="1532087790850">
         <mark key="[" line="55" column="65" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/config/QProfile.java" timestamp="1533268459626" />
       <file name="/sms_record [betac]" timestamp="1532066565067">
         <mark key="[" line="0" column="0" />
       </file>
@@ -288,11 +291,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1532940433037">
         <mark key="[" line="695" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/util/OrderUtils.java" timestamp="1533268428847" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1532433595792">
         <mark key="[" line="37" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/base/config/node/AppConfig.java" timestamp="1533268358669" />
       <file name="/price_notice_history [@localhost]" timestamp="1532321266831">
         <mark key="[" line="0" column="0" />
       </file>
@@ -340,7 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiUtils.java" />
       <jump line="35" column="4" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiUtils.java" />
       <jump line="80" column="17" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiUtils.java" />
       <jump line="88" column="43" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/adaptor/product/QOrderQuery2PriceApiQuery.java" />
@@ -440,6 +440,7 @@
       <jump line="24" column="12" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-baseinfo-api/1.2.125/qta-service-baseinfo-api-1.2.125.jar!/com/qunar/hotel/qta/baseinfo/bean/sroom/SRoom.class" />
       <jump line="24" column="12" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/room/QRoom.java" />
       <jump line="20" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/room/QRoomPropInfo.java" />
+      <jump line="45" column="25" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
