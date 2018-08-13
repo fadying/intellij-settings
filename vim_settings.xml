@@ -35,14 +35,6 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/test/java/com/qunar/hippo/touch/pci/proxy/web/controller/PortalControllerTest.java" timestamp="1533542390515">
         <mark key="[" line="77" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/biz/SubmitWithCardIndexLogic.java" timestamp="1533549422653">
-        <mark key="'" line="175" column="67" />
-        <mark key="[" line="151" column="121" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/web/controller/CreditCardController.java" timestamp="1533549400766">
-        <mark key="'" line="54" column="94" />
-        <mark key="[" line="75" column="118" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/enums/QBenefitSource.java" timestamp="1532330761809">
         <mark key="[" line="6" column="29" />
       </file>
@@ -142,6 +134,11 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/user/UserCenterAgent.java" timestamp="1531833927301">
         <mark key="[" line="7" column="3" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/NoticeScanTask.java" timestamp="1534144109881">
+        <mark key="[" line="135" column="89" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynHotelDiscountProcessImp.java" timestamp="1532087790850">
         <mark key="[" line="55" column="65" />
       </file>
@@ -179,6 +176,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/PriceApiUrlGenerator.java" timestamp="1531744086717">
         <mark key="[" line="23" column="96" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/task/src/test/java/com/qunar/hotel/prmt/hulk/task/PriceCalc.java" timestamp="1534145087708">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/price_record [@localhost]" timestamp="1532347519960">
         <mark key="[" line="0" column="0" />
@@ -236,6 +238,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1532940433037">
         <mark key="[" line="691" column="25" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1534144192524" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/cache/NeedCaptchaService.java" timestamp="1533541415365">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="7" />
@@ -250,7 +253,7 @@
       <file name="/dummy.sql" timestamp="1533215525604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534132330384">
+      <file name="/Dummy.txt" timestamp="1534144194310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/prmt_hulk.price_notice_history [betac]" timestamp="1531808146837">
@@ -390,13 +393,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzKTsK</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>CAPTCHA.getValue()</text>
+        <text>new RuntimeException(&quot;task error&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>SUCCESS</text>
@@ -405,37 +408,37 @@
         <text encoding="base64">ICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJyZWRpc19nZXRfdXNlcl9jaGVja19zdWNjZXNzIiwgcy5zdG9wKCkuZWxhcHNlZChUaW1lVW5pdC5NSUxMSVNFQ09ORFMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYmFua0NhcmQgPT0gbnVsbCB8fCBiYW5rQ2FyZC5nZXRCYW5rQ29kZSgpKQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">bGluZSAtPiB7CgogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGluZSk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgVGhyb3dlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgVXNlckluZm8gdXNlckluZm8gPSBVc2VyQ29udGV4dC5nZXRVc2VySW5mbygpOw==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oInRhc2sgZXJyb3IiKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYmFua0NhcmQgPT0gbnVsbCB8fCBiYW5rQ2FyZC5nZXRCYW5rQ29kZSgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgQFJlc291cmNlCiAgICBwcml2YXRlIFVzZXJJbmZvRmlsdGVyIHVzZXJJbmZvRmlsdGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKSB7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMT0cuZXJyb3IoIiIpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgVXNlckluZm8gdXNlckluZm8gPSBVc2VyQ29udGV4dC5nZXRVc2VySW5mbygpOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXEoIm1haW4tb3JkZXIub3JkZXJCYXNlLmhvdGVsU2VxIiwgInRlc3Rfb25seTJfMTQiKSwK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChFeGVjdXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOw==</text>
       </register>
       <register name=":" type="4">
         <text>s/SUCCESS/MULTI/g</text>
