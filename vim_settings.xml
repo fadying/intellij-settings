@@ -81,6 +81,7 @@
         <mark key="[" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/system/ThreadPoolConfig.java" timestamp="1534140980036" />
+      <file name="/DynInitProcess.java" timestamp="1534159056004" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/resources.betanoah/application.properties" timestamp="1533526367003">
         <mark key="[" line="50" column="23" />
       </file>
@@ -89,6 +90,8 @@
       <file name="/prmt_hulk.sms_record [betac]" timestamp="1531808564251">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1534159110322" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-api/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1534159235191" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/order/OrderReadAgent.java" timestamp="1532443071828">
         <mark key="[" line="28" column="49" />
       </file>
@@ -151,18 +154,6 @@
       <file name="/price_record [@localhost]" timestamp="1532347519960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/risk/impl/RiskServiceImpl.java" timestamp="1534129287434">
-        <mark key="'" line="60" column="36" />
-        <mark key="[" line="61" column="115" />
-        <mark key="]" line="61" column="114" />
-        <mark key="^" line="61" column="114" />
-        <mark key="." line="61" column="114" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/pom.xml" timestamp="1534132187496">
-        <mark key="[" line="37" column="51" />
-        <mark key="]" line="37" column="52" />
-        <mark key="." line="37" column="52" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/constant/PriceCheckTypeEnum.java" timestamp="1531985923730">
         <mark key="[" line="7" column="53" />
       </file>
@@ -193,11 +184,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/db/PriceRecordDO.java" timestamp="1534147520648" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1534144192524" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/cache/NeedCaptchaService.java" timestamp="1533541415365">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/test/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceNoticeCacheWriteBizImplTest.java" timestamp="1532433595792">
         <mark key="[" line="37" column="52" />
       </file>
@@ -234,14 +220,8 @@
       <file name="/fragment.java" timestamp="1534141975600">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/model/RedisPrefix.java" timestamp="1533528234901">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="24" filename="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/UserPriceNoticeBizImpl.java" />
       <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/room/QRoomPropInfo.java" />
       <jump line="96" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.206/qta-open-product-api-1.1.206-sources.jar!/com/qunar/hotel/qta/open/bean/room/QRoomPropInfo.java" />
       <jump line="38" column="36" filename="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/constant/PriceRecordSmsTypeMap.java" />
@@ -341,6 +321,7 @@
       <jump line="67" column="51" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/biz/AbstractSubmitLogic.java" />
       <jump line="81" column="64" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/card/impl/CreditCardServiceImpl.java" />
       <jump line="175" column="67" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/biz/SubmitWithCardIndexLogic.java" />
+      <jump line="106" column="71" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
