@@ -72,7 +72,6 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/task/src/main/java/com/qunar/hotel/prmt/hulk/task/NearNoticeScanTask.java" timestamp="1531824135565">
         <mark key="[" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/bean/HotelCoupon.java" timestamp="1534734996476" />
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/constant/PriceCheckTypeEnum.java" timestamp="1531985923730">
         <mark key="[" line="7" column="53" />
       </file>
@@ -103,8 +102,11 @@
       <file name="/prmt_hulk.price_notice_history [@localhost]" timestamp="1531800990096">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/updateOrder.jsp" timestamp="1534745961528">
-        <mark key="[" line="37" column="39" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/updateOrder.jsp" timestamp="1534747650371">
+        <mark key="[" line="43" column="42" />
+        <mark key="]" line="43" column="47" />
+        <mark key="^" line="43" column="47" />
+        <mark key="." line="43" column="47" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/domain/src/main/java/com/qunar/hotel/prmt/hulk/domain/constant/PriceRecordTypeEnum.java" timestamp="1532427690791">
         <mark key="[" line="12" column="29" />
@@ -148,6 +150,9 @@
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/test/java/com/qunar/hotel/prmt/hulk/service/util/DatesTest.java" timestamp="1531915332499">
         <mark key="[" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/test/java/com/qunar/hotel/qta/open/promotion/store/promotion/PromotionOrderUtilsTest.java" timestamp="1534746137422">
+        <mark key="[" line="35" column="5" />
+      </file>
       <file name="/a.sql" timestamp="1532321269576">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,7 +192,7 @@
       <file name="/coupon_00 [noah]" timestamp="1534132392093">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/provider/src/main/resources.prod/application.properties" timestamp="1534387411393">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/provider/src/main/resources.prod/application.properties" timestamp="1534747840069">
         <mark key="[" line="15" column="113" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/promotion/hulk-api/pom.xml" timestamp="1531798909103">
@@ -336,20 +341,20 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>disrate</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>DZS-22253_depreciate-SNAPSHOT</text>
+        <text>disrate</text>
       </register>
       <register name="/" type="4">
         <text>SUCCESS</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJyZWRpc19nZXRfdXNlcl9jaGVja19zdWNjZXNzIiwgcy5zdG9wKCkuZWxhcHNlZChUaW1lVW5pdC5NSUxMSVNFQ09ORFMpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNb25leSBkaXNyYXRlID0gb2JqZWN0TWFwcGVyLnJlYWRWYWx1ZShleHRlbmRNYXAuZ2V0KCJESVNSQVRFIiksIE1vbmV5LmNsYXNzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
