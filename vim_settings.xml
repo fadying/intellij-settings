@@ -8,6 +8,13 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/resources.devq/registry.properties" timestamp="1534938274879">
         <mark key="[" line="18" column="57" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/base/HttpRemoteAgent.java" timestamp="1535078919465">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="121" column="53" />
+        <mark key="]" line="86" column="44" />
+        <mark key="." line="86" column="44" />
+        <mark key="^" line="86" column="44" />
+      </file>
       <file name="/a.dummy" timestamp="1535026746688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,7 +56,7 @@
         <mark key="." line="79" column="45" />
         <mark key="^" line="69" column="53" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1535028342199" />
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1535078608716" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.124/order-core-api-1.4.124-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/pay/PromoteInfo.java" timestamp="1534993404068">
         <mark key="'" line="28" column="28" />
       </file>
@@ -131,7 +138,7 @@
         <mark key="." line="13" column="77" />
         <mark key="^" line="13" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535029533144">
+      <file name="/Dummy.txt" timestamp="1535078739964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/model/benefit/HotelCouponInfo.java" timestamp="1535018794188">
@@ -171,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="66" filename="$USER_HOME$/IdeaProjects/promotion/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/price/DetailPriceAgent.java" />
-      <jump line="2291" column="30" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/CompletableFuture.java" />
-      <jump line="95" column="11" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/CompletableFuture.java" />
       <jump line="2172" column="36" filename="/opt/jdk1.8.0_92/src.zip!/java/util/concurrent/CompletableFuture.java" />
       <jump line="84" column="41" filename="$USER_HOME$/IdeaProjects/promotion/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/PriceRecordBizImpl.java" />
       <jump line="36" column="25" filename="$USER_HOME$/IdeaProjects/promotion/open-price/provider/src/main/java/com/qunar/hotel/qta/open/config/CancelInsuranceConfig.java" />
@@ -271,19 +275,22 @@
       <jump line="32" column="18" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/RemoteDetailAgent.java" />
       <jump line="72" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/pom.xml" />
       <jump line="41" column="15" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/base/RemoteAsyncAgent.java" />
+      <jump line="86" column="44" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/base/HttpRemoteAgent.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/base/HttpRemoteAgent.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/base/HttpRemoteAgent.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Exception</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>splitToList</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text>SUCCESS</text>
