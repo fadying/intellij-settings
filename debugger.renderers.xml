@@ -2,7 +2,7 @@
   <component name="NodeRendererSettings">
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
-      <option name="ENABLED" value="false" />
+      <option name="ON_DEMAND" value="true" />
     </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="NAME" value="unnamed" />
@@ -108,16 +108,6 @@
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
           <option name="ON_DEMAND" value="false" />
           <option name="LABEL_EXPRESSION" value="getProductId()&#13;&#13;JAVA" />
-        </Renderer>
-      </Renderer>
-      <Renderer ID="CompoundTypeRenderer">
-        <option name="NAME" value="benefit" />
-        <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
-        <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.promotion.activity.Benefit" />
-          <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
