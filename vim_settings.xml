@@ -84,6 +84,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/RefreshBenefitTask.java" timestamp="1535370778556" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/UserBenefitService.java" timestamp="1535353933319" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/car/CarCouponHttpService.java" timestamp="1535364815509" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1535442503198">
+        <mark key="[" line="127" column="32" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/sms/SMSAgent.java" timestamp="1535359458788" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/mapper/PriceNoticeMapper.java" timestamp="1535358409097" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/DZS-27480_180816_new_hotel_promotion-SNAPSHOT/coupon-api-DZS-27480_180816_new_hotel_promotion-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/coupon/api/bean/CouponInfo.java" timestamp="1535363165901">
@@ -106,6 +109,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.124/order-core-api-1.4.124-sources.jar!/com/qunar/hotel/qta/order/core/api/bean/pay/PromoteInfo.java" timestamp="1534993404068">
         <mark key="'" line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/SegmentCondition.java" timestamp="1535442481127">
+        <mark key="[" line="15" column="12" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/UserPriceNoticeBizImpl.java" timestamp="1534744860711">
         <mark key="'" line="96" column="0" />
@@ -291,13 +299,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>empty</text>
+        <text>float</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text>SUCCESS</text>
