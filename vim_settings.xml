@@ -8,6 +8,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/resources.devq/registry.properties" timestamp="1534938274879">
         <mark key="[" line="18" column="57" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/QProduct.java" timestamp="1535515172157">
+        <mark key="'" line="54" column="12" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-api-common/1.6.91/qta-api-common-1.6.91-sources.jar!/com/qunar/hotel/qta/base/money/Currency.java" timestamp="1535375027833" />
       <file name="/activity_base [noah]" timestamp="1535440471475">
         <mark key="[" line="0" column="0" />
@@ -52,7 +55,7 @@
         <mark key="[" line="30" column="88" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/UserBenefitServiceImpl.java" timestamp="1535351986401" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/ProductPromotionFunction.java" timestamp="1535461025358">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/ProductPromotionFunction.java" timestamp="1535515124115">
         <mark key="[" line="85" column="9" />
         <mark key="]" line="88" column="4" />
         <mark key="." line="88" column="4" />
@@ -74,8 +77,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/HotelPromotionReloadTask.java" timestamp="1535370739779" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/DZS-27480_180816_new_hotel_promotion-SNAPSHOT/coupon-api-DZS-27480_180816_new_hotel_promotion-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/coupon/api/bean/CouponIdWrap.java" timestamp="1535354085582" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/CtripHotelCouponService.java" timestamp="1535358766369" />
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/rateplan/QRatePlan.java" timestamp="1535459693626" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/rateplan/QRatePlan.java" timestamp="1535515178163" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1535426246407" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" timestamp="1535515157865">
+        <mark key="'" line="35" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/DynInitProcess.java" timestamp="1534841181521">
         <mark key="'" line="98" column="77" />
       </file>
@@ -215,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="49" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/async/ActivityTask.java" />
-      <jump line="29" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
       <jump line="119" column="22" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/biz/src/main/java/com/qunar/hotel/prmt/hulk/biz/impl/SmsParamBuilderImpl.java" />
       <jump line="86" column="43" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QAdditionalRemoteImpl.java" />
@@ -315,6 +319,8 @@
       <jump line="839" column="6" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" />
       <jump line="48" column="28" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/AbstractManager.java" />
       <jump line="172" column="38" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" />
+      <jump line="35" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderProduct.java" />
+      <jump line="54" column="12" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-27480-SNAPSHOT/qta-open-product-api-DZS-27480-20180828.031249-3-sources.jar!/com/qunar/hotel/qta/open/bean/price/product/QProduct.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
