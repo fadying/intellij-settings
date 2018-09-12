@@ -58,7 +58,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.devq/registry.properties" timestamp="1534925867158">
         <mark key="[" line="22" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1536745657108">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1536755809007">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -132,6 +132,12 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" timestamp="1536736011763">
         <mark key="'" line="284" column="28" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/RefreshBenefitTask.java" timestamp="1536755853371">
+        <mark key="[" line="77" column="88" />
+        <mark key="]" line="77" column="88" />
+        <mark key="^" line="77" column="89" />
+        <mark key="." line="77" column="88" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-pub.xml" timestamp="1536657374993" />
       <file name="$USER_HOME$/IdeaProjects/source/incubator-dubbo/dubbo-bootstrap/src/main/java/org/apache/dubbo/bootstrap/DubboBootstrap.java" timestamp="1536722622727" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares-client/ares-client-base/src/main/java/com/qunar/hotel/qta/ares/client/base/BaseDumpContext.java" timestamp="1536739682722">
@@ -186,6 +192,11 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.62/ares-client-common-1.0.62.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.class" timestamp="1536653812481" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/cache/impl/CouponRemoteProxy.java" timestamp="1536740150960">
         <mark key="'" line="82" column="24" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/source/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/support/NamedFilter.java" timestamp="1536725981835">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/pom.xml" timestamp="1536659430464">
         <mark key="[" line="89" column="25" />
@@ -244,7 +255,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-rpc/9.2.12/common-rpc-9.2.12.jar!/qunar/rpc/dubbo/QTraceFilter.class" timestamp="1536657424028" />
-      <file name="/Dummy.txt" timestamp="1536754929590">
+      <file name="/Dummy.txt" timestamp="1536755854967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/highstar_mockserver.entry [ares]" timestamp="1536654039189">
@@ -390,14 +401,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, secondaryTitle:{}</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.66</text>
+        <text>, secondaryTitle:{}</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
