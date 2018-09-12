@@ -57,8 +57,10 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.devq/registry.properties" timestamp="1534925867158">
         <mark key="[" line="22" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1536744871334">
-        <mark key="[" line="19" column="20" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1536745657108">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1534925828471">
         <mark key="[" line="24" column="67" />
@@ -92,6 +94,7 @@
       <file name="/opt/jdk1.8.0_171/src.zip!/java/util/concurrent/ScheduledExecutorService.java" timestamp="1536650878452">
         <mark key="'" line="125" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-target/1.0.67/ares-client-target-1.0.67.jar!/com/qunar/hotel/qta/ares/client/init/AresApplicationContextInitializer.class" timestamp="1536745637054" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/DeviceSupport.java" timestamp="1536223747361">
         <mark key="[" line="31" column="93" />
       </file>
@@ -115,6 +118,7 @@
         <mark key="[" line="154" column="36" />
       </file>
       <file name="/web.xml" timestamp="1536744906203" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares-client/ares-client-base/pom.xml" timestamp="1536745520724" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.0.8/dubbo-3.0.8-sources.jar!/com/alibaba/dubbo/common/extension/ExtensionLoader.java" timestamp="1536657769446" />
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-rpc/9.2.12/common-rpc-9.2.12-sources.jar!/qunar/rpc/dubbo/QTraceFilter.java" timestamp="1536738719623" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-target/1.0.65/ares-client-target-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/init/AresInitConfig.java" timestamp="1536651533248" />
@@ -215,6 +219,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/HttpAresFilter.java" timestamp="1536654706783" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.62/ares-client-common-1.0.62-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" timestamp="1536653834185" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-target/1.0.67/ares-client-target-1.0.67-sources.jar!/com/qunar/hotel/qta/ares/client/init/AresApplicationContextInitializer.java" timestamp="1536745726301" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.66/ares-client-common-1.0.66-sources.jar!/com/qunar/hotel/qta/ares/client/http/AsyncServletHandler.java" timestamp="1536745126920" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536294010391">
         <mark key="[" line="0" column="1" />
@@ -246,7 +251,7 @@
         <mark key="'" line="57" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/common/common-rpc/9.2.12/common-rpc-9.2.12.jar!/qunar/rpc/dubbo/QTraceFilter.class" timestamp="1536657424028" />
-      <file name="/Dummy.txt" timestamp="1536745232045">
+      <file name="/Dummy.txt" timestamp="1536745659681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/highstar_mockserver.entry [ares]" timestamp="1536654039189">
@@ -398,8 +403,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1.0.66</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -413,34 +418,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VGhhdChmaWx0ZXJzLCBJc0l0ZXJhYmxlQ29udGFpbmluZ0luT3JkZXIuY29udGFpbnMoZjUsIGY0LCBmMywgZjIsIGYxKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;&quot; +
-                &quot;name='&quot; + name + '\'' +
-                '}';</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGY0LCBmaWx0ZXJzLmdldCgwKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhmNSwgZmlsdGVycy5nZXQoMSkpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZjMsIGZpbHRlcnMuZ2V0KDIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGYyLCBmaWx0ZXJzLmdldCgzKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhmMSwgZmlsdGVycy5nZXQoNCkpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgPGZpbHRlcj4KICAgICAgICA8ZmlsdGVyLW5hbWU+aHR0cEFyZXNGaWx0ZXI8L2ZpbHRlci1uYW1lPgogICAgICAgIDxmaWx0ZXItY2xhc3M+b3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuZmlsdGVyLkRlbGVnYXRpbmdGaWx0ZXJQcm94eTwvZmlsdGVyLWNsYXNzPgogICAgICAgIDxhc3luYy1zdXBwb3J0ZWQ+dHJ1ZTwvYXN5bmMtc3VwcG9ydGVkPgogICAgPC9maWx0ZXI+CgogICAgPGZpbHRlci1tYXBwaW5nPgogICAgICAgIDxmaWx0ZXItbmFtZT5odHRwQXJlc0ZpbHRlcjwvZmlsdGVyLW5hbWU+CiAgICAgICAgPHVybC1wYXR0ZXJuPi8qPC91cmwtcGF0dGVybj4KICAgIDwvZmlsdGVyLW1hcHBpbmc+</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVycyk7Cg==</text>
+      <register name="3" type="4">
+        <text>&quot;&quot; +
+                &quot;name='&quot; + name + '\'' +
+                '}';</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGY0LCBmaWx0ZXJzLmdldCgwKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhmNSwgZmlsdGVycy5nZXQoMSkpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoZjMsIGZpbHRlcnMuZ2V0KDIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGYyLCBmaWx0ZXJzLmdldCgzKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhmMSwgZmlsdGVycy5nZXQoNCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZmlsdGVycyk7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmlvLm5ldHR5PC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXJGYWN0b3J5Owo=</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxncm91cElkPmlvLm5ldHR5PC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5uZXR0eTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1c2lvbj4KICAgICAgICAgICAgICAgIDwvZXhjbHVzaW9ucz4=</text>
