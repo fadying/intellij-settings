@@ -63,10 +63,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.devq/registry.properties" timestamp="1534925867158">
         <mark key="[" line="22" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1537177048156" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/webapp/WEB-INF/web.xml" timestamp="1537177759729" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/vo/UserLevelContext.java" timestamp="1537169688958">
         <mark key="'" line="12" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/WrapperProxyListener.java" timestamp="1537177837841" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betamagic/registry.properties" timestamp="1534925828471">
         <mark key="[" line="24" column="67" />
       </file>
@@ -99,6 +100,9 @@
       </file>
       <file name="/opt/jdk1.8.0_171/src.zip!/java/util/concurrent/ScheduledExecutorService.java" timestamp="1536650878452">
         <mark key="'" line="125" column="34" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537177914279">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/DeviceSupport.java" timestamp="1536223747361">
         <mark key="[" line="31" column="93" />
@@ -135,17 +139,14 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" timestamp="1536736011763">
         <mark key="'" line="284" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/RefreshBenefitTask.java" timestamp="1536928124802">
-        <mark key="[" line="77" column="88" />
-        <mark key="]" line="77" column="88" />
-        <mark key="^" line="77" column="89" />
-        <mark key="." line="77" column="88" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares/src/main/java/com/qunar/autotest/ares/interceptor/LoginInterceptor.java" timestamp="1536828284467">
         <mark key="'" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1536149957108">
         <mark key="[" line="149" column="123" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/config/AppConfig.java" timestamp="1537178114652">
+        <mark key="'" line="90" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StudentTaskPriceAction.java" timestamp="1536240400856">
         <mark key="[" line="130" column="53" />
@@ -178,7 +179,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/pom.xml" timestamp="1536140316225">
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/bean/QunarOrderPO.java" timestamp="1537177626056">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/bean/QunarOrderPO.java" timestamp="1537177762200">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="11" column="6" />
         <mark key="^" line="11" column="6" />
@@ -220,15 +221,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1536829099793">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1536925292727">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-        <mark key="^" line="34" column="23" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/task/LotteryTask.java" timestamp="1535700062395">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/flow/src/main/java/com/qunar/hotel/prmt/hulk/flow/PriceNoticeReceiver.java" timestamp="1537178138036" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/src/main/resources/mybatis/BargainActivityMapper.xml" timestamp="1536143736962">
         <mark key="[" line="183" column="21" />
       </file>
@@ -306,7 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooseData.java" />
       <jump line="141" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/MpubCpnController.java" />
       <jump line="35" column="19" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/model/coupon/VoucherInfo.java" />
@@ -406,6 +401,7 @@
       <jump line="23" column="28" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/agent/sms/SMSAgent.java" />
       <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/vo/UserLevelContext.java" />
       <jump line="264" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/controller/UserInfoController.java" />
+      <jump line="90" column="21" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/config/AppConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
