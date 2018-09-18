@@ -16,6 +16,7 @@
       <file name="/activity_base [noah]" timestamp="1535638198237">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/qunar/tc/qconfig/qconfig-client/1.6.0/qconfig-client-1.6.0-sources.jar!/qunar/tc/qconfig/client/impl/FailoverQConfigServerClient.java" timestamp="1537265087444" />
       <file name="/a.dummy" timestamp="1537262408018">
         <mark key="[" line="0" column="0" />
       </file>
@@ -89,7 +90,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/HotelPointsSupport.java" timestamp="1536240452635">
         <mark key="[" line="41" column="41" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/pom.xml" timestamp="1537260606411">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/pom.xml" timestamp="1537266155980">
         <mark key="[" line="30" column="88" />
       </file>
       <file name="/Clipboard.txt" timestamp="1535696703888">
@@ -99,8 +100,10 @@
         <mark key="[" line="75" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/hotel-common-client/0.0.38/hotel-common-client-0.0.38.pom" timestamp="1537260258091" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537258421054">
-        <mark key="[" line="30" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537266365084">
+        <mark key="[" line="65" column="100" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/mybatis/BeeKeepingTimeoutMapper.xml" timestamp="1537256591614" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/DeviceSupport.java" timestamp="1536223747361">
@@ -218,7 +221,7 @@
       <file name="/dummy.sql" timestamp="1537259178699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537262499950">
+      <file name="/Dummy.txt" timestamp="1537266386854">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -248,6 +251,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1536237333585">
         <mark key="[" line="356" column="54" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/logback.xml" timestamp="1537266218570">
+        <mark key="[" line="79" column="59" />
+        <mark key="]" line="79" column="59" />
+        <mark key="." line="79" column="59" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooser4NewHotelPromotion.java" timestamp="1536568402310">
         <mark key="[" line="74" column="75" />
@@ -374,14 +382,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzZXJ2bGV0LWFwaS52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;{\&quot;base\&quot; : {\&quot;sysCode\&quot; : 2801,\&quot;orderNo\&quot; : \&quot;test1\&quot;,\&quot;globalOrderNo\&quot; : \&quot;\&quot;,\&quot;status\&quot; : 0,\&quot;statusDesc\&quot; : \&quot;订座成功等待支付\&quot;,\&quot;orderSource\&quot; : \&quot;mobile.app.iphone\&quot;,\&quot;orderVersion\&quot; : 1442558682000,\&quot;orderType\&quot; : 2801001,\&quot;createTime\&quot; : \&quot;2015-09-18 14:44:42\&quot;,\&quot;updateTime\&quot; : \&quot;2015-09-18 14:44:42\&quot;,\&quot;pay\&quot; : {\&quot;price\&quot; : 4770000.0,\&quot;loan\&quot; : 0.0,\&quot;totalPrice\&quot; : 4770000.0},\&quot;contact\&quot; : {\&quot;name\&quot; : \&quot;test1\&quot;,\&quot;mobile\&quot; : \&quot;123\&quot;},\&quot;user\&quot; : {\&quot;userName\&quot; : \&quot;hankingwang\&quot;,\&quot;extUsername\&quot; : null},\&quot;bill\&quot; : {\&quot;needExpress\&quot; : true,\&quot;billStatus\&quot; : -1},\&quot;client\&quot; : {\&quot;source\&quot; : \&quot;mobile.app.iphone\&quot;,\&quot;mobileId\&quot; : \&quot;52B5CE37-EF85-D12E-FD53-18EAD49648ED\&quot;,\&quot;ip\&quot; : null,\&quot;cookie\&quot; : null},\&quot;association\&quot; : [ {\&quot;sysCode\&quot; : 202801,\&quot;orderNo\&quot; : \&quot;test2\&quot;} ]},\&quot;product\&quot; : {\&quot;common\&quot; : {\&quot;title\&quot; : \&quot;远洋航服\&quot;,\&quot;domain\&quot; : \&quot;yyh.trade.qunar.com\&quot;,\&quot;logo\&quot; : \&quot;http://yyh.trade.qunar.com/site/images/logo.gif\&quot;,\&quot;otaType\&quot; : 1},\&quot;guests\&quot; : [ {\&quot;name\&quot; : \&quot;张三\&quot;,\&quot;cardType\&quot; : 0,\&quot;cardNo\&quot; : \&quot;123\&quot;,\&quot;birthday\&quot; : \&quot;1987-08-10\&quot;,\&quot;gender\&quot; : true,\&quot;ticketNo\&quot; : \&quot;\&quot;} ],\&quot;segments\&quot; : [ {\&quot;flightNo\&quot; : \&quot;MU5172\&quot;,\&quot;departure\&quot; : {\&quot;datetime\&quot; : \&quot;2015-09-18 21:40:00\&quot;,\&quot;airport\&quot; : \&quot;PEK\&quot;,\&quot;airportName\&quot; : \&quot;北京首都国际机场\&quot;,\&quot;city\&quot; : \&quot;北京\&quot;,\&quot;fuzzyStartTime\&quot; : null,\&quot;fuzzyEndTime\&quot; : null},\&quot;arrival\&quot; : {\&quot;datetime\&quot; : \&quot;2015-09-18 23:35:00\&quot;,\&quot;airport\&quot; : \&quot;HFE\&quot;,\&quot;airportName\&quot; : \&quot;合肥新桥国际机场\&quot;,\&quot;city\&quot; : \&quot;合肥\&quot;,\&quot;fuzzyStartTime\&quot; : null,\&quot;fuzzyEndTime\&quot; : null},\&quot;cabin\&quot; : \&quot;X9\&quot;,\&quot;companyName\&quot; : \&quot;中国东方航空公司\&quot;,\&quot;companyShortName\&quot; : \&quot;东航\&quot;,\&quot;companyCode\&quot; : \&quot;MU\&quot;,\&quot;isFuzzyFlight\&quot; : false,\&quot;fuzzyFlightTime\&quot; : 0} ]},\&quot;flight\&quot; : {\&quot;flightType\&quot; : 1},\&quot;action\&quot; : {\&quot;common\&quot; : {\&quot;refund\&quot; : null,\&quot;pay\&quot; : {\&quot;title\&quot; : \&quot;支付\&quot;,\&quot;url\&quot; : \&quot;&quot;},\&quot;detail\&quot; : {\&quot;title\&quot; : \&quot;详情\&quot;,\&quot;url\&quot; : \&quot;&quot;}},\&quot;service\&quot; : {\&quot;tgq\&quot; : null,\&quot;myaccount\&quot; : null}},\&quot;meta\&quot; : {\&quot;sysCode\&quot; : 2801,\&quot;orderUserStatus\&quot; : 1,\&quot;userName\&quot; : \&quot;hankingwang\&quot;,\&quot;isBound\&quot; : true}}&quot;;</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
