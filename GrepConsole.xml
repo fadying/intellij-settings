@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enabledHighlighting" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -11,7 +12,6 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*FATAL.*" />
-                      <option name="id" value="c4a95d24-c33f-4c46-b56f-2bfa082dc7a8" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -27,13 +27,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="c49a7a94-2ecd-468f-92a1-1482910da367" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
-                      <option name="id" value="428af8d4-eb3a-48a8-9442-fa80e7c47545" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -42,13 +40,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="fccabcb7-223a-4ccb-ad9a-89072194feb1" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
-                      <option name="id" value="2ef81991-31ac-46a5-8376-0736e354a571" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -57,13 +53,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="56e9d7fc-4130-414d-af3b-a369994c656f" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
-                      <option name="id" value="87c7c703-febb-422d-b6f0-35585b827328" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -72,13 +66,11 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="f13ed94a-15dc-4653-be72-9e0b53ee838a" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*TRACE.*" />
-                      <option name="id" value="4d0682b6-dff5-41b4-a894-54b7e4a3a83f" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -87,7 +79,6 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
-                          <option name="id" value="51a5bee8-0a5c-4295-ae57-cfc3101c3624" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
@@ -102,5 +93,6 @@
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>
