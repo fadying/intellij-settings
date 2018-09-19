@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/pom.xml" timestamp="1537350911321">
         <mark key="[" line="30" column="88" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/QmqConstants.java" timestamp="1537364180241">
+        <mark key="'" line="33" column="31" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1535696703888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +131,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityChangeNotifyBizImpl.java" timestamp="1536240444800">
         <mark key="[" line="154" column="36" />
       </file>
-      <file name="/prmt_kiwi.qunar_order [noah]" timestamp="1537356508874">
+      <file name="/prmt_kiwi.qunar_order [noah]" timestamp="1537364227814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/src/test/java/com/qunar/hotel/otter/domain/util/TestApplication.java" timestamp="1536140384495">
@@ -141,7 +144,14 @@
         <mark key="^" line="310" column="59" />
         <mark key="." line="310" column="59" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/mybatis/QunarOrderMapper.xml" timestamp="1537355647012">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/constant/order/OrderBusinessType.java" timestamp="1537347377140">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/mybatis/QunarOrderMapper.xml" timestamp="1537364188240">
+        <mark key="[" line="14" column="11" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="60" column="33" />
         <mark key="." line="61" column="0" />
@@ -234,12 +244,18 @@
       <file name="$USER_HOME$/IdeaProjects/source/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/support/Filter2.java" timestamp="1536726041337">
         <mark key="[" line="21" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1537356509175">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/support/SplitterUtil.java" timestamp="1537347618801">
+        <mark key="[" line="6" column="50" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
+      <file name="/dummy.sql" timestamp="1537364228166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537361299934">
+      <file name="/Dummy.txt" timestamp="1537364194773">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -293,7 +309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="45" filename="$USER_HOME$/IdeaProjects/qunar/qta/ares-client/ares-client-target/pom.xml" />
       <jump line="64" column="36" filename="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/service/impl/NotifyServiceImpl.java" />
       <jump line="9" column="75" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources/spring/applicationContext-web.xml" />
       <jump line="194" column="22" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/config/AresConfig.java" />
@@ -393,6 +408,7 @@
       <jump line="72" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/controller/UserInfoController.java" />
       <jump line="69" column="25" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" />
       <jump line="286" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" />
+      <jump line="33" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/QmqConstants.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
