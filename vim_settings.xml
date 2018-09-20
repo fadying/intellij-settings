@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/points/consume/CashBackByPointTransferAction.java" timestamp="1536239824919">
         <mark key="[" line="75" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537423434530">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537426770182">
         <mark key="'" line="112" column="25" />
-        <mark key="[" line="121" column="20" />
-        <mark key="]" line="115" column="45" />
+        <mark key="[" line="87" column="40" />
+        <mark key="]" line="87" column="40" />
         <mark key="^" line="115" column="45" />
-        <mark key="." line="115" column="45" />
+        <mark key="." line="87" column="40" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/DeviceSupport.java" timestamp="1536223747361">
         <mark key="[" line="31" column="93" />
@@ -209,8 +209,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/domain/src/main/java/com/qunar/hotel/otter/domain/util/SMSUtil.java" timestamp="1537423448091">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/test/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListenerTest.java" timestamp="1537418198324">
-        <mark key="[" line="127" column="38" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/test/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListenerTest.java" timestamp="1537426444776">
+        <mark key="[" line="127" column="35" />
         <mark key="]" line="127" column="56" />
         <mark key="^" line="127" column="56" />
         <mark key="." line="127" column="56" />
@@ -267,7 +267,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537418296573">
+      <file name="/Dummy.txt" timestamp="1537426655209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -427,13 +427,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text>SplitterUtil.COMMA_EQUAL_MAP_SPLITTER.split(diff);</text>
+        <text>(String) diffMap.getOrDefault(ORDER_STATUS_DESC_KEY, &quot;&quot;);</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>SplitterUtil.COMMA_EQUAL_MAP_SPLITTER.split(diff);</text>
+        <text>(String) diffMap.getOrDefault(ORDER_STATUS_DESC_KEY, &quot;&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
