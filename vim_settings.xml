@@ -86,11 +86,6 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/BaseBenefitAdapter.java" timestamp="1536304990301">
         <mark key="[" line="94" column="52" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/constant/order/base/CodeEnum.java" timestamp="1537436428420">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/test/java/com/qunar/hotel/price/kiwi/domain/constant/order/OrderBusinessTypeTest.java" timestamp="1537436519452">
         <mark key="[" line="10" column="53" />
       </file>
@@ -111,6 +106,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/points/consume/CashBackByPointTransferAction.java" timestamp="1536239824919">
         <mark key="[" line="75" column="55" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/qmq/listener/QunarOrderListener.java" timestamp="1537498976522">
+        <mark key="'" line="169" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/msg/support/DeviceSupport.java" timestamp="1536223747361">
         <mark key="[" line="31" column="93" />
@@ -134,11 +132,14 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityChangeNotifyBizImpl.java" timestamp="1536240444800">
         <mark key="[" line="154" column="36" />
       </file>
-      <file name="/prmt_kiwi.qunar_order [noah]" timestamp="1537430227481">
+      <file name="/prmt_kiwi.qunar_order [noah]" timestamp="1537498987755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/typehandler/OrderBusinessTypeEnumTypeHandhler.java" timestamp="1537448447958">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/typehandler/OrderBusinessTypeEnumTypeHandhler.java" timestamp="1537499620627">
         <mark key="[" line="8" column="51" />
+      </file>
+      <file name="/prmt_kiwi.qunar_order_00 [noah]" timestamp="1537499371376">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/src/test/java/com/qunar/hotel/otter/domain/util/TestApplication.java" timestamp="1536140384495">
         <mark key="[" line="0" column="41" />
@@ -147,6 +148,7 @@
         <mark key="'" line="60" column="15" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares/pom.xml" timestamp="1537436603622" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/controller/UserInfoController.java" timestamp="1537499682986" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/constant/order/OrderBusinessType.java" timestamp="1537447932035">
         <mark key="[" line="5" column="49" />
         <mark key="]" line="5" column="49" />
@@ -200,6 +202,7 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/CategoryBizImpl.java" timestamp="1537499443969" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/model/coupon/CpnInfo.java" timestamp="1536050978314">
         <mark key="[" line="97" column="0" />
       </file>
@@ -223,7 +226,7 @@
       <file name="/highstar_mockserver.test_suite [ares]" timestamp="1536810321595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/constant/order/base/CodeEnumUtil.java" timestamp="1537447844353">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/constant/order/base/CodeEnumUtil.java" timestamp="1537499573041">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="20" column="18" />
@@ -244,14 +247,14 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/task/LotteryTask.java" timestamp="1535700062395">
         <mark key="[" line="2" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/base/meerkat-mybatis/2.2.0/meerkat-mybatis-2.2.0-sources.jar!/com/qunar/base/meerkat/orm/mybatis/type/CodeEnumTypeHandler.java" timestamp="1537448561138" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/base/meerkat-mybatis/2.2.0/meerkat-mybatis-2.2.0-sources.jar!/com/qunar/base/meerkat/orm/mybatis/type/CodeEnumTypeHandler.java" timestamp="1537499502901" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/src/main/resources/mybatis/BargainActivityMapper.xml" timestamp="1536143736962">
         <mark key="[" line="183" column="21" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/source/incubator-dubbo/dubbo-common/src/test/java/org/apache/dubbo/common/extension/support/Filter2.java" timestamp="1536726041337">
         <mark key="[" line="21" column="20" />
       </file>
-      <file name="/dummy.sql" timestamp="1537430227714">
+      <file name="/dummy.sql" timestamp="1537499371630">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
