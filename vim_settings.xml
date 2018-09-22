@@ -68,8 +68,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/user/UserBizImpl.java" timestamp="1536237035500">
         <mark key="[" line="39" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/guarantee/QCancelBase.java" timestamp="1537602881267">
-        <mark key="'" line="105" column="16" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/guarantee/QCancelBase.java" timestamp="1537603602634">
+        <mark key="'" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/VoucherPushQmqProcessor.java" timestamp="1536237093178">
         <mark key="[" line="248" column="54" />
@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/test/java/com/qunar/hotel/price/kiwi/domain/constant/order/OrderBusinessTypeTest.java" timestamp="1537436519452">
         <mark key="[" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QProductRemoteImpl.java" timestamp="1537602774746">
-        <mark key="'" line="419" column="20" />
-        <mark key="[" line="424" column="81" />
-        <mark key="]" line="417" column="0" />
-        <mark key="^" line="409" column="94" />
-        <mark key="." line="417" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/QProductRemoteImpl.java" timestamp="1537603488411">
+        <mark key="'" line="420" column="20" />
+        <mark key="[" line="425" column="81" />
+        <mark key="]" line="418" column="0" />
+        <mark key="^" line="410" column="94" />
+        <mark key="." line="418" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/query/QOrderQuery.java" timestamp="1537601800971">
         <mark key="'" line="231" column="25" />
@@ -360,8 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="29" filename="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.0.8/dubbo-3.0.8-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" />
-      <jump line="156" column="29" filename="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.0.8/dubbo-3.0.8-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" />
       <jump line="57" column="69" filename="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.0.8/dubbo-3.0.8-sources.jar!/com/alibaba/dubbo/registry/support/FailbackRegistry.java" />
       <jump line="125" column="34" filename="/opt/jdk1.8.0_171/src.zip!/java/util/concurrent/ScheduledExecutorService.java" />
       <jump line="15" column="13" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.62/ares-client-common-1.0.62.jar!/com/qunar/hotel/qta/ares/client/delegate/FakeDate.class" />
@@ -460,6 +458,8 @@
       <jump line="18" column="33" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/refund/QRefundRule.java" />
       <jump line="59" column="17" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/rateplan/QRatePlan.java" />
       <jump line="105" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/guarantee/QCancelBase.java" />
+      <jump line="27" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/guarantee/QCancelBase.java" />
+      <jump line="29" column="30" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/guarantee/QCancelBase.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
