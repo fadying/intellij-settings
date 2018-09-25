@@ -145,7 +145,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/points/consume/CashBackByPointTransferAction.java" timestamp="1536239824919">
         <mark key="[" line="75" column="55" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/resources.prod/config.properties" timestamp="1537864908204">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/resources.prod/config.properties" timestamp="1537866535561">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="100" />
         <mark key="." line="9" column="100" />
@@ -219,8 +219,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/BindingRecordBizImpl.java" timestamp="1537449118004">
         <mark key="'" line="60" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/transform/TransformOrderBiz.java" timestamp="1537860183462">
-        <mark key="[" line="80" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/transform/TransformOrderBiz.java" timestamp="1537867623060">
+        <mark key="'" line="67" column="35" />
+        <mark key="[" line="130" column="48" />
         <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/mybatis/QunarOrderMapper.xml" timestamp="1537524140135">
@@ -358,7 +359,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537863580445">
+      <file name="/Dummy.txt" timestamp="1537867628835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -431,7 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/DumpCenter.java" />
       <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/DumpBaseAPI.java" />
       <jump line="280" column="24" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" />
       <jump line="284" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" />
@@ -531,6 +531,7 @@
       <jump line="76" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/KeepPriceUtils.java" />
       <jump line="69" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/util/TaxUtil.java" />
       <jump line="97" column="38" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDynSubtractProcessor.java" />
+      <jump line="67" column="35" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/transform/TransformOrderBiz.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
