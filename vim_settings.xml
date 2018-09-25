@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/service/QunarOrderService.java" timestamp="1537511777522">
         <mark key="'" line="24" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/TransformOrderPriceApiUrlGenerator.java" timestamp="1537841956091">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/TransformOrderPriceApiUrlGenerator.java" timestamp="1537856645877">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -242,6 +242,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betatest/config.properties" timestamp="1536829091600">
         <mark key="[" line="50" column="18" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/KeepPriceUtils.java" timestamp="1537857161041">
+        <mark key="'" line="76" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/support/SplitUtil.java" timestamp="1537261407619">
         <mark key="[" line="2" column="22" />
       </file>
@@ -316,6 +319,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/utils/TransformOrderProductUtil.java" timestamp="1537605971303">
         <mark key="[" line="2" column="40" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-target/1.0.67/ares-client-target-1.0.67-sources.jar!/com/qunar/hotel/qta/ares/client/init/AresApplicationContextInitializer.java" timestamp="1537857587971" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1537349893796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -347,6 +351,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/domain/src/main/java/com/qunar/hotel/price/kiwi/domain/bean/order/store/BriefNewOrder.java" timestamp="1537430725396">
         <mark key="[" line="23" column="15" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/SettlementInfoProcessor.java" timestamp="1537856902999" />
       <file name="/highstar_mockserver.entry [ares]" timestamp="1536821834715">
         <mark key="[" line="0" column="0" />
       </file>
@@ -355,6 +360,12 @@
       </file>
       <file name="/coupon_00 [noah]" timestamp="1535963333401">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/util/TaxUtil.java" timestamp="1537857362599">
+        <mark key="'" line="69" column="28" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDynSubtractProcessor.java" timestamp="1537857389172">
+        <mark key="'" line="97" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/QunarOrderBizImpl.java" timestamp="1537436450961">
         <mark key="[" line="25" column="32" />
@@ -403,9 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="27" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/BaseDumpContext.java" />
-      <jump line="214" column="65" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/DumpCenter.java" />
-      <jump line="37" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/bean/DumpData.java" />
       <jump line="61" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/DumpCenter.java" />
       <jump line="26" column="23" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-base/1.0.65/ares-client-base-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/base/DumpBaseAPI.java" />
       <jump line="280" column="24" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/point/DubboAresFilter.java" />
@@ -503,6 +511,9 @@
       <jump line="143" column="36" filename="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/convert/cancel/sub/OtherCancelDeductMoneyConvertItem.java" />
       <jump line="264" column="32" filename="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/service/helper/OrderDetailHelper.java" />
       <jump line="1377" column="16" filename="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/order/service/adaptor/MobOrderAdaptor.java" />
+      <jump line="76" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/util/KeepPriceUtils.java" />
+      <jump line="69" column="28" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/util/TaxUtil.java" />
+      <jump line="97" column="38" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/product/impl/CalcDynSubtractProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
