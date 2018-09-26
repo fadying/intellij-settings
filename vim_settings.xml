@@ -219,12 +219,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/BindingRecordBizImpl.java" timestamp="1537449118004">
         <mark key="'" line="60" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/transform/TransformOrderBiz.java" timestamp="1537947294483">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/transform/TransformOrderBiz.java" timestamp="1537949415511">
         <mark key="'" line="67" column="35" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="158" column="11" />
+        <mark key="]" line="158" column="11" />
+        <mark key="^" line="158" column="11" />
+        <mark key="." line="158" column="11" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources/mybatis/QunarOrderMapper.xml" timestamp="1537524140135">
         <mark key="[" line="22" column="34" />
@@ -546,13 +546,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgQmlnRGVjaW1hbCBjb21taXNzaW9uU3VidHJhY3RQcmljZSA9IG9yZGVyUXVlcnkuZ2V0T3JpZ2luYWxPcmRlclByb2R1Y3QoKS5nZXRQcmljZSgpLmdldENvbW1pc3Npb25TdWJ0cmFjdFByaWNlKCk7CiAgICAgICAgQmlnRGVjaW1hbCBjYXNoYmFja1ByaWNlID0gb3JkZXJRdWVyeS5nZXRPcmlnaW5hbE9yZGVyUHJvZHVjdCgpLmdldFByaWNlKCkuZ2V0Q2FzaGJhY2tQcmljZSgpOwogICAgICAgIEJpZ0RlY2ltYWwgb3JpZ2luYWxQcmljZSA9IHRvdGFsUHJpY2UuYWRkKE1vcmVPYmplY3RzLmZpcnN0Tm9uTnVsbChjb21taXNzaW9uU3VidHJhY3RQcmljZSwgQmlnRGVjaW1hbC5aRVJPKSkKICAgICAgICAgICAgICAgIC5hZGQoTW9yZU9iamVjdHMuZmlyc3ROb25OdWxsKGNhc2hiYWNrUHJpY2UsIEJpZ0RlY2ltYWwuWkVSTykpOw==</text>
+        <text>原</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>getTotalBasePrice(product).multiply(BigDecimal.valueOf(orderQuery.getOriginalOrderProduct().getQuery().getRoomAmount()));</text>
+        <text>原</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
