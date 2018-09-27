@@ -137,6 +137,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/convert/cancel/sub/OtherCancelDeductMoneyConvertItem.java" timestamp="1538034003941">
         <mark key="'" line="143" column="36" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/PromotionHandlerDispatcher.java" timestamp="1538037116575">
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/da/DaAnticheatAgent.java" timestamp="1537871871815">
         <mark key="'" line="20" column="19" />
       </file>
@@ -148,7 +153,7 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/rateplan/QRatePlan.java" timestamp="1538031101957">
         <mark key="'" line="59" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538021562492">
+      <file name="/Dummy.txt" timestamp="1538036979573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,14 +310,14 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoY2hpbGRPcmRlckxpc3QpKSB7CiAgICAgICAgICAgIGZpbmFsIExpc3Q8Q2hpbGRPcmRlcj4gbmV3Q2hhbmdlT3JkZXIgPSBjaGlsZE9yZGVyTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoaW5wdXQgLT4gaW5wdXQgIT0gbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgQ2hpbGRPcmRlci5DaGlsZFR5cGUuTkVXX0NIQU5HRV9DUkVBVEVELmVxdWFscyhpbnB1dC5nZXRDaGlsZFR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmIFN0cmluZ1V0aWxzLmlzTm90RW1wdHkoaW5wdXQuZ2V0T3JkZXJObygpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgLy8g5pS55Y2V5a+86Ie055qE5Y6f5Y2V5Y+W5raILCDkuI3lm57pgIDkvJjmg6AKICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KG5ld0NoYW5nZU9yZGVyKSkgewogICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJvcmRlcl9jaGFuZ2Vfb3JpZ2luX2NhbmNlbGxlZCIpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>1.4.129</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
@@ -320,39 +325,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEYXRlIG9yaWdpbmFsVGltZSA9IGdldEFic29sdXRlVGltZShvcmlnaW5hbFJlZnVuZFJ1bGUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoY2hpbGRPcmRlckxpc3QpKSB7CiAgICAgICAgICAgIGZpbmFsIExpc3Q8Q2hpbGRPcmRlcj4gbmV3Q2hhbmdlT3JkZXIgPSBjaGlsZE9yZGVyTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5maWx0ZXIoaW5wdXQgLT4gaW5wdXQgIT0gbnVsbAogICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgQ2hpbGRPcmRlci5DaGlsZFR5cGUuTkVXX0NIQU5HRV9DUkVBVEVELmVxdWFscyhpbnB1dC5nZXRDaGlsZFR5cGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmIFN0cmluZ1V0aWxzLmlzTm90RW1wdHkoaW5wdXQuZ2V0T3JkZXJObygpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgLy8g5pS55Y2V5a+86Ie055qE5Y6f5Y2V5Y+W5raILCDkuI3lm57pgIDkvJjmg6AKICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KG5ld0NoYW5nZU9yZGVyKSkgewogICAgICAgICAgICAgICAgUU1vbml0b3IucmVjb3JkT25lKCJvcmRlcl9jaGFuZ2Vfb3JpZ2luX2NhbmNlbGxlZCIpOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlOw==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luYWxSZWZ1bmRSdWxlLmdldENhbmNlbFR5cGUoKSA9PSBRQ2FuY2VsQmFzZS5RQ2FuY2VsVHlwZUVudW0uQkVGT1JFX1JFTEFUSVZFX1RJTUUKICAgICAgICAgICAgICAgICYmIENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRSZWxhdGl2ZUNhbmNlbFBvaW50cygpKSkgewogICAgICAgICAgICBRQ2FuY2VsQmFzZS5RUmVsYXRpdmVDYW5jZWxQb2ludCByZWxhdGl2ZUNhbmNlbFBvaW50ID0gb3JpZ2luYWxSZWZ1bmRSdWxlLmdldFJlbGF0aXZlQ2FuY2VsUG9pbnRzKCkuZ2V0KDApOwogICAgICAgICAgICBvcmlnaW5hbERlZHVjdFByaWNlID0gcmVsYXRpdmVDYW5jZWxQb2ludC5nZXREZWR1Y3RQcmljZSgpOwogICAgICAgIH0KCiAgICAgICAgaWYgKG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRDYW5jZWxUeXBlKCkgPT0gUUNhbmNlbEJhc2UuUUNhbmNlbFR5cGVFbnVtLkJFRk9SRV9BQlNPTFVURV9EQVRFCiAgICAgICAgICAgICAgICAmJiBDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShvcmlnaW5hbFJlZnVuZFJ1bGUuZ2V0UmVsYXRpdmVDYW5jZWxQb2ludHMoKSkpIHsKICAgICAgICAgICAgUUNhbmNlbEJhc2UuUVJlbGF0aXZlQ2FuY2VsUG9pbnQgcmVsYXRpdmVDYW5jZWxQb2ludCA9IG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRSZWxhdGl2ZUNhbmNlbFBvaW50cygpLmdldCgwKTsKICAgICAgICAgICAgb3JpZ2luYWxEZWR1Y3RQcmljZSA9IHJlbGF0aXZlQ2FuY2VsUG9pbnQuZ2V0RGVkdWN0UHJpY2UoKTsKICAgICAgICB9</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOaWsOWNleWbnua7mgogICAgICAgICAgICAgICAgZmluYWwgTWFwPFN0cmluZywgU3RyaW5nPiB0cmFja0RhdGEgPSBtYWluT3JkZXIuZ2V0T3JkZXJFeHRlbnNpb24oKS5nZXRUcmFja0RhdGEoKTsKICAgICAgICAgICAgICAgIGlmIChNYXBVdGlscy5pc05vdEVtcHR5KHRyYWNrRGF0YSkgJiYgdHJhY2tEYXRhLmNvbnRhaW5zS2V5KE9yZGVyQ29yZUNvbnN0YW50cy5DUV9PUklHSU5BTF9FRkZFQ1RJVkUpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>riginalRefundRule.getCancelType() == QCancelBase.QCancelTypeEnum.BEFORE_RELATIVE_TIME ?
-                originalRefundRule.getRelativeCancelPoints()</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIG9yZGVyU3RhdHVzID0gU3RvcmVNZXNzYWdlVXRpbHMuZ2V0T3JkZXJTdGF0dXMoc3RvcmVNZXNzYWdlKTs=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgaWYgKHJlZnVuZFJ1bGUuZ2V0Q2FuY2VsVHlwZSgpICk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxRT3JkZXJQcm9kdWN0LCBTdHJpbmc+IGdldFJlZnVuZFJ1bGUgPSBvcmRlclByb2R1Y3QgLT4gb3JkZXJQcm9kdWN0LmdldFByb2R1Y3QoKS5nZXRSYXRlUGxhbigpLmdldFJlZnVuZFJ1bGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxRT3JkZXJQcm9kdWN0LCBRUmVmdW5kUnVsZT4gZ2V0UmVmdW5kUnVsZSA9IG9yZGVyUHJvZHVjdCAtPiBvcmRlclByb2R1Y3QuZ2V0UHJvZHVjdCgpLmdldFJhdGVQbGFuKCkuZ2V0UmVmdW5kUnVsZSgpOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAob3JpZ2luYWxSZWZ1bmRSdWxlLmdldENhbmNlbFR5cGUoKSA9PSBRQ2FuY2VsQmFzZS5RQ2FuY2VsVHlwZUVudW0uQkVGT1JFX1JFTEFUSVZFX1RJTUUKICAgICAgICAgICAgICAgICYmIENvbGxlY3Rpb25VdGlscy5pc05vdEVtcHR5KG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRSZWxhdGl2ZUNhbmNlbFBvaW50cygpKSkgewogICAgICAgICAgICBRQ2FuY2VsQmFzZS5RUmVsYXRpdmVDYW5jZWxQb2ludCByZWxhdGl2ZUNhbmNlbFBvaW50ID0gb3JpZ2luYWxSZWZ1bmRSdWxlLmdldFJlbGF0aXZlQ2FuY2VsUG9pbnRzKCkuZ2V0KDApOwogICAgICAgICAgICBvcmlnaW5hbERlZHVjdFByaWNlID0gcmVsYXRpdmVDYW5jZWxQb2ludC5nZXREZWR1Y3RQcmljZSgpOwogICAgICAgIH0KCiAgICAgICAgaWYgKG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRDYW5jZWxUeXBlKCkgPT0gUUNhbmNlbEJhc2UuUUNhbmNlbFR5cGVFbnVtLkJFRk9SRV9BQlNPTFVURV9EQVRFCiAgICAgICAgICAgICAgICAmJiBDb2xsZWN0aW9uVXRpbHMuaXNOb3RFbXB0eShvcmlnaW5hbFJlZnVuZFJ1bGUuZ2V0UmVsYXRpdmVDYW5jZWxQb2ludHMoKSkpIHsKICAgICAgICAgICAgUUNhbmNlbEJhc2UuUVJlbGF0aXZlQ2FuY2VsUG9pbnQgcmVsYXRpdmVDYW5jZWxQb2ludCA9IG9yaWdpbmFsUmVmdW5kUnVsZS5nZXRSZWxhdGl2ZUNhbmNlbFBvaW50cygpLmdldCgwKTsKICAgICAgICAgICAgb3JpZ2luYWxEZWR1Y3RQcmljZSA9IHJlbGF0aXZlQ2FuY2VsUG9pbnQuZ2V0RGVkdWN0UHJpY2UoKTsKICAgICAgICB9</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxRT3JkZXJQcm9kdWN0LCBRUGF5VHlwZUVudW0+IGdldFBheVR5cGUgPSBvcmRlclByb2R1Y3QgLT4gb3JkZXJQcm9kdWN0LmdldFByb2R1Y3QoKS5nZXRSYXRlUGxhbigpLmdldEJhc2VJbmZvKCkuZ2V0UGF5VHlwZSgpOwo=</text>
+      <register name="9" type="4">
+        <text>riginalRefundRule.getCancelType() == QCancelBase.QCancelTypeEnum.BEFORE_RELATIVE_TIME ?
+                originalRefundRule.getRelativeCancelPoints()</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
