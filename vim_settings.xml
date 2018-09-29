@@ -16,6 +16,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares/src/main/java/com/qunar/autotest/ares/model/enums/CodeEnum.java" timestamp="1537432172163">
         <mark key="'" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/StopStudentCutAction.java" timestamp="1538040681360">
+        <mark key="[" line="171" column="36" />
+        <mark key="]" line="171" column="90" />
+        <mark key="." line="171" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/service/QunarOrderService.java" timestamp="1537511777522">
         <mark key="'" line="24" column="23" />
       </file>
@@ -44,8 +49,14 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/1.0.65/ares-client-common-1.0.65-sources.jar!/com/qunar/hotel/qta/ares/client/delegate/FakeDate.java" timestamp="1537953092834">
         <mark key="'" line="33" column="42" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/resources.prod/spring/datasource.properties" timestamp="1538189492654" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/service/src/main/java/com/qunar/hotel/price/otter/service/mapper/BargainActivityMapper.java" timestamp="1538038665476">
         <mark key="'" line="48" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/PromotionHandlerDispatcher.java" timestamp="1538037116575">
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/raven/service/src/main/java/com/qunar/hotel/price/raven/service/mapper/HotelBrandMapper.java" timestamp="1538124790140">
         <mark key="'" line="38" column="8" />
@@ -82,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/TransformOrderPriceApiQuery.java" timestamp="1538031996892" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.prodwrapper/config.properties" timestamp="1538037698145" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/client/PriceApiClient.java" timestamp="1538046388296">
+        <mark key="[" line="24" column="90" />
+        <mark key="]" line="24" column="91" />
+        <mark key="." line="24" column="91" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/raven/biz/src/main/java/com/qunar/hotel/price/raven/biz/impl/FlagshipStoreBizImpl.java" timestamp="1538124873611">
         <mark key="'" line="172" column="64" />
       </file>
@@ -112,6 +128,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/raven/task/src/main/java/com/qunar/hotel/price/raven/task/qhotel/HotelBrandSyncTask.java" timestamp="1538129458625" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/DZS-29443_openprice_transform_order-SNAPSHOT/qta-open-product-api-DZS-29443_openprice_transform_order-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/bean/price/refund/QRefundRule.java" timestamp="1537602769336">
         <mark key="'" line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/service/src/main/java/com/qunar/hotel/price/kiwi/service/service/impl/QunarOrderServiceImpl.java" timestamp="1538189918253">
+        <mark key="[" line="120" column="61" />
+        <mark key="]" line="120" column="62" />
+        <mark key="." line="120" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qhotel/qhotel_api/1.1.25/qhotel_api-1.1.25-sources.jar!/com/qunar/hotel/qhotel/info/entity/BrandGroup.java" timestamp="1538129612931" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-price/provider/src/main/java/com/qunar/hotel/qta/open/dynamic/priceapi/bean/PriceApiQuery.java" timestamp="1537600105705">
@@ -252,13 +273,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7CiAgICAgICAgICAgIHJldHVybiAiVHJhbnNmb3JtTmV3UHJpY2VDaGVja2VyeyIgKwogICAgICAgICAgICAgICAgICAgICJyb29tSWQ9JyIgKyByb29tSWQgKyAnXCcnICsKICAgICAgICAgICAgICAgICAgICAiLCB0eXBlPSciICsgdHlwZSArICdcJycgKwogICAgICAgICAgICAgICAgICAgICIsIG9yaWdpbmFsUGF5UHJpY2U9IiArIG9yaWdpbmFsUGF5UHJpY2UgKwogICAgICAgICAgICAgICAgICAgICIsIG9yaWdpbmFsUHJpY2U9IiArIG9yaWdpbmFsUHJpY2UgKwogICAgICAgICAgICAgICAgICAgICIsIG5ld0Jhc2VQcmljZT0iICsgbmV3QmFzZVByaWNlICsKICAgICAgICAgICAgICAgICAgICAiLCBuZXdQcmljZT0iICsgbmV3UHJpY2UgKwogICAgICAgICAgICAgICAgICAgICd9JzsKICAgICAgICB9</text>
+        <text>userName</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>；取消时间点也只有一个</text>
+        <text>userName</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
