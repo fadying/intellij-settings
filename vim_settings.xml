@@ -11,6 +11,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/pom.xml" timestamp="1540895153887" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/mock-agent/1.0.0/mock-agent-1.0.0-sources.jar!/com/qunar/hotel/qta/mock/transformer/DateTransformer.java" timestamp="1540873615624" />
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Date.java" timestamp="1540873416076" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/qconfig/RemoteConfig.java" timestamp="1540903195171" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-model/src/main/java/com/qunar/hotel/qta/coupon/model/base/Coupon.java" timestamp="1540880447440">
         <mark key="'" line="85" column="17" />
       </file>
@@ -31,7 +32,7 @@
       <file name="/MpubCpnController.java" timestamp="1540897010300" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUtils.java" timestamp="1540896972425" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1540887036887" />
-      <file name="/Dummy.txt" timestamp="1540897043527">
+      <file name="/Dummy.txt" timestamp="1540903534038">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -41,12 +42,16 @@
         <mark key="[" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/ares-client/ares-client-base/src/main/java/com/qunar/hotel/qta/ares/client/base/ReplayContext.java" timestamp="1540873481164" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/base/SegmentMoneyCondition.java" timestamp="1540895128290" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1540894458427" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1540903304964" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1540892972581" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/adapters/CtripHotelCouponViewAdapter.java" timestamp="1540903439885" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/provider/src/main/webapp/index.html" timestamp="1540890912563" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1540901158591" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/spa/TicketHotelPromotionAgent.java" timestamp="1540886442488" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1540903530617">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/agent/spa/TicketHotelPromotionAgent.java" timestamp="1540903180752" />
       <file name="/UsableBenefitParseHandler.java" timestamp="1540886600342" />
       <file name="/pom.xml" timestamp="1540894630002" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/ares-client-common/DZS-30445_181019_biz_cache-SNAPSHOT/ares-client-common-DZS-30445_181019_biz_cache-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/ares/client/delegate/FakeDate.java" timestamp="1540873926566" />
@@ -158,8 +163,8 @@
       <register name="a" type="4">
         <text>kkkkkk</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>DZS-27480_180816_new_hotel_promotion-SNAPSHOT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBhZGRpdGlvbk1hcCA9IGdldEFkZGl0aW9uTWFwKGNvdXBvbkluZm8pOwo=</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
@@ -174,37 +179,37 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUkFOR0VfQ09NUEFSQVRPUi5jb21wYXJlKFJhbmdlLmNsb3NlZE9wZW4oMSwgMSksIFJhbmdlLmNsb3NlZCgwLCAgMCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSnVuaXQ0cnUuY2xhc3MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBhZGRpdGlvbk1hcCA9IGdldEFkZGl0aW9uTWFwKGNvdXBvbkluZm8pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b3V0ZXJIYQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoSnVuaXQ0cnUuY2xhc3MpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">b3V0ZXJIYQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">cGFja2FnZSBjb20ucXVuYXIuaG90ZWwucXRhLnRvb2xzLmJpdGNhc2sudXRpbDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIHB1YmxpYyBMaXN0PE9iamVjdD4gZ2V0QmVhbnMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gYmVhbnM7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHNldEJlYW5zKExpc3Q8T2JqZWN0PiBiZWFucykgewogICAgICAgICAgICAgICAgdGhpcy5iZWFucyA9IGJlYW5zOwogICAgICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldEZpZWxkTmFtZXMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmllbGROYW1lczsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0RmllbGROYW1lcyhMaXN0PFN0cmluZz4gZmllbGROYW1lcykgewogICAgICAgICAgICAgICAgdGhpcy5maWVsZE5hbWVzID0gZmllbGROYW1lczsKICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">dWlkPSdoX3F0YV9wcm10LnByb3ZpZGVyX19zcGxpdF9fMTAuOTMuNDAuMjA2X19zcGxpdF9fL29wZW4vcHJvbW90aW9uL2FwaS9iZW5lZml0R3JvdXAvcXVlcnlfX3NwbGl0X19IVFRQX0dFVF9fc3BsaXRfX2hfcXRhX3BybXRfMTgxMDI1LjE1NTkxNi4xMC45My40MC4yMDYuMjc1NjcuMTQ2OV8xLTEnCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgIGRhdGFzID0gbnVsbDs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihBcmVzQml6Q2FjaGVMb2FkSW1wbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
