@@ -21,11 +21,10 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" timestamp="1541077775154">
         <mark key="'" line="76" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/FixedSampler.java" timestamp="1541487929404" />
+      <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/FixedSampler.java" timestamp="1541488635990" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/SetWrapperDefaultDisplayProcessor.java" timestamp="1541063895248">
         <mark key="'" line="87" column="12" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1541474528247" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/RootTScope.java" timestamp="1541486174122">
         <mark key="'" line="65" column="14" />
       </file>
@@ -55,6 +54,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/UnAggregateProcessor.java" timestamp="1541075492022">
         <mark key="'" line="30" column="10" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/qta/open-price/provider/src/main/resources.prod/logback.xml" timestamp="1541489083663" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ClusteredWrapperRoomTypeProcessor.java" timestamp="1541074786643">
         <mark key="'" line="37" column="60" />
       </file>
@@ -80,7 +80,7 @@
       <file name="/dummy.sql" timestamp="1541413872997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541488347393">
+      <file name="/Dummy.txt" timestamp="1541488977388">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.3.9/qtracer-client-1.3.9-sources.jar!/qunar/tc/qtracer/impl/RootTScope.java" timestamp="1541486523302">
@@ -89,8 +89,8 @@
       <file name="/coupon_00 [noah]" timestamp="1541413853384">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" timestamp="1541487233846">
-        <mark key="'" line="10" column="17" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" timestamp="1541488819181">
+        <mark key="'" line="664" column="72" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541475048704" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1540990500920">
@@ -124,9 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="11" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-bitcask/1.0.5/qta-bitcask-1.0.5-sources.jar!/com/qunar/hotel/qta/tools/bitcask/bean/DumpData.java" />
-      <jump line="113" column="35" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" />
-      <jump line="79" column="35" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
       <jump line="73" column="34" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
       <jump line="158" column="80" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
       <jump line="19" column="32" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betamagic/logback.xml" />
@@ -224,6 +221,9 @@
       <jump line="1748" column="0" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" />
       <jump line="10" column="17" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" />
       <jump line="82" column="92" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitCoexistPPostProcessor.java" />
+      <jump line="131" column="55" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" />
+      <jump line="622" column="30" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" />
+      <jump line="664" column="72" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -239,7 +239,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>int</text>
+        <text encoding="base64">XDxXUkFQUEVSX1BSSUNFX0VOVFJZX1BST0ZJVF80UVRBX0RFU0NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUkFOR0VfQ09NUEFSQVRPUi5jb21wYXJlKFJhbmdlLmNsb3NlZE9wZW4oMSwgMSksIFJhbmdlLmNsb3NlZCgwLCAgMCkpKTsK</text>
@@ -282,9 +282,9 @@
       </register>
     </registers>
     <search>
-      <last-search>int</last-search>
+      <last-search encoding="base64">XDxXUkFQUEVSX1BSSUNFX0VOVFJZX1BST0ZJVF80UVRBX0RFU0NcPg==</last-search>
       <last-offset />
-      <last-pattern>int</last-pattern>
+      <last-pattern encoding="base64">XDxXUkFQUEVSX1BSSUNFX0VOVFJZX1BST0ZJVF80UVRBX0RFU0NcPg==</last-pattern>
       <last-replace>long</last-replace>
       <last-substitute>int</last-substitute>
       <last-dir>1</last-dir>
@@ -292,7 +292,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry>1</entry>
         <entry encoding="base64">XDxtZXJnZWRJZHNcPg==</entry>
         <entry encoding="base64">XDxiZW5lZml0c1w+</entry>
@@ -312,6 +311,7 @@
         <entry>EMPTY</entry>
         <entry>SUCCESS</entry>
         <entry>int</entry>
+        <entry encoding="base64">XDxXUkFQUEVSX1BSSUNFX0VOVFJZX1BST0ZJVF80UVRBX0RFU0NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>mark</entry>
