@@ -15,13 +15,14 @@
         <mark key="'" line="70" column="13" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/util/MaxProfitUtils.java" timestamp="1541508663044" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CashVoucherFunction.java" timestamp="1541560221896" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/NormalPricingModelProcessor.java" timestamp="1541504930473">
         <mark key="'" line="19" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/PriceEntry.java" timestamp="1541508308363">
         <mark key="'" line="48" column="22" />
       </file>
-      <file name="/qta_promotion_coupon.coupon_00 [noah]" timestamp="1541412200002">
+      <file name="/qta_promotion_coupon.coupon_00 [noah]" timestamp="1541560401332">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/base/commonconf/FreeRoomConfig.java" timestamp="1541495628376" />
@@ -31,6 +32,9 @@
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/FixedSampler.java" timestamp="1541488635990" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/SetWrapperDefaultDisplayProcessor.java" timestamp="1541063895248">
         <mark key="'" line="87" column="12" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1541561095026">
+        <mark key="[" line="124" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/ConfigGeneral.java" timestamp="1541495845090" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/RootTScope.java" timestamp="1541486174122">
@@ -47,12 +51,26 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/service/impl/StarVipServiceImpl.java" timestamp="1541417695250">
         <mark key="'" line="46" column="19" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DiffCostProcessor.java" timestamp="1541485703955">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1541508129105" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitCoexistPPostProcessor.java" timestamp="1541490888761">
-        <mark key="'" line="83" column="92" />
-        <mark key="[" line="39" column="128" />
-        <mark key="]" line="52" column="50" />
-        <mark key="." line="52" column="50" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitTwellFilterPostProcessor.java" timestamp="1541561068043">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="10" />
+        <mark key="." line="40" column="10" />
+        <mark key="^" line="40" column="10" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitCoexistPPostProcessor.java" timestamp="1541560520661">
+        <mark key="'" line="94" column="92" />
+        <mark key="[" line="58" column="12" />
+        <mark key="]" line="53" column="34" />
+        <mark key="." line="53" column="35" />
+        <mark key="^" line="53" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractPushGuidePriceProcessorV2.java" timestamp="1541495278731">
         <mark key="'" line="139" column="22" />
@@ -93,21 +111,24 @@
         <mark key="'" line="66" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/TraceId.java" timestamp="1541486001069" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" timestamp="1541560936669" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/rt/service/PriceUpdateDubboService.java" timestamp="1541406413171">
         <mark key="[" line="42" column="40" />
       </file>
-      <file name="/dummy.sql" timestamp="1541413872997">
+      <file name="/dummy.sql" timestamp="1541560405158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/PricingModelMaskConfig.java" timestamp="1541489156189">
         <mark key="'" line="89" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541490072789">
+      <file name="/Dummy.txt" timestamp="1541561130671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.3.9/qtracer-client-1.3.9-sources.jar!/qunar/tc/qtracer/impl/RootTScope.java" timestamp="1541486523302">
         <mark key="'" line="69" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.84/open-promotion-api-1.1.84-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/constants/PromotionCodeConstant.java" timestamp="1541558901144" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/constant/QtaCallerConstant.java" timestamp="1541560337593" />
       <file name="/coupon_00 [noah]" timestamp="1541413853384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -117,6 +138,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1541475048704" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1540990500920">
         <mark key="'" line="205" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1541488382228">
+        <mark key="'" line="985" column="33" />
+        <mark key="[" line="996" column="34" />
+        <mark key="]" line="1002" column="54" />
+        <mark key="^" line="1002" column="54" />
+        <mark key="." line="1002" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/BookingRuleProcessor.java" timestamp="1541065360470">
         <mark key="'" line="150" column="13" />
@@ -249,13 +277,13 @@
         <text>kkkkkk</text>
       </register>
       <register name="&quot;" type="4">
-        <text />
+        <text>VOUCHER_ID</text>
       </register>
       <register name="c" type="4">
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>VOUCHER_ID</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXUkFQUEVSX1BSSUNFX0VOVFJZX1BST0ZJVF80UVRBX0RFU0NcPg==</text>
