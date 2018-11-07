@@ -6,6 +6,9 @@
     </globalmarks>
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/base/commonconf/ConfigWrapper.java" timestamp="1541493143238" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceProcessor.java" timestamp="1541578976269">
+        <mark key="'" line="10" column="17" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/service/CloseRoomService.java" timestamp="1541577979456">
         <mark key="'" line="157" column="53" />
       </file>
@@ -28,16 +31,14 @@
       <file name="/qta_promotion_coupon.coupon_00 [noah]" timestamp="1541560401332">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/base/commonconf/FreeRoomConfig.java" timestamp="1541495628376" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" timestamp="1541077775154">
-        <mark key="'" line="76" column="25" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/base/commonconf/FreeRoomConfig.java" timestamp="1541582623788" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" timestamp="1541581876481">
+        <mark key="'" line="142" column="33" />
+        <mark key="." line="172" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/FixedSampler.java" timestamp="1541488635990" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/SetWrapperDefaultDisplayProcessor.java" timestamp="1541063895248">
         <mark key="'" line="87" column="12" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1541561095026">
-        <mark key="[" line="124" column="82" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/system/QtaQmqAopConfig.java" timestamp="1541578744050" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/room/CloseRoomProcessor.java" timestamp="1541577942510">
@@ -54,19 +55,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PrepareProcessor.java" timestamp="1541076352115">
         <mark key="'" line="38" column="8" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" timestamp="1541578040526">
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" timestamp="1541579682978">
         <mark key="'" line="305" column="28" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" timestamp="1541505171273" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/service/impl/StarVipServiceImpl.java" timestamp="1541417695250">
         <mark key="'" line="46" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DiffCostProcessor.java" timestamp="1541485703955">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-        <mark key="^" line="27" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1541508129105" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitTwellFilterPostProcessor.java" timestamp="1541577427496">
@@ -75,13 +69,6 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitCoexistPPostProcessor.java" timestamp="1541570745731">
-        <mark key="'" line="94" column="92" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="53" column="34" />
-        <mark key="." line="53" column="35" />
-        <mark key="^" line="53" column="34" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractPushGuidePriceProcessorV2.java" timestamp="1541495278731">
         <mark key="'" line="139" column="22" />
       </file>
@@ -89,10 +76,12 @@
         <mark key="'" line="30" column="10" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/open-price/provider/src/main/resources.prod/logback.xml" timestamp="1541489083663" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/dynamic/DynamicPriceProcessor.java" timestamp="1541578607051" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/CloudFreeRoomProcessor.java" timestamp="1541582753675" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/dynamic/DynamicPriceProcessor.java" timestamp="1541580207111" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ClusteredWrapperRoomTypeProcessor.java" timestamp="1541074786643">
         <mark key="'" line="37" column="60" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/UnCompareRoomAdjustProcessor.java" timestamp="1541579707188" />
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.1.8.RELEASE/reactor-core-3.1.8.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1541043872777">
         <mark key="'" line="164" column="4" />
       </file>
@@ -105,7 +94,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/CalculateQunarGuidePriceProcessor.java" timestamp="1541495261210">
         <mark key="'" line="38" column="44" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractDynamicPriceProcessorAdapter.java" timestamp="1541475787866" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractDynamicPriceProcessorAdapter.java" timestamp="1541580684383" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/enums/LogicBit.java" timestamp="1541507387398" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/util/PriceEntryUtil.java" timestamp="1541475916298" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/MaskPriceFilterConfig.java" timestamp="1541507814107">
@@ -113,6 +102,13 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/provider/src/main/java/com/qunar/hotel/price/dolphin/provider/aop/UserAuthorityAop.java" timestamp="1541578427027" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qtracer/qtracer-client/1.4.2/qtracer-client-1.4.2-sources.jar!/qunar/tc/qtracer/impl/Sample.java" timestamp="1541485835881" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/MobilePsPriceProcessor.java" timestamp="1541580431003">
+        <mark key="'" line="48" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/base/commonconf/DynamicPriceWrappersConfig.java" timestamp="1541581124246" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/MaxProfitReduce4MobileProcessorV3.java" timestamp="1541581189307">
+        <mark key="'" line="31" column="36" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/bean/QConfigContext.java" timestamp="1541489187931">
         <mark key="'" line="61" column="38" />
       </file>
@@ -152,13 +148,6 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1540990500920">
         <mark key="'" line="205" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1541488382228">
-        <mark key="'" line="985" column="33" />
-        <mark key="[" line="996" column="34" />
-        <mark key="]" line="1002" column="54" />
-        <mark key="^" line="1002" column="54" />
-        <mark key="." line="1002" column="54" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/BookingRuleProcessor.java" timestamp="1541065360470">
         <mark key="'" line="150" column="13" />
       </file>
@@ -182,21 +171,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/BookingHotelInstantConfirmProcessor.java" timestamp="1541075451933">
         <mark key="'" line="27" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1541497054352">
+      <file name="/fragment.java" timestamp="1541581342162">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="143" column="12" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="88" column="8" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="94" column="72" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="68" column="8" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="425" column="30" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" />
-      <jump line="90" column="23" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
-      <jump line="71" column="30" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/reset/ResetPriceBizProcessor.java" />
-      <jump line="76" column="25" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
       <jump line="262" column="31" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" />
       <jump line="87" column="12" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/SetWrapperDefaultDisplayProcessor.java" />
       <jump line="274" column="24" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" />
@@ -287,6 +266,16 @@
       <jump line="98" column="50" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/util/CloseRoomUtil.java" />
       <jump line="157" column="53" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/service/CloseRoomService.java" />
       <jump line="305" column="28" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" />
+      <jump line="10" column="17" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceProcessor.java" />
+      <jump line="50" column="33" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
+      <jump line="48" column="33" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/MobilePsPriceProcessor.java" />
+      <jump line="25" column="99" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/MaxProfitReduce4MobileProcessorV3.java" />
+      <jump line="66" column="32" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
+      <jump line="31" column="36" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/MaxProfitReduce4MobileProcessorV3.java" />
+      <jump line="150" column="20" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
+      <jump line="172" column="4" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
+      <jump line="142" column="33" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/DynamicPriceContainer.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/FullCalculateExecutor.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
