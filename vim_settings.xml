@@ -12,8 +12,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/util/PrepayMaskFirstFilterUtils.java" timestamp="1541684163190" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/modifier/PriceModifier.java" timestamp="1541754420396">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/modifier/PriceModifier.java" timestamp="1541758855371">
+        <mark key="[" line="15" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/WrapperPriceEntry.java" timestamp="1541756811598">
         <mark key="'" line="22" column="11" />
@@ -29,10 +29,21 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/Processor.java" timestamp="1541666877367">
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/price/abst/AbstractWrapperPriceProcessor.java" timestamp="1541757294271">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/modifier/PriceModifyValue.java" timestamp="1541758794947">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/price/abst/AbstractWrapperPriceProcessor.java" timestamp="1541757393512">
+        <mark key="[" line="18" column="59" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/dynamic/DynamicPriceProcessor.java" timestamp="1541755246706" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ClusteredWrapperRoomTypeProcessor.java" timestamp="1541758352147">
+        <mark key="'" line="37" column="60" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ClusterNormalTypeProcessor.java" timestamp="1541755547629" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/part/ClusterPriceProcessor.java" timestamp="1541754151694">
         <mark key="[" line="0" column="43" />
@@ -44,6 +55,11 @@
         <mark key="[" line="7" column="9" />
         <mark key="]" line="7" column="9" />
         <mark key="." line="7" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/sample/ClusterProcessor.java" timestamp="1541758404894">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/WithoutRtRenderPriceProdAExecutor.java" timestamp="1541753547561" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/rt/service/PriceUpdateDubboService.java" timestamp="1541406413171">
@@ -87,8 +103,8 @@
         <mark key="[" line="2" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.412/h_hprice_common-1.2.412-sources.jar!/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1541683951294" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/part/PreconditionProcessor.java" timestamp="1541754441278">
-        <mark key="[" line="5" column="40" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/part/PreconditionProcessor.java" timestamp="1541757879251">
+        <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="7" />
         <mark key="." line="5" column="7" />
       </file>
@@ -103,6 +119,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/AbstractKeepBasePriceProcessor.java" timestamp="1541684696850">
         <mark key="'" line="172" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/com/google/common/collect/Maps.class" timestamp="1541757623679" />
       <file name="/dummy.sql" timestamp="1541560405158">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,11 +135,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/PricingModelMaskProcessor.java" timestamp="1541756301187">
         <mark key="'" line="1605" column="24" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/price/abst/AbstractSinglePriceProcessor.java" timestamp="1541757145729">
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="54" />
-        <mark key="^" line="23" column="63" />
-        <mark key="." line="23" column="54" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/base/price/abst/AbstractSinglePriceProcessor.java" timestamp="1541758629003">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="54" />
+        <mark key="^" line="26" column="63" />
+        <mark key="." line="26" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/CtripHotelCouponServiceImpl.java" timestamp="1541750544052">
         <mark key="'" line="205" column="4" />
@@ -256,38 +273,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oUkFOR0VfQ09NUEFSQVRPUi5jb21wYXJlKFJhbmdlLmNsb3NlZE9wZW4oMSwgMSksIFJhbmdlLmNsb3NlZCgwLCAgMCkpKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LyoqCiAqIL/J0tQKICogQHBhcmFtIDxSRVNVTFQ+CiAqLw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHN1bi5zZWN1cml0eS50b29scy5rZXl0b29sLlBhaXI7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gY2FuRG9Qcm9jZXNzKCkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">LyoqCiAqIL/J0tQKICogQHBhcmFtIDxSRVNVTFQ+CiAqLw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5ncy5pc051bGxPckVtcHR5KHZvdWNoZXJJZCkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi51dGlscy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBhZGRpdGlvbk1hcCA9IGdldEFkZGl0aW9uTWFwKGNvdXBvbkluZm8pOwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSnVuaXQ0cnUuY2xhc3MpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmR1YmJvLmNvbW1vbi51dGlscy5Db2xsZWN0aW9uVXRpbHM7Cg==</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">b3V0ZXJIYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBhZGRpdGlvbk1hcCA9IGdldEFkZGl0aW9uTWFwKGNvdXBvbkluZm8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ucXVuYXIuaG90ZWwucXRhLnRvb2xzLmJpdGNhc2sudXRpbDsK</text>
+        <text encoding="base64">QFJ1bldpdGgoSnVuaXQ0cnUuY2xhc3MpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIHB1YmxpYyBMaXN0PE9iamVjdD4gZ2V0QmVhbnMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gYmVhbnM7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHB1YmxpYyB2b2lkIHNldEJlYW5zKExpc3Q8T2JqZWN0PiBiZWFucykgewogICAgICAgICAgICAgICAgdGhpcy5iZWFucyA9IGJlYW5zOwogICAgICAgICAgICB9CgogICAgICAgICAgICBwdWJsaWMgTGlzdDxTdHJpbmc+IGdldEZpZWxkTmFtZXMoKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmllbGROYW1lczsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgcHVibGljIHZvaWQgc2V0RmllbGROYW1lcyhMaXN0PFN0cmluZz4gZmllbGROYW1lcykgewogICAgICAgICAgICAgICAgdGhpcy5maWVsZE5hbWVzID0gZmllbGROYW1lczsKICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">b3V0ZXJIYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuQXNzZXJ0Lio7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ucXVuYXIuaG90ZWwucXRhLnRvb2xzLmJpdGNhc2sudXRpbDsK</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
