@@ -64,6 +64,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/util/WrapperADUtils.java" timestamp="1543305797824">
         <mark key="'" line="13" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/service/impl/BasePriceByCompetitorStrategy.java" timestamp="1543313915566">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="128" column="123" />
+        <mark key="." line="129" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/base/price/abst/AbstractSinglePriceProcessor.java" timestamp="1542875859525">
         <mark key="[" line="26" column="72" />
       </file>
@@ -139,9 +145,6 @@
         <mark key="." line="246" column="0" />
         <mark key="^" line="288" column="28" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/service/impl/PayInAdvanceByOneselfHandler.java" timestamp="1543304371127">
-        <mark key="[" line="161" column="15" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/base/sample/ClusterProcessor.java" timestamp="1542892851730">
         <mark key="[" line="40" column="87" />
       </file>
@@ -167,10 +170,11 @@
         <mark key="'" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/util/PriceSelector.java" timestamp="1543290458545" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-31017_20181031_quotationReconstruction-SNAPSHOT/h_hprice_common-DZS-31017_20181031_quotationReconstruction-20181127.041325-61.jar!/com/qunar/hotel/price/bean/enums/LimitTypeEnum.class" timestamp="1543313787065" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/bean/BasePriceContext.java" timestamp="1542872798951">
         <mark key="[" line="34" column="48" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/OldBusinessHiddenProcessor.java" timestamp="1543312706060" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/OldBusinessHiddenProcessor.java" timestamp="1543313642263" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/bean/TimeType.java" timestamp="1543068848760">
         <mark key="[" line="30" column="46" />
       </file>
@@ -233,6 +237,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/TimeTypeUtils.java" timestamp="1543233365010" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/utils/CommissionUtils.java" timestamp="1542167916830">
         <mark key="[" line="40" column="7" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BasePriceCalUtils.java" timestamp="1543313938845">
+        <mark key="[" line="110" column="50" />
+        <mark key="]" line="110" column="50" />
+        <mark key="." line="110" column="50" />
+        <mark key="^" line="102" column="7" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/base/price/HomogenizationPriceProcessor.java" timestamp="1542875691124">
         <mark key="[" line="15" column="92" />
@@ -350,8 +360,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>CollectionUtils.isEmpty(strategy.getPriceSections());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsaW1pdFByaWNlU3RyYXRlZ3lCZWFuLmdldExpbWl0VHlwZUVudW0oKQo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -369,40 +379,40 @@
         <text encoding="base64">ICAgICAgICAgICAgPC92YWx1ZT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShzdHJhdGVneS5nZXRQcmljZVNlY3Rpb25zKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsaW1pdFByaWNlU3RyYXRlZ3lCZWFuLmdldExpbWl0VHlwZUVudW0oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iMjAwIiByaWdodD0iNDAwIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB8fCBDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShzdHJhdGVneS5nZXRQcmljZVNlY3Rpb25zKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iMjAwIiByaWdodD0iNDAwIj4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iNDAwIiByaWdodD0iMHg3ZmZmZmZmZiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iNDAwIiByaWdodD0iMHg3ZmZmZmZmZiI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJpY2VTZWN0aW9uIGxlZnQ9IjAiIHJpZ2h0PSIyMDAiPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ImFwNGo0amoiYnBrVmtra2tra2trPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iMTAwIiByaWdodD0iMjAwIj4K</text>
+        <text encoding="base64">ICAgICAgICA8cHJpY2VTZWN0aW9uIGxlZnQ9IjAiIHJpZ2h0PSIyMDAiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3ByaWNlU2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgIDxwcmljZVNlY3Rpb24gbGVmdD0iMTAwIiByaWdodD0iMjAwIj4K</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
