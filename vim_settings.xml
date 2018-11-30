@@ -388,7 +388,7 @@
       <file name="/qta_promotion_activity.activity_template [noah]" timestamp="1543478629345">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543569387189">
+      <file name="/Dummy.txt" timestamp="1543569664028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractUnifiedPricingProcessor.java" timestamp="1543505541819">
@@ -419,11 +419,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/service/LMDetailV2Service.java" timestamp="1543407946536">
         <mark key="'" line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BasePriceCopyUtils.java" timestamp="1543568968549">
-        <mark key="[" line="51" column="128" />
-        <mark key="]" line="50" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BasePriceCopyUtils.java" timestamp="1543569902293">
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
         <mark key="^" line="51" column="105" />
-        <mark key="." line="50" column="0" />
+        <mark key="." line="37" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/impl/HotelPriceServiceImpl.java" timestamp="1543408879222">
         <mark key="'" line="247" column="38" />
@@ -550,8 +550,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>，隐藏其他报价</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -560,7 +560,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>BASE_PRICE_STRATEGY_ID</text>
+        <text>，隐藏其他报价</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
