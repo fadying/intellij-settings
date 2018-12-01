@@ -85,13 +85,22 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.PriceEntry" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.PriceEntry" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getSalesInfos()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="wrapperPrice" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.WrapperPriceEntry" />
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.WrapperPriceEntry" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" expression="wrapperId + &quot;,&quot;  + priceEntry.getRoomId() + &quot;,&quot; + priceEntry.getNormalType() + &quot;,&quot; + priceEntry.getPpbPayment() + &quot;,&quot; + priceEntry.getOriginalPrice() + &quot;,&quot; + priceEntry.getPrice()  + &quot;,pm&quot; + priceEntry.getPriceModel() + &quot;,&quot; + priceEntry.getKeepPriceArr() + &quot;,pt&quot; + priceEntry.getPriceType() + &quot;,&quot; + priceEntry.getPreferentialInfo().getReduce() + &quot;:&quot; + priceEntry.getPreferentialInfo().getCashback() + &quot;,&quot; + priceEntry.getExtendsMap().get(&quot;basePriceStrategyId&quot;) + &quot;,&quot; +  priceEntry.getExtendsMap().get(&quot;basePriceOriginalStrategyId&quot;)" language="JAVA" mode="CODE_FRAGMENT" />
+          <option name="LABEL_EXPRESSION" expression="wrapperId + &quot;,&quot;  + priceEntry.getRoomId() + &quot;,&quot; + priceEntry.getNormalType() + &quot;,&quot; + priceEntry.getPpbPayment() + &quot;,&quot; + priceEntry.getOriginalPrice() + &quot;,&quot; + priceEntry.getPrice()  + &quot;,pm&quot; + priceEntry.getPriceModel() + &quot;,&quot; + priceEntry.getKeepPriceArr() + &quot;,pt&quot; + priceEntry.getPriceType() + &quot;,&quot; + priceEntry.getPreferentialInfo().getReduce() + &quot;:&quot; + priceEntry.getPreferentialInfo().getCashback() + &quot;,&quot; + priceEntry.getExtendsMap().get(&quot;basePriceStrategyId&quot;) + &quot;,&quot; +  priceEntry.getExtendsMap().get(&quot;basePriceOriginalStrategyId&quot;) + &quot;,&quot; + priceEntry.getSalesInfos()" language="JAVA" mode="CODE_FRAGMENT" />
         </Renderer>
       </Renderer>
       <Renderer ID="CompoundTypeRenderer">
