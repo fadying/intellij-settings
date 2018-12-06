@@ -76,8 +76,8 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/ClusterNormalTypeProcessor.java" timestamp="1544066862713" />
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynHotelDiscountProcessImp.java" timestamp="1543995112951" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/BasePriceConfig.java" timestamp="1544015270851">
-        <mark key="'" line="392" column="13" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/BasePriceConfig.java" timestamp="1544111541478">
+        <mark key="'" line="56" column="14" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/protobuf/bean/PriceEntryProtoBuf.java" timestamp="1544068599479">
         <mark key="'" line="913" column="29" />
@@ -282,12 +282,6 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/sprite/src/main/java/com/qunar/mobile/hotel/constants/HotelMatrixMonitor.java" timestamp="1544016677065">
         <mark key="'" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/bean/AbstractBasePriceStrategy.java" timestamp="1544068937488">
-        <mark key="'" line="118" column="65" />
-        <mark key="[" line="93" column="39" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/bean/TimeSectionType.java" timestamp="1544068938367">
         <mark key="'" line="30" column="34" />
       </file>
@@ -363,8 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/bean/CompetitorPriceStrategy.java" />
-      <jump line="306" column="34" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-31017_20181031_quotationReconstruction-SNAPSHOT/h_hprice_common-DZS-31017_20181031_quotationReconstruction-20181204.074945-134.jar!/com/qunar/hotel/price/ad/WrapperAD.class" />
       <jump line="28" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/notify/qmq/voucher/VoucherQmqPushConstants.java" />
       <jump line="64" column="18" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/notify/qmq/voucher/CashVoucherQmqDelayNotifyStrategy.java" />
       <jump line="338" column="16" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-31017_20181031_quotationReconstruction-SNAPSHOT/h_hprice_common-DZS-31017_20181031_quotationReconstruction-20181204.074945-134.jar!/com/qunar/hotel/price/ad/WrapperAD.class" />
@@ -463,6 +455,8 @@
       <jump line="84" column="18" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BasePriceCalUtils.java" />
       <jump line="111" column="47" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/service/impl/BasePriceByCompetitorStrategy.java" />
       <jump line="335" column="20" filename="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/controller/UserInfoController.java" />
+      <jump line="497" column="36" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/BasePriceConfig.java" />
+      <jump line="56" column="14" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/BasePriceConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
