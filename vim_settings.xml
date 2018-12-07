@@ -26,8 +26,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/base/service/BasicDataService.java" timestamp="1543747814847">
         <mark key="'" line="8" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/resources/cases/casesNew/basicPricePolicy/passivePricePrepay.xml" timestamp="1544169963815">
-        <mark key="[" line="422" column="162" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/resources/cases/casesNew/basicPricePolicy/passivePricePrepay.xml" timestamp="1544171157316">
+        <mark key="[" line="1157" column="150" />
+        <mark key="]" line="1157" column="150" />
+        <mark key="^" line="764" column="150" />
+        <mark key="." line="1157" column="150" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy/web/src/main/java/com/qunar/hotel/price/service/price/detail/multiprice/VendersBuilder.java" timestamp="1543747343183">
         <mark key="'" line="40" column="67" />
@@ -93,6 +96,18 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/qta/open-price/provider/src/main/java/com/qunar/hotel/qta/open/price/calculate/dyn/imp/DynHotelDiscountProcessImp.java" timestamp="1543995112951" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/protobuf/bean/PriceEntryProtoBuf.java" timestamp="1544068599479">
         <mark key="'" line="913" column="29" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/resources/cases/Q_SpecialAddPrice.xml" timestamp="1544089562690">
+        <mark key="[" line="8946" column="122" />
+        <mark key="]" line="9084" column="25" />
+        <mark key="^" line="9084" column="25" />
+        <mark key="." line="9084" column="25" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/PricingSwitchControlConfig.java" timestamp="1544155763496">
+        <mark key="[" line="86" column="54" />
+        <mark key="]" line="86" column="54" />
+        <mark key="^" line="86" column="54" />
+        <mark key="." line="86" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/biz/src/main/java/com/qunar/hotel/price/kiwi/biz/impl/QunarOrderBizImpl.java" timestamp="1543921045026">
         <mark key="'" line="28" column="15" />
@@ -198,7 +213,7 @@
         <mark key="^" line="55" column="34" />
         <mark key="." line="55" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/java/com/qunar/hotel/price/test/PriceTestNoah3.java" timestamp="1544170081711">
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/java/com/qunar/hotel/price/test/PriceTestNoah3.java" timestamp="1544171192205">
         <mark key="[" line="13" column="78" />
         <mark key="]" line="13" column="78" />
         <mark key="." line="13" column="78" />
@@ -328,7 +343,7 @@
         <mark key="'" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/event/PriceTableCleanDataService.java" timestamp="1544167149340" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/BasePriceConfigMapping.java" timestamp="1544169250958">
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/BasePriceConfigMapping.java" timestamp="1544171132134">
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/bean/AbstractBasePriceStrategy.java" timestamp="1544170211816">
@@ -526,7 +541,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.xml</text>
+        <text>y</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -535,7 +550,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>.xml</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
