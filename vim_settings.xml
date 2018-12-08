@@ -5,6 +5,9 @@
       <mark key="S" line="120" column="28" filename="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/CommonBizConfig.java" timestamp="1544238336180">
+        <mark key="'" line="868" column="79" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/base/bean/time/WeekTimeRangeMap.java" timestamp="1544170302210">
         <mark key="[" line="14" column="13" />
       </file>
@@ -85,12 +88,12 @@
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/processors/AbstractBaseAdjustPriceHandler.java" timestamp="1544193451976">
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/processors/AbstractBaseAdjustPriceHandler.java" timestamp="1544238123275">
         <mark key="'" line="129" column="10" />
         <mark key="[" line="74" column="9" />
-        <mark key="]" line="40" column="97" />
-        <mark key="^" line="40" column="97" />
-        <mark key="." line="40" column="97" />
+        <mark key="]" line="94" column="12" />
+        <mark key="^" line="94" column="12" />
+        <mark key="." line="94" column="12" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/price/bean/enums/PriceHiddenBit.java" timestamp="1544171970977">
         <mark key="[" line="69" column="66" />
@@ -123,12 +126,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice_autotest/src/test/resources/dynamicconfig/basicPriceStrategy/pricing_switch_control.properties" timestamp="1544175173453">
         <mark key="[" line="9" column="25" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy_new/web/src/main/java/com/qunar/hotel/price/service/BigSaleDetailProcessor.java" timestamp="1544175410500">
-        <mark key="[" line="271" column="177" />
-        <mark key="]" line="271" column="176" />
-        <mark key="^" line="271" column="176" />
-        <mark key="." line="271" column="176" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy_new/web/src/main/java/com/qunar/hotel/price/service/price/detail/lm/DetailVendorsBuilder.java" timestamp="1543917106517">
         <mark key="[" line="86" column="49" />
@@ -199,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="28" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/constants/HomogenizationConstants.java" />
       <jump line="20" column="28" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/constants/HomogenizationConstants.java" />
       <jump line="361" column="39" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractUnifiedPricingProcessor.java" />
       <jump line="303" column="35" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractUnifiedPricingProcessor.java" />
@@ -299,6 +295,7 @@
       <jump line="63" column="81" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/processors/BigSaleProcessor.java" />
       <jump line="87" column="45" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BigSaleUtil.java" />
       <jump line="304" column="45" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/util/PriceCheckUtils.java" />
+      <jump line="868" column="79" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_common/src/main/java/com/qunar/hotel/price/base/commonconf/CommonBizConfig.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
