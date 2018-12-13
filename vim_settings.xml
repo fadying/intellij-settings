@@ -51,8 +51,8 @@
       <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1544515408950">
         <mark key="'" line="1959" column="15" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" timestamp="1544604008882">
-        <mark key="'" line="364" column="25" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" timestamp="1544667328645">
+        <mark key="'" line="364" column="65" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/executor/prodB/DetailPriceProdBNewExecutor.java" timestamp="1544365476194">
         <mark key="'" line="412" column="30" />
@@ -97,9 +97,11 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/base/resource/bean/ResourceControllableTask.java" timestamp="1544667325332">
+        <mark key="'" line="5" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="48" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/service/RebuildBakCacheKeyTask.java" />
       <jump line="19" column="48" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/service/RebuildBakCacheKeyTask.java" />
       <jump line="232" column="20" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/cache/PriceTableStatusCacheService.java" />
       <jump line="42" column="16" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/service/RebuildBakCacheKeyTask.java" />
@@ -170,7 +172,6 @@
       <jump line="491" column="32" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.453-PRE-2/h_hprice_common-1.2.453-PRE-2-sources.jar!/com/qunar/hotel/price/base/commonconf/CommonBizConfig.java" />
       <jump line="834" column="24" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/HotelParser.java" />
       <jump line="669" column="36" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/HotelParser.java" />
-      <jump line="364" column="25" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" />
       <jump line="1183" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java" />
       <jump line="1959" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="431" column="32" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.453/h_hprice_common-1.2.453-sources.jar!/com/qunar/hotel/price/bean/WrapperPrice.java" />
@@ -199,6 +200,8 @@
       <jump line="165" column="30" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractExecutionThreadService.java" />
       <jump line="179" column="37" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractExecutionThreadService.java" />
       <jump line="37" column="32" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractIdleService.java" />
+      <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/base/resource/bean/ResourceControllableTask.java" />
+      <jump line="364" column="65" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
