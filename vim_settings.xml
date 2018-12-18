@@ -32,8 +32,11 @@
         <mark key="." line="238" column="52" />
         <mark key="^" line="238" column="51" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545122616173">
-        <mark key="[" line="0" column="125" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" timestamp="1545127192964">
+        <mark key="'" line="189" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1545127247187">
+        <mark key="[" line="0" column="127" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/engine/pom.xml" timestamp="1545119994340">
         <mark key="[" line="12" column="13" />
@@ -67,6 +70,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/event/merge/TickCycle.java" timestamp="1544604509881">
         <mark key="'" line="50" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" timestamp="1545126758585" />
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.10/elasticsearch-5.6.10.jar!/org/apache/lucene/store/RateLimitedFSDirectory.class" timestamp="1544688305861">
         <mark key="'" line="47" column="28" />
       </file>
@@ -127,6 +131,9 @@
         <mark key="'" line="355" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/resources/qunar.xml" timestamp="1545122349256" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" timestamp="1545127193412">
+        <mark key="'" line="48" column="19" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/engine/1.5.4/engine-1.5.4-sources.jar!/com/qunar/hotel/DefaultAppContext.java" timestamp="1545117778980">
         <mark key="'" line="196" column="17" />
       </file>
@@ -163,7 +170,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/KeepBasePriceConfig.java" timestamp="1545016593732">
         <mark key="'" line="19" column="31" />
       </file>
-      <file name="/ebooking.eb_auth_app_info [noah]" timestamp="1545124192765">
+      <file name="/ebooking.eb_auth_app_info [noah]" timestamp="1545127241301">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/java/com/qunar/hotel/ebooking/handler/TestHandler.java" timestamp="1545121424635">
@@ -179,7 +186,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/AbstractGroupRoomProcessor.java" timestamp="1544370428336">
         <mark key="'" line="169" column="22" />
       </file>
-      <file name="/dummy.sql" timestamp="1545124193351">
+      <file name="/dummy.sql" timestamp="1545127241954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/SimpleHiddenProcessor.java" timestamp="1544366671557">
@@ -229,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="36" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/PriceProcessLockContainer.java" />
-      <jump line="66" column="69" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/PriceProcessLockContainer.java" />
       <jump line="65" column="23" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/PriceProcessLockContainer.java" />
       <jump line="77" column="32" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/callrt/RTService.java" />
       <jump line="6" column="0" filename="$USER_HOME$/IdeaProjects/qunar/qta/open-price/provider/src/test/resources/config.properties" />
@@ -329,6 +334,8 @@
       <jump line="775" column="48" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/java/com/qunar/hotel/ebooking/handler/TestHandler.java" />
       <jump line="1" column="0" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/java/com/qunar/hotel/ebooking/handler/TestHandler.java" />
       <jump line="26" column="27" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-service/src/main/java/com/qunar/hotel/ebooking/service/auth/AppInfoService.java" />
+      <jump line="189" column="26" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
+      <jump line="48" column="19" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
