@@ -98,17 +98,17 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-service/src/main/java/com/qunar/hotel/ebooking/service/pms/impl/PMSHotelServiceImpl.java" timestamp="1545188895763" />
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/db-sql/20160704-eb-zhonghui.sql" timestamp="1545034909486" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-admin-web/src/main/java/com/qunar/hotel/ims/task/HotelNightRoomTask.java" timestamp="1545204944391">
+      <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-admin-web/src/main/java/com/qunar/hotel/ims/task/HotelNightRoomTask.java" timestamp="1545205808739">
         <mark key="'" line="176" column="21" />
-        <mark key="[" line="230" column="23" />
-        <mark key="]" line="211" column="12" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
         <mark key="^" line="211" column="12" />
-        <mark key="." line="211" column="12" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1545199080212">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545193169577">
+      <file name="/Dummy.txt" timestamp="1545205837288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/unified/AbstractUnifiedPricingProcessor.java" timestamp="1545017608641" />
@@ -241,8 +241,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGhvdGVsTmlnaHRSb29tLmdldExpbWl0UHJpY2UoKSA9PSBudWxsCg==</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -260,44 +260,44 @@
         <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBpcCA9IHJlcXVlc3QuZ2V0SGVhZGVyKCJ4LXJlYWwtaXAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGhvdGVsTmlnaHRSb29tLmdldExpbWl0UHJpY2UoKSA9PSBudWxsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGhvdGVsTmlnaHRSb29tLmdldElkKCkgPT0gbnVsbAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKCk=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="u" type="4">
+        <text />
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>import org.jboss.arquillian.container.test.api.Deployment;
 import org.jboss.arquillian.junit.Arquillian;
 import org.jboss.shrinkwrap.api.ShrinkWrap;
 import org.jboss.shrinkwrap.api.asset.EmptyAsset;
 import org.jboss.shrinkwrap.api.spec.JavaArchive;</text>
       </register>
-      <register name="u" type="4">
-        <text />
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIEBEZXBsb3ltZW50CiAgICBwdWJsaWMgc3RhdGljIEphdmFBcmNoaXZlIGNyZWF0ZURlcGxveW1lbnQoKSB7CiAgICAgICAgcmV0dXJuIFNocmlua1dyYXAuY3JlYXRlKEphdmFBcmNoaXZlLmNsYXNzKQogICAgICAgICAgICAgICAgLmFkZENsYXNzKFBhY2tldEhNQUNNRDVWYWxpZGF0b3IuY2xhc3MpCiAgICAgICAgICAgICAgICAuYWRkQXNNYW5pZmVzdFJlc291cmNlKEVtcHR5QXNzZXQuSU5TVEFOQ0UsICJiZWFucy54bWwiKTsKICAgIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgKiBAc2VlIChqYXZhLnV0aWwuU2V0LCBjb20ucXVuYXIuaG90ZWwucHJpY2UuYmVhbi5XcmFwcGVyUHJpY2VFbnRyeSwgY29tLnF1bmFyLmhvdGVsLnByaWNlLmJlYW4uUHJpY2VFbnRyeSk=</text>
-      </register>
       <register name="w" type="4">
         <text encoding="base64">ImFwNGo0amoiYnBrVmtra2tra2trPg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIEBEZXBsb3ltZW50CiAgICBwdWJsaWMgc3RhdGljIEphdmFBcmNoaXZlIGNyZWF0ZURlcGxveW1lbnQoKSB7CiAgICAgICAgcmV0dXJuIFNocmlua1dyYXAuY3JlYXRlKEphdmFBcmNoaXZlLmNsYXNzKQogICAgICAgICAgICAgICAgLmFkZENsYXNzKFBhY2tldEhNQUNNRDVWYWxpZGF0b3IuY2xhc3MpCiAgICAgICAgICAgICAgICAuYWRkQXNNYW5pZmVzdFJlc291cmNlKEVtcHR5QXNzZXQuSU5TVEFOQ0UsICJiZWFucy54bWwiKTsKICAgIH0=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgKiBAc2VlIChqYXZhLnV0aWwuU2V0LCBjb20ucXVuYXIuaG90ZWwucHJpY2UuYmVhbi5XcmFwcGVyUHJpY2VFbnRyeSwgY29tLnF1bmFyLmhvdGVsLnByaWNlLmJlYW4uUHJpY2VFbnRyeSk=</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
