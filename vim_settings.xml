@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/GroupRoomProcessor.java" timestamp="1544369053624">
         <mark key="'" line="37" column="67" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/provider/src/main/java/com/qunar/hotel/price/dolphin/provider/controller/biz/ApplyController.java" timestamp="1545640904211" />
       <file name="/qta_promotion_coupon.coupon_00 [noah]" timestamp="1544775134678">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,12 +42,17 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.453-PRE-2/h_hprice_common-1.2.453-PRE-2-sources.jar!/com/qunar/hotel/price/base/commonconf/CommonBizConfig.java" timestamp="1544371040695">
         <mark key="'" line="491" column="32" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/provider/src/main/java/com/qunar/hotel/price/dolphin/provider/schedule/HotelGmvSchedule.java" timestamp="1545640562207" />
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/java/com/qunar/hotel/ebooking/servlet/EBookingServlet.java" timestamp="1545116594238">
         <mark key="'" line="399" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/cache/PriceTableStatusCacheService.java" timestamp="1544260038865">
         <mark key="'" line="232" column="20" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/service/src/main/java/com/qunar/hotel/price/dolphin/service/auditComponent/CompareBreakMeiComponent.java" timestamp="1545640366919">
+        <mark key="'" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/service/src/main/java/com/qunar/hotel/price/dolphin/service/mapper/ApplyMapper.java" timestamp="1545640339913" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/PriceProcessLockContainer.java" timestamp="1544343572566">
         <mark key="'" line="65" column="23" />
       </file>
@@ -137,6 +143,10 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.52/coupon-api-1.0.52-sources.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponRemote.java" timestamp="1545288429851">
         <mark key="'" line="92" column="30" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/service/src/main/java/com/qunar/hotel/price/dolphin/service/auditComponent/QueryRuleComponent.java" timestamp="1545641274452" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/domain/src/main/java/com/qunar/hotel/dolphin/domain/bean/ApplyAuthRecord.java" timestamp="1545640386262">
+        <mark key="'" line="92" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractExecutionThreadService.java" timestamp="1544603070386">
         <mark key="'" line="179" column="37" />
       </file>
@@ -180,6 +190,7 @@
       <file name="/dummy.sql" timestamp="1545199080212">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/service/src/main/java/com/qunar/hotel/price/dolphin/service/mapper/RuleMapper.java" timestamp="1545641262096" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/SimpleHiddenProcessor.java" timestamp="1544366671557">
         <mark key="'" line="26" column="20" />
       </file>
@@ -212,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="565" column="23" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/utils/BigSaleUtil.java" />
-      <jump line="131" column="33" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamicv2/processors/BigSaleProcessor.java" />
       <jump line="56" column="53" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/SimpleHiddenProcessor.java" />
       <jump line="9" column="25" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/StdPreSimpleConfig.java" />
       <jump line="26" column="20" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/dynamic/SimpleHiddenProcessor.java" />
@@ -312,6 +321,8 @@
       <jump line="92" column="30" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.52/coupon-api-1.0.52-sources.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponRemote.java" />
       <jump line="117" column="22" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/CouponBizImpl.java" />
       <jump line="93" column="133" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/CouponController.java" />
+      <jump line="17" column="32" filename="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/service/src/main/java/com/qunar/hotel/price/dolphin/service/auditComponent/CompareBreakMeiComponent.java" />
+      <jump line="92" column="16" filename="$USER_HOME$/IdeaProjects/qunar/prmt/dolphin/domain/src/main/java/com/qunar/hotel/dolphin/domain/bean/ApplyAuthRecord.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
