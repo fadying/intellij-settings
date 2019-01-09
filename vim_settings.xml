@@ -52,8 +52,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-provider/ims-core-dao/src/main/java/com/qunar/hotel/ims/dao/enums/product/StandardStatusType.java" timestamp="1545227925301">
         <mark key="'" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" timestamp="1545733823200">
-        <mark key="'" line="77" column="31" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" timestamp="1547013749096">
+        <mark key="'" line="280" column="31" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/service/processor/compareprice/InternationalAdvanceBookingReduceProdBProcessor.java" timestamp="1544342299598">
         <mark key="'" line="34" column="46" />
@@ -66,6 +66,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/card/impl/CreditCardServiceImpl.java" timestamp="1546848760457" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/resources.prod/url.properties" timestamp="1546845100453" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/utils/ABTestUtil.java" timestamp="1547013999948" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/cache/PriceTableStatusCacheService.java" timestamp="1544260038865">
         <mark key="'" line="232" column="20" />
       </file>
@@ -89,7 +90,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/event/merge/TickCycle.java" timestamp="1544604509881">
         <mark key="'" line="50" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" timestamp="1546949064228">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/product/url.properties" timestamp="1547013708972" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" timestamp="1547013569931">
         <mark key="'" line="319" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/5.6.10/elasticsearch-5.6.10.jar!/org/apache/lucene/store/RateLimitedFSDirectory.class" timestamp="1544688305861">
@@ -167,6 +169,7 @@
         <mark key="'" line="78" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-provider/ims-core-dao/src/main/java/com/qunar/hotel/ims/dao/entity/keyword/CityHotLocationEntity.java" timestamp="1546934229964" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/constants/HotelURLConstants.java" timestamp="1547013701783" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/base/conf/StdPreSimpleConfig.java" timestamp="1544366305365">
         <mark key="'" line="9" column="25" />
       </file>
@@ -207,6 +210,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/ebooking/ebooking-server/src/main/java/com/qunar/hotel/ebooking/handler/TestHandler.java" timestamp="1545121424635">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/constants/ABTestConstants.java" timestamp="1547014020200" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/service/risk/impl/RiskServiceImpl.java" timestamp="1545826715047" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java" timestamp="1544690064772">
         <mark key="'" line="286" column="56" />
@@ -266,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="669" column="36" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/HotelParser.java" />
       <jump line="1183" column="0" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Map.java" />
       <jump line="1959" column="15" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
       <jump line="431" column="32" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.453/h_hprice_common-1.2.453-sources.jar!/com/qunar/hotel/price/bean/WrapperPrice.java" />
@@ -366,6 +369,7 @@
       <jump line="73" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" />
       <jump line="319" column="40" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" />
       <jump line="45" column="30" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitModifyBenefitPostProcessor.java" />
+      <jump line="280" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
