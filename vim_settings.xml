@@ -15,6 +15,7 @@
       <file name="/qta_promotion_coupon.coupon [noah]" timestamp="1547182108084">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" timestamp="1548142450422" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/model/benefit/MobQueryBenefitView.java" timestamp="1547458253564">
         <mark key="[" line="57" column="5" />
       </file>
@@ -41,6 +42,10 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/mhotel_coupons/pom.xml" timestamp="1547087411683">
         <mark key="[" line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" timestamp="1548142813468">
+        <mark key="'" line="223" column="31" />
+        <mark key="[" line="223" column="91" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1547792488097">
         <mark key="[" line="0" column="1" />
       </file>
@@ -48,6 +53,7 @@
         <mark key="[" line="250" column="50" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/AbstractAction.java" timestamp="1548065686617" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/CpnService.java" timestamp="1548142795266" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/resources.betamagic/dubbo/service-pub.xml" timestamp="1548065056727" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/biz/AbstractSubmitLogic.java" timestamp="1548137716225" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/order/hotel/impl/OrderTaskServiceImpl.java" timestamp="1548076894046" />
@@ -93,6 +99,8 @@
       <file name="/Dummy.txt" timestamp="1548127618191">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" timestamp="1548142119556" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" timestamp="1548142480281" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/product/new_sms_template.properties" timestamp="1548076812314">
         <mark key="[" line="55" column="38" />
       </file>
@@ -116,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="37" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractExecutionThreadService.java" />
       <jump line="37" column="32" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/AbstractIdleService.java" />
       <jump line="5" column="22" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/base/resource/bean/ResourceControllableTask.java" />
       <jump line="364" column="65" filename="$USER_HOME$/IdeaProjects/qunar/price/h_hprice_rebuild/src/main/java/com/qunar/hotel/price/systemcore/processor/TopicManager.java" />
@@ -216,6 +223,7 @@
       <jump line="62" column="30" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/VoucherResumeAction.java" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/betaautotest/new_sms_template.properties" />
       <jump line="57" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hippo/src/main/java/com/qunar/hippo/touch/pci/proxy/biz/SubmitWithCardIndexLogic.java" />
+      <jump line="223" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
