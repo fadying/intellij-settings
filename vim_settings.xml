@@ -14,18 +14,11 @@
         <mark key="^" line="85" column="20" />
         <mark key="." line="85" column="20" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" timestamp="1549028538185">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" timestamp="1549029577845">
         <mark key="'" line="155" column="38" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponStoreServiceImpl.java" timestamp="1549025674967">
         <mark key="[" line="181" column="5" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/biz/src/main/java/com/qunar/hotel/price/otter/biz/impl/CouponSmsBizImpl.java" timestamp="1549006940101">
-        <mark key="'" line="164" column="34" />
-        <mark key="[" line="88" column="29" />
-        <mark key="]" line="88" column="56" />
-        <mark key="." line="88" column="56" />
-        <mark key="^" line="88" column="56" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ConsumeBenefitAction.java" timestamp="1549024353295" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/domain/src/main/java/com/qunar/hotel/otter/domain/bean/sms/SmsTemplateId.java" timestamp="1549004289419" />
@@ -40,6 +33,7 @@
         <mark key="]" line="78" column="63" />
         <mark key="." line="78" column="63" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" timestamp="1549029342026" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" timestamp="1548732231356">
         <mark key="[" line="562" column="113" />
         <mark key="]" line="574" column="16" />
@@ -61,9 +55,9 @@
         <mark key="." line="74" column="4" />
         <mark key="^" line="74" column="4" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1549003556455" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/otter/provider/src/main/resources/coupon/CouponMapper.xml" timestamp="1549007059913" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/ResumeBenefitAction.java" timestamp="1549025339282" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/SecurityUserDevQuery.java" timestamp="1549029449560" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/coupon/coupon-api/1.0.53/coupon-api-1.0.53.jar!/com/qunar/hotel/qta/coupon/api/remote/CouponRemote.class" timestamp="1549024358958" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-galaxy_new/web/src/main/java/com/qunar/hotel/price/service/price/PromotionAsyncRequest.java" timestamp="1549023399289" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" timestamp="1549024758563">
@@ -83,9 +77,11 @@
         <mark key="^" line="85" column="100" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/java/com/qunar/hotel/qta/open/promotion/controller/VoucherOperateController.java" timestamp="1549027100545" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChecker.java" timestamp="1549029877623">
+        <mark key="'" line="267" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="354" column="11" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java" />
       <jump line="423" column="37" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java" />
       <jump line="421" column="37" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java" />
       <jump line="286" column="56" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java" />
@@ -185,6 +181,7 @@
       <jump line="143" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/coupon/CouponServiceFacade.java" />
       <jump line="45" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChooserUserType.java" />
       <jump line="155" column="38" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/NewCpnService.java" />
+      <jump line="267" column="34" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnChecker.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
