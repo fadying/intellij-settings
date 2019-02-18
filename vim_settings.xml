@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-ref.xml" timestamp="1550475565735" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.prod/registry.properties" timestamp="1550474970581" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.23/dubbo-3.2.23-sources.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboInvoker.java" timestamp="1550482188526" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1550490440421" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1550474867109">
         <mark key="[" line="726" column="29" />
         <mark key="]" line="726" column="30" />
@@ -27,10 +28,19 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources/spring/dubbo/dubbo-pub.xml" timestamp="1550475129849" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/impl/ABTestServiceImpl.java" timestamp="1550473286436" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.23/dubbo-3.2.23-sources.jar!/com/alibaba/dubbo/registry/integration/RegistryDirectory.java" timestamp="1550479886176" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitPostProcessor.java" timestamp="1550490444555">
+        <mark key="[" line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponStoreServiceImpl.java" timestamp="1549025674967">
         <mark key="[" line="181" column="5" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" timestamp="1550462251073" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitTwellFilterPostProcessor.java" timestamp="1550490867024">
+        <mark key="[" line="32" column="91" />
+        <mark key="]" line="33" column="7" />
+        <mark key="." line="33" column="7" />
+        <mark key="^" line="33" column="7" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-service-data-store.api/1.0.4/qta-service-data-store.api-1.0.4.jar!/com/qunar/hotel/qta/data/store/api/service/OrderStorageService.class" timestamp="1550474437425" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/flight/membership_api/1.0.4/membership_api-1.0.4.jar!/com/qunar/vip/api/IStarVipQueryService.class" timestamp="1550462751399" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/hprice-breeze/provider/src/main/resources.betanoah/dubbo/dubbo-ref.xml" timestamp="1550235040437" />
@@ -41,8 +51,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/util/CallerUtil.java" timestamp="1550462917033" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/provider/src/main/resources.beta/url.properties" timestamp="1550464154527" />
       <file name="$MAVEN_REPOSITORY$/io/netty/netty-all/4.0.24.Final/netty-all-4.0.24.Final-sources.jar!/io/netty/channel/socket/nio/NioSocketChannel.java" timestamp="1550480593777" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/BizTemplate.java" timestamp="1550491183112" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.prodwrapper/registry.properties" timestamp="1550475575111" />
-      <file name="/Dummy.txt" timestamp="1550479587105">
+      <file name="/Dummy.txt" timestamp="1550490878842">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/dubbo/dubbo/3.2.23/dubbo-3.2.23-sources.jar!/com/alibaba/dubbo/rpc/cluster/support/AvailableClusterInvoker.java" timestamp="1550479794009" />
@@ -164,7 +175,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxMb25nPiBmaW5hbFZvdWNoZXJJZCA9IHZvdWNoZXJJZDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXRhUHJvbW90aW9uQ29udGV4dC5nZXRFeHRyYUNvbnRleHQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -182,40 +193,40 @@
         <text encoding="base64">ICAgICAgICBRTW9uaXRvci5yZWNvcmRPbmUoTW9uaXRvckNvbnN0YW50LlFVRVJZX1VTRVJfVk9VQ0hFUlMsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpIC0gc3RhcnQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxMb25nPiBmaW5hbFZvdWNoZXJJZCA9IHZvdWNoZXJJZDsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocXRhUHJvbW90aW9uQ29udGV4dC5nZXRFeHRyYUNvbnRleHQoKSA9PSBudWxsKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChxdGFQcm9tb3Rpb25Db250ZXh0LmdldEV4dHJhQ29udGV4dCgpICE9IG51bGwpIHsKICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoY29udGV4dCA9PSBudWxsIHx8IGNvbnRleHQuZ2V0Q29udGV4dCgpID09KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYmplY3QgZGV0YWlsQ29udGV4dCA9IDsK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxMb25nPiBmaW5hbFZvdWNoZXJJZCA9IHZvdWNoZXJJZDsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbklkID0gcXVlcnlNYXhJZDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChxdGFQcm9tb3Rpb25Db250ZXh0LmdldEV4dHJhQ29udGV4dCgpICE9IG51bGwpIHsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgZGV0YWlsQ29udGV4dCA9IDsK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIFJhdGVMaW1pdGVyIGxpbWl0ZXIgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbklkID0gcXVlcnlNYXhJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiDStc7xtKbA7c/ey9kgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ImFwNGo0amoiYnBrVmtra2tra2trPg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gdXNlcklkIG9yZGVyILj80MIKICAgICAgICBpbnQgY291bnQgPSB1c2VyT3JkZXJCaW5kSW5mb0Rhby5zZWxlY3RPcmRlckNvdW50KG5ldyBVc2VyT3JkZXJCaW5kSW5mbyhvcmRlckluZm8uZ2V0VXNlcklkKCksIG9yZGVySW5mby5nZXRPcmRlck5vKCkpKTsKICAgICAgICAvLyC05tTa0tHT0LXEtqm1paOsvfjQ0LaptaXXtMystcSx5Lj8CiAgICAgICAgaWYgKGNvdW50ID4gMCkgewogICAgICAgICAgICB1c2VyT3JkZXJCaW5kSW5mb0Rhby5pbnNlcnRPclVwZGF0ZU9yZGVyUmVjb3JkKG9yZGVySW5mbyk7CiAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgIC8vIHVzZXIgaWQguPzQwgogICAgICAgICAgICBMaXN0PFVzZXJPcmRlckJpbmRJbmZvPiB1c2VySWRMaXN0ID0gdGhpcy5zZWxlY3RPcmRlclJlY29yZChvcmRlckluZm8uZ2V0VXNlcklkKCksICIiLCBvcmRlckluZm8uZ2V0UmVnaW9uVHlwZSgpKTsKICAgICAgICAgICAgaWYgKCFoYXNFZmZlY3RpdmVPcmRlcih1c2VySWRMaXN0KSkgewogICAgICAgICAgICAgICAgdXNlck9yZGVyQmluZEluZm9EYW8uaW5zZXJ0T3JVcGRhdGVPcmRlclJlY29yZChvcmRlckluZm8pOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyB1aWQguPzQwgogICAgICAgICAgICBMaXN0PFVzZXJPcmRlckJpbmRJbmZvPiB1aWRMaXN0ID0gdGhpcy5zZWxlY3RPcmRlclJlY29yZEJ5VWlkKG9yZGVySW5mby5nZXRVaWQoKSwgb3JkZXJJbmZvLmdldFJlZ2lvblR5cGUoKSk7CiAgICAgICAgICAgIGlmICghaGFzRWZmZWN0aXZlT3JkZXIodWlkTGlzdCkpIHsKICAgICAgICAgICAgICAgIHVzZXJPcmRlckJpbmRJbmZvRGFvLmluc2VydE9yVXBkYXRlT3JkZXJSZWNvcmRCeVVpZChvcmRlckluZm8pOwogICAgICAgICAgICB9CgogICAgICAgICAgICBMaXN0PFVzZXJPcmRlckJpbmRJbmZvPiBvcmRlckxpc3QgPSB0aGlzLnNlbGVjdE9yZGVyUmVjb3JkKG9yZGVySW5mby5nZXRVc2VySWQoKSwgb3JkZXJJbmZvLmdldFVpZCgpLCBvcmRlckluZm8uZ2V0UmVnaW9uVHlwZSgpKTsKICAgICAgICAgICAgaWYgKENvbGxlY3Rpb25VdGlscy5pc0VtcHR5KG9yZGVyTGlzdCkpIHsKICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiUkVDT1JEX1VTRVJfT1JERVJfSU5GT19TVUNDRVNTXyIgKyBvcmRlckluZm8uZ2V0UmVnaW9uVHlwZSgpKTsKICAgICAgICAgICAgICAgIHVzZXJPcmRlckJpbmRJbmZvRGFvLmluc2VydE9yVXBkYXRlT3JkZXJSZWNvcmQob3JkZXJJbmZvKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIC8vINLR09C1xLzHwrzOqrfH09DQp7Wlo6y8zND4tOa0oraptaUKICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNIYXZlID0gaGFzRWZmZWN0aXZlT3JkZXIob3JkZXJMaXN0KTsKICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNOZXdVaWQgPSBmYWxzZTsKICAgICAgICAgICAgICAgIGlmKFN0cmluZ1V0aWxzLmlzTm90RW1wdHkob3JkZXJJbmZvLmdldFVpZCgpKSl7CiAgICAgICAgICAgICAgICAgICAgaXNOZXdVaWQgPSBjaGVja05ld1VpZChvcmRlckxpc3QsIG9yZGVySW5mby5nZXRVaWQoKSk7CiAgICAgICAgICAgICAgICAgICAgaWYoaXNOZXdVaWQpCiAgICAgICAgICAgICAgICAgICAgICAgIFFNb25pdG9yLnJlY29yZE9uZSgiTkVXX0RFVklDRV9PUkRFUiIpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLy8gsru05tTa09DQp7Wlu/LV38601Nq4w8nosbjPwrn9taW1xMfpv/bPwi0t0LTI69DCtqm1pQogICAgICAgICAgICAgICAgaWYgKCFpc0hhdmUgfHwgaXNOZXdVaWQpIHsKICAgICAgICAgICAgICAgICAgICB1c2VyT3JkZXJCaW5kSW5mb0Rhby5pbnNlcnRPclVwZGF0ZU9yZGVyUmVjb3JkKG9yZGVySW5mbyk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgcHVibGljIFJhdGVMaW1pdGVyIGxpbWl0ZXIgPSBudWxsOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgICAgIExpc3Q8VXNlck9yZGVyQmluZEluZm8+IHVpZExpc3QgPSB0aGlzLnNlbGVjdE9yZGVyUmVjb3JkQnlVaWQob3JkZXJJbmZvLmdldFVpZCgpLCBvcmRlckluZm8uZ2V0UmVnaW9uVHlwZSgpKTsKICAgICAgICBpZiAodWlkTGlzdCk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8qKiDStc7xtKbA7c/ey9kgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
