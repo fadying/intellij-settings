@@ -41,6 +41,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/processor/QOrderBenefitPostProcessor.java" timestamp="1551795309138" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/adapter/WolfAdapter.java" timestamp="1551323019660" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-dao/src/main/java/com/qunar/hotel/qta/coupon/dao/storage/CouponStoreServiceImpl.java" timestamp="1551670550995" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/BenefitCacheConfig.java" timestamp="1551796497825" />
       <file name="/prmt_kiwi.grant_record [noah]" timestamp="1550818478050">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,12 +214,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/points/vest/CalculateHotelPointsQuantityAction.java" timestamp="1551614710910" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/web/controller/WrapperInfoController.java" timestamp="1551164457715" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/resources/coupon/CouponSeriesMapper.xml" timestamp="1551147847568" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CouponFunctions.java" timestamp="1551790634852" />
-      <file name="/fragment.java" timestamp="1551793696101">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/config/functions/CouponFunctions.java" timestamp="1551796366778" />
+      <file name="/fragment.java" timestamp="1551796453428">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="67" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="67" />
       </file>
       <file name="/qta_promotion_activity.activity_instance [noah]" timestamp="1551098196981">
         <mark key="[" line="0" column="0" />
@@ -331,7 +332,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAvKioKICAgICAqINPDu6fRodTxtcTKtbzKyv3BvwogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIERhaWx5QW1vdW50IGltcGxlbWVudHMgU2VyaWFsaXphYmxlIHsKCiAgICAgICAgLyoqCiAgICAgICAgICogyOvXocjVxtoKICAgICAgICAgKi8KICAgICAgICBwcml2YXRlIFNob3J0RGF0ZSBkYXRlOwoKICAgICAgICAvKioKICAgICAgICAgKiDTw7un0aHU8bXEyrW8ysr9wb8KICAgICAgICAgKi8KICAgICAgICBwcml2YXRlIGludCBhbW91bnQ7CgogICAgICAgIHB1YmxpYyBEYWlseUFtb3VudCgpIHsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBEYWlseUFtb3VudChTaG9ydERhdGUgZGF0ZSwgaW50IGFtb3VudCkgewogICAgICAgICAgICB0aGlzLmRhdGUgPSBkYXRlOwogICAgICAgICAgICB0aGlzLmFtb3VudCA9IGFtb3VudDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBTaG9ydERhdGUgZ2V0RGF0ZSgpIHsKICAgICAgICAgICAgcmV0dXJuIGRhdGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBzZXREYXRlKFNob3J0RGF0ZSBkYXRlKSB7CiAgICAgICAgICAgIHRoaXMuZGF0ZSA9IGRhdGU7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldEFtb3VudCgpIHsKICAgICAgICAgICAgcmV0dXJuIGFtb3VudDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIHNldEFtb3VudChpbnQgYW1vdW50KSB7CiAgICAgICAgICAgIHRoaXMuYW1vdW50ID0gYW1vdW50OwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICAgICAgcmV0dXJuICJEYWlseUFtb3VudHsiICsKICAgICAgICAgICAgICAgICAgICAiZGF0ZT0iICsgZGF0ZSArCiAgICAgICAgICAgICAgICAgICAgIiwgYW1vdW50PSIgKyBhbW91bnQgKwogICAgICAgICAgICAgICAgICAgICd9JzsKICAgICAgICB9CiAgICB9</text>
+        <text>inventoryIds</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -340,7 +341,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.53</text>
+        <text>inventoryIds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
