@@ -257,11 +257,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/1.0.10/open-promotion-common-1.0.10-sources.jar!/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluator.java" timestamp="1551188014659" />
       <file name="$MAVEN_REPOSITORY$/qunar/tc/qmq-client/4.0.25/qmq-client-4.0.25-sources.jar!/qunar/tc/qmq/consumer/MessageConsumerProvider.java" timestamp="1551881668583" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" timestamp="1551932073853">
-        <mark key="[" line="556" column="68" />
-        <mark key="]" line="598" column="0" />
-        <mark key="." line="598" column="0" />
-        <mark key="^" line="571" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" timestamp="1551963319136">
+        <mark key="[" line="569" column="123" />
+        <mark key="]" line="569" column="136" />
+        <mark key="." line="569" column="136" />
+        <mark key="^" line="569" column="136" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/filter/MobPromoFilter.java" timestamp="1551792786134" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/BenefitAdapter.java" timestamp="1551846312956">
@@ -345,7 +345,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betanoah/spring/spring-redis.xml" timestamp="1551880931338">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551962589721">
+      <file name="/Dummy.txt" timestamp="1551963354606">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -510,7 +510,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>benefi.getPointCostPerUnit() != null ?  engineEvaluationContext.compile(benefit.getTotalMoneyExpression()).execute(context, Integer.class) : 0</text>
+        <text>p</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -519,7 +519,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>benefi.getPointCostPerUnit() != null ?  engineEvaluationContext.compile(benefit.getTotalMoneyExpression()).execute(context, Integer.class) : 0</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
