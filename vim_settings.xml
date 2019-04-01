@@ -6,6 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/bean/DetailPriceQuery.java" timestamp="1553438310642" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/resources.prod/dubbo.properties" timestamp="1553453698167" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/price/service/redis/PriceSnapshotRedisClient.java" timestamp="1553438504279" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_base_intl/1.0.1/h_hprice_base_intl-1.0.1-sources.jar!/com/qunar/hotel/base/conf/PriceOfflineConfig.java" timestamp="1553440186724" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/HotelPriceInfoProcessor.java" timestamp="1553441139328" />
@@ -20,13 +21,14 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/resources/dubbo/service-ref.xml" timestamp="1553444599521" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/PriceGradeProcessor.java" timestamp="1553441219161" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/ValidationProcessorContainer.java" timestamp="1553438718128" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/QOrderPriceRemoteImpl.java" timestamp="1553449004246" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/QOrderPriceRemoteImpl.java" timestamp="1553452776391" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/InitDataProcessor.java" timestamp="1553440939721" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/QAdditionalRemoteImpl.java" timestamp="1553449224341" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/HomogenizationProcessor.java" timestamp="1553441212696" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/price/web/biz/PriceForValidationController.java" timestamp="1553452026270">
         <mark key="'" line="172" column="58" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/price/facade/app/QOrderPriceBolt.java" timestamp="1553453920949" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/resources.prod/hotel.properties" timestamp="1553445318697" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/base/service/QtaValidationService.java" timestamp="1553442950618" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/InternationalAdultChildProcessorV2.java" timestamp="1553441098503" />
@@ -40,10 +42,13 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/PriceVoProcessor.java" timestamp="1553439343668" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/dynamic/priceapi/service/impl/AutoFollowPriceService.java" timestamp="1553448344856" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/dynamic/priceapi/service/impl/DirectPriceApiService.java" timestamp="1553448217744" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/resources/dubbo/service-ref.xml" timestamp="1553453241044" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/order-booking/service/src/main/java/com/qunar/hotel/qta/order_port/dubbo3rd/XProductRemoteInjection.java" timestamp="1553453972865" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/DecorateProcessor.java" timestamp="1553441233507" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/price/service/redis/ImageRedisService.java" timestamp="1553441043406" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/VendorInfoProcessor.java" timestamp="1553441151532" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/dubbo/DubboRouter.java" timestamp="1553449136223" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/resources/dubbo/service-pub.xml" timestamp="1553452856385" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/dubbo/DubboRouter.java" timestamp="1553453785571" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/SalesInfoProcessor.java" timestamp="1553441182753" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/hprice-galaxy_new_intl_old/web/src/main/java/com/qunar/hotel/price/open/dynamic/priceapi/client/PriceApiUrlGenerator.java" timestamp="1553445437327" />
       <file name="$USER_HOME$/IdeaProjects/qunar/pei/h_galaxy_intl/web/src/main/java/com/qunar/hotel/inter/v2/price/service/processor/PriceProcessorContainer.java" timestamp="1553440684153" />
