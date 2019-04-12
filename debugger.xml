@@ -79,6 +79,130 @@
       <option name="INCLUDE" value="true" />
     </filter>
   </component>
+  <component name="NodeRendererSettings">
+    <Renderer ID="ToStringRenderer">
+      <option name="ON_DEMAND" value="true" />
+    </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.PriceEntry" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.PriceEntry" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getRoomId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.lang.Class" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="java.lang.Class" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getCanonicalName()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="wrapperPrice" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.WrapperPriceEntry" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.bean.WrapperPriceEntry" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" expression="wrapperId + &quot;,&quot;  + priceEntry.getRoomId() + &quot;,&quot; + priceEntry.getNormalType() + &quot;,&quot; + priceEntry.getPpbPayment() + &quot;,&quot; + priceEntry.getOriginalPrice() + &quot;,&quot; + priceEntry.getPrice()  + &quot;,pm&quot; + priceEntry.getPriceModel() + &quot;,&quot; + priceEntry.getOriginalKeepPriceArr() + &quot;:&quot; + priceEntry.getKeepPriceArr() + &quot;,pt&quot; + priceEntry.getPriceType() + &quot;,&quot; + priceEntry.getPreferentialInfo().getReduce() + &quot;:&quot; + priceEntry.getPreferentialInfo().getCashback() + &quot;,&quot; + priceEntry.getExtendsMap().get(&quot;basePriceStrategyId&quot;) + &quot;,&quot; +  priceEntry.getExtendsMap().get(&quot;basePriceOriginalStrategyId&quot;) + &quot;,&quot; + priceEntry.getSalesInfos()" language="JAVA" mode="CODE_FRAGMENT" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="ActivityType" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.otatts.utils.ActivityType" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.otatts.utils.ActivityType" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getActivityId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="QSpecialSubject" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.special.QSpecialSubject" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.special.QSpecialSubject" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="CtripProductInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.raven.domain.bean.product.CtripProductInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.raven.domain.bean.product.CtripProductInfo" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getProduct().getProductName() + &quot;:&quot; + getProduct().getPictureUrl()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.qta.open.bean.price.product.additional.QAdditionalProductInfo" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getId() + &quot; : &quot; + getTitle() + &quot; : &quot; + getSource() + &quot; : &quot; + getTicketType() + &quot; : &quot; + getTicketPriority()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.processor.impl.profit.bean.ProfitExecResult" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="ruleId&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="int" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="int" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="int" />
+          <option name="AppendDefault" value="true" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.base.bean.price.RoomPriceInfo" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getRoomtype() + &quot;:&quot; + getCodebase()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.abtest.TaskConfig" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getTaskId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="product" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.qunar.hotel.price.breeze.api.ogbean.price.product.QProduct" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="getProductId()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
+  </component>
   <component name="XDebuggerSettings">
     <data-views>
       <sort-values>true</sort-values>
