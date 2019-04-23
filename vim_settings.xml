@@ -58,8 +58,12 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-api-DZS-37865_PROMOTION_REFACTOR-20190419.073947-9-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/wolf/VoucherUseRange.java" timestamp="1555750966926">
         <mark key="'" line="20" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/PlaceholderUtil.java" timestamp="1555743813009">
-        <mark key="'" line="396" column="58" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/PlaceholderUtil.java" timestamp="1556028743902">
+        <mark key="'" line="397" column="58" />
+        <mark key="[" line="418" column="44" />
+        <mark key="]" line="417" column="58" />
+        <mark key="^" line="417" column="58" />
+        <mark key="." line="417" column="58" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/kiwi/provider/src/main/java/com/qunar/hotel/price/kiwi/provider/service/impl/StarVipServiceImpl.java" timestamp="1555671140868" />
       <file name="/prmt_kiwi.grant_record [noah]" timestamp="1552569923646">
@@ -210,11 +214,11 @@
       <file name="/QBenefit.java" timestamp="1551596397453">
         <mark key="[" line="995" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityTemplateBizImpl.java" timestamp="1556011264307">
-        <mark key="[" line="114" column="93" />
-        <mark key="]" line="108" column="24" />
-        <mark key="." line="108" column="24" />
-        <mark key="^" line="108" column="24" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityTemplateBizImpl.java" timestamp="1556028790450">
+        <mark key="[" line="88" column="166" />
+        <mark key="]" line="111" column="24" />
+        <mark key="." line="111" column="24" />
+        <mark key="^" line="111" column="24" />
       </file>
       <file name="/qta_promotion_activity.activity_template [base noah]" timestamp="1555659866250">
         <mark key="[" line="0" column="0" />
@@ -284,7 +288,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/product/qschedule.xml" timestamp="1555309951840">
         <mark key="[" line="7" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556026273144">
+      <file name="/Dummy.txt" timestamp="1556029364094">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
@@ -292,11 +296,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/java/com/qunar/hotel/qta/open/promotion/vo/adapter/ActivityVoAdapter.java" timestamp="1555941156938">
         <mark key="[" line="51" column="53" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" timestamp="1556028378230">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="119" column="70" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" timestamp="1556029350625">
+        <mark key="[" line="84" column="48" />
+        <mark key="]" line="78" column="16" />
+        <mark key="^" line="78" column="16" />
+        <mark key="." line="78" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/bean/ActivityBean.java" timestamp="1555940544189">
         <mark key="[" line="99" column="0" />
@@ -443,7 +447,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgcGFyYW1NYXAucHV0KCJzdGFydFRpbWUiLCBTVEFSVF9USU1FKTsKICAgICAgICBwYXJhbU1hcC5wdXQoImVuZFRpbWUiLCBFTkRfVElNRSk7</text>
+        <text>PlaceholderUtil.getPlaceholderValueFromConfigs(preConfigs, &quot;inventoryId&quot;, Long.class);</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -452,7 +456,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>activityId</text>
+        <text>PlaceholderUtil.getPlaceholderValueFromConfigs(preConfigs, &quot;inventoryId&quot;, Long.class);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
