@@ -75,6 +75,7 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/DataDictLoader.java" timestamp="1557372836676" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/support/context/TypeConversionContext.java" timestamp="1557386742261" />
+      <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-engine/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-engine-DZS-37865_PROMOTION_REFACTOR-20190509.073634-10-sources.jar!/com/qunar/hotel/qta/open/promotion/engine/expression/basic/BooleanExpression.java" timestamp="1557391485684" />
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/qta-open-product-api/1.1.246/qta-open-product-api-1.1.246.jar!/com/qunar/hotel/qta/open/bean/price/base/QPayTypeEnum.class" timestamp="1557321834687" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/adapt/BeanAdaptUtil.java" timestamp="1557286973000" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/type/creator/ListTypeValueCreator.java" timestamp="1556617438333">
@@ -119,8 +120,8 @@
         <mark key="." line="142" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-engine/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-engine-DZS-37865_PROMOTION_REFACTOR-20190430.100817-9-sources.jar!/com/qunar/hotel/qta/open/promotion/engine/TypeValueFactory.java" timestamp="1557383932540" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/java/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluatorTest.java" timestamp="1557389631572">
-        <mark key="[" line="110" column="43" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/java/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluatorTest.java" timestamp="1557391970056">
+        <mark key="[" line="109" column="20" />
         <mark key="]" line="109" column="20" />
         <mark key="." line="109" column="20" />
         <mark key="^" line="109" column="19" />
@@ -148,7 +149,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.betanoah/spring/spring-redis.xml" timestamp="1557210392711" />
-      <file name="/Dummy.txt" timestamp="1557387309435">
+      <file name="/Dummy.txt" timestamp="1557391742641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="0" />
@@ -457,7 +458,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -466,7 +467,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
@@ -474,43 +475,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIDxiZWFuIGlkPSJkYXRlVGltZUNvbnZlcnRlciIgY2xhc3M9ImNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcm9tb3Rpb24uZW5naW5lLnR5cGUuY29udmVydGVyLkRhdGVUaW1lVHlwZUJlYW5Db252ZXJ0ZXIiLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBhY2thZ2UgY29tLnF1bmFyLmhvdGVsLnF0YS5vcGVuLnByb21vdGlvbi51dGlsOwoKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5jb3JlLkpzb25QYXJzZXI7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uY29yZS5WZXJzaW9uOwppbXBvcnQgY29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFiaW5kLkRlc2VyaWFsaXphdGlvbkZlYXR1cmU7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuSmF2YVR5cGU7CmltcG9ydCBjb20uZmFzdGVyeG1sLmphY2tzb24uZGF0YWJpbmQuT2JqZWN0TWFwcGVyOwppbXBvcnQgY29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFiaW5kLm1vZHVsZS5TaW1wbGVNb2R1bGU7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLmJhc2UuZGF0ZXRpbWUuYmVhbi5TaG9ydERhdGU7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLmJhc2UuZGF0ZXRpbWUuYmVhbi5TaG9ydFRpbWU7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJvbW90aW9uLmJhc2UuanNvbi5GRGF0ZUpzb25EZXNlcmlhbGl6ZXI7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJvbW90aW9uLmJhc2UuanNvbi5GRGF0ZUpzb25TZXJpYWxpemVyOwppbXBvcnQgY29tLnF1bmFyLmhvdGVsLnF0YS5vcGVuLnByb21vdGlvbi5iYXNlLmpzb24uRlNob3J0RGF0ZUpzb25EZXNlcmlhbGl6ZXI7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJvbW90aW9uLmJhc2UuanNvbi5GU2hvcnREYXRlSnNvblNlcmlhbGl6ZXI7CmltcG9ydCBjb20ucXVuYXIuaG90ZWwucXRhLm9wZW4ucHJvbW90aW9uLmJhc2UuanNvbi5GU2hvcnRUaW1lSnNvbkRlc2VyaWFsaXplcjsKaW1wb3J0IGNvbS5xdW5hci5ob3RlbC5xdGEub3Blbi5wcm9tb3Rpb24uYmFzZS5qc29uLkZTaG9ydFRpbWVKc29uU2VyaWFsaXplcjsKaW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nLlN0cmluZ1V0aWxzOwoKaW1wb3J0IGphdmEudXRpbC5EYXRlOwoKLyoqCiAqIEBhdXRob3IgeWViaW5nLmxpIGNyZWF0ZWQgb24gIDE1LTEtMTUgz8LO5zU6MDQKICogQHZlcnNpb24gJElkJAogKi8KcHVibGljIGNsYXNzIEpzb25VdGlsIHsKCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpOwoKICAgIHN0YXRpYyB7CiAgICAgICAgb2JqZWN0TWFwcGVyLmNvbmZpZ3VyZShKc29uUGFyc2VyLkZlYXR1cmUuQUxMT1dfQ09NTUVOVFMsIHRydWUpOwogICAgICAgIG9iamVjdE1hcHBlci5jb25maWd1cmUoSnNvblBhcnNlci5GZWF0dXJlLkFMTE9XX1VOUVVPVEVEX0ZJRUxEX05BTUVTLCB0cnVlKTsKICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKEpzb25QYXJzZXIuRmVhdHVyZS5BTExPV19TSU5HTEVfUVVPVEVTLCB0cnVlKTsKICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKEpzb25QYXJzZXIuRmVhdHVyZS5BTExPV19VTlFVT1RFRF9DT05UUk9MX0NIQVJTLCB0cnVlKTsKICAgICAgICBvYmplY3RNYXBwZXIuY29uZmlndXJlKERlc2VyaWFsaXphdGlvbkZlYXR1cmUuRkFJTF9PTl9VTktOT1dOX1BST1BFUlRJRVMsIGZhbHNlKTsKCiAgICAgICAgU2ltcGxlTW9kdWxlIG1vZHVsZSA9IG5ldyBTaW1wbGVNb2R1bGUoIkRhdGVUaW1lTW9kdWxlIiwgVmVyc2lvbi51bmtub3duVmVyc2lvbigpKTsKICAgICAgICBtb2R1bGUuYWRkRGVzZXJpYWxpemVyKFNob3J0VGltZS5jbGFzcywgbmV3IEZTaG9ydFRpbWVKc29uRGVzZXJpYWxpemVyKCkpOwogICAgICAgIG1vZHVsZS5hZGRTZXJpYWxpemVyKFNob3J0VGltZS5jbGFzcywgbmV3IEZTaG9ydFRpbWVKc29uU2VyaWFsaXplcigpKTsKICAgICAgICBtb2R1bGUuYWRkRGVzZXJpYWxpemVyKFNob3J0RGF0ZS5jbGFzcywgbmV3IEZTaG9ydERhdGVKc29uRGVzZXJpYWxpemVyKCkpOwogICAgICAgIG1vZHVsZS5hZGRTZXJpYWxpemVyKFNob3J0RGF0ZS5jbGFzcywgbmV3IEZTaG9ydERhdGVKc29uU2VyaWFsaXplcigpKTsKICAgICAgICBtb2R1bGUuYWRkU2VyaWFsaXplcihEYXRlLmNsYXNzLCBuZXcgRkRhdGVKc29uU2VyaWFsaXplcigpKTsKICAgICAgICBtb2R1bGUuYWRkRGVzZXJpYWxpemVyKERhdGUuY2xhc3MsIG5ldyBGRGF0ZUpzb25EZXNlcmlhbGl6ZXIoKSk7CgogICAgICAgIG9iamVjdE1hcHBlci5yZWdpc3Rlck1vZHVsZShtb2R1bGUpOwoKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIE9iamVjdE1hcHBlciBnZXRPYmplY3RNYXBwZXJJbnN0YW5jZSgpIHsKICAgICAgICByZXR1cm4gb2JqZWN0TWFwcGVyOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHRvSnNvbihPYmplY3Qgb2JqKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgaWYgKG9iaiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcob2JqKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHN0YXRpYyA8VD4gVCB0b0JlYW4oU3RyaW5nIGpzb24sIENsYXNzPFQ+IGNscykgewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc0JsYW5rKGpzb24pKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gb2JqZWN0TWFwcGVyLnJlYWRWYWx1ZShqc29uLCBjbHMpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwogICAgICAgIH0KICAgIH0KCiAgICAvKioKICAgICAqILe00PLB0LuvvK+6z8Dg0M0oTGlzdCxTZXQsTWFwtci3utDNwOApCiAgICAgKgogICAgICogPHByZT4KICAgICAqICDI56O6TGlzdDxQcm9tb3Rpb25WaWV3SW5mbz4gaW5mb3M9IHRvQmVhbihqc29uLEFycmF5TGlzdC5jbGFzcywgUHJvbW90aW9uVmlld0luZm8uY2xhc3MpCiAgICAgKiA8L3ByZT4KICAgICAqCiAgICAgKiBAcGFyYW0ganNvbgogICAgICogQHBhcmFtIHBhcmFtZXRyaXplZAogICAgICogQHBhcmFtIHBhcmFtZXRlckNsYXNzZXMKICAgICAqIEBwYXJhbSA8VD4KICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHVibGljIHN0YXRpYyA8VD4gVCB0b0JlYW4oU3RyaW5nIGpzb24sQ2xhc3M8Pz4gcGFyYW1ldHJpemVkLCBDbGFzczw/Pi4uLiBwYXJhbWV0ZXJDbGFzc2VzKXsKICAgICAgICB0cnl7CiAgICAgICAgICAgIEphdmFUeXBlIHR5cGU9IG9iamVjdE1hcHBlci5nZXRUeXBlRmFjdG9yeSgpLmNvbnN0cnVjdFBhcmFtZXRyaXplZFR5cGUocGFyYW1ldHJpemVkLCBwYXJhbWV0cml6ZWQsIHBhcmFtZXRlckNsYXNzZXMpOwogICAgICAgICAgICByZXR1cm4gKFQpb2JqZWN0TWFwcGVyLnJlYWRWYWx1ZShqc29uLHR5cGUpOwogICAgICAgIH1jYXRjaCAoRXhjZXB0aW9uIGUpewogICAgICAgICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKICAgICAgICB9CgogICAgfQp9Cn0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eVBhY2thZ2VNYXAuZm9yRWFjaCgoa2V5LCB2YWx1ZSkgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZURhdGEuZ2V0UHJvbW90aW9uQ29kZSgpLCBhY3Rpdml0eVBhY2thZ2VNYXAuc2l6ZSgpLCBrZXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eVBhY2thZ2VNYXAuZm9yRWFjaCgoa2V5LCB2YWx1ZSkgLT4gewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oCiAgICAgICAgICAgICAgICAgICAgIkxvYWQgZWZmZWN0aXZlIGFjdGl2aXR5IHN1Y2Nlc3MsIHByb21vdGlvbiBjb2RlIGlzo7p7fSAsIEFjdGl2aXR5SWRMaXN0IHNpemUgaXM6e30gYW5kIGFjaXRpdnR5SWQgaXM6IHt9IiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYWNoZURhdGEuZ2V0UHJvbW90aW9uQ29kZSgpLCBhY3Rpdml0eVBhY2thZ2VNYXAuc2l6ZSgpLCBrZXkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXJDb250ZXh0LmdldFJlZ2lzdHJ5KCkucmVnaXN0ZXJCZWFuRGVmaW5pdGlvbigpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTE9HR0VSLmluZm8oCiAgICAgICAgICAgICAgICAgICAgIkxvYWQgZWZmZWN0aXZlIGFjdGl2aXR5IHN1Y2Nlc3MsIHByb21vdGlvbiBjb2RlIGlzo7p7fSAsIEFjdGl2aXR5SWRMaXN0IHNpemUgaXM6e30gYW5kIGFjaXRpdnR5SWQgaXM6IHt9IiwK</text>
       </register>
       <register name="u" type="4">
         <text />
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgT2JqZWN0IGNvbnZlcnQgPSBDb252ZXJ0VXRpbHMuY29udmVydChuZXcgRGF0ZVRpbWUoKSwgRGF0ZS5jbGFzcyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbnZlcnQpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJzZXJDb250ZXh0LmdldFJlZ2lzdHJ5KCkucmVnaXN0ZXJCZWFuRGVmaW5pdGlvbigpOwoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YSBpbnN0YW5jZW9mIERhdGVUaW1lKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgCiAgICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgT2JqZWN0IGNvbnZlcnQgPSBDb252ZXJ0VXRpbHMuY29udmVydChuZXcgRGF0ZVRpbWUoKSwgRGF0ZS5jbGFzcyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbnZlcnQpOw==</text>
       </register>
       <register name="w" type="4">
         <text encoding="base64">ImFwNGo0amoiYnBrVmtra2tra2trPg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YSBpbnN0YW5jZW9mIERhdGVUaW1lKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="9" type="4">
         <text>, dangci[0], roomPriceInfo.getStockWrapperId(), allTags, roomPriceInfo.getPriceType(),
                 roomPriceInfo.getLogicBit(), price, totalPrice, valCommission, totalBasePrice, orderDate,
                 checkinDate, hotelSeq, cityurl, wolfChannel, checkoutDate</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9tb3Rpb25SdWxlVHJlZVJlcUJlYW4gcHJvbW90aW9uQ29tbW9uUnVsZVRyZWVSZXFCZWFuID0gbmV3IFByb21vdGlvblJ1bGVUcmVlUmVxQmVhbigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help changelist</text>
