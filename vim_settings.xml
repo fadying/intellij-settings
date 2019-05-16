@@ -149,11 +149,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/utils/CommontUtils.java" timestamp="1557477251502">
         <mark key="[" line="30" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1558014197903">
-        <mark key="[" line="711" column="68" />
-        <mark key="]" line="701" column="15" />
-        <mark key="." line="701" column="15" />
-        <mark key="^" line="701" column="15" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderBenefitRemoteImpl.java" timestamp="1558018346733">
+        <mark key="[" line="797" column="124" />
+        <mark key="]" line="797" column="123" />
+        <mark key="." line="797" column="123" />
+        <mark key="^" line="797" column="123" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/AbstractLocalApiService.java" timestamp="1557995142989">
         <mark key="[" line="78" column="0" />
@@ -333,7 +333,7 @@
         <mark key="[" line="119" column="75" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1557903977898" />
-      <file name="/Dummy.txt" timestamp="1558011143413">
+      <file name="/Dummy.txt" timestamp="1558018437474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -371,8 +371,10 @@
         <mark key="[" line="152" column="58" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-common-DZS-37865_PROMOTION_REFACTOR-20190515.071801-17.jar!/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluator.class" timestamp="1557917311292" />
-      <file name="/fragment.java" timestamp="1558012169622">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1558018121988">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
       </file>
       <file name="/qta_promotion_activity.activity_instance [noah]" timestamp="1557769178184">
         <mark key="[" line="0" column="0" />
@@ -617,7 +619,7 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-engine/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-engine-DZS-37865_PROMOTION_REFACTOR-20190513.092726-23.jar!/com/qunar/hotel/qta/open/promotion/engine/expression/complex/MethodExpression.class" timestamp="1557748898390" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1557913941334" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1558018150731" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/type/ListTypeValue.java" timestamp="1556614822816">
         <mark key="[" line="19" column="41" />
       </file>
@@ -754,6 +756,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/constants/WolfChannelEnum.java" timestamp="1557321786977">
         <mark key="[" line="47" column="5" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/RuleDigraph.java" timestamp="1558017436557" />
       <file name="$USER_HOME$/IdeaProjects/qunar/price/sirius/sirius-server/src/main/java/com/qunar/hotel/price/service/task/DiffTaskFactory.java" timestamp="1557759509517">
         <mark key="[" line="466" column="34" />
       </file>
@@ -882,8 +885,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dWlkPTE0NDQ2MzYzMTgK</text>
+      <register name="&quot;" type="4">
+        <text>GlobalJsonUtils.toBean(</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -892,7 +895,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>GlobalJsonUtils.toBean(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
