@@ -202,8 +202,8 @@
         <mark key="[" line="142" column="33" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-common-DZS-37865_PROMOTION_REFACTOR-SNAPSHOT-sources.jar!/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluator.java" timestamp="1557919146319" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1557996872241">
-        <mark key="[" line="0" column="20" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1558000244455">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -353,7 +353,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/UseRuleData.java" timestamp="1557476689612">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1557999160974">
+      <file name="/dummy.sql" timestamp="1557999982545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -362,7 +362,7 @@
         <mark key="[" line="119" column="75" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ApiUserBenefitBiz.java" timestamp="1557903977898" />
-      <file name="/Dummy.txt" timestamp="1557998986571">
+      <file name="/Dummy.txt" timestamp="1557999872914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -723,10 +723,10 @@
       <file name="vim_settings.xml" timestamp="1557660830762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/context/ContextWrapper.java" timestamp="1557998315586">
-        <mark key="[" line="86" column="69" />
-        <mark key="]" line="86" column="69" />
-        <mark key="." line="86" column="69" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/context/ContextWrapper.java" timestamp="1557999870017">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
         <mark key="^" line="86" column="69" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/PromotionHandlerDispatcher.java" timestamp="1556441671960">
@@ -926,7 +926,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBCTEFDS19MT0cgPSBTZXRzLm5ld0hhc2hTZXQoKTs=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -943,20 +943,20 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoInBheWNlbnRlcklkIiwgbmV3Vm91Y2hlci5nZXRNYXJrZXRpbmdJZCgpKTsKICAgICAgICBwYXJhbU1hcC5wdXQoInBwbUlkIiwgbmV3Vm91Y2hlci5nZXRQcG1JZCgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTZXQ8U3RyaW5nPiBCTEFDS19MT0cgPSBTZXRzLm5ld0hhc2hTZXQoKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ewogICI2NzE4OTg4NzAzNDMiOiA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDb3Vwb24gcmVzdW1lKENvdXBvbiBjb3Vwb24pIHsKICAgICAgICByZXR1cm4gc3VwZXIucmVzdW1lKGNvdXBvbik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBhcHBseUNvdXBvbihDb3Vwb25BY3Rpdml0eSBhY3Rpdml0eSwgQ291cG9uVXNlciB1c2VyLCBDb3Vwb24gY291cG9uLCBNb25leSBtb25leSwgU3RyaW5nIHRyYW5zYWN0aW9uSWQpIHsKICAgICAgICBzdXBlci5hcHBseUNvdXBvbihhY3Rpdml0eSwgdXNlciwgY291cG9uLCBtb25leSwgdHJhbnNhY3Rpb25JZCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgQ291cG9uIGRvU3BlY2lmaWNBY3Rpb24oQ291cG9uQWN0aXZpdHkgYWN0aXZpdHksIENvdXBvblVzZXIgdXNlciwgQ291cG9uIGNvdXBvbiwgaW50IGFjdGlvbkNvbW1hbmQsIFN0cmluZyBkZXNjcmlwdGlvbiwgU3RyaW5nIHRyYW5zYWN0aW9uSWQsIGxvbmcgb3JkZXJJZCkgewogICAgICAgIHJldHVybiBzdXBlci5kb1NwZWNpZmljQWN0aW9uKGFjdGl2aXR5LCB1c2VyLCBjb3Vwb24sIGFjdGlvbkNvbW1hbmQsIGRlc2NyaXB0aW9uLCB0cmFuc2FjdGlvbklkLCBvcmRlcklkKTsKICAgIH0=</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDb3Vwb24gcmVzdW1lKENvdXBvbiBjb3Vwb24pIHsKICAgICAgICByZXR1cm4gc3VwZXIucmVzdW1lKGNvdXBvbik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBhcHBseUNvdXBvbihDb3Vwb25BY3Rpdml0eSBhY3Rpdml0eSwgQ291cG9uVXNlciB1c2VyLCBDb3Vwb24gY291cG9uLCBNb25leSBtb25leSwgU3RyaW5nIHRyYW5zYWN0aW9uSWQpIHsKICAgICAgICBzdXBlci5hcHBseUNvdXBvbihhY3Rpdml0eSwgdXNlciwgY291cG9uLCBtb25leSwgdHJhbnNhY3Rpb25JZCk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgQ291cG9uIGRvU3BlY2lmaWNBY3Rpb24oQ291cG9uQWN0aXZpdHkgYWN0aXZpdHksIENvdXBvblVzZXIgdXNlciwgQ291cG9uIGNvdXBvbiwgaW50IGFjdGlvbkNvbW1hbmQsIFN0cmluZyBkZXNjcmlwdGlvbiwgU3RyaW5nIHRyYW5zYWN0aW9uSWQsIGxvbmcgb3JkZXJJZCkgewogICAgICAgIHJldHVybiBzdXBlci5kb1NwZWNpZmljQWN0aW9uKGFjdGl2aXR5LCB1c2VyLCBjb3Vwb24sIGFjdGlvbkNvbW1hbmQsIGRlc2NyaXB0aW9uLCB0cmFuc2FjdGlvbklkLCBvcmRlcklkKTsKICAgIH0=</text>
