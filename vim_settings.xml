@@ -58,6 +58,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/twell/ActivityView.java" timestamp="1556449120241">
         <mark key="[" line="15" column="75" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/VoucherTemplateLocalApiService.java" timestamp="1558337661061" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/clarins/CouponInfo.java" timestamp="1557830647786">
         <mark key="[" line="13" column="29" />
       </file>
@@ -68,6 +69,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/key/PrefetchRequest.java" timestamp="1557237678290">
         <mark key="[" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1558337274710">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="45" column="33" />
+        <mark key="^" line="47" column="67" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/BenefitConditionUtil.java" timestamp="1558322341583">
         <mark key="[" line="91" column="72" />
@@ -189,6 +196,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/coupon/CouponManagerImpl.java" timestamp="1558060774702">
+        <mark key="'" line="482" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar!/org/apache/commons/beanutils/BeanUtils.java" timestamp="1558177726677">
+        <mark key="'" line="430" column="40" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558094628064">
         <mark key="'" line="350" column="4" />
         <mark key="[" line="99" column="122" />
@@ -222,6 +235,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/utils/CommontUtils.java" timestamp="1557477251502">
         <mark key="[" line="30" column="9" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/NewVoucherTemplateLocalApiService.java" timestamp="1558337597200">
+        <mark key="'" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/AbstractLocalApiService.java" timestamp="1557995142989">
         <mark key="[" line="78" column="0" />
@@ -362,6 +378,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" timestamp="1556441781049">
         <mark key="[" line="80" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/price/sirius/sirius-server/src/main/java/com/qunar/hotel/price/service/price/PromotionCouponProcessor.java" timestamp="1558011455052">
+        <mark key="'" line="71" column="27" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityTemplateBizImpl.java" timestamp="1557891919358">
         <mark key="[" line="165" column="0" />
         <mark key="]" line="165" column="0" />
@@ -446,6 +465,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/resources.prodwrapper/registry.properties" timestamp="1556439899391">
         <mark key="[" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" timestamp="1558337553990" />
       <file name="/qta_promotion_activity.exclusion_relation [promotion-refactor]" timestamp="1557820499799">
         <mark key="[" line="0" column="0" />
       </file>
@@ -487,7 +507,7 @@
       <file name="/qta_promotion_activity.activity_template [noah]" timestamp="1557654385056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558334870600">
+      <file name="/Dummy.txt" timestamp="1558337221353">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -553,7 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="25" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/DZS-37866_promotionRefactoring_20190319-SNAPSHOT/h_hprice_common-DZS-37866_promotionRefactoring_20190319-20190509.083344-40.jar!/com/qunar/hotel/price/bean/QPromotionContext.class" />
       <jump line="108" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/NewVoucher.java" />
       <jump line="15" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/VoucherUseRange.java" />
       <jump line="195" column="24" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/NewStrategy.java" />
@@ -653,13 +672,14 @@
       <jump line="215" column="11" filename="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar!/org/apache/commons/beanutils/BeanMap.java" />
       <jump line="153" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" />
       <jump line="119" column="20" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" />
+      <jump line="24" column="55" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/NewVoucherTemplateLocalApiService.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLnBvcHVsYXRlKG5ld1N0cmF0ZWd5UGxhY2Vob2xkZXIsIHBhcmFtTWFwKTsKICAgICAgICAgICAgcGFyYW1NYXAuZW50cnlTZXQoKS5yZW1vdmVJZihuZXh0IC0+IG5leHQuZ2V0VmFsdWUoKSA9PSBudWxsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -668,7 +688,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8PigpOw==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
