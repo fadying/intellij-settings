@@ -198,12 +198,12 @@
       <file name="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar!/org/apache/commons/beanutils/BeanUtils.java" timestamp="1558177726677">
         <mark key="'" line="430" column="40" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558408431097">
-        <mark key="'" line="230" column="36" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="110" column="34" />
-        <mark key="^" line="110" column="34" />
-        <mark key="." line="110" column="34" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558410981040">
+        <mark key="'" line="186" column="7" />
+        <mark key="[" line="186" column="8" />
+        <mark key="]" line="186" column="7" />
+        <mark key="^" line="186" column="7" />
+        <mark key="." line="186" column="7" />
       </file>
       <file name="/qta_promotion_activity.activity_rule [promotion-refactor]" timestamp="1557853913407">
         <mark key="[" line="0" column="0" />
@@ -523,7 +523,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/bean/template/PlaceholderCarrier.java" timestamp="1558324472668">
         <mark key="[" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" timestamp="1558351566152">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" timestamp="1558411190773">
+        <mark key="'" line="65" column="0" />
         <mark key="[" line="133" column="55" />
         <mark key="]" line="133" column="53" />
         <mark key="^" line="133" column="53" />
@@ -539,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="362" column="10" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/collect/Range.java" />
-      <jump line="30" column="20" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/PrefechKeyUtil.java" />
       <jump line="71" column="30" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/utils/StrategyRuleUtil.java" />
       <jump line="3403" column="29" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/resources/activity.txt" />
       <jump line="2062" column="33" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/resources/activity.txt" />
@@ -639,6 +638,8 @@
       <jump line="40" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/StartupLocalCache.java" />
       <jump line="48" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/StartupLocalCache.java" />
       <jump line="227" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" />
+      <jump line="186" column="7" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
