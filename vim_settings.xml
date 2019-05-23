@@ -50,6 +50,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/twell/ActivityView.java" timestamp="1556449120241">
         <mark key="[" line="15" column="75" />
       </file>
+      <file name="/qta_promotion_coupon.coupon_00 [noah]" timestamp="1558594616227">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/clarins/CouponInfo.java" timestamp="1557830647786">
         <mark key="[" line="13" column="29" />
       </file>
@@ -184,6 +187,9 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1558594624735">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558432557101">
         <mark key="'" line="225" column="36" />
         <mark key="[" line="192" column="41" />
@@ -278,6 +284,7 @@
       <file name="/qta_promotion_activity.exclusion_relation [noah]" timestamp="1557632670013">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/bean/voucher/VoucherSendTask.java" timestamp="1558594738825" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/redis/ConfigCacheService.java" timestamp="1558425601789">
         <mark key="[" line="37" column="45" />
       </file>
@@ -482,10 +489,11 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/UseRuleData.java" timestamp="1557476689612">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="/dummy.sql" timestamp="1558525828164">
+      <file name="/dummy.sql" timestamp="1558594634121">
+        <mark key="e" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/SimpleCoupon.java" timestamp="1556448358845">
         <mark key="[" line="10" column="13" />
@@ -499,7 +507,7 @@
       <file name="/qta_promotion_activity.activity_template [noah]" timestamp="1557654385056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558593298599">
+      <file name="/Dummy.txt" timestamp="1558594627477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -670,8 +678,8 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eUluc3RhbmNlLnNldEluc3RhbmNlU3RhdHVzKG5ld1N0cmF0ZWd5UGxhY2Vob2xkZXIuZ2V0SW5zdGFuY2VTdGF0dXMoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -680,7 +688,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
