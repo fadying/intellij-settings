@@ -186,14 +186,14 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/cache/impl/RedisKeyProxy.java" timestamp="1558670153682">
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/cache/impl/RedisKeyProxy.java" timestamp="1558682515393">
         <mark key="[" line="53" column="136" />
         <mark key="]" line="54" column="104" />
         <mark key="^" line="54" column="104" />
         <mark key="." line="54" column="104" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558432557101">
-        <mark key="'" line="225" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" timestamp="1558682635928">
+        <mark key="'" line="124" column="12" />
         <mark key="[" line="192" column="41" />
         <mark key="]" line="192" column="41" />
         <mark key="." line="192" column="41" />
@@ -205,6 +205,7 @@
       <file name="/qta_promotion_activity.promotion_activity_benefit [promotion-refactor]" timestamp="1557803535248">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/util/PrefetchKeyCalcUtil.java" timestamp="1558682507007" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/BenefitGroupController.java" timestamp="1557822477377">
         <mark key="[" line="73" column="32" />
         <mark key="]" line="73" column="0" />
@@ -271,6 +272,7 @@
       <file name="/qta_promotion_activity.activity_instance [promotion-refactor]" timestamp="1558525827877">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/bean/template/NewVoucherPlaceholder.java" timestamp="1558682485273" />
       <file name="/qta_promotion_activity.data_dictionary [noah]" timestamp="1557803457621">
         <mark key="[" line="0" column="0" />
       </file>
@@ -296,6 +298,7 @@
         <mark key="]" line="239" column="35" />
         <mark key="." line="239" column="34" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/bean/template/NewStrategyPlaceholder.java" timestamp="1558682493807" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/resources/simple_activity.txt" timestamp="1557998981031">
         <mark key="[" line="0" column="0" />
       </file>
@@ -429,6 +432,9 @@
         <mark key="^" line="144" column="51" />
         <mark key="." line="146" column="9" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/domain/CacheItem.java" timestamp="1558682658944">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/adaptor/NewVoucherAdaptor.java" timestamp="1558667542365">
         <mark key="'" line="136" column="93" />
         <mark key="[" line="26" column="40" />
@@ -561,8 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="29" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/notify/NotifyAdapter.java" />
-      <jump line="161" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/java/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluatorTest.java" />
       <jump line="55" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon-api/src/main/java/com/qunar/hotel/qta/coupon/api/status/CouponType.java" />
       <jump line="244" column="54" filename="$USER_HOME$/IdeaProjects/qunar/price/sirius/sirius-server/src/main/java/com/qunar/hotel/price/service/price/PromotionCouponProcessor.java" />
       <jump line="222" column="40" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" />
@@ -661,6 +665,8 @@
       <jump line="381" column="23" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
       <jump line="90" column="29" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/handler/UsableBenefitParseHandler.java" />
       <jump line="88" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/handler/UsableBenefitParseHandler.java" />
+      <jump line="124" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/loader/ActivityInstanceLoader.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/domain/CacheItem.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
