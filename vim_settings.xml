@@ -93,7 +93,9 @@
         <mark key="]" line="0" column="47" />
         <mark key="." line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1559561937839" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" timestamp="1559565119815">
+        <mark key="'" line="85" column="64" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/handler/BenefitAdaptor.java" timestamp="1557732792499">
         <mark key="[" line="36" column="83" />
         <mark key="]" line="18" column="0" />
@@ -145,6 +147,9 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionPackageWrapperRemoteImpl.java" timestamp="1559300838770">
+        <mark key="'" line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ConfigBizImpl.java" timestamp="1559306736050">
         <mark key="'" line="225" column="16" />
       </file>
@@ -188,6 +193,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/action/OrderChangeAbstractAction.java" timestamp="1559562056911">
         <mark key="'" line="76" column="44" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/rule/RuleExecutorImpl.java" timestamp="1559565235283">
+        <mark key="'" line="64" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/HourlyCashVoucherApiService.java" timestamp="1557995103571">
         <mark key="[" line="46" column="0" />
@@ -264,6 +272,9 @@
         <mark key="." line="239" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.93/open-promotion-api-1.1.93.jar!/com/qunar/hotel/qta/open/promotion/api/context/ContextWrapper.class" timestamp="1559275447518" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" timestamp="1559565154370">
+        <mark key="'" line="261" column="31" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/spring/HotelEvaluatorBeanDefinitionParser.java" timestamp="1557386027925">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -309,10 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="8" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/impl/ActivityInstanceBizImpl.java" />
-      <jump line="21" column="16" filename="C:/Users/欧阳晟/.m2/repository/com/qunar/hotel/qta/open-promotion-api/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-api-DZS-37865_PROMOTION_REFACTOR-20190516.040526-80.jar!/com/qunar/hotel/qta/open/promotion/api/bean/activity/QActivity.class" />
-      <jump line="59" column="16" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/activity/ActivityInstance.java" />
-      <jump line="100" column="26" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/java/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluatorTest.java" />
       <jump line="354" column="63" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionConfigRemoteImpl.java" />
       <jump line="137" column="9" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/ActivityInstanceBiz.java" />
       <jump line="174" column="11" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
@@ -409,6 +416,10 @@
       <jump line="213" column="20" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.142/order-core-api-1.4.142.jar!/com/qunar/hotel/qta/order/core/api/bean/promote/ActivityBenefitInfo.class" />
       <jump line="38" column="17" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/order-core-api/1.4.142/order-core-api-1.4.142.jar!/com/qunar/hotel/qta/order/core/api/bean/promote/ActivityBenefitInfo.class" />
       <jump line="243" column="54" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
+      <jump line="92" column="56" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" />
+      <jump line="85" column="64" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/QtaOrderChangeRemoteImpl.java" />
+      <jump line="261" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/benefit/OrderBenefitRemoteImpl.java" />
+      <jump line="64" column="32" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/rule/RuleExecutorImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
