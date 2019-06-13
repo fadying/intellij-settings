@@ -55,6 +55,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/clarins/CouponInfo.java" timestamp="1557830647786">
         <mark key="[" line="13" column="29" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/epush-server/src/main/resources.betanoah/jdbc.properties" timestamp="1560411974873">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/epush-server/src/main/resources.betad/default.properties" timestamp="1560408502178" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/pom.xml" timestamp="1560154583456">
         <mark key="[" line="21" column="43" />
@@ -118,6 +124,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/resources/spring/dao.xml" timestamp="1560411462806" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/CouponRuleData.java" timestamp="1557476731237">
         <mark key="[" line="8" column="27" />
       </file>
@@ -143,7 +150,7 @@
       <file name="/qta_promotion_activity.promotion_activity_benefit [promotion-refactor]" timestamp="1557803535248">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/epush-server/src/main/resources.prod/jdbc.properties" timestamp="1560333073473">
+      <file name="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/epush-server/src/main/resources.prod/jdbc.properties" timestamp="1560410655955">
         <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/OperatorType.java" timestamp="1558696403781">
@@ -170,6 +177,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/BarbecueCodeApiService.java" timestamp="1557995184565">
         <mark key="[" line="68" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/db/db-datasource/1.4.20/db-datasource-1.4.20-sources.jar!/com/qunar/db/resource/RWDelegatorDataSource.java" timestamp="1560411698868" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1556618980335">
         <mark key="[" line="142" column="33" />
       </file>
@@ -200,6 +208,9 @@
       </file>
       <file name="/qta_promotion_activity.path_schema [noah]" timestamp="1557236222267">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/db/db-datasource/1.4.20/db-datasource-1.4.20-sources.jar!/com/qunar/db/resource/SlaveDelegatorDataSource.java" timestamp="1560411754311">
+        <mark key="'" line="222" column="54" />
       </file>
       <file name="/qta_promotion_activity.exclusion_relation [noah]" timestamp="1557632670013">
         <mark key="[" line="0" column="0" />
@@ -276,6 +287,7 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/test/java/com/qunar/hotel/qta/open/promotion/common/evaluation/HotelEvaluatorTest.java" timestamp="1559645473282">
         <mark key="[" line="201" column="134" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/filters/betanoah.properties" timestamp="1560411616649" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/type/converter/TypeBeanConverterConfig.java" timestamp="1557387203787">
         <mark key="[" line="5" column="0" />
       </file>
@@ -359,7 +371,7 @@
       <file name="/qta_promotion_activity.activity_template [noah]" timestamp="1557654385056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560333310398">
+      <file name="/Dummy.txt" timestamp="1560411976127">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -414,7 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="19" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/redis/RedisFunction.java" />
       <jump line="29" column="34" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/redis/RedisFunction.java" />
       <jump line="163" column="48" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionPackageWrapperRemoteImpl.java" />
       <jump line="33" column="51" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/StartupLocalCache.java" />
@@ -514,13 +525,14 @@
       <jump line="158" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/otter/pom.xml" />
       <jump line="377" column="38" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/pom.xml" />
       <jump line="93" column="48" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/pom.xml" />
+      <jump line="222" column="54" filename="$MAVEN_REPOSITORY$/com/qunar/db/db-datasource/1.4.20/db-datasource-1.4.20-sources.jar!/com/qunar/db/resource/SlaveDelegatorDataSource.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -529,7 +541,7 @@
         <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>1.3.3</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
