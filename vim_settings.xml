@@ -93,7 +93,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/service/src/main/java/com/qunar/hotel/prmt/hulk/service/system/DBConfig.java" timestamp="1559269945018">
         <mark key="[" line="51" column="9" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/tickets/TicketsCouponHttpService.java" timestamp="1560841602129" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/tickets/TicketsCouponHttpService.java" timestamp="1560860013247">
+        <mark key="'" line="85" column="62" />
+      </file>
       <file name="/qta_promotion_coupon.coupon_01 [promotion-refactor]" timestamp="1557753853489">
         <mark key="[" line="0" column="0" />
       </file>
@@ -118,8 +120,8 @@
       <file name="/a.sql" timestamp="1558594624735">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/UserBenefitServiceImpl.java" timestamp="1560839813153">
-        <mark key="[" line="395" column="68" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/impl/UserBenefitServiceImpl.java" timestamp="1560860700258">
+        <mark key="[" line="315" column="84" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-engine/src/main/java/com/qunar/hotel/qta/open/promotion/engine/support/context/FunctionContext.java" timestamp="1559653806079">
         <mark key="[" line="61" column="163" />
@@ -252,8 +254,9 @@
       <file name="/qta_promotion_activity.activity_rule [noah]" timestamp="1557818773053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" timestamp="1556441781049">
-        <mark key="[" line="80" column="9" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" timestamp="1560860670919">
+        <mark key="'" line="121" column="20" />
+        <mark key="[" line="103" column="69" />
       </file>
       <file name="/prmt_wolf.push_strategy_info [beta]" timestamp="1558077911964">
         <mark key="[" line="0" column="0" />
@@ -348,7 +351,7 @@
       <file name="/qta_promotion_activity.activity_template [noah]" timestamp="1557654385056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560841478621">
+      <file name="/Dummy.txt" timestamp="1560860712566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/java/com/qunar/hotel/qta/open/promotion/vo/adapter/ActivityVoAdapter.java" timestamp="1557822269511">
@@ -409,10 +412,6 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/resources.prod/qunar-url.properties" timestamp="1560764397053" />
     </filemarks>
     <jumps>
-      <jump line="84" column="15" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/adapters/MobContextViewAdapter.java" />
-      <jump line="225" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/PrefechKeyUtil.java" />
-      <jump line="12" column="20" filename="C:/Users/欧阳晟/.m2/repository/com/qunar/hotel/qta/open-promotion-api/DZS-37865_PROMOTION_REFACTOR-SNAPSHOT/open-promotion-api-DZS-37865_PROMOTION_REFACTOR-20190521.071435-96.jar!/com/qunar/hotel/qta/open/promotion/api/bean/key/PrefetchKey.class" />
-      <jump line="142" column="43" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" />
       <jump line="157" column="22" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" />
       <jump line="412" column="19" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/ProductBenefitController.java" />
       <jump line="65" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/util/StrategyRuleUtil.java" />
@@ -509,6 +508,10 @@
       <jump line="130" column="48" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/cache/CacheHolder.java" />
       <jump line="81" column="30" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/voucher/CashVoucherApiService.java" />
       <jump line="216" column="33" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hulk/pom.xml" />
+      <jump line="85" column="62" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/tickets/TicketsCouponHttpService.java" />
+      <jump line="77" column="16" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" />
+      <jump line="104" column="39" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" />
+      <jump line="118" column="20" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/task/src/main/java/com/qunar/hotel/qta/open/promotion/task/processor/DetailGuideFlowProcessor.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
