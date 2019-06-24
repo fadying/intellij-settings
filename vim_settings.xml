@@ -170,6 +170,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/utils/StrategyRuleUtilTest.java" timestamp="1557477563390">
         <mark key="[" line="95" column="46" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" timestamp="1561364369401">
+        <mark key="'" line="56" column="23" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewVoucherController.java" timestamp="1561358745936">
         <mark key="'" line="117" column="55" />
       </file>
@@ -192,8 +195,8 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1556618980335">
         <mark key="[" line="142" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" timestamp="1561361511200">
-        <mark key="'" line="118" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" timestamp="1561364431975">
+        <mark key="'" line="152" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/biz/ProductBenefitBiz.java" timestamp="1560484374311">
         <mark key="'" line="96" column="45" />
@@ -263,6 +266,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/activity/local/DiscountCodeApiService.java" timestamp="1557831177684">
         <mark key="[" line="148" column="75" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" timestamp="1561364424295">
+        <mark key="'" line="77" column="43" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/activity/ActivityServiceFacade.java" timestamp="1561360512845">
         <mark key="'" line="51" column="28" />
@@ -474,10 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="27" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
-      <jump line="397" column="17" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
-      <jump line="53" column="66" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/cache/impl/RedisKeyProxy.java" />
-      <jump line="59" column="70" filename="C:/Users/欧阳晟/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.11/qclient-redis-1.5.11-sources.jar!/qunar/tc/qclient/redis/impl/RedisAsyncClientImpl.java" />
       <jump line="0" column="0" filename="C:/Users/欧阳晟/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.11/qclient-redis-1.5.11-sources.jar!/qunar/tc/qclient/redis/impl/RedisAsyncClientImpl.java" />
       <jump line="41" column="19" filename="C:/Users/欧阳晟/.m2/repository/qunar/tc/qclient/qclient-redis/1.5.11/qclient-redis-1.5.11-sources.jar!/qunar/tc/qclient/redis/network/MultiSession.java" />
       <jump line="140" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" />
@@ -524,7 +526,6 @@
       <jump line="363" column="24" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/pom.xml" />
       <jump line="335" column="28" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/benefit/UserBenefitController.java" />
       <jump line="227" column="75" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" />
-      <jump line="75" column="40" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" />
       <jump line="211" column="16" filename="$USER_HOME$/IdeaProjects/qunar/prmt/otter/pom.xml" />
       <jump line="158" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/otter/pom.xml" />
       <jump line="377" column="38" filename="$USER_HOME$/IdeaProjects/qunar/ebooking/epush/pom.xml" />
@@ -574,6 +575,11 @@
       <jump line="135" column="1" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/beta/url.properties" />
       <jump line="200" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/constants/HotelURLConstants.java" />
       <jump line="21" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/NewUserQueryHelper.java" />
+      <jump line="168" column="26" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
+      <jump line="56" column="23" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" />
+      <jump line="75" column="43" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" />
+      <jump line="77" column="43" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/CpnUserFilter.java" />
+      <jump line="152" column="54" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
