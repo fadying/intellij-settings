@@ -123,9 +123,12 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponView.java" timestamp="1556618980335">
         <mark key="[" line="142" column="33" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" timestamp="1562762300222">
-        <mark key="'" line="480" column="35" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" timestamp="1562827059803">
+        <mark key="'" line="466" column="24" />
         <mark key="[" line="451" column="39" />
+        <mark key="]" line="466" column="24" />
+        <mark key="^" line="466" column="24" />
+        <mark key="." line="466" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/DZS-42139_190704_voucher_simplify-SNAPSHOT/open-promotion-common-DZS-42139_190704_voucher_simplify-20190710.005218-1.jar!/com/qunar/hotel/qta/open/promotion/common/util/DataConfigUtil.class" timestamp="1562759756167" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/VersionBitUtil.java" timestamp="1558522184125">
@@ -266,6 +269,13 @@
       </file>
       <file name="/prmt_wolf.nwf_dynamic_file [beta]" timestamp="1558077924546">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionPackageWrapperRemoteImpl.java" timestamp="1562752613534">
+        <mark key="'" line="141" column="130" />
+        <mark key="[" line="149" column="127" />
+        <mark key="]" line="143" column="54" />
+        <mark key="^" line="143" column="54" />
+        <mark key="." line="143" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/qtaman/src/main/java/com/qunar/hotel/qta/open/promotion/controller/VoucherOperateController.java" timestamp="1557806329818">
         <mark key="[" line="152" column="58" />
@@ -588,7 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="42" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/activity/ActivityServiceFacade.java" />
       <jump line="51" column="28" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-provider/src/main/java/com/qunar/hotel/qta/coupon/provider/service/activity/ActivityServiceFacade.java" />
       <jump line="135" column="1" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/beta/url.properties" />
       <jump line="168" column="26" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
@@ -688,6 +697,7 @@
       <jump line="117" column="55" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/handler/UsableBenefitParseHandler.java" />
       <jump line="32" column="38" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/DZS-42139_190704_voucher_simplify-SNAPSHOT/open-promotion-common-DZS-42139_190704_voucher_simplify-20190710.005218-1-sources.jar!/com/qunar/hotel/qta/open/promotion/common/handler/BenefitAdaptor.java" />
       <jump line="22" column="31" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/price/h_hprice_common/1.2.574/h_hprice_common-1.2.574.jar!/com/qunar/hotel/price/bean/CouponViewContext.class" />
+      <jump line="466" column="24" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
