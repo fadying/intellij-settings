@@ -384,6 +384,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/PrefetchKeyUtil.java" timestamp="1560484477866">
         <mark key="[" line="36" column="11" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/management/ThreadMXBean.java" timestamp="1562935056424">
+        <mark key="'" line="344" column="13" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-service/src/main/java/com/qunar/hotel/qta/coupon/service/pay/tickets/TicketsCouponHttpService.java" timestamp="1560860013247">
         <mark key="'" line="85" column="62" />
       </file>
@@ -558,6 +561,11 @@
       <file name="/qta_promotion_activity.promotion_activity [noah]" timestamp="1562926998783">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/qunar/tc/cbrs-over-hqmonitor/1.0.8/cbrs-over-hqmonitor-1.0.8-sources.jar!/com/qunar/hotel/qmonitor/QMonitorInternal.java" timestamp="1562935004472">
+        <mark key="'" line="338" column="8" />
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="339" column="65" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.3/commons-beanutils-1.9.3-sources.jar!/org/apache/commons/beanutils/ContextClassLoaderLocal.java" timestamp="1560485387291">
         <mark key="'" line="138" column="11" />
       </file>
@@ -641,8 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/uuidmap/UserDevRelationService.java" />
-      <jump line="135" column="0" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/profiles/product/url.properties" />
       <jump line="200" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/constants/HotelURLConstants.java" />
       <jump line="599" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/MemberAndGoldCpnSndr.java" />
       <jump line="445" column="27" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/MemberAndGoldCpnSndr.java" />
@@ -741,13 +747,15 @@
       <jump line="103" column="64" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/handler/UsableBenefitParseHandler.java" />
       <jump line="51" column="19" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/controller/vo/base/ActivityCouponViewUtil.java" />
       <jump line="340" column="11" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/DZS-42139_190704_voucher_simplify-SNAPSHOT/open-promotion-api-DZS-42139_190704_voucher_simplify-20190712.070249-6.jar!/com/qunar/hotel/qta/open/promotion/api/bean/twell/SimpleCoupon.class" />
+      <jump line="338" column="8" filename="$MAVEN_REPOSITORY$/com/qunar/tc/cbrs-over-hqmonitor/1.0.8/cbrs-over-hqmonitor-1.0.8-sources.jar!/com/qunar/hotel/qmonitor/QMonitorInternal.java" />
+      <jump line="344" column="13" filename="C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/management/ThreadMXBean.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx2YWx1ZT4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvbmRpdGlvbiB2ZXJzaW9uCg==</text>
+        <text encoding="base64">ICAgICAgICByZXQucHV0KCJKVk1fVGhyZWFkX0NvdW50IiwgdGhyZWFkQmVhbi5nZXRUaHJlYWRDb3VudCgpKTsK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdmFsdWU+Cg==</text>
@@ -762,7 +770,7 @@
         <text encoding="base64">XDxtYXhBZGRQcmljZVJhdGlvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpbXBsZUNvdXBvbi5nZXRDb3Vwb25SdWxlRGF0YSgpLmdldFVzZVJ1bGVEYXRhTGlzdCgpLmdldChzdWJ0cmFjdC5nZXRLZXkoKSkuc2V0TWF4QW1vdW50KHN1YnRyYWN0LmdldFZhbHVlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXQucHV0KCJKVk1fVGhyZWFkX0NvdW50IiwgdGhyZWFkQmVhbi5nZXRUaHJlYWRDb3VudCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNvbmRpdGlvbiB2ZXJzaW9uCg==</text>
