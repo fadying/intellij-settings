@@ -219,8 +219,8 @@
       <file name="/qta_promotion_activity.data_dictionary [promotion-refactor]" timestamp="1558924660120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/GiftPacketHandler.java" timestamp="1563264690382">
-        <mark key="'" line="30" column="55" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/GiftPacketHandler.java" timestamp="1563270056754">
+        <mark key="'" line="16" column="39" />
       </file>
       <file name="/qta_promotion_coupon.activity_base [promotion-refactor]" timestamp="1558667584284">
         <mark key="[" line="0" column="0" />
@@ -265,8 +265,8 @@
         <mark key="[" line="55" column="41" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/util/JsonUtil.java" timestamp="1562915774813" />
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" timestamp="1563268127538">
-        <mark key="'" line="107" column="36" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" timestamp="1563270004664">
+        <mark key="'" line="63" column="26" />
       </file>
       <file name="/prmt_wolf.nwf_dynamic_file [beta]" timestamp="1558077924546">
         <mark key="[" line="0" column="0" />
@@ -302,8 +302,8 @@
       <file name="/qta_promotion_coupon.activity_base [noah]" timestamp="1557675741639">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" timestamp="1563268123602">
-        <mark key="'" line="27" column="51" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" timestamp="1563270116944">
+        <mark key="'" line="117" column="27" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-common/src/main/java/com/qunar/hotel/qta/open/promotion/common/function/AbstractFunction.java" timestamp="1557741058628">
         <mark key="[" line="15" column="21" />
@@ -583,9 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="52" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/adapter/PromotionInfoAdapter.java" />
-      <jump line="227" column="61" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/NewCpnController.java" />
-      <jump line="118" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
       <jump line="38" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/excepfactor/ExcepFactor.java" />
       <jump line="94" column="71" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/SensitivityServiceImpl.java" />
       <jump line="198" column="42" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
@@ -671,7 +668,6 @@
       <jump line="130" column="41" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" />
       <jump line="254" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" />
       <jump line="133" column="15" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" />
-      <jump line="45" column="45" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" />
       <jump line="41" column="57" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" />
       <jump line="30" column="55" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/GiftPacketHandler.java" />
       <jump line="20" column="11" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/filter/http/MonitorAndLog.java" />
@@ -683,6 +679,10 @@
       <jump line="17" column="55" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/FiveAwardHandler.java" />
       <jump line="27" column="51" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" />
       <jump line="107" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" />
+      <jump line="63" column="26" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/controller/GiftPacketCtrl.java" />
+      <jump line="16" column="39" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/GiftPacketHandler.java" />
+      <jump line="45" column="20" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" />
+      <jump line="117" column="27" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
