@@ -12,8 +12,8 @@
       <file name="$MAVEN_REPOSITORY$/com/qunar/db/db-datasource/1.4.20/db-datasource-1.4.20-sources.jar!/com/qunar/db/resource/SlaveDelegatorDataSource.java" timestamp="1560411754311">
         <mark key="'" line="222" column="54" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" timestamp="1561103294760">
-        <mark key="'" line="187" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" timestamp="1563453259879">
+        <mark key="'" line="196" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" timestamp="1563270116944">
         <mark key="'" line="117" column="27" />
@@ -41,6 +41,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/coupon/MemberAndGoldCpnSndr.java" timestamp="1561367073253">
         <mark key="'" line="445" column="27" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/service/ActivityReadServiceImpl.java" timestamp="1563453273263">
+        <mark key="'" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/ActivtiyIdentityHelper.java" timestamp="1560918471433">
         <mark key="'" line="44" column="38" />
@@ -208,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="23" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
-      <jump line="192" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
-      <jump line="131" column="36" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/SensitivityServiceImpl.java" />
-      <jump line="126" column="36" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/DZS-41334_20190618_active-SNAPSHOT/open-promotion-api-DZS-41334_20190618_active-20190621.072243-3-sources.jar!/com/qunar/hotel/qta/open/promotion/api/bean/wolf/NewVoucher.java" />
-      <jump line="185" column="29" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/impl/VoucherServiceImpl.java" />
       <jump line="22" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/mapper/VoucherMapper.java" />
       <jump line="28" column="52" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/handler/JsonTypeHandler.java" />
       <jump line="229" column="69" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
@@ -308,6 +306,11 @@
       <jump line="257" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/domain/src/main/java/com/qunar/hotel/qta/open/promotion/base/MonitorConstant.java" />
       <jump line="35" column="37" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/listener/OrderCorePromotionRollBackListener.java" />
       <jump line="29" column="13" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/promotion_flow/src/main/java/com/qunar/hotel/qta/open/promotion/flow/PromotionRollBackDispatcher.java" />
+      <jump line="192" column="31" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
+      <jump line="39" column="40" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/service/ActivityReadServiceImpl.java" />
+      <jump line="187" column="15" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
+      <jump line="196" column="33" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
+      <jump line="34" column="32" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/service/ActivityReadServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
