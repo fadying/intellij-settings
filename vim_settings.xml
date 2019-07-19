@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/BaseActivityLayerHandler.java" timestamp="1563270116944">
         <mark key="'" line="117" column="27" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/bean/CripHotelRoom.java" timestamp="1563509679931">
+        <mark key="'" line="37" column="23" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-api/1.1.93/open-promotion-api-1.1.93.jar!/com/qunar/hotel/qta/open/promotion/api/bean/common/QFilter.class" timestamp="1560742166789">
         <mark key="'" line="49" column="21" />
       </file>
@@ -51,7 +54,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/constants/HotelURLConstants.java" timestamp="1561365427478">
         <mark key="'" line="200" column="31" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/promotion/hprice-breeze/provider/src/main/java/com/qunar/hotel/price/breeze/provider/json/vo/VariableElement.java" timestamp="1563366783440" />
+      <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/handler/CripRoomTypeHandler.java" timestamp="1563509729300">
+        <mark key="'" line="165" column="87" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/service/config/PromotionConfig.java" timestamp="1563441702633" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/service/src/main/java/com/qunar/hotel/qta/open/promotion/filter/MobPromoFilter.java" timestamp="1561367900379">
         <mark key="'" line="178" column="97" />
@@ -62,6 +67,9 @@
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/biz/src/main/java/com/qunar/hotel/qta/open/promotion/biz/bean/Constants.java" timestamp="1563441840562" />
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-common/src/main/java/com/qunar/hotel/qta/coupon/common/excepfactor/ExcepFactor.java" timestamp="1561436253055">
         <mark key="'" line="38" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/service/impl/SaleRsServiceImpl.java" timestamp="1563509762669">
+        <mark key="'" line="454" column="36" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/helper/activitylayer/ShareForFreeHandler.java" timestamp="1563267449603">
         <mark key="'" line="22" column="54" />
@@ -211,12 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="12" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/mapper/VoucherMapper.java" />
-      <jump line="28" column="52" filename="$USER_HOME$/IdeaProjects/qunar/prmt/hprice_wolf/service/src/main/java/com/qunar/hotel/price/wolf/service/handler/JsonTypeHandler.java" />
-      <jump line="229" column="69" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
-      <jump line="164" column="67" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
-      <jump line="342" column="27" filename="$USER_HOME$/IdeaProjects/qunar/prmt/catalysis/src/main/java/com/qunar/mobile/logic/service/impl/VoucherServiceImpl.java" />
-      <jump line="139" column="11" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/src/main/java/com/qunar/hotel/qta/open/promotion/api/bean/wolf/NewVoucher.java" />
       <jump line="55" column="31" filename="$MAVEN_REPOSITORY$/com/qunar/hotel/qta/open-promotion-common/1.0.16/open-promotion-common-1.0.16.jar!/com/qunar/hotel/qta/open/promotion/common/handler/UsableBenefitParseHandler.class" />
       <jump line="4" column="60" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion-api/target/generated-sources/annotations/com/qunar/hotel/qta/open/promotion/api/service/wrapper/PromotionPackageWrapperRemoteAsync.java" />
       <jump line="139" column="130" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-promotion/provider/src/main/java/com/qunar/hotel/qta/open/promotion/provider/service/wolf/PromotionPackageWrapperRemoteImpl.java" />
@@ -311,6 +313,12 @@
       <jump line="187" column="15" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
       <jump line="196" column="33" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/manager/activity/ActivityManagerImpl.java" />
       <jump line="34" column="32" filename="$USER_HOME$/IdeaProjects/qunar/prmt/open-coupon/coupon-biz/src/main/java/com/qunar/hotel/qta/coupon/biz/service/ActivityReadServiceImpl.java" />
+      <jump line="456" column="58" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/service/impl/SaleRsServiceImpl.java" />
+      <jump line="671" column="48" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/service/impl/SaleRsServiceImpl.java" />
+      <jump line="298" column="58" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/handler/CripRoomTypeHandler.java" />
+      <jump line="37" column="23" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/bean/CripHotelRoom.java" />
+      <jump line="165" column="87" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/handler/CripRoomTypeHandler.java" />
+      <jump line="454" column="36" filename="$USER_HOME$/IdeaProjects/qunar/ims/ims-admin/ims-core/src/main/java/com/qunar/hotel/ims/model/acauto/service/impl/SaleRsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="2">
